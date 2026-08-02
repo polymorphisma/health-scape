@@ -1,0 +1,159 @@
+{
+  "category": "Aged Care",
+  "data": [
+    {
+      "id": "1b5eb4171ac67875fca8b6af33d14a37",
+      "title": "Personal Care Assistant (CORINDA)",
+      "facility_name": "St Vincent's Care Services",
+      "category": "Aged Care",
+      "state": "QLD",
+      "city": "Corinda",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Personal-Care-Assistant-1b5eb4171ac67875fca8b6af33d14a37",
+      "raw_location": "Corinda QLD"
+    },
+    {
+      "id": "679ec971becfc9d84b6437b088dfc4d0",
+      "title": "Personal Care Worker",
+      "facility_name": "Infinite Care",
+      "category": "Aged Care",
+      "state": "SA",
+      "city": "Hahndorf",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Personal-Care-Worker-679ec971becfc9d84b6437b088dfc4d0",
+      "raw_location": "Hahndorf SA"
+    },
+    {
+      "id": "f24c97f18e76d067fb64fc43c7e6e911",
+      "title": "Aged Care Assistant in Nursing",
+      "facility_name": "Randstad",
+      "category": "Aged Care",
+      "state": "NSW",
+      "city": "Broulee",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Aged-Care-Assistant-in-Nursing-f24c97f18e76d067fb64fc43c7e6e911",
+      "raw_location": "Broulee NSW"
+    },
+    {
+      "id": "aca34fa33871321c4bebd28c1c3b1a69",
+      "title": "Care Services Worker - Care SA",
+      "facility_name": "RetireAustralia",
+      "category": "Aged Care",
+      "state": "SA",
+      "city": "Broadview",
+      "date_posted": "2026-03-16",
+      "url": "https://au.jora.com/job/Service-Worker-aca34fa33871321c4bebd28c1c3b1a69",
+      "raw_location": "Broadview SA"
+    },
+    {
+      "id": "9f1f91111ac046db4284821faa6475c7",
+      "title": "Care Services Employee",
+      "facility_name": "St Vincent's Care Services",
+      "category": "Aged Care",
+      "state": "NSW",
+      "city": "Auburn",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Care-Service-Employee-9f1f91111ac046db4284821faa6475c7",
+      "raw_location": "Auburn NSW"
+    },
+    {
+      "id": "8eb293ab211b01cf33bbe33b9305e3c6",
+      "title": "Personal Care Worker Aged Care Katherine",
+      "facility_name": "ARRCS Australian Regional and Remote Community Services",
+      "category": "Aged Care",
+      "state": "NT",
+      "city": "Katherine",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Personal-Care-Worker-8eb293ab211b01cf33bbe33b9305e3c6",
+      "raw_location": "Katherine NT"
+    },
+    {
+      "id": "25ccd7b17c1e3c6bf889e63488f292b7",
+      "title": "Residential Aged Carer",
+      "facility_name": "Goodwin Aged Care",
+      "category": "Aged Care",
+      "state": "ACT",
+      "city": "Farrer",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Residential-Aged-Carer-25ccd7b17c1e3c6bf889e63488f292b7",
+      "raw_location": "Farrer ACT"
+    },
+    {
+      "id": "0132b25a0452e747a2a5093eda0492ba",
+      "title": "Personal Care Worker",
+      "facility_name": "Torbay Lifestyles and Care Limit",
+      "category": "Aged Care",
+      "state": "QLD",
+      "city": "Hervey Bay",
+      "date_posted": "2026-03-16",
+      "url": "https://au.jora.com/job/Personal-Care-Worker-0132b25a0452e747a2a5093eda0492ba",
+      "raw_location": "Hervey Bay QLD"
+    },
+    {
+      "id": "2ff2fc51b4bb1e0bcb8fddcb8d15bb33",
+      "title": "Client Services Scheduler",
+      "facility_name": "Dovida",
+      "category": "Aged Care",
+      "state": "WA",
+      "city": "Mandurah",
+      "date_posted": "2026-03-06",
+      "url": "https://au.jora.com/job/Service-Scheduler-2ff2fc51b4bb1e0bcb8fddcb8d15bb33",
+      "raw_location": "Mandurah WA"
+    },
+    {
+      "id": "ff3d2cd4935546b6989f9564ddf45d5f",
+      "title": "Aged Care Support Worker - Mooloolaba",
+      "facility_name": "Drake International",
+      "category": "Aged Care",
+      "state": "QLD",
+      "city": "Mooloolaba",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Aged-Care-Support-Worker-ff3d2cd4935546b6989f9564ddf45d5f",
+      "raw_location": "Mooloolaba QLD"
+    },
+    {
+      "id": "0db284b34ac039f05aaf247ff8458e07",
+      "title": "Residential Care Officer",
+      "facility_name": "VA Recruitment",
+      "category": "Aged Care",
+      "state": "NSW",
+      "city": "Cabramatta",
+      "date_posted": "2026-02-17",
+      "url": "https://au.jora.com/job/Residential-Care-Officer-0db284b34ac039f05aaf247ff8458e07",
+      "raw_location": "Cabramatta NSW"
+    },
+    {
+      "id": "9a024dfa4604f70b93263d0d10a05c04",
+      "title": "Assistant in Nursing (AIN) - Aged Care",
+      "facility_name": "Caring For You",
+      "category": "Aged Care",
+      "state": "NSW",
+      "city": "Newcastle",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Assistant-in-Nursing-9a024dfa4604f70b93263d0d10a05c04",
+      "raw_location": "Newcastle NSW"
+    },
+    {
+      "id": "33a598ccbd42ac9b23c4d415cb3f4b0b",
+      "title": "Aged Care Support Worker",
+      "facility_name": "Homage Australia",
+      "category": "Aged Care",
+      "state": "VIC",
+      "city": "Melbourne",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Aged-Care-Support-Worker-33a598ccbd42ac9b23c4d415cb3f4b0b",
+      "raw_location": "Melbourne VIC"
+    },
+    {
+      "id": "7c23bc1c7fd8dfec676a657aa2ddffeb",
+      "title": "Personal Care Assistant",
+      "facility_name": "Regis",
+      "category": "Aged Care",
+      "state": "WA",
+      "city": "Stirling",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Personal-Care-Assistant-7c23bc1c7fd8dfec676a657aa2ddffeb",
+      "raw_location": "Stirling WA"
+    }
+  ]
+}

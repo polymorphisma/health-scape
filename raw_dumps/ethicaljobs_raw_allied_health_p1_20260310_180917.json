@@ -1,0 +1,305 @@
+{
+  "category": "Allied Health",
+  "data": [
+    {
+      "id": 552925,
+      "title": "Industrial Officer",
+      "organisationName": "Victorian Allied Health Professionals Association",
+      "location_name": "Melbourne",
+      "locality": "Carlton",
+      "state": "VIC",
+      "approvedAt": "2026-03-03",
+      "url": "https://www.ethicaljobs.com.au/members/VHPAHSU3/industrial-officer-1"
+    },
+    {
+      "id": 553534,
+      "title": "Allied Health Assistant",
+      "organisationName": "Safer Spaces",
+      "location_name": "Melbourne",
+      "locality": "Point Cook",
+      "state": "VIC",
+      "approvedAt": "2026-03-09",
+      "url": "https://www.ethicaljobs.com.au/members/SaferSpaces/allied-health-assistant-groups-support"
+    },
+    {
+      "id": 552422,
+      "title": "Massage Therapist",
+      "organisationName": "Penrith Women's Health Centre",
+      "location_name": "Sydney",
+      "locality": "Penrith",
+      "state": "NSW",
+      "approvedAt": "2026-02-26",
+      "url": "https://www.ethicaljobs.com.au/members/PWHC/massage-therapist-5"
+    },
+    {
+      "id": 551522,
+      "title": "Chief Practitioner",
+      "organisationName": "Department for Education, Children and Young People",
+      "location_name": "Hobart",
+      "locality": "Hobart",
+      "state": "TAS",
+      "approvedAt": "2026-02-19",
+      "url": "https://www.ethicaljobs.com.au/members/DoC_TAS/chief-practitioner-professional-practice"
+    },
+    {
+      "id": 550680,
+      "title": "Manager - Head To Health Kids",
+      "organisationName": "Central Australian Aboriginal Congress",
+      "location_name": "Regional NT",
+      "locality": "Alice Springs & Central Australia",
+      "state": "NT",
+      "approvedAt": "2026-02-11",
+      "url": "https://www.ethicaljobs.com.au/members/CongressHRTeam/manager-head-to-health-kids-alice-springs"
+    },
+    {
+      "id": 550675,
+      "title": "Manager - Child and Youth Assessment & Therapeutic Services",
+      "organisationName": "Central Australian Aboriginal Congress",
+      "location_name": "Regional NT",
+      "locality": "Alice Springs & Central Australia",
+      "state": "NT",
+      "approvedAt": "2026-02-11",
+      "url": "https://www.ethicaljobs.com.au/members/CongressHRTeam/manager-child-and-youth-assessment-therapeutic-services-alice-springs"
+    },
+    {
+      "id": 549274,
+      "title": "General Practitioner",
+      "organisationName": "Central Australian Aboriginal Congress",
+      "location_name": "Regional NT",
+      "locality": "Alice Springs & Central Australia",
+      "state": "NT",
+      "approvedAt": "2026-01-30",
+      "url": "https://www.ethicaljobs.com.au/members/CongressHRTeam/general-practitioner-alice-springs-4"
+    },
+    {
+      "id": 549276,
+      "title": "Deputy Medical Director",
+      "organisationName": "Central Australian Aboriginal Congress",
+      "location_name": "Regional NT",
+      "locality": "Alice Springs & Central Australia",
+      "state": "NT",
+      "approvedAt": "2026-01-30",
+      "url": "https://www.ethicaljobs.com.au/members/CongressHRTeam/deputy-medical-director-alice-springs-2"
+    },
+    {
+      "id": 552971,
+      "title": "Allied Health Scheduling Support Officer",
+      "organisationName": "cohealth",
+      "location_name": "Melbourne",
+      "locality": "Kensington",
+      "state": "VIC",
+      "approvedAt": "2026-03-04",
+      "url": "https://www.ethicaljobs.com.au/members/cohealth_BS/allied-health-scheduling-support-officer"
+    },
+    {
+      "id": 552159,
+      "title": "Finance Manager",
+      "organisationName": "Royal Rehab Group",
+      "location_name": "Sydney",
+      "locality": "Milsons Point",
+      "state": "NSW",
+      "approvedAt": "2026-02-25",
+      "url": "https://www.ethicaljobs.com.au/members/Royalrehab/finance-manager-allied-health"
+    },
+    {
+      "id": 551663,
+      "title": "Director - Allied Health & Community Services",
+      "organisationName": "Health Recruitment Specialists",
+      "location_name": "Regional VIC",
+      "locality": "Maryborough",
+      "state": "VIC",
+      "approvedAt": "2026-02-19",
+      "url": "https://www.ethicaljobs.com.au/members/hrs01/director-allied-health-community-services-maryborough-district-health-service"
+    },
+    {
+      "id": 552790,
+      "title": "Allied Health Therapist",
+      "organisationName": "Able to Play",
+      "location_name": "Sydney",
+      "locality": "Hunters Hill",
+      "state": "NSW",
+      "approvedAt": "2026-03-02",
+      "url": "https://www.ethicaljobs.com.au/members/AbletoPlay/allied-health-therapist"
+    },
+    {
+      "id": 552161,
+      "title": "Team Leader - Physio Allied Health",
+      "organisationName": "Royal Rehab Group",
+      "location_name": "Regional NSW",
+      "locality": "Dubbo",
+      "state": "NSW",
+      "approvedAt": "2026-02-25",
+      "url": "https://www.ethicaljobs.com.au/members/Royalrehab/team-leader-physio-allied-health-dubbo"
+    },
+    {
+      "id": 552103,
+      "title": "Physiotherapist",
+      "organisationName": "Allied Connect",
+      "location_name": "Regional QLD",
+      "locality": "Maroochydore",
+      "state": "QLD",
+      "approvedAt": "2026-02-24",
+      "url": "https://www.ethicaljobs.com.au/members/alliedconnect/physiotherapist-maroochydore-sunshine-coast"
+    },
+    {
+      "id": 553686,
+      "title": "Team Leaders x2",
+      "organisationName": "Omnia Community Health",
+      "location_name": "Melbourne",
+      "locality": "Sunbury",
+      "state": "VIC",
+      "approvedAt": "2026-03-10",
+      "url": "https://www.ethicaljobs.com.au/members/sch/team-leaders-x2-children-and-youth"
+    },
+    {
+      "id": 552885,
+      "title": "Senior Exercise Physiologist",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "Waverley",
+      "state": "NSW",
+      "approvedAt": "2026-03-03",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/senior-exercise-physiologist-seniors-gym"
+    },
+    {
+      "id": 549654,
+      "title": "Diabetes Educator",
+      "organisationName": "ATSICHS Mackay Ltd",
+      "location_name": "Regional QLD",
+      "locality": "Mackay & Coalfields",
+      "state": "QLD",
+      "approvedAt": "2026-02-03",
+      "url": "https://www.ethicaljobs.com.au/members/ATSICHSMackay/diabetes-educator-mackay"
+    },
+    {
+      "id": 553170,
+      "title": "Community Health Nurse - Paediatrics",
+      "organisationName": "Bendigo Community Health Services",
+      "location_name": "Regional VIC",
+      "locality": "Bendigo, Goldfields & Macedon Ranges",
+      "state": "VIC",
+      "approvedAt": "2026-03-05",
+      "url": "https://www.ethicaljobs.com.au/members/BendigoCHS/community-health-nurse-paediatrics-bendigo"
+    },
+    {
+      "id": 552921,
+      "title": "Early Education Program Assistant",
+      "organisationName": "Act for Kids",
+      "location_name": "Regional QLD",
+      "locality": "Townsville",
+      "state": "QLD",
+      "approvedAt": "2026-03-03",
+      "url": "https://www.ethicaljobs.com.au/members/actforkids/early-education-program-assistant-townsville-1"
+    },
+    {
+      "id": 553647,
+      "title": "Senior Intake Worker - Health Practitioner Level 2",
+      "organisationName": "Think Mental Health",
+      "location_name": "Canberra & ACT",
+      "locality": "Acton",
+      "state": "ACT",
+      "approvedAt": "2026-03-10",
+      "url": "https://www.ethicaljobs.com.au/members/HeadtoHealth/senior-intake-worker-health-practitioner-level-2-medicare-mental-health-centre"
+    },
+    {
+      "id": 553658,
+      "title": "Senior Clinician - Mobile Assessment and Treatment Team",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Canberra & ACT",
+      "locality": "Lyneham",
+      "state": "ACT",
+      "approvedAt": "2026-03-10",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/senior-clinician-mobile-assessment-and-treatment-team-headspace-early-psychosis-canberra"
+    },
+    {
+      "id": 553609,
+      "title": "Physiotherapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Sydney",
+      "locality": "North Shore & Northern Beaches Sydney",
+      "state": "NSW",
+      "approvedAt": "2026-03-10",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-northern-sydney-and-surrounds"
+    },
+    {
+      "id": 553611,
+      "title": "Administration Support Officer",
+      "organisationName": "Code Black Psychology",
+      "location_name": "Melbourne",
+      "locality": "Malvern",
+      "state": "VIC",
+      "approvedAt": "2026-03-10",
+      "url": "https://www.ethicaljobs.com.au/members/CodeBlack/administration-support-officer"
+    },
+    {
+      "id": 553614,
+      "title": "Occupational Therapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Sydney",
+      "locality": "Fairfield",
+      "state": "NSW",
+      "approvedAt": "2026-03-10",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/occupational-therapist-1"
+    },
+    {
+      "id": 553600,
+      "title": "Project Officer",
+      "organisationName": "National Aboriginal Community Controlled Health Organisation",
+      "location_name": "Canberra & ACT",
+      "locality": "Canberra & ACT",
+      "state": "ACT",
+      "approvedAt": "2026-03-10",
+      "url": "https://www.ethicaljobs.com.au/members/NACCHO/project-officer-immunisations"
+    },
+    {
+      "id": 553582,
+      "title": "Speech Pathologist",
+      "organisationName": "Learning Links",
+      "location_name": "Sydney",
+      "locality": "Peakhurst",
+      "state": "NSW",
+      "approvedAt": "2026-03-09",
+      "url": "https://www.ethicaljobs.com.au/members/Learnlinks/speech-pathologist-multiple-locations"
+    },
+    {
+      "id": 553580,
+      "title": "Forensic Clinicians",
+      "organisationName": "Department of Justice and Community Safety",
+      "location_name": "Melbourne",
+      "locality": "Melbourne",
+      "state": "VIC",
+      "approvedAt": "2026-03-09",
+      "url": "https://www.ethicaljobs.com.au/members/DJR_Recruitment2/forensic-clinicians-melbourne-geelong-4"
+    },
+    {
+      "id": 553569,
+      "title": "Nurse Practitioner - Mparntwe Urgent Care Clinic",
+      "organisationName": "Central Australian Aboriginal Congress",
+      "location_name": "Regional NT",
+      "locality": "Alice Springs",
+      "state": "NT",
+      "approvedAt": "2026-03-09",
+      "url": "https://www.ethicaljobs.com.au/members/CongressHRTeam/nurse-practitioner-mparntwe-urgent-care-clinic-alice-springs"
+    },
+    {
+      "id": 553563,
+      "title": "Cancer Council Navigators x2",
+      "organisationName": "Cancer Council NSW",
+      "location_name": "Sydney",
+      "locality": "Woolloomooloo",
+      "state": "NSW",
+      "approvedAt": "2026-03-09",
+      "url": "https://www.ethicaljobs.com.au/members/CCNSW/cancer-council-navigators-x2"
+    },
+    {
+      "id": 553537,
+      "title": "Family Support Practitioner",
+      "organisationName": "Act for Kids",
+      "location_name": "Regional QLD",
+      "locality": "Maryborough",
+      "state": "QLD",
+      "approvedAt": "2026-03-09",
+      "url": "https://www.ethicaljobs.com.au/members/actforkids/family-support-practitioner-maryborough-4"
+    }
+  ]
+}

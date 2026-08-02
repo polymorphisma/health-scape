@@ -1,0 +1,1791 @@
+{
+  "data": [
+    {
+      "advertiser": {
+        "id": "22993381",
+        "description": "Superior Care Group"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/3180406a-66af-9bfa-960d-b64a9f8aec59.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6339",
+            "description": "Nursing - Aged Care"
+          }
+        }
+      ],
+      "companyName": "Superior Care Group",
+      "companyProfileStructuredDataId": 315826,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "promoted",
+      "employer": {
+        "id": "315826",
+        "name": "Superior Care Group"
+      },
+      "id": "90861179",
+      "isFeatured": true,
+      "listingDate": "2026-03-11T02:54:01Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Wellington Point, Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Wellington Point QLD 4160"
+            },
+            {
+              "contextualName": "All Brisbane QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "assistant-in-nursing",
+      "salaryLabel": "$35.37 – $36.94 per hour",
+      "solMetadata": {
+        "searchRequestToken": "29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "token": "0~29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "jobId": "90861179",
+        "section": "MAIN",
+        "sectionRank": 21,
+        "jobAdType": "SPONSORED",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Part-time and Casual AIN role available in a supportive aged care facility. Competitive pay, ongoing training, and wellness benefits.",
+      "title": "Assistant In Nursing (AIN) Medication Competency",
+      "tracking": "ewogICJ0b2tlbiI6ICIzOTc0NDFkZS0zODVlLTRiYmYtODM5OS1mMjJjMWQxZGFlYWRfMSIKfQ==",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "400462166",
+        "description": "TasRespite and Support"
+      },
+      "bulletPoints": [
+        "Flexibility and Work-Life Balance is our guarantee",
+        "Predictable Rostering",
+        "Supportive Team Culture"
+      ],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "TasRespite and Support",
+      "companyProfileStructuredDataId": 3271950,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "promoted",
+      "employer": {
+        "id": "3271950",
+        "name": "TasRespite and Support"
+      },
+      "id": "90825847",
+      "isFeatured": true,
+      "listingDate": "2026-03-10T00:04:42Z",
+      "listingDateDisplay": "2d ago",
+      "locations": [
+        {
+          "label": "Hobart TAS",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Hobart TAS"
+            },
+            {
+              "contextualName": "Tasmania TAS"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$30 – $36 per hour",
+      "solMetadata": {
+        "searchRequestToken": "29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "token": "0~29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "jobId": "90825847",
+        "section": "MAIN",
+        "sectionRank": 22,
+        "jobAdType": "SPONSORED",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Whether you’re looking to start a meaningful career or take your experience to new heights: Join us, and let’s make a difference together.",
+      "title": "Disability Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICIzOTc0NDFkZS0zODVlLTRiYmYtODM5OS1mMjJjMWQxZGFlYWRfMiIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "2",
+            "label": {
+              "text": "Hybrid"
+            }
+          }
+        ],
+        "displayText": "Hybrid"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "24447648",
+        "description": "St Luke's Care"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/9e429e8b-7d8e-1fa2-60cf-fd4351009130.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6339",
+            "description": "Nursing - Aged Care"
+          }
+        }
+      ],
+      "companyName": "St Luke's Care",
+      "companyProfileStructuredDataId": 19445,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "19445",
+        "name": "St Luke's Care",
+        "companyId": "814627",
+        "companyUrl": "https://www.seek.com.au/companies/st-lukes-care-814627"
+      },
+      "id": "90883745",
+      "isFeatured": false,
+      "listingDate": "2026-03-12T00:40:48Z",
+      "listingDateDisplay": "7h ago",
+      "locations": [
+        {
+          "label": "Potts Point, Sydney NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Potts Point NSW 2011"
+            },
+            {
+              "contextualName": "All Sydney NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "assistant-in-nursing",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "token": "0~29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "jobId": "90883745",
+        "section": "MAIN",
+        "sectionRank": 23,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "St Luke's is seeking night shift Assistant in Nursing to join our passionate nursing team at our Aged Care facility - Lulworth House.",
+      "title": "Assistant in Nursing - Night Shifts",
+      "tracking": "ewogICJ0b2tlbiI6ICIzOTc0NDFkZS0zODVlLTRiYmYtODM5OS1mMjJjMWQxZGFlYWRfMyIKfQ==",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "61531212",
+        "description": "Nurse Next Door Townsville"
+      },
+      "bulletPoints": [
+        "Encouraging and Supportive team environment!",
+        "Training and 24/7 Support Network.",
+        "Award winning culture centered on Making Lives Better for our clients."
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/863932f7-ac72-49a9-9495-8da65c61315a.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Nurse Next Door",
+      "companyProfileStructuredDataId": 529399,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "529399",
+        "name": "Nurse Next Door",
+        "companyId": "163460828642930",
+        "companyUrl": "https://www.seek.com.au/companies/nurse-next-door-163460828642930"
+      },
+      "id": "90866030",
+      "isFeatured": false,
+      "listingDate": "2026-03-11T04:57:28Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Townsville, Northern QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Townsville QLD 4810"
+            },
+            {
+              "contextualName": "Northern QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "personal-care-assistant",
+      "salaryLabel": "$35 – $43 per hour + Penalties",
+      "solMetadata": {
+        "searchRequestToken": "29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "token": "0~29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "jobId": "90866030",
+        "section": "MAIN",
+        "sectionRank": 24,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Nurse Next Door Townsville is Currently expanding our Care Team to continue providing Premium Service to our clients.",
+      "title": "Caregiver / Support Worker / Personal Care Assistant / AIN",
+      "tracking": "ewogICJ0b2tlbiI6ICIzOTc0NDFkZS0zODVlLTRiYmYtODM5OS1mMjJjMWQxZGFlYWRfNCIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "29907843",
+        "description": "Baptcare"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/567ab098-c41a-4082-bd73-5739597cfd8d.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Baptcare",
+      "companyProfileStructuredDataId": 3809,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "3809",
+        "name": "Baptcare",
+        "companyId": "434578",
+        "companyUrl": "https://www.seek.com.au/companies/baptcare-434578"
+      },
+      "id": "90855398",
+      "isFeatured": false,
+      "listingDate": "2026-03-11T00:25:20Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Devonport, Devonport & North West TAS",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Devonport TAS 7310"
+            },
+            {
+              "contextualName": "Devonport & North West TAS"
+            }
+          ]
+        }
+      ],
+      "roleId": "personal-care-worker",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "token": "0~29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "jobId": "90855398",
+        "section": "MAIN",
+        "sectionRank": 25,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Become a part of 2022 Australian Financial Review's Best Places to Work and access Salary Packaging benefits up to $18,550 per financial year!",
+      "title": "Personal Care Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICIzOTc0NDFkZS0zODVlLTRiYmYtODM5OS1mMjJjMWQxZGFlYWRfNSIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "25953256",
+        "description": "Uniting NSW & ACT"
+      },
+      "bulletPoints": [
+        "Penrith Location",
+        "Up to $35.98 p/h + casual loading + super",
+        "Support residents with daily living, mobility and activities"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/916289dc-f346-f68d-2e1a-31d473b2e5fd.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6339",
+            "description": "Nursing - Aged Care"
+          }
+        }
+      ],
+      "companyName": "Uniting NSW & ACT",
+      "companyProfileStructuredDataId": 346555,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "346555",
+        "name": "Uniting NSW & ACT",
+        "companyId": "1007251",
+        "companyUrl": "https://www.seek.com.au/companies/uniting-nsw-n-act-1007251"
+      },
+      "id": "90894056",
+      "isFeatured": false,
+      "listingDate": "2026-03-12T05:01:03Z",
+      "listingDateDisplay": "3h ago",
+      "locations": [
+        {
+          "label": "Penrith, Sydney NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Penrith NSW 2750"
+            },
+            {
+              "contextualName": "All Sydney NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "careworker",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "token": "0~29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "jobId": "90894056",
+        "section": "MAIN",
+        "sectionRank": 26,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "• Penrith location • Up to $35.98 p/h + casual loading + super • Provide personal care and emotional support",
+      "title": "Service Delivery - Care Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICIzOTc0NDFkZS0zODVlLTRiYmYtODM5OS1mMjJjMWQxZGFlYWRfNiIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "19455467",
+        "description": "HenderCare"
+      },
+      "bulletPoints": [
+        "Competitive payrates",
+        "Consistent hours",
+        "Local regional work"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/3764868a-7dcf-4831-a0c6-3f0ac9e84b9b.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Hendercare",
+      "companyProfileStructuredDataId": 180,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "180",
+        "name": "Hendercare"
+      },
+      "id": "90888871",
+      "isFeatured": false,
+      "listingDate": "2026-03-12T02:56:10Z",
+      "listingDateDisplay": "5h ago",
+      "locations": [
+        {
+          "label": "Adelaide SA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Adelaide SA"
+            },
+            {
+              "contextualName": "South Australia SA"
+            }
+          ]
+        }
+      ],
+      "roleId": "personal-care-worker",
+      "salaryLabel": "$35 – $43 per hour",
+      "solMetadata": {
+        "searchRequestToken": "29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "token": "0~29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "jobId": "90888871",
+        "section": "MAIN",
+        "sectionRank": 27,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Provide personal care support to service recipients in their home.",
+      "title": "Personal Care Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICIzOTc0NDFkZS0zODVlLTRiYmYtODM5OS1mMjJjMWQxZGFlYWRfNyIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "22993381",
+        "description": "Superior Care Group"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/3180406a-66af-9bfa-960d-b64a9f8aec59.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6339",
+            "description": "Nursing - Aged Care"
+          }
+        }
+      ],
+      "companyName": "Superior Care Group",
+      "companyProfileStructuredDataId": 315826,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "315826",
+        "name": "Superior Care Group"
+      },
+      "id": "90861179",
+      "isFeatured": false,
+      "listingDate": "2026-03-11T02:54:01Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Wellington Point, Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Wellington Point QLD 4160"
+            },
+            {
+              "contextualName": "All Brisbane QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "assistant-in-nursing",
+      "salaryLabel": "$35.37 – $36.94 per hour",
+      "solMetadata": {
+        "searchRequestToken": "29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "token": "0~29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "jobId": "90861179",
+        "section": "MAIN",
+        "sectionRank": 28,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Part-time and Casual AIN role available in a supportive aged care facility. Competitive pay, ongoing training, and wellness benefits.",
+      "title": "Assistant In Nursing (AIN) Medication Competency",
+      "tracking": "ewogICJ0b2tlbiI6ICIzOTc0NDFkZS0zODVlLTRiYmYtODM5OS1mMjJjMWQxZGFlYWRfOCIKfQ==",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "22874074",
+        "description": "Advantaged Care"
+      },
+      "bulletPoints": [
+        "Must have good availability",
+        "Age Care Experience essential",
+        "5 locations looking for care staff"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/37f0638b-28fd-4fd7-bd69-302554e169f5.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6339",
+            "description": "Nursing - Aged Care"
+          }
+        }
+      ],
+      "companyName": "Advantaged Care",
+      "companyProfileStructuredDataId": 347095,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "347095",
+        "name": "Advantaged Care",
+        "companyId": "1023587",
+        "companyUrl": "https://www.seek.com.au/companies/advantaged-care-1023587"
+      },
+      "id": "90867116",
+      "isFeatured": false,
+      "listingDate": "2026-03-11T05:30:41Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Georges Hall, Sydney NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Georges Hall NSW 2198"
+            },
+            {
+              "contextualName": "All Sydney NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "aged-care-worker",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "token": "0~29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "jobId": "90867116",
+        "section": "MAIN",
+        "sectionRank": 29,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Exciting opportunities for experienced Care Service Companions to join our Advantaged Care Family",
+      "title": "Carer in Aged care",
+      "tracking": "ewogICJ0b2tlbiI6ICIzOTc0NDFkZS0zODVlLTRiYmYtODM5OS1mMjJjMWQxZGFlYWRfOSIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "20282979",
+        "description": "Benetas"
+      },
+      "bulletPoints": [
+        "Join a leading not for profit aged care organisation in Victoria",
+        "Latrobe region | work life balance, opportunities to be flexible",
+        "Casual loading + paid travel time + paid training hours"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/e17725af-ff2f-4465-b1ca-0864b79c9f80.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Benetas",
+      "companyProfileStructuredDataId": 878,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "878",
+        "name": "Benetas",
+        "companyId": "434400",
+        "companyUrl": "https://www.seek.com.au/companies/benetas-434400"
+      },
+      "id": "90862643",
+      "isFeatured": false,
+      "listingDate": "2026-03-11T03:27:16Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Traralgon, West Gippsland & Latrobe Valley VIC",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Traralgon VIC 3844"
+            },
+            {
+              "contextualName": "West Gippsland & Latrobe Valley VIC"
+            }
+          ]
+        }
+      ],
+      "roleId": "personal-care-worker",
+      "salaryLabel": "$42.50 per hour inc casual loading",
+      "solMetadata": {
+        "searchRequestToken": "29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "token": "0~29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "jobId": "90862643",
+        "section": "MAIN",
+        "sectionRank": 30,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Seeking compassionate people to provide one on one care and support to aged care clients within their homes. Enhance their lives & make a difference!",
+      "title": "Personal Care Worker - Casual",
+      "tracking": "ewogICJ0b2tlbiI6ICIzOTc0NDFkZS0zODVlLTRiYmYtODM5OS1mMjJjMWQxZGFlYWRfMTAiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "28872945",
+        "description": "Beaumont Care Pty Ltd"
+      },
+      "bulletPoints": [
+        "Competitive remuneration",
+        "A family friendly organisation",
+        "EAP for staff and their families"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/b0253f05-da22-ef1b-f3bd-1ee725fdcf64.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Beaumont Care",
+      "companyProfileStructuredDataId": 218461,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "218461",
+        "name": "Beaumont Care",
+        "companyId": "888895",
+        "companyUrl": "https://www.seek.com.au/companies/beaumont-care-888895"
+      },
+      "id": "90886340",
+      "isFeatured": false,
+      "listingDate": "2026-03-12T01:59:42Z",
+      "listingDateDisplay": "6h ago",
+      "locations": [
+        {
+          "label": "Wamuran, Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Wamuran QLD 4512"
+            },
+            {
+              "contextualName": "All Brisbane QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "aged-care-worker",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "token": "0~29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "jobId": "90886340",
+        "section": "MAIN",
+        "sectionRank": 31,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Permanent part time shifts available at residential aged care service north west of Caboolture",
+      "title": "Direct Carer - Aged Care",
+      "tracking": "ewogICJ0b2tlbiI6ICIzOTc0NDFkZS0zODVlLTRiYmYtODM5OS1mMjJjMWQxZGFlYWRfMTEiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "62723034",
+        "description": "MyCare Talent"
+      },
+      "bulletPoints": [
+        "Competitive pay rates",
+        "Local work",
+        "24/7 consultant support"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/88b888c8-ca4c-4ee0-9f6b-6b4b21333f4e.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6339",
+            "description": "Nursing - Aged Care"
+          }
+        }
+      ],
+      "companyName": "MyCare Talent",
+      "companyProfileStructuredDataId": 743198,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "743198",
+        "name": "MyCare Talent"
+      },
+      "id": "90888574",
+      "isFeatured": false,
+      "listingDate": "2026-03-12T02:50:11Z",
+      "listingDateDisplay": "5h ago",
+      "locations": [
+        {
+          "label": "Sydney NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Sydney NSW"
+            },
+            {
+              "contextualName": "New South Wales NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "personal-care-assistant",
+      "salaryLabel": "$43 – $65 per hour",
+      "solMetadata": {
+        "searchRequestToken": "29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "token": "0~29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "jobId": "90888574",
+        "section": "MAIN",
+        "sectionRank": 32,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "MyCare Talent is seeking experienced Personal Care Assistants (PCAs) to join their casual workforce supporting aged care facilities and hospitals",
+      "title": "Personal Care Assistant (PCA) - Local Shifts - Aged Care & Hospital",
+      "tracking": "ewogICJ0b2tlbiI6ICIzOTc0NDFkZS0zODVlLTRiYmYtODM5OS1mMjJjMWQxZGFlYWRfMTIiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "61952462",
+        "description": "Bolton Clarke"
+      },
+      "bulletPoints": [
+        "Covering AM PM Night shifts at Denham Court at Willowdale Aged Care",
+        "Attractive NFP salary packaging & tax benefits + Range of employee benefits",
+        "Join one of Australia's largest aged care providers!"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/b972f64e-e1ec-4b15-9c78-c97844aab29c.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Bolton Clarke",
+      "companyProfileStructuredDataId": 4448,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "4448",
+        "name": "Bolton Clarke",
+        "companyId": "432781",
+        "companyUrl": "https://www.seek.com.au/companies/bolton-clarke-432781"
+      },
+      "id": "90860414",
+      "isFeatured": false,
+      "listingDate": "2026-03-11T02:35:41Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Denham Court, Sydney NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Denham Court NSW 2565"
+            },
+            {
+              "contextualName": "All Sydney NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "personal-care-worker",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "token": "0~29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "jobId": "90860414",
+        "section": "MAIN",
+        "sectionRank": 33,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Bolton Clarke is Australia’s largest independent, not-for-profit aged care provider shaping the future of positive ageing. With RSL Queensland and",
+      "title": "Personal Care Worker - Casual",
+      "tracking": "ewogICJ0b2tlbiI6ICIzOTc0NDFkZS0zODVlLTRiYmYtODM5OS1mMjJjMWQxZGFlYWRfMTMiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "39325409",
+        "description": "The Salvation Army"
+      },
+      "bulletPoints": [
+        "Enjoy Work-Life Balance with Extended Annual Leave",
+        "Above Award Wages + Super + Shift Allowances + Not for profit tax benefits",
+        "Supportive & Inclusive team environment"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/3dfd82bd-4636-e22f-e163-35f9ff412e66.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6339",
+            "description": "Nursing - Aged Care"
+          }
+        }
+      ],
+      "companyName": "The Salvation Army",
+      "companyProfileStructuredDataId": 4823,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "4823",
+        "name": "The Salvation Army",
+        "companyId": "432382",
+        "companyUrl": "https://www.seek.com.au/companies/the-salvation-army-432382"
+      },
+      "id": "90889057",
+      "isFeatured": false,
+      "listingDate": "2026-03-12T03:00:18Z",
+      "listingDateDisplay": "5h ago",
+      "locations": [
+        {
+          "label": "Goulburn, Southern Highlands & Tablelands NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Goulburn NSW 2580"
+            },
+            {
+              "contextualName": "Southern Highlands & Tablelands NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "care-service-employee",
+      "salaryLabel": "Plus Not For Profit Salary Packaging",
+      "solMetadata": {
+        "searchRequestToken": "29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "token": "0~29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "jobId": "90889057",
+        "section": "MAIN",
+        "sectionRank": 34,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Embark on a journey - Caring for others is a calling. Utilise your warm & caring approach to make a meaningful difference to the lives of older people",
+      "title": "Care Service Employee",
+      "tracking": "ewogICJ0b2tlbiI6ICIzOTc0NDFkZS0zODVlLTRiYmYtODM5OS1mMjJjMWQxZGFlYWRfMTQiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "28872945",
+        "description": "Beaumont Care Pty Ltd"
+      },
+      "bulletPoints": [
+        "Competitive wages",
+        "Generous EAP to support you and your family's emotional wellbeing",
+        "Opportunities for growth"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/b0253f05-da22-ef1b-f3bd-1ee725fdcf64.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Beaumont Care",
+      "companyProfileStructuredDataId": 218461,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "218461",
+        "name": "Beaumont Care",
+        "companyId": "888895",
+        "companyUrl": "https://www.seek.com.au/companies/beaumont-care-888895"
+      },
+      "id": "90885808",
+      "isFeatured": false,
+      "listingDate": "2026-03-12T01:45:31Z",
+      "listingDateDisplay": "6h ago",
+      "locations": [
+        {
+          "label": "Wamuran, Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Wamuran QLD 4512"
+            },
+            {
+              "contextualName": "All Brisbane QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "catering-staff",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "token": "0~29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "jobId": "90885808",
+        "section": "MAIN",
+        "sectionRank": 35,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Enjoy working as a Hotel Services staff member, working in a residential aged care service in Wamuran.",
+      "title": "Aged Care Support Staff (Catering, Laundry and Cleaning)",
+      "tracking": "ewogICJ0b2tlbiI6ICIzOTc0NDFkZS0zODVlLTRiYmYtODM5OS1mMjJjMWQxZGFlYWRfMTUiCn0=",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "31450026",
+        "description": "Respect Group Limited"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/437ba329-0ce2-4b82-9ba2-dae1e4538434.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6339",
+            "description": "Nursing - Aged Care"
+          }
+        }
+      ],
+      "companyName": "Respect Group Limited",
+      "companyProfileStructuredDataId": 407503,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "407503",
+        "name": "Respect Group Limited",
+        "companyId": "158933825873602",
+        "companyUrl": "https://www.seek.com.au/companies/respect-group-limited-158933825873602"
+      },
+      "id": "90894230",
+      "isFeatured": false,
+      "listingDate": "2026-03-12T05:05:49Z",
+      "listingDateDisplay": "3h ago",
+      "locations": [
+        {
+          "label": "Toogoolawah, Somerset & Lockyer QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Toogoolawah QLD 4313"
+            },
+            {
+              "contextualName": "Somerset & Lockyer QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "care-assistant",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "token": "0~29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "jobId": "90894230",
+        "section": "MAIN",
+        "sectionRank": 36,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Part Time Social Care Assistant needed at Toogoolawah Alkira. Support resident activities and social programs in a welcoming aged care team.",
+      "title": "Social Care Assistant",
+      "tracking": "ewogICJ0b2tlbiI6ICIzOTc0NDFkZS0zODVlLTRiYmYtODM5OS1mMjJjMWQxZGFlYWRfMTYiCn0=",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "19361841",
+        "description": "BlueCare"
+      },
+      "bulletPoints": [
+        "(Limited) Permanent and casual opportunities available",
+        "Good culture and supportive team environment",
+        "NFP salary packaging + entertainment & meals card totalling $18,550 per year"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/95a178df-8aa1-4ebd-bc45-b3996decb15a.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "BlueCare",
+      "companyProfileStructuredDataId": 1182,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "1182",
+        "name": "BlueCare",
+        "companyId": "432544",
+        "companyUrl": "https://www.seek.com.au/companies/bluecare-432544"
+      },
+      "id": "90836806",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T04:44:31Z",
+      "listingDateDisplay": "2d ago",
+      "locations": [
+        {
+          "label": "Labrador, Gold Coast QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Labrador QLD 4215"
+            },
+            {
+              "contextualName": "All Gold Coast QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "personal-carer",
+      "salaryLabel": "$36.32 per hours + 25% casual loading ($45.40)",
+      "solMetadata": {
+        "searchRequestToken": "29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "token": "0~29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "jobId": "90836806",
+        "section": "MAIN",
+        "sectionRank": 37,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Personal Carers and AIN's needed to deliver outstanding care to our residents at our Labrador Gardens Aged Care Facilities.",
+      "title": "Personal Carer",
+      "tracking": "ewogICJ0b2tlbiI6ICIzOTc0NDFkZS0zODVlLTRiYmYtODM5OS1mMjJjMWQxZGFlYWRfMTciCn0=",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "27143745",
+        "description": "Capecare"
+      },
+      "bulletPoints": [
+        "Community-focused and values-driven organisation.",
+        "Availability to work flexible hours.",
+        "Access to salary packaging – up to $15,899 tax free a year!"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/d2821276-019e-46d4-b3fa-69f3457e2275.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Capecare",
+      "companyProfileStructuredDataId": 20076,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "20076",
+        "name": "Capecare",
+        "companyId": "816626",
+        "companyUrl": "https://www.seek.com.au/companies/capecare-816626"
+      },
+      "id": "90839732",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T06:12:02Z",
+      "listingDateDisplay": "2d ago",
+      "locations": [
+        {
+          "label": "Busselton, Bunbury & South West WA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Busselton WA 6280"
+            },
+            {
+              "contextualName": "Bunbury & South West WA"
+            }
+          ]
+        }
+      ],
+      "roleId": "community-support-worker",
+      "salaryLabel": "$33 – $36 per hour",
+      "solMetadata": {
+        "searchRequestToken": "29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "token": "0~29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "jobId": "90839732",
+        "section": "MAIN",
+        "sectionRank": 38,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Flexible rosters for motivated Community Support Workers to join Capecares' growing Community Home Care Team. Make a difference to people's lives!",
+      "title": "Support Worker - Community",
+      "tracking": "ewogICJ0b2tlbiI6ICIzOTc0NDFkZS0zODVlLTRiYmYtODM5OS1mMjJjMWQxZGFlYWRfMTgiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "21773061",
+        "description": "IRT Group"
+      },
+      "bulletPoints": [
+        "Hourly Rate: $31.13 - $35.97 + 12% superannuation + salary packaging",
+        "Not-For-Profit Salary Packaging - more money in your pocket (less tax)",
+        "Birthday Leave - relax and take the day off on us!"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/0f78450c-a35f-d64a-b2bf-09fc6273297a.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "IRT Group",
+      "companyProfileStructuredDataId": 2919,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "2919",
+        "name": "IRT Group",
+        "companyId": "436383",
+        "companyUrl": "https://www.seek.com.au/companies/irt-group-436383"
+      },
+      "id": "90881903",
+      "isFeatured": false,
+      "listingDate": "2026-03-11T23:05:07Z",
+      "listingDateDisplay": "9h ago",
+      "locations": [
+        {
+          "label": "Culburra Beach, Wollongong, Illawarra & South Coast NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Culburra Beach NSW 2540"
+            },
+            {
+              "contextualName": "Wollongong, Illawarra & South Coast NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "aged-care-worker",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "token": "0~29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "jobId": "90881903",
+        "section": "MAIN",
+        "sectionRank": 39,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Ready for a new opportunity? Join as a Wellbeing Service & make a difference in the lives of our residents. Apply today and work at IRT Culburra Beach",
+      "title": "Aged Care Employee: Wellbeing Services - IRT Culburra",
+      "tracking": "ewogICJ0b2tlbiI6ICIzOTc0NDFkZS0zODVlLTRiYmYtODM5OS1mMjJjMWQxZGFlYWRfMTkiCn0=",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "31450026",
+        "description": "Respect Group Limited"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/2ffaba57-6288-9752-9d47-a7af04b84573.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Respect Group Limited",
+      "companyProfileStructuredDataId": 407503,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "407503",
+        "name": "Respect Group Limited",
+        "companyId": "158933825873602",
+        "companyUrl": "https://www.seek.com.au/companies/respect-group-limited-158933825873602"
+      },
+      "id": "90830152",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T02:13:25Z",
+      "listingDateDisplay": "2d ago",
+      "locations": [
+        {
+          "label": "Alonnah, Hobart TAS",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Alonnah TAS 7150"
+            },
+            {
+              "contextualName": "All Hobart TAS"
+            }
+          ]
+        }
+      ],
+      "roleId": "Home-Care-Assistant",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "token": "0~29d062dc-6539-4467-8a64-d5b4d26a518d",
+        "jobId": "90830152",
+        "section": "MAIN",
+        "sectionRank": 40,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Casual Home Care Assistant role at Respect supports the delivery of person-centred in-home care within the local community",
+      "title": "Home Care Assistant - Bruny Island Tasmania",
+      "tracking": "ewogICJ0b2tlbiI6ICIzOTc0NDFkZS0zODVlLTRiYmYtODM5OS1mMjJjMWQxZGFlYWRfMjAiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "totalCount": 14279,
+  "info": {
+    "timeTaken": 159,
+    "source": "JobSearch-sm",
+    "experiment": "mordor_841",
+    "newSince": 1773303638
+  },
+  "userQueryId": "API6946067119908939114",
+  "location": {
+    "description": "All Australia",
+    "locationDescription": "",
+    "type": "Country",
+    "whereId": "3000",
+    "localisedDescriptions": {
+      "en": {
+        "contextualName": "All Australia"
+      },
+      "id": {
+        "contextualName": "Australia"
+      },
+      "th": {
+        "contextualName": "ออสเตรเลีย"
+      },
+      "zh-Hant": {
+        "contextualName": "澳洲"
+      }
+    },
+    "isGranular": false,
+    "defaultDistanceKms": 50
+  },
+  "sortModes": [
+    {
+      "isActive": true,
+      "name": "Relevance",
+      "value": "KeywordRelevance"
+    },
+    {
+      "isActive": false,
+      "name": "Date",
+      "value": "ListedDate"
+    }
+  ],
+  "solMetadata": {
+    "requestToken": "29d062dc-6539-4467-8a64-d5b4d26a518d",
+    "token": "0~29d062dc-6539-4467-8a64-d5b4d26a518d",
+    "keywords": "aged care",
+    "sortMode": "RELEVANCE",
+    "locations": [
+      "All Australia",
+      "seek-3000"
+    ],
+    "locationDistance": 50,
+    "pageSize": 20,
+    "pageNumber": 2,
+    "totalJobCount": 14279,
+    "tags": {
+      "mordor:searchMarket": "UNIFIED_AU",
+      "mordor:result_count_rst": "11917",
+      "mordor:result_count_vec": "108",
+      "mordor:rt": "151",
+      "mordor:count_vec": "108",
+      "mordor__flights": "mordor_841",
+      "mordor:count_rst": "11917",
+      "mordor:count_ir": "2254",
+      "mordor:result_count_ir": "2254"
+    }
+  },
+  "facets": {},
+  "searchParams": {
+    "sitekey": "AU-Main",
+    "sourcesystem": "houston",
+    "where": "All Australia",
+    "page": "2",
+    "seekselectallpages": "true",
+    "keywords": "aged care",
+    "include": "seodata",
+    "locale": "en-AU"
+  }
+}

@@ -1,0 +1,1681 @@
+{
+  "data": [
+    {
+      "advertiser": {
+        "id": "61127361",
+        "description": "Bountiful Care"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/3a2456cc-1c30-451e-8496-9cf04feb7145.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Bountiful Care",
+      "companyProfileStructuredDataId": 3031465,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "promoted",
+      "employer": {
+        "id": "3031465",
+        "name": "Bountiful Care"
+      },
+      "id": "90855527",
+      "isFeatured": true,
+      "listingDate": "2026-03-11T00:38:18Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Brisbane QLD"
+            },
+            {
+              "contextualName": "Queensland QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$42 – $88 per hour",
+      "solMetadata": {
+        "searchRequestToken": "0e5d138e-7ade-49a6-8305-93abe6584836",
+        "token": "0~0e5d138e-7ade-49a6-8305-93abe6584836",
+        "jobId": "90855527",
+        "section": "MAIN",
+        "sectionRank": 41,
+        "jobAdType": "SPONSORED",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Work within a clinically led organisation with ongoing training & support.",
+      "title": "Disability Support Worker - Brisbane and Ipswich (Multiple Locations)",
+      "tracking": "ewogICJ0b2tlbiI6ICJmM2M0MTRmZi1kYWUwLTQ3NDYtOWM0NC1hMGFlNTk0ZjUzYmFfMSIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "63159890",
+        "description": "Qualita Care & Support"
+      },
+      "bulletPoints": [
+        "Employment Assistance Program",
+        "Supportive Team Culture & Ongoing Training",
+        "Flexibility and Stability You Can Count On"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/d8b16c0a-827a-4598-822c-a4a7f0cc6e05.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Qualita Care & Support",
+      "companyProfileStructuredDataId": 3049071,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "promoted",
+      "employer": {
+        "id": "3049071",
+        "name": "Qualita Care & Support"
+      },
+      "id": "90893837",
+      "isFeatured": true,
+      "listingDate": "2026-03-12T04:54:03Z",
+      "listingDateDisplay": "3h ago",
+      "locations": [
+        {
+          "label": "Perth WA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Perth WA"
+            },
+            {
+              "contextualName": "Western Australia WA"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$35.15 – $43.23 per hour",
+      "solMetadata": {
+        "searchRequestToken": "0e5d138e-7ade-49a6-8305-93abe6584836",
+        "token": "0~0e5d138e-7ade-49a6-8305-93abe6584836",
+        "jobId": "90893837",
+        "section": "MAIN",
+        "sectionRank": 42,
+        "jobAdType": "SPONSORED",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Empower individuals with complex disabilities to live independently. Rewarding role with competitive pay and benefits.",
+      "title": "Disability Support Worker - Community Access (Female Only)",
+      "tracking": "ewogICJ0b2tlbiI6ICJmM2M0MTRmZi1kYWUwLTQ3NDYtOWM0NC1hMGFlNTk0ZjUzYmFfMiIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "37127395",
+        "description": "My Supports"
+      },
+      "bulletPoints": [
+        "Earn above-award rates, even if shifts are cancelled last-minute.",
+        "Flexible hours with support for work-life balance.",
+        "Advance your career with ongoing training and development."
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/8438c82b-1db9-4f2a-964d-2212b8441ddc.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "My Supports",
+      "companyProfileStructuredDataId": 712390,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "712390",
+        "name": "My Supports"
+      },
+      "id": "90862487",
+      "isFeatured": false,
+      "listingDate": "2026-03-11T03:23:49Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Busselton, Bunbury & South West WA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Busselton WA 6280"
+            },
+            {
+              "contextualName": "Bunbury & South West WA"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$36 – $40.36 per hour",
+      "solMetadata": {
+        "searchRequestToken": "0e5d138e-7ade-49a6-8305-93abe6584836",
+        "token": "0~0e5d138e-7ade-49a6-8305-93abe6584836",
+        "jobId": "90862487",
+        "section": "MAIN",
+        "sectionRank": 43,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Join My Supports to make a real impact in your community, work flexible hours, and grow in a supportive, dynamic environment.",
+      "title": "Disability Support Worker - Make a Difference in Your Community",
+      "tracking": "ewogICJ0b2tlbiI6ICJmM2M0MTRmZi1kYWUwLTQ3NDYtOWM0NC1hMGFlNTk0ZjUzYmFfMyIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "62363191",
+        "description": "Hand & Home Disability Services"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Hand & Home Disability Services",
+      "companyProfileStructuredDataId": 3242252,
+      "displayType": "standard",
+      "employer": {
+        "id": "3242252",
+        "name": "Hand & Home Disability Services"
+      },
+      "id": "90891209",
+      "isFeatured": false,
+      "listingDate": "2026-03-12T03:48:48Z",
+      "listingDateDisplay": "4h ago",
+      "locations": [
+        {
+          "label": "Sutherland, Sydney NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Sutherland NSW 2232"
+            },
+            {
+              "contextualName": "All Sydney NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$33 – $44 per hour",
+      "solMetadata": {
+        "searchRequestToken": "0e5d138e-7ade-49a6-8305-93abe6584836",
+        "token": "0~0e5d138e-7ade-49a6-8305-93abe6584836",
+        "jobId": "90891209",
+        "section": "MAIN",
+        "sectionRank": 44,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Support teens & young adults with Autism and complex needs. Seeking reliable, experienced support workers in Sutherland Shire.",
+      "title": "Disability Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICJmM2M0MTRmZi1kYWUwLTQ3NDYtOWM0NC1hMGFlNTk0ZjUzYmFfNCIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "63567774",
+        "description": "ReadyCare Agency Services"
+      },
+      "bulletPoints": [
+        "Experience the ultimate flexibility of agency work",
+        "If you're highly skilled and experienced, we'll pay you above award",
+        "Master your craft, not your paperwork: zero duplicate agency progress notes"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/7d0ad860-7cbb-4066-b6cb-afa3a7b0d714.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyProfileStructuredDataId": 0,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "id": "90867266",
+      "isFeatured": false,
+      "listingDate": "2026-03-11T06:59:22Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Newcastle, Newcastle, Maitland & Hunter NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Newcastle NSW 2300"
+            },
+            {
+              "contextualName": "Newcastle, Maitland & Hunter NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$44.59 – $51.81 per hour",
+      "solMetadata": {
+        "searchRequestToken": "0e5d138e-7ade-49a6-8305-93abe6584836",
+        "token": "0~0e5d138e-7ade-49a6-8305-93abe6584836",
+        "jobId": "90867266",
+        "section": "MAIN",
+        "sectionRank": 45,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "We are seeking high-calibre Disability Support Workers to join our premium agency team, providing support for the leading NDIS providers.",
+      "title": "Disability Support Worker (Agency)",
+      "tracking": "ewogICJ0b2tlbiI6ICJmM2M0MTRmZi1kYWUwLTQ3NDYtOWM0NC1hMGFlNTk0ZjUzYmFfNSIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "54833851",
+        "description": "Arthur Care"
+      },
+      "bulletPoints": [
+        "Flexible work hours"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/ab786ada-15e5-49a9-80c7-5d1612be4a05.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Arthur Care",
+      "companyProfileStructuredDataId": 706111,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "706111",
+        "name": "Arthur Care"
+      },
+      "id": "90884706",
+      "isFeatured": false,
+      "listingDate": "2026-03-12T01:16:53Z",
+      "listingDateDisplay": "7h ago",
+      "locations": [
+        {
+          "label": "Gympie, Hervey Bay & Fraser Coast QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Gympie QLD 4570"
+            },
+            {
+              "contextualName": "Hervey Bay & Fraser Coast QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$35 – $45 per hour",
+      "solMetadata": {
+        "searchRequestToken": "0e5d138e-7ade-49a6-8305-93abe6584836",
+        "token": "0~0e5d138e-7ade-49a6-8305-93abe6584836",
+        "jobId": "90884706",
+        "section": "MAIN",
+        "sectionRank": 46,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "URGENT",
+          "label": "Immediate start"
+        }
+      ],
+      "teaser": "Disability Support Worker",
+      "title": "Disability Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICJmM2M0MTRmZi1kYWUwLTQ3NDYtOWM0NC1hMGFlNTk0ZjUzYmFfNiIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "45724118",
+        "description": "Meraki Care Services Pty Ltd"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Meraki Care Services",
+      "companyProfileStructuredDataId": 710298,
+      "displayType": "standard",
+      "employer": {
+        "id": "710298",
+        "name": "Meraki Care Services"
+      },
+      "id": "90739088",
+      "isFeatured": false,
+      "listingDate": "2026-03-05T02:56:37Z",
+      "listingDateDisplay": "7d ago",
+      "locations": [
+        {
+          "label": "Caloundra, Sunshine Coast QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Caloundra QLD 4551"
+            },
+            {
+              "contextualName": "Sunshine Coast QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$34 – $40 per hour",
+      "solMetadata": {
+        "searchRequestToken": "0e5d138e-7ade-49a6-8305-93abe6584836",
+        "token": "0~0e5d138e-7ade-49a6-8305-93abe6584836",
+        "jobId": "90739088",
+        "section": "MAIN",
+        "sectionRank": 47,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": ".",
+      "title": "Disability Support Workers",
+      "tracking": "ewogICJ0b2tlbiI6ICJmM2M0MTRmZi1kYWUwLTQ3NDYtOWM0NC1hMGFlNTk0ZjUzYmFfNyIKfQ==",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "47491806",
+        "description": "Support Worker Co"
+      },
+      "bulletPoints": [
+        "Casual role with genuine opportunities to increase hours each week",
+        "SILS located in Little Mountain, Banya, Currimundi, Golden Beach & Maroochydore",
+        "Combination of morning (from 6am), afternoon (from 2pm) & sleep over shifts"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/5b4dae92-130f-477d-9adf-a380ed9ec070.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Support Worker Co",
+      "companyProfileStructuredDataId": 530390,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "530390",
+        "name": "Support Worker Co",
+        "companyId": "163659544220562",
+        "companyUrl": "https://www.seek.com.au/companies/support-worker-co-163659544220562"
+      },
+      "id": "90799187",
+      "isFeatured": false,
+      "listingDate": "2026-03-08T23:57:12Z",
+      "listingDateDisplay": "3d ago",
+      "locations": [
+        {
+          "label": "Little Mountain, Sunshine Coast QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Little Mountain QLD 4551"
+            },
+            {
+              "contextualName": "Sunshine Coast QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$43.23 per hour plus shift loadings & weekly pay",
+      "solMetadata": {
+        "searchRequestToken": "0e5d138e-7ade-49a6-8305-93abe6584836",
+        "token": "0~0e5d138e-7ade-49a6-8305-93abe6584836",
+        "jobId": "90799187",
+        "section": "MAIN",
+        "sectionRank": 48,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Join a growing Support Worker Agency and work within a leading Disability Service Provider. Support people in SIL services requiring 24-hour care.",
+      "title": "Disability Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICJmM2M0MTRmZi1kYWUwLTQ3NDYtOWM0NC1hMGFlNTk0ZjUzYmFfOCIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "400361601",
+        "description": "Support Studio"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Support Studio",
+      "companyProfileStructuredDataId": 3271103,
+      "displayType": "standard",
+      "employer": {
+        "id": "3271103",
+        "name": "Support Studio"
+      },
+      "id": "90892542",
+      "isFeatured": false,
+      "listingDate": "2026-03-12T04:16:54Z",
+      "listingDateDisplay": "4h ago",
+      "locations": [
+        {
+          "label": "Geelong, South West Coast VIC",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Geelong VIC 3220"
+            },
+            {
+              "contextualName": "South West Coast VIC"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$43.23 per hour + Penalty",
+      "solMetadata": {
+        "searchRequestToken": "0e5d138e-7ade-49a6-8305-93abe6584836",
+        "token": "0~0e5d138e-7ade-49a6-8305-93abe6584836",
+        "jobId": "90892542",
+        "section": "MAIN",
+        "sectionRank": 49,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Join an amazing team that prioritises wellbeing, flexibility, professional dev, and fun. Consistent weekly rosters or emergency/fill in work available",
+      "title": "Mental Health and Disability Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICJmM2M0MTRmZi1kYWUwLTQ3NDYtOWM0NC1hMGFlNTk0ZjUzYmFfOSIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "41629272",
+        "description": "Optimum Care Group"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Optimum Care Group",
+      "companyProfileStructuredDataId": 3257197,
+      "displayType": "standard",
+      "employer": {
+        "id": "3257197",
+        "name": "Optimum Care Group"
+      },
+      "id": "90893748",
+      "isFeatured": false,
+      "listingDate": "2026-03-12T04:54:48Z",
+      "listingDateDisplay": "3h ago",
+      "locations": [
+        {
+          "label": "Boronia, Melbourne VIC",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Boronia VIC 3155"
+            },
+            {
+              "contextualName": "All Melbourne VIC"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$36 – $42 per hour",
+      "solMetadata": {
+        "searchRequestToken": "0e5d138e-7ade-49a6-8305-93abe6584836",
+        "token": "0~0e5d138e-7ade-49a6-8305-93abe6584836",
+        "jobId": "90893748",
+        "section": "MAIN",
+        "sectionRank": 50,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Empower individuals with disabilities. Flexible work arrangements. Supportive and inclusive culture.",
+      "title": "Disability Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICJmM2M0MTRmZi1kYWUwLTQ3NDYtOWM0NC1hMGFlNTk0ZjUzYmFfMTAiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "45044216",
+        "description": "KB INFINITY SUPPORT"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "KB INFINITY SUPPORT",
+      "companyProfileStructuredDataId": 3247396,
+      "displayType": "standard",
+      "employer": {
+        "id": "3247396",
+        "name": "KB INFINITY SUPPORT"
+      },
+      "id": "90855787",
+      "isFeatured": false,
+      "listingDate": "2026-03-11T00:42:04Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Maroochydore, Sunshine Coast QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Maroochydore QLD 4558"
+            },
+            {
+              "contextualName": "Sunshine Coast QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$33 – $40 per hour",
+      "solMetadata": {
+        "searchRequestToken": "0e5d138e-7ade-49a6-8305-93abe6584836",
+        "token": "0~0e5d138e-7ade-49a6-8305-93abe6584836",
+        "jobId": "90855787",
+        "section": "MAIN",
+        "sectionRank": 51,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "KB Infinity Support is looking for a motivated, caring and energetic Support Worker to join our team on the Sunshine Coast.",
+      "title": "Disability Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICJmM2M0MTRmZi1kYWUwLTQ3NDYtOWM0NC1hMGFlNTk0ZjUzYmFfMTEiCn0=",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "46926452",
+        "description": "Carepro Disability Service"
+      },
+      "bulletPoints": [
+        "Flexible work options — casual or part-time",
+        "Great team culture and real support",
+        "Steady, ongoing shifts available"
+      ],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Carepro Disability Service",
+      "companyProfileStructuredDataId": 561343,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "561343",
+        "name": "Carepro Disability Service"
+      },
+      "id": "90781136",
+      "isFeatured": false,
+      "listingDate": "2026-03-06T09:12:02Z",
+      "listingDateDisplay": "5d ago",
+      "locations": [
+        {
+          "label": "Baldivis, Perth WA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Baldivis WA 6171"
+            },
+            {
+              "contextualName": "All Perth WA"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "0e5d138e-7ade-49a6-8305-93abe6584836",
+        "token": "0~0e5d138e-7ade-49a6-8305-93abe6584836",
+        "jobId": "90781136",
+        "section": "MAIN",
+        "sectionRank": 52,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Are you a caring, experienced Support Worker? We're hiring across Perth, with opportunities in Baldivis and surrounding areas.",
+      "title": "Disability Support Workers",
+      "tracking": "ewogICJ0b2tlbiI6ICJmM2M0MTRmZi1kYWUwLTQ3NDYtOWM0NC1hMGFlNTk0ZjUzYmFfMTIiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "63556165",
+        "description": "CloverCare Support Agency"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyProfileStructuredDataId": 0,
+      "displayType": "standard",
+      "id": "90794082",
+      "isFeatured": false,
+      "listingDate": "2026-03-08T02:53:42Z",
+      "listingDateDisplay": "4d ago",
+      "locations": [
+        {
+          "label": "Mitcham, Melbourne VIC",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Mitcham VIC 3132"
+            },
+            {
+              "contextualName": "All Melbourne VIC"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$36 – $45 per hour",
+      "solMetadata": {
+        "searchRequestToken": "0e5d138e-7ade-49a6-8305-93abe6584836",
+        "token": "0~0e5d138e-7ade-49a6-8305-93abe6584836",
+        "jobId": "90794082",
+        "section": "MAIN",
+        "sectionRank": 53,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Support worker for children with ASD. Big Brother/Big Sister role supporting morning routines, after school activities and community outings.",
+      "title": "Disability Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICJmM2M0MTRmZi1kYWUwLTQ3NDYtOWM0NC1hMGFlNTk0ZjUzYmFfMTMiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "44610446",
+        "description": "Hands On People"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Hands On People",
+      "companyProfileStructuredDataId": 567027,
+      "displayType": "standard",
+      "employer": {
+        "id": "567027",
+        "name": "Hands On People"
+      },
+      "id": "90892833",
+      "isFeatured": false,
+      "listingDate": "2026-03-12T04:25:49Z",
+      "listingDateDisplay": "3h ago",
+      "locations": [
+        {
+          "label": "Ipswich, Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Ipswich QLD 4305"
+            },
+            {
+              "contextualName": "All Brisbane QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$35-$38/hr +Penalties (when appl)+Superannuation",
+      "solMetadata": {
+        "searchRequestToken": "0e5d138e-7ade-49a6-8305-93abe6584836",
+        "token": "0~0e5d138e-7ade-49a6-8305-93abe6584836",
+        "jobId": "90892833",
+        "section": "MAIN",
+        "sectionRank": 54,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Hands on People Pty Ltd is seeking dedicated female support workers for SIL Accommodation.",
+      "title": "Female Disability Support Worker - Ipswich",
+      "tracking": "ewogICJ0b2tlbiI6ICJmM2M0MTRmZi1kYWUwLTQ3NDYtOWM0NC1hMGFlNTk0ZjUzYmFfMTQiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "47491806",
+        "description": "Support Worker Co"
+      },
+      "bulletPoints": [
+        "Casual role with genuine opportunities to increase hours each week",
+        "SILS located in Tewantin and surrounding suburbs",
+        "Combination of morning (from 6am), afternoon (from 2pm) & sleep over shifts"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/5b4dae92-130f-477d-9adf-a380ed9ec070.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Support Worker Co",
+      "companyProfileStructuredDataId": 530390,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "530390",
+        "name": "Support Worker Co",
+        "companyId": "163659544220562",
+        "companyUrl": "https://www.seek.com.au/companies/support-worker-co-163659544220562"
+      },
+      "id": "90799170",
+      "isFeatured": false,
+      "listingDate": "2026-03-08T23:56:30Z",
+      "listingDateDisplay": "3d ago",
+      "locations": [
+        {
+          "label": "Tewantin, Sunshine Coast QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Tewantin QLD 4565"
+            },
+            {
+              "contextualName": "Sunshine Coast QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$43.23 per hour plus shift loadings & weekly pay",
+      "solMetadata": {
+        "searchRequestToken": "0e5d138e-7ade-49a6-8305-93abe6584836",
+        "token": "0~0e5d138e-7ade-49a6-8305-93abe6584836",
+        "jobId": "90799170",
+        "section": "MAIN",
+        "sectionRank": 55,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Join a growing Support Worker Agency and work within a leading Disability Service Provider. Support people in SIL services requiring 24-hour care.",
+      "title": "Disability Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICJmM2M0MTRmZi1kYWUwLTQ3NDYtOWM0NC1hMGFlNTk0ZjUzYmFfMTUiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "20129217",
+        "description": "Rise"
+      },
+      "bulletPoints": [
+        "Not-for-profit organisation with salary packaging options $$$",
+        "Open to experienced and recently qualified Support Workers",
+        "Wide availability of different shift and location options"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/190c7178-811f-4d8c-aff5-773f42e29d74.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Rise",
+      "companyProfileStructuredDataId": 712536,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "712536",
+        "name": "Rise"
+      },
+      "id": "90856823",
+      "isFeatured": false,
+      "listingDate": "2026-03-11T01:12:12Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Perth WA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Perth WA"
+            },
+            {
+              "contextualName": "Western Australia WA"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$34.58 - $37.73(part-time) $43.23 - $47.16(casual)",
+      "solMetadata": {
+        "searchRequestToken": "0e5d138e-7ade-49a6-8305-93abe6584836",
+        "token": "0~0e5d138e-7ade-49a6-8305-93abe6584836",
+        "jobId": "90856823",
+        "section": "MAIN",
+        "sectionRank": 56,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Rise has opportunities in our SIL Houses and Community for brand new casuals and part-time team members!",
+      "title": "Disability Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICJmM2M0MTRmZi1kYWUwLTQ3NDYtOWM0NC1hMGFlNTk0ZjUzYmFfMTYiCn0=",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "60105084",
+        "description": "Devonfield Enterprises Inc."
+      },
+      "bulletPoints": [
+        "Empower participants on their individual journey",
+        "Professional development and ongoing training opportunities",
+        "Salary sacrifice available"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/01f427bd-a04e-42d8-842f-1d2999905ed0.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Devonfield Enterprises Inc.",
+      "companyProfileStructuredDataId": 706684,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "706684",
+        "name": "Devonfield Enterprises Inc."
+      },
+      "id": "90864608",
+      "isFeatured": false,
+      "listingDate": "2026-03-11T04:15:23Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Devonport, Devonport & North West TAS",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Devonport TAS 7310"
+            },
+            {
+              "contextualName": "Devonport & North West TAS"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$60,000 – $80,000 per year",
+      "solMetadata": {
+        "searchRequestToken": "0e5d138e-7ade-49a6-8305-93abe6584836",
+        "token": "0~0e5d138e-7ade-49a6-8305-93abe6584836",
+        "jobId": "90864608",
+        "section": "MAIN",
+        "sectionRank": 57,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Multiple Positions Available – Permanent & Casual",
+      "title": "Disability Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICJmM2M0MTRmZi1kYWUwLTQ3NDYtOWM0NC1hMGFlNTk0ZjUzYmFfMTciCn0=",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "47491806",
+        "description": "Support Worker Co"
+      },
+      "bulletPoints": [
+        "Casual role with genuine opportunities to increase hours each week",
+        "SILS located in Cairns and surrounding suburbs",
+        "Combination of morning (from 6am), afternoon (from 2pm) & sleep over shifts"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/5b4dae92-130f-477d-9adf-a380ed9ec070.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Support Worker Co",
+      "companyProfileStructuredDataId": 530390,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "530390",
+        "name": "Support Worker Co",
+        "companyId": "163659544220562",
+        "companyUrl": "https://www.seek.com.au/companies/support-worker-co-163659544220562"
+      },
+      "id": "90641445",
+      "isFeatured": false,
+      "listingDate": "2026-03-02T00:29:21Z",
+      "listingDateDisplay": "10d ago",
+      "locations": [
+        {
+          "label": "Cairns, Cairns & Far North QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Cairns QLD 4870"
+            },
+            {
+              "contextualName": "Cairns & Far North QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$43.23 per hour plus shift loadings & weekly pay",
+      "solMetadata": {
+        "searchRequestToken": "0e5d138e-7ade-49a6-8305-93abe6584836",
+        "token": "0~0e5d138e-7ade-49a6-8305-93abe6584836",
+        "jobId": "90641445",
+        "section": "MAIN",
+        "sectionRank": 58,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Join a growing Support Worker Agency and work within a leading Disability Service Provider. Support people in SIL services requiring 24-hour care.",
+      "title": "Disability Support Worker - Cairns",
+      "tracking": "ewogICJ0b2tlbiI6ICJmM2M0MTRmZi1kYWUwLTQ3NDYtOWM0NC1hMGFlNTk0ZjUzYmFfMTgiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "63548982",
+        "description": "AltruCare"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyProfileStructuredDataId": 0,
+      "displayType": "standard",
+      "id": "90635701",
+      "isFeatured": false,
+      "listingDate": "2026-03-01T08:10:49Z",
+      "listingDateDisplay": "11d ago",
+      "locations": [
+        {
+          "label": "Rockhampton, Rockhampton & Capricorn Coast QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Rockhampton QLD 4700"
+            },
+            {
+              "contextualName": "Rockhampton & Capricorn Coast QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$43.23 per hour",
+      "solMetadata": {
+        "searchRequestToken": "0e5d138e-7ade-49a6-8305-93abe6584836",
+        "token": "0~0e5d138e-7ade-49a6-8305-93abe6584836",
+        "jobId": "90635701",
+        "section": "MAIN",
+        "sectionRank": 59,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Empower individuals with disability. Competitive pay and flexible work.",
+      "title": "Disability Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICJmM2M0MTRmZi1kYWUwLTQ3NDYtOWM0NC1hMGFlNTk0ZjUzYmFfMTkiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "45935430",
+        "description": "Empowered Living Choices"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/a5902d69-b0ed-4574-a3bb-e04e159c39f5.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Empowered Living Choices",
+      "companyProfileStructuredDataId": 710018,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "710018",
+        "name": "Empowered Living Choices"
+      },
+      "id": "90762650",
+      "isFeatured": false,
+      "listingDate": "2026-03-06T00:55:38Z",
+      "listingDateDisplay": "6d ago",
+      "locations": [
+        {
+          "label": "Southport, Gold Coast QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Southport QLD 4215"
+            },
+            {
+              "contextualName": "All Gold Coast QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$35 – $45 per hour",
+      "solMetadata": {
+        "searchRequestToken": "0e5d138e-7ade-49a6-8305-93abe6584836",
+        "token": "0~0e5d138e-7ade-49a6-8305-93abe6584836",
+        "jobId": "90762650",
+        "section": "MAIN",
+        "sectionRank": 60,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Compassionate, patient & ready to make a difference? Join Empowered Living Choices & help empower people with disabilities to live a life inspired!",
+      "title": "Disability Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICJmM2M0MTRmZi1kYWUwLTQ3NDYtOWM0NC1hMGFlNTk0ZjUzYmFfMjAiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "totalCount": 9894,
+  "info": {
+    "timeTaken": 96,
+    "source": "JobSearch-sm",
+    "experiment": "mordor_841",
+    "newSince": 1773303640
+  },
+  "userQueryId": "API3836000602701578095",
+  "location": {
+    "description": "All Australia",
+    "locationDescription": "",
+    "type": "Country",
+    "whereId": "3000",
+    "localisedDescriptions": {
+      "en": {
+        "contextualName": "All Australia"
+      },
+      "id": {
+        "contextualName": "Australia"
+      },
+      "th": {
+        "contextualName": "ออสเตรเลีย"
+      },
+      "zh-Hant": {
+        "contextualName": "澳洲"
+      }
+    },
+    "isGranular": false,
+    "defaultDistanceKms": 50
+  },
+  "sortModes": [
+    {
+      "isActive": true,
+      "name": "Relevance",
+      "value": "KeywordRelevance"
+    },
+    {
+      "isActive": false,
+      "name": "Date",
+      "value": "ListedDate"
+    }
+  ],
+  "solMetadata": {
+    "requestToken": "0e5d138e-7ade-49a6-8305-93abe6584836",
+    "token": "0~0e5d138e-7ade-49a6-8305-93abe6584836",
+    "keywords": "disability support",
+    "sortMode": "RELEVANCE",
+    "locations": [
+      "All Australia",
+      "seek-3000"
+    ],
+    "locationDistance": 50,
+    "pageSize": 20,
+    "pageNumber": 3,
+    "totalJobCount": 9894,
+    "tags": {
+      "mordor:searchMarket": "UNIFIED_AU",
+      "mordor:result_count_rst": "3764",
+      "mordor:result_count_vec": "4636",
+      "mordor:rt": "89",
+      "mordor:count_vec": "4636",
+      "mordor__flights": "mordor_841",
+      "mordor:count_rst": "3764",
+      "mordor:count_ir": "1494",
+      "mordor:result_count_ir": "1494"
+    }
+  },
+  "facets": {},
+  "searchParams": {
+    "sitekey": "AU-Main",
+    "sourcesystem": "houston",
+    "where": "All Australia",
+    "page": "3",
+    "seekselectallpages": "true",
+    "keywords": "disability support",
+    "include": "seodata",
+    "locale": "en-AU"
+  }
+}

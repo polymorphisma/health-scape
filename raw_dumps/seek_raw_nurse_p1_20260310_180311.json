@@ -1,0 +1,1787 @@
+{
+  "data": [
+    {
+      "advertiser": {
+        "id": "400440048",
+        "description": "Nectar Brands"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/a7d9066e-18c6-40b7-9a66-c17f6e5f53a2.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "Nectar Brands",
+      "companyProfileStructuredDataId": 644679,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "promoted",
+      "employer": {
+        "id": "644679",
+        "name": "Nectar Brands"
+      },
+      "id": "90673439",
+      "isFeatured": true,
+      "listingDate": "2026-03-03T00:35:25Z",
+      "listingDateDisplay": "7d ago",
+      "locations": [
+        {
+          "label": "Hawthorn, Melbourne VIC",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Hawthorn VIC 3122"
+            },
+            {
+              "contextualName": "All Melbourne VIC"
+            }
+          ]
+        }
+      ],
+      "roleId": "clinic-nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "35191c1d-21e4-41cf-8c49-f014f7332112",
+        "token": "0~35191c1d-21e4-41cf-8c49-f014f7332112",
+        "jobId": "90673439",
+        "section": "MAIN",
+        "sectionRank": 1,
+        "jobAdType": "SPONSORED",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Nectar Brands is a leading healthcare house of brands at the forefront of Digital Health and Alternative Medicine in Australia.",
+      "title": "Clinic Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNmE1NzE5My0zMjAxLTQ3OTQtYmZhYi01YjUzMDkzOTg4NThfMSIKfQ==",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "62997251",
+        "description": "Serco Health Hub"
+      },
+      "bulletPoints": [
+        "Work remotely from home with flexible hours tailored to your schedule",
+        "Full week of paid online training and national clinical support",
+        "Be part of Australia’s digital health future"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/63e85a1d-13c1-42ec-ad7a-547faad10ce5.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6338",
+            "description": "Nursing - A&E, Critical Care & ICU"
+          }
+        }
+      ],
+      "companyName": "Serco",
+      "companyProfileStructuredDataId": 14,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "promoted",
+      "employer": {
+        "id": "14",
+        "name": "Serco",
+        "companyId": "432405",
+        "companyUrl": "https://www.seek.com.au/companies/serco-432405"
+      },
+      "id": "90574199",
+      "isFeatured": true,
+      "listingDate": "2026-02-25T23:00:16Z",
+      "listingDateDisplay": "12d ago",
+      "locations": [
+        {
+          "label": "Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Brisbane QLD"
+            },
+            {
+              "contextualName": "Queensland QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "Telehealth-Nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "35191c1d-21e4-41cf-8c49-f014f7332112",
+        "token": "0~35191c1d-21e4-41cf-8c49-f014f7332112",
+        "jobId": "90574199",
+        "section": "MAIN",
+        "sectionRank": 2,
+        "jobAdType": "SPONSORED",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Be part of Australia’s digital health future. Telehealth RN roles: WFH, paid training. Flexibility + real impact",
+      "title": "Telehealth Nurse (Healthdirect)",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNmE1NzE5My0zMjAxLTQ3OTQtYmZhYi01YjUzMDkzOTg4NThfMiIKfQ==",
+      "workTypes": [
+        "Contract/Temp"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "3",
+            "label": {
+              "text": "Remote"
+            }
+          }
+        ],
+        "displayText": "Remote"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "25982965",
+        "description": "On Demand HR"
+      },
+      "bulletPoints": [
+        "Primarily remote role (outside of covering leave) from Bondi clinic",
+        "Work in the rapidly expanding alternative medicine industry",
+        "Ongoing training and support within a specialist clinical team"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/69048353-58e8-46d1-b9d2-eafe8a9ce4c3.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "On Demand HR",
+      "companyProfileStructuredDataId": 699444,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "699444",
+        "name": "On Demand HR"
+      },
+      "id": "90763018",
+      "isFeatured": false,
+      "listingDate": "2026-03-06T01:07:29Z",
+      "listingDateDisplay": "4d ago",
+      "locations": [
+        {
+          "label": "Bondi Junction, Sydney NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Bondi Junction NSW 2022"
+            },
+            {
+              "contextualName": "All Sydney NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "Telehealth-Nurse",
+      "salaryLabel": "$65,000 to $85,000 + Super",
+      "solMetadata": {
+        "searchRequestToken": "35191c1d-21e4-41cf-8c49-f014f7332112",
+        "token": "0~35191c1d-21e4-41cf-8c49-f014f7332112",
+        "jobId": "90763018",
+        "section": "MAIN",
+        "sectionRank": 3,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "RN/EN role supporting doctors through patient coordination, eligibility screening and consult preparation in an alternative medicine clinic.",
+      "title": "Telehealth Nurse (RN or EN) – Remote",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNmE1NzE5My0zMjAxLTQ3OTQtYmZhYi01YjUzMDkzOTg4NThfMyIKfQ==",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "3",
+            "label": {
+              "text": "Remote"
+            }
+          }
+        ],
+        "displayText": "Remote"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "63555396",
+        "description": "Vasectomy Doctors"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyProfileStructuredDataId": 0,
+      "displayType": "standard",
+      "id": "90702192",
+      "isFeatured": false,
+      "listingDate": "2026-03-04T00:18:16Z",
+      "listingDateDisplay": "6d ago",
+      "locations": [
+        {
+          "label": "Leichhardt, Sydney NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Leichhardt NSW 2040"
+            },
+            {
+              "contextualName": "All Sydney NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "$60 per hour",
+      "solMetadata": {
+        "searchRequestToken": "35191c1d-21e4-41cf-8c49-f014f7332112",
+        "token": "0~35191c1d-21e4-41cf-8c49-f014f7332112",
+        "jobId": "90702192",
+        "section": "MAIN",
+        "sectionRank": 4,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Boutique Registered Nurse role: in-clinic vasectomy procedural work + paid admin from home ($60/hr). Flexible hours, supportive team, travel bonuses.",
+      "title": "Registered Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNmE1NzE5My0zMjAxLTQ3OTQtYmZhYi01YjUzMDkzOTg4NThfNCIKfQ==",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "2",
+            "label": {
+              "text": "Hybrid"
+            }
+          }
+        ],
+        "displayText": "Hybrid"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "15272126",
+        "description": "Department of Health"
+      },
+      "bulletPoints": [
+        "Work within a supportive and dynamic team",
+        "Ongoing professional and career development",
+        "Make a real difference to members of the community every day"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/fff049dc-99e5-4664-9977-ff6755f24d1b.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6340",
+            "description": "Nursing - Community, Maternal & Child Health"
+          }
+        },
+        {
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subclassification": {
+            "id": "1411",
+            "description": "Government - State"
+          }
+        }
+      ],
+      "companyName": "Department of Health Tasmania",
+      "companyProfileStructuredDataId": 7574,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "7574",
+        "name": "Department of Health Tasmania",
+        "companyId": "796040",
+        "companyUrl": "https://www.seek.com.au/companies/department-of-health-tasmania-796040"
+      },
+      "id": "90822580",
+      "isFeatured": false,
+      "listingDate": "2026-03-09T20:01:13Z",
+      "listingDateDisplay": "22h ago",
+      "locations": [
+        {
+          "label": "Burnie, Devonport & North West TAS",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Burnie TAS 7320"
+            },
+            {
+              "contextualName": "Devonport & North West TAS"
+            }
+          ]
+        }
+      ],
+      "roleId": "Community-Enrolled-Nurse",
+      "salaryLabel": "$73,109 - $80,524 pa pro rata +12% Super + Pack",
+      "solMetadata": {
+        "searchRequestToken": "35191c1d-21e4-41cf-8c49-f014f7332112",
+        "token": "0~35191c1d-21e4-41cf-8c49-f014f7332112",
+        "jobId": "90822580",
+        "section": "MAIN",
+        "sectionRank": 5,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Join our supportive Community Nursing team delivering expert home, clinic & HITH care across Burnie & surrounding rural areas. Apply now.",
+      "title": "Enrolled Nurse - Community",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNmE1NzE5My0zMjAxLTQ3OTQtYmZhYi01YjUzMDkzOTg4NThfNSIKfQ==",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "62997251",
+        "description": "Serco Health Hub"
+      },
+      "bulletPoints": [
+        "Work remotely from home with flexible hours tailored to your schedule",
+        "Full week of paid online training and national clinical support",
+        "Be part of Australia’s digital health future"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/63e85a1d-13c1-42ec-ad7a-547faad10ce5.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6338",
+            "description": "Nursing - A&E, Critical Care & ICU"
+          }
+        }
+      ],
+      "companyName": "Serco",
+      "companyProfileStructuredDataId": 14,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "14",
+        "name": "Serco",
+        "companyId": "432405",
+        "companyUrl": "https://www.seek.com.au/companies/serco-432405"
+      },
+      "id": "90574199",
+      "isFeatured": false,
+      "listingDate": "2026-02-25T23:00:16Z",
+      "listingDateDisplay": "12d ago",
+      "locations": [
+        {
+          "label": "Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Brisbane QLD"
+            },
+            {
+              "contextualName": "Queensland QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "Telehealth-Nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "35191c1d-21e4-41cf-8c49-f014f7332112",
+        "token": "0~35191c1d-21e4-41cf-8c49-f014f7332112",
+        "jobId": "90574199",
+        "section": "MAIN",
+        "sectionRank": 6,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Be part of Australia’s digital health future. Telehealth RN roles: WFH, paid training. Flexibility + real impact",
+      "title": "Telehealth Nurse (Healthdirect)",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNmE1NzE5My0zMjAxLTQ3OTQtYmZhYi01YjUzMDkzOTg4NThfNiIKfQ==",
+      "workTypes": [
+        "Contract/Temp"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "3",
+            "label": {
+              "text": "Remote"
+            }
+          }
+        ],
+        "displayText": "Remote"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "62997251",
+        "description": "Serco Health Hub"
+      },
+      "bulletPoints": [
+        "Work remotely from home with flexible hours tailored to your schedule",
+        "Full week of paid online training and national clinical support",
+        "Be part of Australia’s digital health future"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/63e85a1d-13c1-42ec-ad7a-547faad10ce5.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6338",
+            "description": "Nursing - A&E, Critical Care & ICU"
+          }
+        }
+      ],
+      "companyName": "Serco",
+      "companyProfileStructuredDataId": 14,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "14",
+        "name": "Serco",
+        "companyId": "432405",
+        "companyUrl": "https://www.seek.com.au/companies/serco-432405"
+      },
+      "id": "90574246",
+      "isFeatured": false,
+      "listingDate": "2026-02-25T23:02:56Z",
+      "listingDateDisplay": "12d ago",
+      "locations": [
+        {
+          "label": "Melbourne VIC",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Melbourne VIC"
+            },
+            {
+              "contextualName": "Victoria VIC"
+            }
+          ]
+        }
+      ],
+      "roleId": "Telehealth-Nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "35191c1d-21e4-41cf-8c49-f014f7332112",
+        "token": "0~35191c1d-21e4-41cf-8c49-f014f7332112",
+        "jobId": "90574246",
+        "section": "MAIN",
+        "sectionRank": 7,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Be part of Australia’s digital health future. Telehealth RN roles: WFH, paid training. Flexibility + real impact",
+      "title": "Telehealth Nurse (Healthdirect)",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNmE1NzE5My0zMjAxLTQ3OTQtYmZhYi01YjUzMDkzOTg4NThfNyIKfQ==",
+      "workTypes": [
+        "Contract/Temp"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "3",
+            "label": {
+              "text": "Remote"
+            }
+          }
+        ],
+        "displayText": "Remote"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "",
+        "description": "Private Advertiser"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "Private Advertiser",
+      "companyProfileStructuredDataId": 0,
+      "displayType": "standard",
+      "employer": {
+        "id": "",
+        "name": "Private Advertiser"
+      },
+      "id": "90839861",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T06:18:14Z",
+      "listingDateDisplay": "11h ago",
+      "locations": [
+        {
+          "label": "Belgian Gardens, Northern QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Belgian Gardens QLD 4810"
+            },
+            {
+              "contextualName": "Northern QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "clinic-nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "35191c1d-21e4-41cf-8c49-f014f7332112",
+        "token": "0~35191c1d-21e4-41cf-8c49-f014f7332112",
+        "jobId": "90839861",
+        "section": "MAIN",
+        "sectionRank": 8,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "North Queensland Skin Centre is a leading primary skin care skin cancer clinic based in Townsville.",
+      "title": "Skin Cancer Clinic Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNmE1NzE5My0zMjAxLTQ3OTQtYmZhYi01YjUzMDkzOTg4NThfOCIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "32285107",
+        "description": "Metro South Health"
+      },
+      "bulletPoints": [
+        "Lead public health responses to communicable diseases",
+        "Coordinate outbreak investigations and immunisation programs",
+        "Provide expert advice to healthcare providers and the community"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/59977210-4a94-5eb2-30f6-19bec29c46b7.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        },
+        {
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subclassification": {
+            "id": "1411",
+            "description": "Government - State"
+          }
+        }
+      ],
+      "companyName": "Metro South Health Service",
+      "companyProfileStructuredDataId": 21516,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "21516",
+        "name": "Metro South Health Service",
+        "companyId": "828953",
+        "companyUrl": "https://www.seek.com.au/companies/metro-south-health-service-828953"
+      },
+      "id": "90804309",
+      "isFeatured": false,
+      "listingDate": "2026-03-09T02:55:14Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Brisbane QLD"
+            },
+            {
+              "contextualName": "Queensland QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "clinical-nurse",
+      "salaryLabel": "$111,198 - $119,072 per annum",
+      "solMetadata": {
+        "searchRequestToken": "35191c1d-21e4-41cf-8c49-f014f7332112",
+        "token": "0~35191c1d-21e4-41cf-8c49-f014f7332112",
+        "jobId": "90804309",
+        "section": "MAIN",
+        "sectionRank": 9,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Clinical Nurse role supporting communicable disease control, outbreak response and immunisation programs within the Metro South Public Health Unit.",
+      "title": "Clinical Nurse - Public Health",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNmE1NzE5My0zMjAxLTQ3OTQtYmZhYi01YjUzMDkzOTg4NThfOSIKfQ==",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "29650632",
+        "description": "RecruitShop"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "RecruitShop",
+      "companyProfileStructuredDataId": 22665,
+      "displayType": "standard",
+      "employer": {
+        "id": "22665",
+        "name": "RecruitShop"
+      },
+      "id": "90838364",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T05:31:35Z",
+      "listingDateDisplay": "12h ago",
+      "locations": [
+        {
+          "label": "Liverpool, Sydney NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Liverpool NSW 2170"
+            },
+            {
+              "contextualName": "All Sydney NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "EARN a Negotiable Salary Based on Experience",
+      "solMetadata": {
+        "searchRequestToken": "35191c1d-21e4-41cf-8c49-f014f7332112",
+        "token": "0~35191c1d-21e4-41cf-8c49-f014f7332112",
+        "jobId": "90838364",
+        "section": "MAIN",
+        "sectionRank": 10,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Tired of Shift Work & Want an 8.30 am - 5 pm Role?  Bowral & Liverpool | Providing Health Exams to Commercial Businesses | Training & Development",
+      "title": "Registered Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNmE1NzE5My0zMjAxLTQ3OTQtYmZhYi01YjUzMDkzOTg4NThfMTAiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "400440048",
+        "description": "Nectar Brands"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/a7d9066e-18c6-40b7-9a66-c17f6e5f53a2.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "Nectar Brands",
+      "companyProfileStructuredDataId": 644679,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "644679",
+        "name": "Nectar Brands"
+      },
+      "id": "90673439",
+      "isFeatured": false,
+      "listingDate": "2026-03-03T00:35:25Z",
+      "listingDateDisplay": "7d ago",
+      "locations": [
+        {
+          "label": "Hawthorn, Melbourne VIC",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Hawthorn VIC 3122"
+            },
+            {
+              "contextualName": "All Melbourne VIC"
+            }
+          ]
+        }
+      ],
+      "roleId": "clinic-nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "35191c1d-21e4-41cf-8c49-f014f7332112",
+        "token": "0~35191c1d-21e4-41cf-8c49-f014f7332112",
+        "jobId": "90673439",
+        "section": "MAIN",
+        "sectionRank": 11,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Nectar Brands is a leading healthcare house of brands at the forefront of Digital Health and Alternative Medicine in Australia.",
+      "title": "Clinic Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNmE1NzE5My0zMjAxLTQ3OTQtYmZhYi01YjUzMDkzOTg4NThfMTEiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "39290065",
+        "description": "SCH"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "SCH Online",
+      "companyProfileStructuredDataId": 740689,
+      "displayType": "standard",
+      "employer": {
+        "id": "740689",
+        "name": "SCH Online"
+      },
+      "id": "90804713",
+      "isFeatured": false,
+      "listingDate": "2026-03-09T03:06:04Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Sydney NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Sydney NSW"
+            },
+            {
+              "contextualName": "New South Wales NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "nurse-practitioner",
+      "salaryLabel": "$75 – $90 per hour",
+      "solMetadata": {
+        "searchRequestToken": "35191c1d-21e4-41cf-8c49-f014f7332112",
+        "token": "0~35191c1d-21e4-41cf-8c49-f014f7332112",
+        "jobId": "90804713",
+        "section": "MAIN",
+        "sectionRank": 12,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Great opportunity to join a virtual clinic to help millions of Australians. Work from the comfort of your own home and have a positive impact",
+      "title": "Nurse Practitioner - Work From Home",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNmE1NzE5My0zMjAxLTQ3OTQtYmZhYi01YjUzMDkzOTg4NThfMTIiCn0=",
+      "workTypes": [
+        "Contract/Temp"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "3",
+            "label": {
+              "text": "Remote"
+            }
+          }
+        ],
+        "displayText": "Remote"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "47362215",
+        "description": "Mosh"
+      },
+      "bulletPoints": [
+        "Fully remote RN role within a growing digital health platform",
+        "Combine clinical judgement with digital innovation in a healthtech environment",
+        "Competitive FTE salary + super (weekend loading applicable)"
+      ],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "Mosh",
+      "companyProfileStructuredDataId": 633067,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "633067",
+        "name": "Mosh",
+        "companyId": "167590669593178",
+        "companyUrl": "https://www.seek.com.au/companies/mosh-167590669593178"
+      },
+      "id": "90530790",
+      "isFeatured": false,
+      "listingDate": "2026-02-24T06:12:35Z",
+      "listingDateDisplay": "14d ago",
+      "locations": [
+        {
+          "label": "Sydney NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Sydney NSW"
+            },
+            {
+              "contextualName": "New South Wales NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "35191c1d-21e4-41cf-8c49-f014f7332112",
+        "token": "0~35191c1d-21e4-41cf-8c49-f014f7332112",
+        "jobId": "90530790",
+        "section": "MAIN",
+        "sectionRank": 13,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Fully remote, flexible RN role - join a growing digital health platform delivering safe, evidence-based care through structured telehealth pathways.",
+      "title": "Registered Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNmE1NzE5My0zMjAxLTQ3OTQtYmZhYi01YjUzMDkzOTg4NThfMTMiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "3",
+            "label": {
+              "text": "Remote"
+            }
+          }
+        ],
+        "displayText": "Remote"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "62997251",
+        "description": "Serco Health Hub"
+      },
+      "bulletPoints": [
+        "Work remotely from home with flexible hours tailored to your schedule",
+        "Full week of paid online training and national clinical support",
+        "Be part of Australia’s digital health future"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/63e85a1d-13c1-42ec-ad7a-547faad10ce5.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6338",
+            "description": "Nursing - A&E, Critical Care & ICU"
+          }
+        }
+      ],
+      "companyName": "Serco",
+      "companyProfileStructuredDataId": 14,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "14",
+        "name": "Serco",
+        "companyId": "432405",
+        "companyUrl": "https://www.seek.com.au/companies/serco-432405"
+      },
+      "id": "90574223",
+      "isFeatured": false,
+      "listingDate": "2026-02-25T23:01:51Z",
+      "listingDateDisplay": "12d ago",
+      "locations": [
+        {
+          "label": "Sydney NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Sydney NSW"
+            },
+            {
+              "contextualName": "New South Wales NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "Telehealth-Nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "35191c1d-21e4-41cf-8c49-f014f7332112",
+        "token": "0~35191c1d-21e4-41cf-8c49-f014f7332112",
+        "jobId": "90574223",
+        "section": "MAIN",
+        "sectionRank": 14,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Be part of Australia’s digital health future. Telehealth RN roles: WFH, paid training. Flexibility + real impact",
+      "title": "Telehealth Nurse (Healthdirect)",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNmE1NzE5My0zMjAxLTQ3OTQtYmZhYi01YjUzMDkzOTg4NThfMTQiCn0=",
+      "workTypes": [
+        "Contract/Temp"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "3",
+            "label": {
+              "text": "Remote"
+            }
+          }
+        ],
+        "displayText": "Remote"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "32285249",
+        "description": "Metro North Hospital & Health Service"
+      },
+      "bulletPoints": [
+        "Join a leading, patient&#8209;focused cancer care team",
+        "Grow your oncology skills in a supportive environment",
+        "Make a real impact on patient outcomes every day"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/a44a818c-5df9-53b0-c3ea-0487a54ea610.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        },
+        {
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subclassification": {
+            "id": "1411",
+            "description": "Government - State"
+          }
+        }
+      ],
+      "companyName": "Metro North Hospital & Health Service",
+      "companyProfileStructuredDataId": 6430,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "6430",
+        "name": "Metro North Hospital & Health Service",
+        "companyId": "609516",
+        "companyUrl": "https://www.seek.com.au/companies/metro-north-hospital-n-health-service-609516"
+      },
+      "id": "90798211",
+      "isFeatured": false,
+      "listingDate": "2026-03-08T22:37:41Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Chermside, Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Chermside QLD 4032"
+            },
+            {
+              "contextualName": "All Brisbane QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "$41.06 - $55.13 per hour",
+      "solMetadata": {
+        "searchRequestToken": "35191c1d-21e4-41cf-8c49-f014f7332112",
+        "token": "0~35191c1d-21e4-41cf-8c49-f014f7332112",
+        "jobId": "90798211",
+        "section": "MAIN",
+        "sectionRank": 15,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Join the dedicated Cancer Care Services team at The Prince Charles Hospital",
+      "title": "REGISTERED NURSE-CANCER DAY UNIT",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNmE1NzE5My0zMjAxLTQ3OTQtYmZhYi01YjUzMDkzOTg4NThfMTUiCn0=",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "24843340",
+        "description": "Cover-More Group"
+      },
+      "bulletPoints": [
+        "Hybrid working",
+        "Work in a fast‑paced global environment",
+        "Use your nursing expertise beyond the bedside"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/ceb31001-2c66-a84a-7146-714506631f13.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "Cover-More Travel Insurance",
+      "companyProfileStructuredDataId": 3504,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "3504",
+        "name": "Cover-More Travel Insurance",
+        "companyId": "436911",
+        "companyUrl": "https://www.seek.com.au/companies/cover-more-travel-insurance-436911"
+      },
+      "id": "90706112",
+      "isFeatured": false,
+      "listingDate": "2026-03-04T01:29:40Z",
+      "listingDateDisplay": "6d ago",
+      "locations": [
+        {
+          "label": "Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Brisbane QLD"
+            },
+            {
+              "contextualName": "Queensland QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "35191c1d-21e4-41cf-8c49-f014f7332112",
+        "token": "0~35191c1d-21e4-41cf-8c49-f014f7332112",
+        "jobId": "90706112",
+        "section": "MAIN",
+        "sectionRank": 16,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Fantastic opportunities for RNs or Paramedics who want to use their clinical skills in a new environment that offers rare work-life balance.",
+      "title": "Registered Nurse - Contact Centre",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNmE1NzE5My0zMjAxLTQ3OTQtYmZhYi01YjUzMDkzOTg4NThfMTYiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "2",
+            "label": {
+              "text": "Hybrid"
+            }
+          }
+        ],
+        "displayText": "Hybrid"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "14944066",
+        "description": "Queensland X-Ray"
+      },
+      "bulletPoints": [
+        "Join an essential services market leader",
+        "We offer job stability and career progression",
+        "On the job training provided"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/1b927d91-7b56-4209-99e2-4cbecbbc17b0.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "Queensland X-Ray",
+      "companyProfileStructuredDataId": 2995,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "2995",
+        "name": "Queensland X-Ray",
+        "companyId": "436305",
+        "companyUrl": "https://www.seek.com.au/companies/queensland-x-ray-436305"
+      },
+      "id": "90803405",
+      "isFeatured": false,
+      "listingDate": "2026-03-09T02:32:22Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Southport, Gold Coast QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Southport QLD 4215"
+            },
+            {
+              "contextualName": "All Gold Coast QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "35191c1d-21e4-41cf-8c49-f014f7332112",
+        "token": "0~35191c1d-21e4-41cf-8c49-f014f7332112",
+        "jobId": "90803405",
+        "section": "MAIN",
+        "sectionRank": 17,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "We are looking for a Registered Nurse to join our team in the Gold Coast region.",
+      "title": "Registered Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNmE1NzE5My0zMjAxLTQ3OTQtYmZhYi01YjUzMDkzOTg4NThfMTciCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "27862389",
+        "description": "Medacs Healthcare New Zealand"
+      },
+      "bulletPoints": [
+        "Top Pay + Full Travel Support",
+        "Unique Remote Nursing Experience",
+        "Flexible, Ongoing Contracts"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/33753c6f-c247-5c6a-3290-447ad65275dd.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6339",
+            "description": "Nursing - Aged Care"
+          }
+        }
+      ],
+      "companyName": "Medacs Global Group",
+      "companyProfileStructuredDataId": 274078,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "274078",
+        "name": "Medacs Global Group"
+      },
+      "id": "90805770",
+      "isFeatured": false,
+      "listingDate": "2026-03-09T03:33:55Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Alice Springs, Alice Springs & Central Australia NT",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Alice Springs NT 0870"
+            },
+            {
+              "contextualName": "Alice Springs & Central Australia NT"
+            }
+          ]
+        }
+      ],
+      "roleId": "aged-care-registered-nurse",
+      "salaryLabel": "$69 – $75 per hour",
+      "solMetadata": {
+        "searchRequestToken": "35191c1d-21e4-41cf-8c49-f014f7332112",
+        "token": "0~35191c1d-21e4-41cf-8c49-f014f7332112",
+        "jobId": "90805770",
+        "section": "MAIN",
+        "sectionRank": 18,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Rural & remote RN contracts in NT with high pay, full support, and travel provided.",
+      "title": "Registered Nurse - Aged Care",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNmE1NzE5My0zMjAxLTQ3OTQtYmZhYi01YjUzMDkzOTg4NThfMTgiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "20213117",
+        "description": "City Fertility"
+      },
+      "bulletPoints": [
+        "Support patients through every step of their fertility journey",
+        "Join a progressive team backed by global IVF expertise",
+        "Enjoy growth, support and collaboration across our national network"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/34a2dab4-7bdd-cb58-f8bf-7092abffb378.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "City Fertility Centre",
+      "companyProfileStructuredDataId": 18735,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "18735",
+        "name": "City Fertility Centre",
+        "companyId": "813918",
+        "companyUrl": "https://www.seek.com.au/companies/city-fertility-centre-813918"
+      },
+      "id": "90828202",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T01:27:36Z",
+      "listingDateDisplay": "16h ago",
+      "locations": [
+        {
+          "label": "Bundall, Gold Coast QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Bundall QLD 4217"
+            },
+            {
+              "contextualName": "All Gold Coast QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "perioperative-nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "35191c1d-21e4-41cf-8c49-f014f7332112",
+        "token": "0~35191c1d-21e4-41cf-8c49-f014f7332112",
+        "jobId": "90828202",
+        "section": "MAIN",
+        "sectionRank": 19,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Passionate about patient care? Help guide individuals and couples through their fertility journey with City Fertility.",
+      "title": "IVF Nurse Coordinator/Perioperative Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNmE1NzE5My0zMjAxLTQ3OTQtYmZhYi01YjUzMDkzOTg4NThfMTkiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "62997251",
+        "description": "Serco Health Hub"
+      },
+      "bulletPoints": [
+        "Work remotely from home with flexible hours tailored to your schedule",
+        "Full week of paid online training and national clinical support",
+        "Be part of Australia’s digital health future"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/63e85a1d-13c1-42ec-ad7a-547faad10ce5.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6338",
+            "description": "Nursing - A&E, Critical Care & ICU"
+          }
+        }
+      ],
+      "companyName": "Serco",
+      "companyProfileStructuredDataId": 14,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "14",
+        "name": "Serco",
+        "companyId": "432405",
+        "companyUrl": "https://www.seek.com.au/companies/serco-432405"
+      },
+      "id": "90574179",
+      "isFeatured": false,
+      "listingDate": "2026-02-25T22:59:05Z",
+      "listingDateDisplay": "12d ago",
+      "locations": [
+        {
+          "label": "Perth WA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Perth WA"
+            },
+            {
+              "contextualName": "Western Australia WA"
+            }
+          ]
+        }
+      ],
+      "roleId": "Telehealth-Nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "35191c1d-21e4-41cf-8c49-f014f7332112",
+        "token": "0~35191c1d-21e4-41cf-8c49-f014f7332112",
+        "jobId": "90574179",
+        "section": "MAIN",
+        "sectionRank": 20,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Be part of Australia’s digital health future. Telehealth RN roles: WFH, paid training. Flexibility + real impact",
+      "title": "Telehealth Nurse (Healthdirect)",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNmE1NzE5My0zMjAxLTQ3OTQtYmZhYi01YjUzMDkzOTg4NThfMjAiCn0=",
+      "workTypes": [
+        "Contract/Temp"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "3",
+            "label": {
+              "text": "Remote"
+            }
+          }
+        ],
+        "displayText": "Remote"
+      }
+    }
+  ],
+  "totalCount": 8183,
+  "info": {
+    "timeTaken": 120,
+    "source": "JobSearch-sm",
+    "experiment": "mordor_841",
+    "newSince": 1773165790
+  },
+  "userQueryId": "API7940469794707226218",
+  "location": {
+    "description": "All Australia",
+    "locationDescription": "",
+    "type": "Country",
+    "whereId": "3000",
+    "localisedDescriptions": {
+      "en": {
+        "contextualName": "All Australia"
+      },
+      "id": {
+        "contextualName": "Australia"
+      },
+      "th": {
+        "contextualName": "ออสเตรเลีย"
+      },
+      "zh-Hant": {
+        "contextualName": "澳洲"
+      }
+    },
+    "isGranular": false,
+    "defaultDistanceKms": 50
+  },
+  "sortModes": [
+    {
+      "isActive": true,
+      "name": "Relevance",
+      "value": "KeywordRelevance"
+    },
+    {
+      "isActive": false,
+      "name": "Date",
+      "value": "ListedDate"
+    }
+  ],
+  "solMetadata": {
+    "requestToken": "35191c1d-21e4-41cf-8c49-f014f7332112",
+    "token": "0~35191c1d-21e4-41cf-8c49-f014f7332112",
+    "keywords": "nurse",
+    "sortMode": "RELEVANCE",
+    "locations": [
+      "All Australia",
+      "seek-3000"
+    ],
+    "locationDistance": 50,
+    "pageSize": 20,
+    "pageNumber": 1,
+    "totalJobCount": 8183,
+    "tags": {
+      "mordor:searchMarket": "UNIFIED_AU",
+      "mordor:result_count_rst": "7983",
+      "mordor:result_count_vec": "8",
+      "mordor:rt": "112",
+      "mordor:count_vec": "8",
+      "mordor__flights": "mordor_841",
+      "mordor:count_rst": "7983",
+      "mordor:count_ir": "192",
+      "mordor:result_count_ir": "192"
+    }
+  },
+  "facets": {},
+  "searchParams": {
+    "sitekey": "AU-Main",
+    "sourcesystem": "houston",
+    "where": "All Australia",
+    "page": "1",
+    "seekselectallpages": "true",
+    "keywords": "nurse",
+    "include": "seodata",
+    "locale": "en-AU"
+  }
+}

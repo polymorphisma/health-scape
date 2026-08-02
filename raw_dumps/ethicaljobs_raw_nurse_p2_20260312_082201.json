@@ -1,0 +1,1678 @@
+{
+  "category": "Nursing",
+  "data": [
+    {
+      "id": 551363,
+      "title": "Mental Health Nurses",
+      "slug": "cohealth_BS/mental-health-nurses-malmsbury-1",
+      "organisationName": "cohealth",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1525245416_grsTU_.jpeg",
+      "summary": "Work for a multi-award-winning iconic community health organisation! Multiple positions, based in Malmsbury. Generous salary packaging options to reduce your cohealth taxable income.",
+      "expiresAt": "2026-03-16T11:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional VIC",
+          "locality": "Malmsbury"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://cohealthcareers.org.au/Current-Jobs/6854054/title/",
+      "location_name": "Regional VIC",
+      "locality": "Malmsbury",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/cohealth_BS/mental-health-nurses-malmsbury-1",
+      "approvedAt": "2026-02-18T00:42:25.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 39,
+          "slug": "mentalhealthandcounselling",
+          "title": "Mental Health and Counselling",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Mental+Health+%26+Counselling.jpg",
+          "jobCount": 355
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 79
+        },
+        {
+          "archived": false,
+          "id": 53,
+          "slug": "youthservices",
+          "title": "Youth",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Youth.jpeg",
+          "jobCount": 299
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 2,
+        "slug": "REGVIC",
+        "title": "Regional VIC",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 2,
+          "slug": "CONTRACT",
+          "title": "Contract",
+          "archived": false
+        },
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 2425,
+        "name": "cohealth",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1525245416_grsTU_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1525245416_grsTU_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1525245416_grsTU_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1525245416_grsTU_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1525245416_grsTU_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1525245416_grsTU_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 549240,
+      "title": "Registered Nurse - FlexConnect",
+      "slug": "Uniting/registered-nurse-flexconnect-sydney-1",
+      "organisationName": "Uniting (NSW.ACT)",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+      "summary": "Provide a high standard of clinical care to our aged care residents across ourÂ services, supporting their independence and improving their quality of life.",
+      "expiresAt": null,
+      "isExpirationHidden": true,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Sydney"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://ars2.equest.com/?response_id=279bc49a75f098fe20973f19d9e755c3",
+      "location_name": "Sydney",
+      "locality": "Sydney",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/registered-nurse-flexconnect-sydney-1",
+      "approvedAt": "2026-01-30T05:11:15.000Z",
+      "application": "<p><a href=\"https://ars2.equest.com/?response_id=279bc49a75f098fe20973f19d9e755c3\" target=\"_blank\" rel=\"noopener\"><img alt=\"Apply\" src=\"http://www2.equest.com/images/applyhere.gif\" /></a><img src=\"https://ars2.equest.com/?response_id=279bc49a75f098fe20973f19d9e755c3&amp;view\" alt=\"\" width=\"1\" height=\"1\" /></p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 79
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$54.19 depending upon experience, penalties, super, casual loading"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/MIEiR9Brl2Y",
+      "organisation": {
+        "id": 6389,
+        "name": "Uniting (NSW.ACT)",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1766119118_I8OGM_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1766119118_I8OGM_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1766119118_I8OGM_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1766119118_I8OGM_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1766119118_I8OGM_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553027,
+      "title": "Registered Nurse - Australian National Aged Care Classification - Grade 4",
+      "slug": "Sheppvillages/registered-nurse-australian-national-aged-care-classification-grade-4-shepparton",
+      "organisationName": "Shepparton Villages",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1642138934_tFOYC_.png",
+      "summary": "Big call out for Full time Registered Nurse in an AN-ACC role! If you're ready to make an impact at Shepparton Villages, this is your moment.",
+      "expiresAt": "2026-04-03T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional VIC",
+          "locality": "Shepparton"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://apply.jobadder.com/au6/1658/837538/pnlpmrei3u2evebg6rv3utykfa",
+      "location_name": "Regional VIC",
+      "locality": "Shepparton",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/Sheppvillages/registered-nurse-australian-national-aged-care-classification-grade-4-shepparton",
+      "approvedAt": "2026-03-04T05:25:14.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 186
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 78
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 2,
+        "slug": "REGVIC",
+        "title": "Regional VIC",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 14282,
+        "name": "Shepparton Villages",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1642138934_tFOYC_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1642138934_tFOYC_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1642138934_tFOYC_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1642138934_tFOYC_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1642138934_tFOYC_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1642138934_tFOYC_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553262,
+      "title": "Registered Nurses",
+      "slug": "Banksia/registered-nurses-community-palliative-care",
+      "organisationName": "Banksia Palliative Care Service",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1598847975_lK2HU_.jpg",
+      "summary": "You will be a valued member of our multidisciplinary team. You will be supported to work independently in the community to provide symptom management, advance care planning, and end of life care.Â ",
+      "expiresAt": "2026-04-02T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "Heidelberg"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Melbourne",
+      "locality": "Heidelberg",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/Banksia/registered-nurses-community-palliative-care",
+      "approvedAt": "2026-03-05T05:17:52.000Z",
+      "application": "<p>Please submit your application, including a <strong>covering letter and an updated CV</strong>, via the form below.</p>\n<p></p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 78
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [
+        {
+          "id": 24,
+          "question": "Do you have full and unrestricted rights to work in Australia?",
+          "alias": "Unrestricted rights to work in Australia",
+          "blanks": {},
+          "category": "Work Eligibility",
+          "displayText": "Do you have full and unrestricted rights to work in Australia?"
+        },
+        {
+          "id": 25,
+          "question": "Do you have a current full Australian driver's licence?",
+          "alias": "Australian driver's licence",
+          "blanks": {},
+          "category": "Licence",
+          "displayText": "Do you have a current full Australian driver's licence?"
+        },
+        {
+          "id": 26,
+          "question": "Do you have access to a current registered motor vehicle?",
+          "alias": "Access to a motor vehicle",
+          "blanks": {},
+          "category": "Travel",
+          "displayText": "Do you have access to a current registered motor vehicle?"
+        },
+        {
+          "id": 30,
+          "question": "Do you have <x> year(s) of <y> experience?",
+          "alias": "Relevant professional experience",
+          "blanks": {
+            "x": "3",
+            "y": "relevant professional"
+          },
+          "category": "Experience",
+          "displayText": "Do you have 3 year(s) of relevant professional experience?"
+        }
+      ],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 798,
+        "name": "Banksia Palliative Care Service",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1598847975_lK2HU_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1598847975_lK2HU_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1598847975_lK2HU_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1598847975_lK2HU_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1598847975_lK2HU_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1598847975_lK2HU_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552560,
+      "title": "Registered Nurse - Koombahla",
+      "slug": "Uniting/registered-nurse-koombahla-elermore-vale",
+      "organisationName": "Uniting (NSW.ACT)",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+      "summary": "Seeking an experienced RN for our Elermore Vale aged care service for a contract working Mon, Tue Wed mornings from April to October 2026. To $54.19 p/h + great benefits.",
+      "expiresAt": "2026-03-29T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Elermore Vale"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://ars2.equest.com/?response_id=0442aa59cf7939cc6d3dd8a971273136",
+      "location_name": "Regional NSW",
+      "locality": "Elermore Vale",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/registered-nurse-koombahla-elermore-vale",
+      "approvedAt": "2026-02-27T04:39:36.000Z",
+      "application": "<p><a href=\"https://ars2.equest.com/?response_id=0442aa59cf7939cc6d3dd8a971273136\" target=\"_blank\" rel=\"noopener\"><img alt=\"Apply\" src=\"http://www2.equest.com/images/applyhere.gif\" /></a><img src=\"https://ars2.equest.com/?response_id=0442aa59cf7939cc6d3dd8a971273136&amp;view\" alt=\"\" width=\"1\" height=\"1\" /></p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 186
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 78
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$54.19 p/h + great benefits."
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/MIEiR9Brl2Y",
+      "organisation": {
+        "id": 6389,
+        "name": "Uniting (NSW.ACT)",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1766119118_I8OGM_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1766119118_I8OGM_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1766119118_I8OGM_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1766119118_I8OGM_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1766119118_I8OGM_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551282,
+      "title": "Registered Nurse",
+      "slug": "CASS/registered-nurse-home-ageing-services",
+      "organisationName": "CASS ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1475796923_uyD5G_.jpeg",
+      "summary": "This role plays a vital part in helping older people live safely, independently, and with dignity at home.",
+      "expiresAt": "2026-04-03T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Campsie"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Sydney",
+      "locality": "Campsie",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/CASS/registered-nurse-home-ageing-services",
+      "approvedAt": "2026-02-17T04:09:14.000Z",
+      "application": "<p>Applications in writing providing detailed resume, responses to the above requirements are to be forwarded to: Ms. Vickie Xu, Executive Officer/Human Resources Management, CASS Care Ltd, 44-50 Sixth Avenue, Campsie NSW 2194 or submitted via the form below.</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 186
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 78
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 200,
+        "name": "CASS ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1475796923_uyD5G_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1475796923_uyD5G_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1475796923_uyD5G_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1475796923_uyD5G_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1475796923_uyD5G_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1475796923_uyD5G_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551268,
+      "title": "Senior Registered Nurse",
+      "slug": "WMV/senior-registered-nurse-residential-withdrawal",
+      "organisationName": "Uniting (Victoria and Tasmania) Limited",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1763593170_OxI0z_.png",
+      "summary": "Work-life balance + a lead role in care for people on a journey to achieve alcohol & drug withdrawal. RN Grade 4A, 5 weekdays per fortnight.",
+      "expiresAt": "2026-03-15T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "Ivanhoe"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/837/gateway/?c=apply&sJobIDs=530102&SourceTypeID=803&sLanguage=en",
+      "location_name": "Melbourne",
+      "locality": "Ivanhoe",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/WMV/senior-registered-nurse-residential-withdrawal",
+      "approvedAt": "2026-02-17T03:53:20.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 4,
+          "slug": "alcoholandotherdrugs",
+          "title": "Alcohol and Other Drugs",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Alcohol+%26+Other+Drugs.jpeg",
+          "jobCount": 49
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 78
+        },
+        {
+          "archived": false,
+          "id": 39,
+          "slug": "mentalhealthandcounselling",
+          "title": "Mental Health and Counselling",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Mental+Health+%26+Counselling.jpg",
+          "jobCount": 350
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=yuLfWau4h28",
+      "organisation": {
+        "id": 3026,
+        "name": "Uniting (Victoria and Tasmania) Limited",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1763593170_OxI0z_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1763593170_OxI0z_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1763593170_OxI0z_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1763593170_OxI0z_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1763593170_OxI0z_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1763593170_OxI0z_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553018,
+      "title": "AOD Residential Nurse - Hope Centre",
+      "slug": "odysseyhousevic/aod-residential-nurse-hope-centre-bairnsdale-1",
+      "organisationName": "Odyssey House Victoria",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1751928004_wQR5G_.png",
+      "summary": "Support residents in residential treatment toÂ establishÂ healthier lifestyles free of problematic alcohol and drug use.",
+      "expiresAt": "2026-03-31T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional VIC",
+          "locality": "Bairnsdale"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://odyssey.org.au/https-odyssey-elmotalent-com-au-careers-workwithohv-job-view-462/",
+      "location_name": "Regional VIC",
+      "locality": "Bairnsdale",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/odysseyhousevic/aod-residential-nurse-hope-centre-bairnsdale-1",
+      "approvedAt": "2026-03-04T04:26:43.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 4,
+          "slug": "alcoholandotherdrugs",
+          "title": "Alcohol and Other Drugs",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Alcohol+%26+Other+Drugs.jpeg",
+          "jobCount": 49
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 78
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 2,
+        "slug": "REGVIC",
+        "title": "Regional VIC",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$56.5524 per hour + super + 17.5% annual leave loading and generous salary packaging options"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 3651,
+        "name": "Odyssey House Victoria",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1751928004_wQR5G_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1751928004_wQR5G_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1751928004_wQR5G_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1751928004_wQR5G_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1751928004_wQR5G_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1751928004_wQR5G_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552840,
+      "title": "Registered Nurse",
+      "slug": "Yooralla/registered-nurse-disability-health-clinical-advisor-3",
+      "organisationName": "Yooralla",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1678317396_vDRyU_.jpg",
+      "summary": "If youâre ready to use your clinical expertise to influence practice, uplift capability and contribute to highâquality NDIS supports across Victoria, this is a role where your impact is truly felt.",
+      "expiresAt": "2026-03-20T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "CBD & Inner Suburbs Melbourne"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://jobs.yooralla.com.au/en/job/494864/registered-nurse-disability-health-clinical-advisor",
+      "location_name": "Melbourne",
+      "locality": "CBD & Inner Suburbs Melbourne",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/Yooralla/registered-nurse-disability-health-clinical-advisor-3",
+      "approvedAt": "2026-03-03T00:40:43.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 203383,
+          "parentId": 552840,
+          "mimeType": "application/pdf",
+          "fileName": "1772498167_P1s8W_.pdf",
+          "size": 187392,
+          "originalFileName": "DHCA position description 2024 (002).pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1772498167_P1s8W_.pdf",
+          "createdAt": "2026-03-03 00:36:07",
+          "updatedAt": "2026-03-03 00:36:07"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 79
+        },
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 206
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/10LbsphWqHs?si=qW-KL7zDJBXoKGgc",
+      "organisation": {
+        "id": 5128,
+        "name": "Yooralla",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1678317396_vDRyU_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1678317396_vDRyU_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1678317396_vDRyU_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1678317396_vDRyU_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1678317396_vDRyU_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1678317396_vDRyU_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553938,
+      "title": "Registered Nurse - Community Care",
+      "slug": "Uniting/registered-nurse-community-care-tweed-heads-kingscliff",
+      "organisationName": "Uniting (NSW.ACT)",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+      "summary": "Play a key role in providing high-quality clinical care that promotes client self-determination, enhances resilience, & improves overall quality of life for both individuals and their family carers. ",
+      "expiresAt": "2026-04-11T07:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Tweed Heads"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://ars2.equest.com/?response_id=9bc85a3d9b85f1f655a6811b60779ff1",
+      "location_name": "Regional NSW",
+      "locality": "Tweed Heads",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/registered-nurse-community-care-tweed-heads-kingscliff",
+      "approvedAt": "2026-03-12T03:46:59.000Z",
+      "application": "<p><a href=\"https://ars2.equest.com/?response_id=9bc85a3d9b85f1f655a6811b60779ff1\" target=\"_blank\" rel=\"noopener\"><img alt=\"Apply\" src=\"http://www2.equest.com/images/applyhere.gif\" /></a><img src=\"https://ars2.equest.com/?response_id=9bc85a3d9b85f1f655a6811b60779ff1&amp;view\" alt=\"\" width=\"1\" height=\"1\" /></p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 186
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 78
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/MIEiR9Brl2Y",
+      "organisation": {
+        "id": 6389,
+        "name": "Uniting (NSW.ACT)",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1766119118_I8OGM_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1766119118_I8OGM_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1766119118_I8OGM_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1766119118_I8OGM_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1766119118_I8OGM_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552890,
+      "title": "Registered Nurse - Home & Community Care",
+      "slug": "Uniting/registered-nurse-home-community-care-yamba-grafton",
+      "organisationName": "Uniting (NSW.ACT)",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+      "summary": "Play a key role in providing high-quality clinical care that promotes client self-determination, enhances resilience, and improves overall quality of life for both individuals and their family carers.",
+      "expiresAt": "2026-04-02T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Grafton"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://ars2.equest.com/?response_id=3c3fe27a4b1a3322c8f34952f3f4af87",
+      "location_name": "Regional NSW",
+      "locality": "Grafton",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/registered-nurse-home-community-care-yamba-grafton",
+      "approvedAt": "2026-03-03T04:12:29.000Z",
+      "application": "<p><a href=\"https://ars2.equest.com/?response_id=3c3fe27a4b1a3322c8f34952f3f4af87\" target=\"_blank\" rel=\"noopener\"><img alt=\"Apply\" src=\"http://www2.equest.com/images/applyhere.gif\" /></a><img src=\"https://ars2.equest.com/?response_id=3c3fe27a4b1a3322c8f34952f3f4af87&amp;view\" alt=\"\" width=\"1\" height=\"1\" /></p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 79
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/MIEiR9Brl2Y",
+      "organisation": {
+        "id": 6389,
+        "name": "Uniting (NSW.ACT)",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1766119118_I8OGM_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1766119118_I8OGM_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1766119118_I8OGM_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1766119118_I8OGM_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1766119118_I8OGM_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553304,
+      "title": "Youth Mental Health Nurse",
+      "slug": "EACHnh/youth-mental-health-nurse-narre-warren-dandenong-pakenham-1",
+      "organisationName": "Each ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1741671435_9RIdB_.png",
+      "summary": "Part-time, ongoing position. You will help young people navigate physical, mental, and sexual health concerns, including alcohol and other drugs (AOD) support â ensuring holistic, youth-friendly care.",
+      "expiresAt": "2026-03-18T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "Narre Warren"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://easyapply.jobs/r/FETSYtF261p3PFpzGEZ",
+      "location_name": "Melbourne",
+      "locality": "Narre Warren",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/EACHnh/youth-mental-health-nurse-narre-warren-dandenong-pakenham-1",
+      "approvedAt": "2026-03-05T22:41:17.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 203628,
+          "parentId": 553304,
+          "mimeType": "application/pdf",
+          "fileName": "1772750370_ehPxU_.pdf",
+          "size": 322478,
+          "originalFileName": "PD - Nurse - Mental Health.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1772750370_ehPxU_.pdf",
+          "createdAt": "2026-03-05 22:39:30",
+          "updatedAt": "2026-03-05 22:39:30"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 53,
+          "slug": "youthservices",
+          "title": "Youth",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Youth.jpeg",
+          "jobCount": 299
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 79
+        },
+        {
+          "archived": false,
+          "id": 39,
+          "slug": "mentalhealthandcounselling",
+          "title": "Mental Health and Counselling",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Mental+Health+%26+Counselling.jpg",
+          "jobCount": 355
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$56.65 per hour + 12% super + generous Salary Packaging benefits of up to $18,550"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 9811,
+        "name": "Each ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1741671435_9RIdB_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1741671435_9RIdB_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1741671435_9RIdB_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1741671435_9RIdB_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1741671435_9RIdB_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1741671435_9RIdB_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553303,
+      "title": "Youth Mental Health Nurse",
+      "slug": "EACHnh/youth-mental-health-nurse-narre-warren-dandenong-pakenham",
+      "organisationName": "Each ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1741671435_9RIdB_.png",
+      "summary": "Part-time contract until 30 June 2026, with the possibility to become ongoing. You will help young people navigate physical, mental, and sexual health concerns ensuring holistic, youth-friendly care.",
+      "expiresAt": "2026-03-18T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "Narre Warren"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://easyapply.jobs/r/nFTSYon261pVmnsqchf",
+      "location_name": "Melbourne",
+      "locality": "Narre Warren",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/EACHnh/youth-mental-health-nurse-narre-warren-dandenong-pakenham",
+      "approvedAt": "2026-03-05T22:35:33.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 203627,
+          "parentId": 553303,
+          "mimeType": "application/pdf",
+          "fileName": "1772750101_6RmHF_.pdf",
+          "size": 322478,
+          "originalFileName": "PD - Nurse Mental Health.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1772750101_6RmHF_.pdf",
+          "createdAt": "2026-03-05 22:35:01",
+          "updatedAt": "2026-03-05 22:35:01"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 53,
+          "slug": "youthservices",
+          "title": "Youth",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Youth.jpeg",
+          "jobCount": 299
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 79
+        },
+        {
+          "archived": false,
+          "id": 39,
+          "slug": "mentalhealthandcounselling",
+          "title": "Mental Health and Counselling",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Mental+Health+%26+Counselling.jpg",
+          "jobCount": 355
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$56.65 per hour + 12% super + generous Salary Packaging benefits of up to $18,550"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        },
+        {
+          "id": 2,
+          "slug": "CONTRACT",
+          "title": "Contract",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 9811,
+        "name": "Each ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1741671435_9RIdB_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1741671435_9RIdB_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1741671435_9RIdB_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1741671435_9RIdB_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1741671435_9RIdB_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1741671435_9RIdB_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551275,
+      "title": "Clinical Care Partner / Registered Nurse - Aged Care",
+      "slug": "ImpactAdvising/clinical-care-partner-registered-nurse-aged-care-eremea",
+      "organisationName": "Impact Advising ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1732512482_eKvIm_.jpg",
+      "summary": "Lead clinical care for older people at home. Full-time, permanent Sydney role in a purpose-driven team.",
+      "expiresAt": "2026-03-19T04:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Ashfield"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://apply.jobadder.com/au6/2044/831950/xwib2aetduseploqxtwfxv4boa",
+      "location_name": "Sydney",
+      "locality": "Ashfield",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/ImpactAdvising/clinical-care-partner-registered-nurse-aged-care-eremea",
+      "approvedAt": "2026-02-17T05:05:58.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 79
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 1,
+          "slug": "Business and Private Sector",
+          "title": "Business/Private Sector",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 18167,
+        "name": "Impact Advising ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1732512482_eKvIm_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1732512482_eKvIm_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1732512482_eKvIm_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1732512482_eKvIm_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1732512482_eKvIm_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1732512482_eKvIm_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553859,
+      "title": "Sexual Health Nurse - Viral Hepatitis Care Coordination",
+      "slug": "CongressHRTeam/sexual-health-nurse-viral-hepatitis-care-coordination-alice-springs",
+      "organisationName": "Central Australian Aboriginal Congress",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1708174072_Gnjon_.png",
+      "summary": "Support the formation and implementation of a viral hepatitis care coordination process across Central Australian regions, including Congress town and remote clinics. ",
+      "expiresAt": null,
+      "isExpirationHidden": true,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NT",
+          "locality": "Alice Springs"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://caac.expr3ss.com/jobDetails?selectJob=1020&s=209",
+      "location_name": "Regional NT",
+      "locality": "Alice Springs",
+      "state": "NT",
+      "url": "https://www.ethicaljobs.com.au/members/CongressHRTeam/sexual-health-nurse-viral-hepatitis-care-coordination-alice-springs",
+      "approvedAt": "2026-03-11T21:51:57.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 199
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 78
+        },
+        {
+          "archived": false,
+          "id": 32,
+          "slug": "indigenous",
+          "title": "Indigenous",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Indigenous.jpeg",
+          "jobCount": 253
+        },
+        {
+          "archived": false,
+          "id": 28,
+          "slug": "healthpromotion",
+          "title": "Health Promotion",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health_Promotion.jpg",
+          "jobCount": 92
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 14,
+        "slug": "REGNT",
+        "title": "Regional NT",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "Total Effective Package - $148,749 - $158,888"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 1828,
+        "name": "Central Australian Aboriginal Congress",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1708174072_Gnjon_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1708174072_Gnjon_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1708174072_Gnjon_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1708174072_Gnjon_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1708174072_Gnjon_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1708174072_Gnjon_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553277,
+      "title": "ICU Clinical Audit and Research Mentor (Voluntary) - ANGAU Hospital",
+      "slug": "AVI/icu-clinical-audit-and-research-mentor-voluntary-angau-hospital-papua-new-guinea-1",
+      "organisationName": "Australian Volunteers Program",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1613103987_H1ayq_.jpg",
+      "summary": "As a volunteer, MentorÂ the Research Officer and key nursing staff through ongoing coaching, feedback, and co-supervision of audit or research activities.",
+      "expiresAt": "2026-04-01T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "International",
+          "locality": null
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://www.australianvolunteers.com/assignments/icu-clinical-audit-and-research-mentor-papua-new-guinea-655867/?utm_medium=advertising&utm_source=ethicaljobs&utm_campaign=Specific+assignment",
+      "location_name": "International",
+      "locality": "$undefined",
+      "state": "Unknown",
+      "url": "https://www.ethicaljobs.com.au/members/AVI/icu-clinical-audit-and-research-mentor-voluntary-angau-hospital-papua-new-guinea-1",
+      "approvedAt": "2026-03-05T05:46:27.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 203600,
+          "parentId": 553277,
+          "mimeType": "application/pdf",
+          "fileName": "1772689391_Nsg56_.pdf",
+          "size": 239743,
+          "originalFileName": "ICU Clinical Audit and Research Mentor in Papua New Guinea (rest of) v4.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1772689391_Nsg56_.pdf",
+          "createdAt": "2026-03-05 05:43:11",
+          "updatedAt": "2026-03-05 05:43:11"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 33,
+          "slug": "internationalaidandevelopment",
+          "title": "International Aid and Development",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/International+Development.jpeg",
+          "jobCount": 52
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 78
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 17,
+        "slug": "INTERNATIONAL",
+        "title": "International",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 6,
+          "slug": "VOLUNTEER",
+          "title": "Volunteer",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=zumFJCKAGvg",
+      "organisation": {
+        "id": 5103,
+        "name": "Australian Volunteers Program",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1613103987_H1ayq_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1613103987_H1ayq_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1613103987_H1ayq_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1613103987_H1ayq_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1613103987_H1ayq_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1613103987_H1ayq_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 549365,
+      "title": "Industrial Officer",
+      "slug": "NSWNursesAssociation/industrial-officer-ongoing",
+      "organisationName": "New South Wales Nurses and Midwives' Association",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1656399027_eBylj_.png",
+      "summary": "Lead high impact industrial and organising campaigns that deliver real wins for nurses and midwives across NSWâs public health system. Permanent Full-Time position, Based in Waterloo.",
+      "expiresAt": "2026-03-19T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Waterloo"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://nswnma.connxcareers.com/applicant/apply/eb8bac61329447d5b5b80037d8792268",
+      "location_name": "Sydney",
+      "locality": "Waterloo",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/NSWNursesAssociation/industrial-officer-ongoing",
+      "approvedAt": "2026-02-02T03:01:59.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 201761,
+          "parentId": 549365,
+          "mimeType": "application/pdf",
+          "fileName": "1769998203_waSJJ_.pdf",
+          "size": 121172,
+          "originalFileName": "Industrial Officer - PHO PD.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1769998203_waSJJ_.pdf",
+          "createdAt": "2026-02-02 02:10:04",
+          "updatedAt": "2026-02-02 02:10:04"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 50,
+          "slug": "unionsandworkersrights",
+          "title": "Unions and Workers Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Unions_&_Workers_Rights.jpg",
+          "jobCount": 30
+        },
+        {
+          "archived": false,
+          "id": 2,
+          "slug": "advocacy",
+          "title": "Advocacy and Campaigns",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Advocacy+%26+Campaigns.jpeg",
+          "jobCount": 71
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$143,846.37 - $183,826.39 per annum plus super"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 4589,
+        "name": "New South Wales Nurses and Midwives' Association",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1656399027_eBylj_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1656399027_eBylj_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1656399027_eBylj_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1656399027_eBylj_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1656399027_eBylj_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1656399027_eBylj_.png"
+        }
+      },
+      "applicationDate": null
+    }
+  ]
+}

@@ -1,0 +1,3560 @@
+{
+  "category": "Allied Health",
+  "data": [
+    {
+      "id": 552925,
+      "title": "Industrial Officer",
+      "slug": "VHPAHSU3/industrial-officer-1",
+      "organisationName": "Victorian Allied Health Professionals Association",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1473237510_jIjGQ_.png",
+      "summary": "Industrial Officer role with VAHPA. Advocate for Allied Health members, interpret awards and EAs, manage cases and represent at tribunals. Fixed-term, Carlton-based, 12% super.",
+      "expiresAt": "2026-04-08T13:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": true,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "Carlton"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Melbourne",
+      "locality": "Carlton",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/VHPAHSU3/industrial-officer-1",
+      "approvedAt": "2026-03-03T06:15:08.000Z",
+      "application": "<p>Please include a cover letter, responses to the selection criteria and your CV in your application.</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 203423,
+          "parentId": 552925,
+          "mimeType": "application/pdf",
+          "fileName": "1772516993_hkshz_.pdf",
+          "size": 191873,
+          "originalFileName": "Industrial Officer MRT PD [19 Sept 2025].pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1772516993_hkshz_.pdf",
+          "createdAt": "2026-03-03 05:49:54",
+          "updatedAt": "2026-03-03 05:49:54"
+        },
+        {
+          "id": 203424,
+          "parentId": 552925,
+          "mimeType": "application/pdf",
+          "fileName": "1772516999_lkkiJ_.pdf",
+          "size": 182122,
+          "originalFileName": "Industrial Officer MRT Selection Criteria [19 Sept 2025].pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1772516999_lkkiJ_.pdf",
+          "createdAt": "2026-03-03 05:49:59",
+          "updatedAt": "2026-03-03 05:49:59"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 50,
+          "slug": "unionsandworkersrights",
+          "title": "Unions and Workers Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Unions_&_Workers_Rights.jpg",
+          "jobCount": 27
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$92,943 - $106,836 per annum"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 2713,
+        "name": "Victorian Allied Health Professionals Association",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1473237510_jIjGQ_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1473237510_jIjGQ_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1473237510_jIjGQ_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1473237510_jIjGQ_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1473237510_jIjGQ_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1473237510_jIjGQ_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553534,
+      "title": "Allied Health Assistant",
+      "slug": "SaferSpaces/allied-health-assistant-groups-support",
+      "organisationName": "Safer Spaces",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1773027305_t0XWE_.jpg",
+      "summary": "Weâre looking for someone to join our small family run business to support with our neuro-affirming social groups. \n",
+      "expiresAt": "2026-04-23T07:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": true,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "Point Cook"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Melbourne",
+      "locality": "Point Cook",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/SaferSpaces/allied-health-assistant-groups-support",
+      "approvedAt": "2026-03-09T04:51:12.000Z",
+      "application": "<p>If this sounds like something that may be a good match for you, please submit your CV and Cover letter to Caitlyn and Josh via the form below.</p>\n<p><strong>We will be conducting interviews as soon as appropriate candidates apply, so you please apply as soon as possible.</strong></p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 203742,
+          "parentId": 553534,
+          "mimeType": "application/pdf",
+          "fileName": "1773028869_ALhwd_.pdf",
+          "size": 79863,
+          "originalFileName": "AHA Groups Support 2026.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1773028869_ALhwd_.pdf",
+          "createdAt": "2026-03-09 04:01:09",
+          "updatedAt": "2026-03-09 04:01:09"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 19,
+          "slug": "familyservices",
+          "title": "Family Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Family_Services.jpg",
+          "jobCount": 294
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 14,
+          "slug": "earlychildhood",
+          "title": "Early Childhood",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Early_Childhood.jpg",
+          "jobCount": 71
+        },
+        {
+          "archived": false,
+          "id": 47,
+          "slug": "socialwork",
+          "title": "Social Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Social_Work.jpg",
+          "jobCount": 441
+        },
+        {
+          "archived": false,
+          "id": 53,
+          "slug": "youthservices",
+          "title": "Youth",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Youth.jpeg",
+          "jobCount": 304
+        },
+        {
+          "archived": false,
+          "id": 10,
+          "slug": "communityanddevelopment",
+          "title": "Community Development",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Community_Development.jpeg.jpg",
+          "jobCount": 123
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 1,
+          "slug": "Business and Private Sector",
+          "title": "Business/Private Sector",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 20921,
+        "name": "Safer Spaces",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1773027305_t0XWE_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1773027305_t0XWE_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1773027305_t0XWE_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1773027305_t0XWE_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1773027305_t0XWE_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1773027305_t0XWE_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553569,
+      "title": "Nurse Practitioner - Mparntwe Urgent Care Clinic",
+      "slug": "CongressHRTeam/nurse-practitioner-mparntwe-urgent-care-clinic-alice-springs",
+      "organisationName": "Central Australian Aboriginal Congress",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1708174072_Gnjon_.png",
+      "summary": "Play a major role in the continued success of the Urgent Care Clinic in Mparntwe (Alice Springs) with the Northern Territory's largest Aboriginal Community Controlled Health Service.\n\n ",
+      "expiresAt": null,
+      "isExpirationHidden": true,
+      "isFeatured": true,
+      "locations": [
+        {
+          "name": "Regional NT",
+          "locality": "Alice Springs"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://caac.expr3ss.com/jobDetails?selectJob=1019&s=209",
+      "location_name": "Regional NT",
+      "locality": "Alice Springs",
+      "state": "NT",
+      "url": "https://www.ethicaljobs.com.au/members/CongressHRTeam/nurse-practitioner-mparntwe-urgent-care-clinic-alice-springs",
+      "approvedAt": "2026-03-09T21:58:42.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 68
+        },
+        {
+          "archived": false,
+          "id": 32,
+          "slug": "indigenous",
+          "title": "Indigenous",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Indigenous.jpeg",
+          "jobCount": 230
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 14,
+        "slug": "REGNT",
+        "title": "Regional NT",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "Effective Salary: $177,506 to $184,213 per annum"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 1828,
+        "name": "Central Australian Aboriginal Congress",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1708174072_Gnjon_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1708174072_Gnjon_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1708174072_Gnjon_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1708174072_Gnjon_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1708174072_Gnjon_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1708174072_Gnjon_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552613,
+      "title": "Dietitian",
+      "slug": "bmwhrc/dietitian",
+      "organisationName": "Blue Mountains Women's Health & Resource Centre",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1666574878_hldt2_.png",
+      "summary": "We are seeking a part time Dietitian for up to 15 hours per week (negotiable) to join our dedicated team of professionals at our Blue Mountains site in Katoomba with outreach to Faulconbridge.",
+      "expiresAt": "2026-03-18T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": true,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Katoomba"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Sydney",
+      "locality": "Katoomba",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/bmwhrc/dietitian",
+      "approvedAt": "2026-03-01T22:57:33.000Z",
+      "application": "<p>All applications must demonstrate experience and training within criteria to be considered for this role.</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 203270,
+          "parentId": 552613,
+          "mimeType": "application/pdf",
+          "fileName": "1772176073_3lalT_.pdf",
+          "size": 387891,
+          "originalFileName": "Dietician Job Description February 2026.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1772176073_3lalT_.pdf",
+          "createdAt": "2026-02-27 07:07:53",
+          "updatedAt": "2026-02-27 07:07:53"
+        },
+        {
+          "id": 203271,
+          "parentId": 552613,
+          "mimeType": "application/pdf",
+          "fileName": "1772176080_EAiG2_.pdf",
+          "size": 386233,
+          "originalFileName": "Appendix - General Criteria for BMWHRC Employees.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1772176080_EAiG2_.pdf",
+          "createdAt": "2026-02-27 07:08:00",
+          "updatedAt": "2026-02-27 07:08:00"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 183
+        },
+        {
+          "archived": false,
+          "id": 52,
+          "slug": "womensorganisationsandservices",
+          "title": "Womens Organisations and Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Women's+Organisations+%26+Services.jpeg",
+          "jobCount": 101
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "Level 5:1 at $59.28 part-time p/hour"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 1360,
+        "name": "Blue Mountains Women's Health & Resource Centre",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1666574878_hldt2_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1666574878_hldt2_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1666574878_hldt2_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1666574878_hldt2_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1666574878_hldt2_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1666574878_hldt2_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 550680,
+      "title": "Manager - Head To Health Kids",
+      "slug": "CongressHRTeam/manager-head-to-health-kids-alice-springs",
+      "organisationName": "Central Australian Aboriginal Congress",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1708174072_Gnjon_.png",
+      "summary": "The Head to Health Kids (H2HK) Manager supports the Senior Manager in leading the operations of H2HK.",
+      "expiresAt": "2026-03-28T14:30:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": true,
+      "locations": [
+        {
+          "name": "Regional NT",
+          "locality": "Alice Springs & Central Australia"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://caac.expr3ss.com/jobDetails?selectJob=670&s=6",
+      "location_name": "Regional NT",
+      "locality": "Alice Springs & Central Australia",
+      "state": "NT",
+      "url": "https://www.ethicaljobs.com.au/members/CongressHRTeam/manager-head-to-health-kids-alice-springs",
+      "approvedAt": "2026-02-11T05:36:17.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 202370,
+          "parentId": 550680,
+          "mimeType": "application/pdf",
+          "fileName": "1770786029_5IYKa_.pdf",
+          "size": 710229,
+          "originalFileName": "PN670 - Manager Head to Head Kids.docx.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1770786029_5IYKa_.pdf",
+          "createdAt": "2026-02-11 05:00:29",
+          "updatedAt": "2026-02-11 05:00:29"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 36,
+          "slug": "management",
+          "title": "Management",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Management.jpeg",
+          "jobCount": 261
+        },
+        {
+          "archived": false,
+          "id": 32,
+          "slug": "indigenous",
+          "title": "Indigenous",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Indigenous.jpeg",
+          "jobCount": 230
+        },
+        {
+          "archived": false,
+          "id": 39,
+          "slug": "mentalhealthandcounselling",
+          "title": "Mental Health and Counselling",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Mental+Health+%26+Counselling.jpg",
+          "jobCount": 347
+        },
+        {
+          "archived": false,
+          "id": 53,
+          "slug": "youthservices",
+          "title": "Youth",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Youth.jpeg",
+          "jobCount": 304
+        },
+        {
+          "archived": false,
+          "id": 19,
+          "slug": "familyservices",
+          "title": "Family Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Family_Services.jpg",
+          "jobCount": 294
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 14,
+        "slug": "REGNT",
+        "title": "Regional NT",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "Base Salary: $138,391 - $145,041 (p.a.)"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 1828,
+        "name": "Central Australian Aboriginal Congress",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1708174072_Gnjon_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1708174072_Gnjon_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1708174072_Gnjon_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1708174072_Gnjon_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1708174072_Gnjon_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1708174072_Gnjon_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 550675,
+      "title": "Manager - Child and Youth Assessment & Therapeutic Services",
+      "slug": "CongressHRTeam/manager-child-and-youth-assessment-therapeutic-services-alice-springs",
+      "organisationName": "Central Australian Aboriginal Congress",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1708174072_Gnjon_.png",
+      "summary": "The Manager of the Child and Youth Assessment and Therapeutic Service (CYATS) is one of several Managers leading the operations of the expanded and dynamic service in Central Australia.",
+      "expiresAt": "2026-03-28T14:30:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": true,
+      "locations": [
+        {
+          "name": "Regional NT",
+          "locality": "Alice Springs & Central Australia"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://caac.expr3ss.com/jobDetails?selectJob=777&s=6",
+      "location_name": "Regional NT",
+      "locality": "Alice Springs & Central Australia",
+      "state": "NT",
+      "url": "https://www.ethicaljobs.com.au/members/CongressHRTeam/manager-child-and-youth-assessment-therapeutic-services-alice-springs",
+      "approvedAt": "2026-02-11T05:29:05.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 202369,
+          "parentId": 550675,
+          "mimeType": "application/pdf",
+          "fileName": "1770785636_2evkZ_.pdf",
+          "size": 705328,
+          "originalFileName": "PN711 - Manager CYATS AUG24.dotx.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1770785636_2evkZ_.pdf",
+          "createdAt": "2026-02-11 04:53:56",
+          "updatedAt": "2026-02-11 04:53:56"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 36,
+          "slug": "management",
+          "title": "Management",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Management.jpeg",
+          "jobCount": 261
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 183
+        },
+        {
+          "archived": false,
+          "id": 32,
+          "slug": "indigenous",
+          "title": "Indigenous",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Indigenous.jpeg",
+          "jobCount": 233
+        },
+        {
+          "archived": false,
+          "id": 53,
+          "slug": "youthservices",
+          "title": "Youth",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Youth.jpeg",
+          "jobCount": 303
+        },
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 182
+        },
+        {
+          "archived": false,
+          "id": 19,
+          "slug": "familyservices",
+          "title": "Family Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Family_Services.jpg",
+          "jobCount": 293
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 14,
+        "slug": "REGNT",
+        "title": "Regional NT",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "Base Salary: $138,391 - $145,041 (p.a.)"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 2,
+          "slug": "CONTRACT",
+          "title": "Contract",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 1828,
+        "name": "Central Australian Aboriginal Congress",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1708174072_Gnjon_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1708174072_Gnjon_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1708174072_Gnjon_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1708174072_Gnjon_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1708174072_Gnjon_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1708174072_Gnjon_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552971,
+      "title": "Allied Health Scheduling Support Officer",
+      "slug": "cohealth_BS/allied-health-scheduling-support-officer",
+      "organisationName": "cohealth",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1525245416_grsTU_.jpeg",
+      "summary": "FT, fixed term role available in Kensington. Ensure that allied health appointments are consistently filled. Manage disruptions and independently identify service gaps.",
+      "expiresAt": "2026-03-18T11:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "Kensington"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://cohealthcareers.org.au/Current-Jobs/6871310/title/",
+      "location_name": "Melbourne",
+      "locality": "Kensington",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/cohealth_BS/allied-health-scheduling-support-officer",
+      "approvedAt": "2026-03-04T00:16:03.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 1,
+          "slug": "administration",
+          "title": "Administration",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Administration.jpeg",
+          "jobCount": 161
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 185
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 2,
+          "slug": "CONTRACT",
+          "title": "Contract",
+          "archived": false
+        },
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 2425,
+        "name": "cohealth",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1525245416_grsTU_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1525245416_grsTU_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1525245416_grsTU_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1525245416_grsTU_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1525245416_grsTU_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1525245416_grsTU_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552159,
+      "title": "Finance Manager",
+      "slug": "Royalrehab/finance-manager-allied-health",
+      "organisationName": "Royal Rehab Group",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1770771371_sZCai_.png",
+      "summary": "Lead financial strategy for Allied Health and turn insight into real impact. Influence decisions, drive performance and support sustainable growth!",
+      "expiresAt": "2026-03-21T04:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Milsons Point"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://apply.jobadder.com/18162/832897/bnfq2c2ghonerhgts5ozoby6dm?site=au6",
+      "location_name": "Sydney",
+      "locality": "Milsons Point",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Royalrehab/finance-manager-allied-health",
+      "approvedAt": "2026-02-25T01:00:51.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 21,
+          "slug": "financeandaccounting",
+          "title": "Finance and Accounting",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Finance+and+Accounting.jpeg",
+          "jobCount": 90
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=s19WIayDap4",
+      "organisation": {
+        "id": 219,
+        "name": "Royal Rehab Group",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1770771371_sZCai_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1770771371_sZCai_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1770771371_sZCai_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1770771371_sZCai_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1770771371_sZCai_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1770771371_sZCai_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553952,
+      "title": "Paediatric Occupational Therapist",
+      "slug": "Umbo/paediatric-occupational-therapist-remote-work-from-home",
+      "organisationName": "Umbo - Allied Health Services",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1596763391_O50SC_.jpg",
+      "summary": "Want your work to actually matter, without burning out? Are you an OT who believes access to therapy shouldnât depend on postcode, waitlists, or privilege? Use your skills to create real impact.",
+      "expiresAt": "2026-04-26T07:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "CBD, Inner West & Eastern Suburbs Sydney"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://umbo.com.au/join-the-team-3/",
+      "location_name": "Sydney",
+      "locality": "CBD, Inner West & Eastern Suburbs Sydney",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Umbo/paediatric-occupational-therapist-remote-work-from-home",
+      "approvedAt": "2026-03-12T05:04:58.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 53,
+          "slug": "youthservices",
+          "title": "Youth",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Youth.jpeg",
+          "jobCount": 304
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$70 - $94.99 per hour"
+      },
+      "sectors": [
+        {
+          "id": 5,
+          "slug": "socialenterprise",
+          "title": "Social Enterprise",
+          "archived": false
+        },
+        {
+          "id": 1,
+          "slug": "Business and Private Sector",
+          "title": "Business/Private Sector",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 2,
+          "slug": "CONTRACT",
+          "title": "Contract",
+          "archived": false
+        },
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        },
+        {
+          "id": 8,
+          "slug": "REMOTE",
+          "title": "Remote / Work from Home",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 10443,
+        "name": "Umbo - Allied Health Services",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1596763391_O50SC_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1596763391_O50SC_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1596763391_O50SC_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1596763391_O50SC_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1596763391_O50SC_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1596763391_O50SC_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552790,
+      "title": "Experienced Therapist",
+      "slug": "AbletoPlay/allied-health-therapist",
+      "organisationName": "Able to Play",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1772163002_dRKul_.jpg",
+      "summary": "Lead Saturday specialised sport and social skills groups for children with disabilities in a fun, inclusive environment. Attractive Saturday rates and the chance to make a real impact! ",
+      "expiresAt": null,
+      "isExpirationHidden": true,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Hunters Hill"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Sydney",
+      "locality": "Hunters Hill",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/AbletoPlay/allied-health-therapist",
+      "approvedAt": "2026-03-02T22:54:49.000Z",
+      "application": "<p>Please submit the following:</p>\n<ol>\n<li>A cover letter addressing the key selection criteria</li>\n<li>Your CV (including contact details for two referees)</li>\n</ol>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 182
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 183
+        },
+        {
+          "archived": false,
+          "id": 53,
+          "slug": "youthservices",
+          "title": "Youth",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Youth.jpeg",
+          "jobCount": 303
+        },
+        {
+          "archived": false,
+          "id": 47,
+          "slug": "socialwork",
+          "title": "Social Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Social_Work.jpg",
+          "jobCount": 441
+        },
+        {
+          "archived": false,
+          "id": 39,
+          "slug": "mentalhealthandcounselling",
+          "title": "Mental Health and Counselling",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Mental+Health+%26+Counselling.jpg",
+          "jobCount": 344
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [
+        {
+          "id": 24,
+          "question": "Do you have full and unrestricted rights to work in Australia?",
+          "alias": "Unrestricted rights to work in Australia",
+          "blanks": {},
+          "category": "Work Eligibility",
+          "displayText": "Do you have full and unrestricted rights to work in Australia?"
+        },
+        {
+          "id": 33,
+          "question": "Have you completed a <x> in <y> or a related field?",
+          "alias": "Completed required qualifications",
+          "blanks": {
+            "x": "OT, Psychology, Speech Pathology or Social Work degree",
+            "y": "Disability"
+          },
+          "category": "Qualifications",
+          "displayText": "Have you completed a OT, Psychology, Speech Pathology or Social Work degree in Disability or a related field?"
+        }
+      ],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$65.68 - $76.67 + Superannuation (Based on experience)"
+      },
+      "sectors": [
+        {
+          "id": 1,
+          "slug": "Business and Private Sector",
+          "title": "Business/Private Sector",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 20885,
+        "name": "Able to Play",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1772163002_dRKul_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1772163002_dRKul_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1772163002_dRKul_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1772163002_dRKul_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1772163002_dRKul_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1772163002_dRKul_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552161,
+      "title": "Team Leader - Physio Allied Health",
+      "slug": "Royalrehab/team-leader-physio-allied-health-dubbo",
+      "organisationName": "Royal Rehab Group",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1770771371_sZCai_.png",
+      "summary": "Lead and mentor a group of talented Physiotherapists and Exercise Physiologists in our Dubbo Clinic!",
+      "expiresAt": "2026-03-27T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Dubbo"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://apply.jobadder.com/18162/834803/bnfq2c2ghonerhgts5ozoby6dm?site=au6",
+      "location_name": "Regional NSW",
+      "locality": "Dubbo",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Royalrehab/team-leader-physio-allied-health-dubbo",
+      "approvedAt": "2026-02-25T01:03:54.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 36,
+          "slug": "management",
+          "title": "Management",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Management.jpeg",
+          "jobCount": 261
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=s19WIayDap4",
+      "organisation": {
+        "id": 219,
+        "name": "Royal Rehab Group",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1770771371_sZCai_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1770771371_sZCai_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1770771371_sZCai_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1770771371_sZCai_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1770771371_sZCai_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1770771371_sZCai_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552103,
+      "title": "Physiotherapist",
+      "slug": "alliedconnect/physiotherapist-maroochydore-sunshine-coast",
+      "organisationName": "Allied Connect",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1696398536_J8lN0_.jpeg",
+      "summary": "We are seeking motivated and enthusiastic Physiotherapists to join our talented team of Allied Health Professionals!",
+      "expiresAt": "2026-03-25T07:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional QLD",
+          "locality": "Maroochydore"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Regional QLD",
+      "locality": "Maroochydore",
+      "state": "QLD",
+      "url": "https://www.ethicaljobs.com.au/members/alliedconnect/physiotherapist-maroochydore-sunshine-coast",
+      "approvedAt": "2026-02-24T06:16:04.000Z",
+      "application": "<p>Please send a cover letter and resume via the form below.</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 185
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 6,
+        "slug": "REGQLD",
+        "title": "Regional QLD",
+        "archived": false
+      },
+      "questions": [
+        {
+          "id": 24,
+          "question": "Do you have full and unrestricted rights to work in Australia?",
+          "alias": "Unrestricted rights to work in Australia",
+          "blanks": {},
+          "category": "Work Eligibility",
+          "displayText": "Do you have full and unrestricted rights to work in Australia?"
+        },
+        {
+          "id": 25,
+          "question": "Do you have a current full Australian driver's licence?",
+          "alias": "Australian driver's licence",
+          "blanks": {},
+          "category": "Licence",
+          "displayText": "Do you have a current full Australian driver's licence?"
+        },
+        {
+          "id": 27,
+          "question": "Do you possess a current satisfactory National Police Clearance Certificate?",
+          "alias": "National Police Clearance Certificate",
+          "blanks": {},
+          "category": "Checks",
+          "displayText": "Do you possess a current satisfactory National Police Clearance Certificate?"
+        },
+        {
+          "id": 29,
+          "question": "Do you possess a current satisfactory NDIS Worker Screening Check?",
+          "alias": "NDIS Worker Screening Check",
+          "blanks": {},
+          "category": "Checks",
+          "displayText": "Do you possess a current satisfactory NDIS Worker Screening Check?"
+        }
+      ],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$73,000 â $100,000 per year + Car + Super"
+      },
+      "sectors": [
+        {
+          "id": 1,
+          "slug": "Business and Private Sector",
+          "title": "Business/Private Sector",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 17796,
+        "name": "Allied Connect",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1696398536_J8lN0_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1696398536_J8lN0_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1696398536_J8lN0_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1696398536_J8lN0_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1696398536_J8lN0_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1696398536_J8lN0_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553686,
+      "title": "Team Leaders x2",
+      "slug": "sch/team-leaders-x2-children-and-youth",
+      "organisationName": "Omnia Community Health",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1772000049_LzMUo_.png",
+      "summary": "Grow your leadership career! Two Allied Health Team Leader roles (ongoing & fixed-term), 0.6â1.0 EFT, flexible locations, great culture and generous salary packaging at Omnia Community Health.",
+      "expiresAt": "2026-03-29T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "Sunbury"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://sunburycobaw.org.au/job-opportunities/",
+      "location_name": "Melbourne",
+      "locality": "Sunbury",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/sch/team-leaders-x2-children-and-youth",
+      "approvedAt": "2026-03-10T05:57:57.000Z",
+      "application": "<h3>How to Apply</h3><p>As an employer, we are all about building a diverse and inclusive team where everyone feels welcome. We will best serve our local community if we are representative, which is why we encourage applications from people of all backgrounds, identities, abilities and experiences. If there is anything we can do to make the recruitment process more accessible for you, just let us know at <a href=\"mailto:peopleandculture@scchc.org.au\" target=\"_blank\" rel=\"noreferrer noopener\">peopleandculture@scchc.org.au</a>. We are here to help.</p><p>To be considered for this role, your application must include a cover letter, resume, including three referees, and responses to the key selection criteria in the Position Description, which need to be submitted via email to: <a href=\"mailto:madison.roffey@omniach.org.au\" target=\"_blank\" rel=\"noreferrer noopener\">madison.roffey@omniach.org.au</a>.</p><p>Applications close via email by Sunday 29 March 2026.</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 203820,
+          "parentId": 553686,
+          "mimeType": "application/pdf",
+          "fileName": "1773119323_crXNC_.pdf",
+          "size": 280253,
+          "originalFileName": "Position Description Template TL (West).pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1773119323_crXNC_.pdf",
+          "createdAt": "2026-03-10 05:08:43",
+          "updatedAt": "2026-03-10 05:08:43"
+        },
+        {
+          "id": 203821,
+          "parentId": 553686,
+          "mimeType": "application/pdf",
+          "fileName": "1773119335_AOW2U_.pdf",
+          "size": 298844,
+          "originalFileName": "Position Description Template TL (North).pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1773119335_AOW2U_.pdf",
+          "createdAt": "2026-03-10 05:08:56",
+          "updatedAt": "2026-03-10 05:08:56"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 36,
+          "slug": "management",
+          "title": "Management",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Management.jpeg",
+          "jobCount": 261
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 19,
+          "slug": "familyservices",
+          "title": "Family Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Family_Services.jpg",
+          "jobCount": 294
+        },
+        {
+          "archived": false,
+          "id": 53,
+          "slug": "youthservices",
+          "title": "Youth",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Youth.jpeg",
+          "jobCount": 304
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$55 - $64.99 per hour"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 1391,
+        "name": "Omnia Community Health",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1772000049_LzMUo_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1772000049_LzMUo_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1772000049_LzMUo_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1772000049_LzMUo_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1772000049_LzMUo_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1772000049_LzMUo_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552885,
+      "title": "Senior Exercise Physiologist",
+      "slug": "Uniting/senior-exercise-physiologist-seniors-gym",
+      "organisationName": "Uniting (NSW.ACT)",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+      "summary": "An exciting opportunity for a Senior Exercise Physiologist to help build a highâperforming and clientâfocused Allied Health team,Â working with clients in their own homes and in our Seniors Gyms.",
+      "expiresAt": "2026-04-02T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Waverley"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://jobs.dayforcehcm.com/en-AU/unitingaunsw/119921/jobs/DF2674?external=true",
+      "location_name": "Sydney",
+      "locality": "Waverley",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/senior-exercise-physiologist-seniors-gym",
+      "approvedAt": "2026-03-03T04:01:04.000Z",
+      "application": "<p><a href=\"https://ars2.equest.com/?response_id=7b12e6952341d076c6e5fdc5bf75e5ff\" target=\"_blank\" rel=\"noopener\"><img alt=\"Apply\" src=\"http://www2.equest.com/images/applyhere.gif\" /></a><img src=\"https://ars2.equest.com/?response_id=7b12e6952341d076c6e5fdc5bf75e5ff&amp;view\" alt=\"\" width=\"1\" height=\"1\" /></p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 175
+        },
+        {
+          "archived": false,
+          "id": 28,
+          "slug": "healthpromotion",
+          "title": "Health Promotion",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health_Promotion.jpg",
+          "jobCount": 92
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 36,
+          "slug": "management",
+          "title": "Management",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Management.jpeg",
+          "jobCount": 261
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/MIEiR9Brl2Y",
+      "organisation": {
+        "id": 6389,
+        "name": "Uniting (NSW.ACT)",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1766119118_I8OGM_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1766119118_I8OGM_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1766119118_I8OGM_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1766119118_I8OGM_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1766119118_I8OGM_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 549654,
+      "title": "Diabetes Educator",
+      "slug": "ATSICHSMackay/diabetes-educator-mackay",
+      "organisationName": "ATSICHS Mackay Ltd",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1707104690_fGku7_.jpg",
+      "summary": "We're seeking a Diabetes Educator to Join a Dynamic Allied Health Care Team! This isÂ a great opportunity to contribute to Indigenous Health in this dynamic environment.",
+      "expiresAt": null,
+      "isExpirationHidden": true,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional QLD",
+          "locality": "Mackay & Coalfields"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Regional QLD",
+      "locality": "Mackay & Coalfields",
+      "state": "QLD",
+      "url": "https://www.ethicaljobs.com.au/members/ATSICHSMackay/diabetes-educator-mackay",
+      "approvedAt": "2026-02-03T06:14:55.000Z",
+      "application": "<p>To submit your application please fill out your details below and upload the relevant documentation.</p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 32,
+          "slug": "indigenous",
+          "title": "Indigenous",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Indigenous.jpeg",
+          "jobCount": 233
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 70
+        },
+        {
+          "archived": false,
+          "id": 28,
+          "slug": "healthpromotion",
+          "title": "Health Promotion",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health_Promotion.jpg",
+          "jobCount": 91
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 6,
+        "slug": "REGQLD",
+        "title": "Regional QLD",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        },
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 18190,
+        "name": "ATSICHS Mackay Ltd",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1707104690_fGku7_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1707104690_fGku7_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1707104690_fGku7_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1707104690_fGku7_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1707104690_fGku7_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1707104690_fGku7_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 554238,
+      "title": "Sexual Violence Link Worker",
+      "slug": "CRCC/sexual-violence-link-worker-1",
+      "organisationName": "Canberra Rape Crisis Centre",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1473237696_ReNvs_.jpeg",
+      "summary": "The SV Link Worker will engage proactively with general practices (including with GPs, nurses, practice managers, allied health practitioners and non-clinical staff).",
+      "expiresAt": "2026-04-16T07:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Canberra & ACT",
+          "locality": "Canberra & ACT"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Canberra & ACT",
+      "locality": "Canberra & ACT",
+      "state": "ACT",
+      "url": "https://www.ethicaljobs.com.au/members/CRCC/sexual-violence-link-worker-1",
+      "approvedAt": "2026-03-16T03:48:20.000Z",
+      "application": "<p>Please include a cover letter (no more than 1 page) outlining why you are interested in the position and what skills and experience you can bring to the role.</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 39,
+          "slug": "mentalhealthandcounselling",
+          "title": "Mental Health and Counselling",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Mental+Health+%26+Counselling.jpg",
+          "jobCount": 347
+        },
+        {
+          "archived": false,
+          "id": 52,
+          "slug": "womensorganisationsandservices",
+          "title": "Womens Organisations and Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Women's+Organisations+%26+Services.jpeg",
+          "jobCount": 98
+        },
+        {
+          "archived": false,
+          "id": 47,
+          "slug": "socialwork",
+          "title": "Social Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Social_Work.jpg",
+          "jobCount": 441
+        },
+        {
+          "archived": false,
+          "id": 54,
+          "slug": "domesticfamilyviolence",
+          "title": "Domestic & Family Violence",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Domestic_and_Family_Violence.jpg",
+          "jobCount": 141
+        },
+        {
+          "archived": false,
+          "id": 16,
+          "slug": "educationandtraining",
+          "title": "Education and Training",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Education+%26+Training.jpeg",
+          "jobCount": 137
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 15,
+        "slug": "ACT",
+        "title": "Canberra & ACT",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$56.95 per hour plus super"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 2,
+          "slug": "CONTRACT",
+          "title": "Contract",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 3990,
+        "name": "Canberra Rape Crisis Centre",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1473237696_ReNvs_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1473237696_ReNvs_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1473237696_ReNvs_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1473237696_ReNvs_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1473237696_ReNvs_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1473237696_ReNvs_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 554445,
+      "title": "Clinician - Practice Lead Behaviour Support",
+      "slug": "DJR_Recruitment2/clinician-practice-lead-behaviour-support-cherry-creek",
+      "organisationName": "Department of Justice and Community Safety",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1634615277_WeIHD_.png",
+      "summary": "Lead a multidisciplinary team delivering psychosocial programs and interventions supporting young people in custody and community reintegration. One ongoing and one fixed term position available.",
+      "expiresAt": "2026-04-10T13:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "Little River"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://applyyj.justice.vic.gov.au/jobs/DJCS-SRSBSSLD26",
+      "location_name": "Melbourne",
+      "locality": "Little River",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/DJR_Recruitment2/clinician-practice-lead-behaviour-support-cherry-creek",
+      "approvedAt": "2026-03-17T06:21:43.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 204243,
+          "parentId": 554445,
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "fileName": "1773726678_xfit7_.docx",
+          "size": 553954,
+          "originalFileName": "Position Description - Principal Clinician Practice (VPS6) - Oct 2025 (7).docx",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1773726678_xfit7_.docx",
+          "createdAt": "2026-03-17 05:51:19",
+          "updatedAt": "2026-03-17 05:51:19"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 39,
+          "slug": "mentalhealthandcounselling",
+          "title": "Mental Health and Counselling",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Mental+Health+%26+Counselling.jpg",
+          "jobCount": 347
+        },
+        {
+          "archived": false,
+          "id": 47,
+          "slug": "socialwork",
+          "title": "Social Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Social_Work.jpg",
+          "jobCount": 441
+        },
+        {
+          "archived": false,
+          "id": 53,
+          "slug": "youthservices",
+          "title": "Youth",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Youth.jpeg",
+          "jobCount": 304
+        },
+        {
+          "archived": false,
+          "id": 36,
+          "slug": "management",
+          "title": "Management",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Management.jpeg",
+          "jobCount": 261
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 185
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "Earn $113,022 - $136,747 per year plus superannuation"
+      },
+      "sectors": [
+        {
+          "id": 6,
+          "slug": "State Government",
+          "title": "State Government",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 2,
+          "slug": "CONTRACT",
+          "title": "Contract",
+          "archived": false
+        },
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 7607,
+        "name": "Department of Justice and Community Safety",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1634615277_WeIHD_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1634615277_WeIHD_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1634615277_WeIHD_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1634615277_WeIHD_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1634615277_WeIHD_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1634615277_WeIHD_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 554436,
+      "title": "Behaviour Support Specialist",
+      "slug": "DJR_Recruitment2/behaviour-support-specialist-1",
+      "organisationName": "Department of Justice and Community Safety",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1634615277_WeIHD_.png",
+      "summary": "Using evidence-informed practice, support young people through life-changing shifts in mindset and behaviour empowering them to make positive choices, learn new skills and reduce harmful behaviours.",
+      "expiresAt": "2026-04-12T13:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "Werribee"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://applyyj.justice.vic.gov.au/jobs/DJCS-1886970",
+      "location_name": "Melbourne",
+      "locality": "Werribee",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/DJR_Recruitment2/behaviour-support-specialist-1",
+      "approvedAt": "2026-03-17T06:15:55.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 204238,
+          "parentId": 554436,
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "fileName": "1773725670_51Byu_.docx",
+          "size": 559739,
+          "originalFileName": "Position Description - VPS4 - Behaviour Support Specialist - Cherry Creek (2026).docx",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1773725670_51Byu_.docx",
+          "createdAt": "2026-03-17 05:34:32",
+          "updatedAt": "2026-03-17 05:34:32"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 28,
+          "slug": "healthpromotion",
+          "title": "Health Promotion",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health_Promotion.jpg",
+          "jobCount": 92
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 53,
+          "slug": "youthservices",
+          "title": "Youth",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Youth.jpeg",
+          "jobCount": 304
+        },
+        {
+          "archived": false,
+          "id": 47,
+          "slug": "socialwork",
+          "title": "Social Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Social_Work.jpg",
+          "jobCount": 441
+        },
+        {
+          "archived": false,
+          "id": 39,
+          "slug": "mentalhealthandcounselling",
+          "title": "Mental Health and Counselling",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Mental+Health+%26+Counselling.jpg",
+          "jobCount": 347
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$97,955 - $111,142 per year, plus super"
+      },
+      "sectors": [
+        {
+          "id": 6,
+          "slug": "State Government",
+          "title": "State Government",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=MszEFHHz20A",
+      "organisation": {
+        "id": 7607,
+        "name": "Department of Justice and Community Safety",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1634615277_WeIHD_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1634615277_WeIHD_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1634615277_WeIHD_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1634615277_WeIHD_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1634615277_WeIHD_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1634615277_WeIHD_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 554402,
+      "title": "Senior Evaluation and Monitoring Advisor",
+      "slug": "headspacenational/senior-evaluation-and-monitoring-advisor-sydney-melbourne-brisbane",
+      "organisationName": "headspace National Youth Mental Health Foundation Ltd",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1565753812_KRdKk_.jpeg",
+      "summary": "headspace is seeking an experienced evaluator with a passion for using data to tell powerful stories.",
+      "expiresAt": "2026-04-16T13:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Sydney"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://www.aplitrak.com/?adid=ai5yYW5nZ2VyLjAxNDI0LjYwNDRAaGVhZHNwYWNlLmFwbGl0cmFrLmNvbQ",
+      "location_name": "Sydney",
+      "locality": "Sydney",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/headspacenational/senior-evaluation-and-monitoring-advisor-sydney-melbourne-brisbane",
+      "approvedAt": "2026-03-17T04:43:08.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 184
+        },
+        {
+          "archived": false,
+          "id": 45,
+          "slug": "projectmanagement",
+          "title": "Project Management",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Project+Management.jpeg",
+          "jobCount": 60
+        },
+        {
+          "archived": false,
+          "id": 39,
+          "slug": "mentalhealthandcounselling",
+          "title": "Mental Health and Counselling",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Mental+Health+%26+Counselling.jpg",
+          "jobCount": 348
+        },
+        {
+          "archived": false,
+          "id": 53,
+          "slug": "youthservices",
+          "title": "Youth",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Youth.jpeg",
+          "jobCount": 306
+        },
+        {
+          "archived": false,
+          "id": 47,
+          "slug": "socialwork",
+          "title": "Social Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Social_Work.jpg",
+          "jobCount": 446
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$100k to $110k + super + salary packaging"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 2927,
+        "name": "headspace National Youth Mental Health Foundation Ltd",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1565753812_KRdKk_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1565753812_KRdKk_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1565753812_KRdKk_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1565753812_KRdKk_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1565753812_KRdKk_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1565753812_KRdKk_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 554395,
+      "title": "Carer Coach",
+      "slug": "Wellways/carer-coach-toowoomba-1",
+      "organisationName": "Wellways Australia",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1621402833_151Xp_.jpeg",
+      "summary": "A fantastic part-time opportunity to join the Wellways team as a Carer Coach in Toowoomba QLD!",
+      "expiresAt": "2026-04-16T12:30:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional QLD",
+          "locality": "Toowoomba & Darling Downs"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://www.aplitrak.com/?adid=YW1hZHZhcGF0aHkuNzI4NTAuNjA0NEB3ZWxsd2F5cy5hcGxpdHJhay5jb20",
+      "location_name": "Regional QLD",
+      "locality": "Toowoomba & Darling Downs",
+      "state": "QLD",
+      "url": "https://www.ethicaljobs.com.au/members/Wellways/carer-coach-toowoomba-1",
+      "approvedAt": "2026-03-17T03:56:08.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 19,
+          "slug": "familyservices",
+          "title": "Family Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Family_Services.jpg",
+          "jobCount": 294
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 47,
+          "slug": "socialwork",
+          "title": "Social Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Social_Work.jpg",
+          "jobCount": 441
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 6,
+        "slug": "REGQLD",
+        "title": "Regional QLD",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "SCHADS 4B ($44.58 - $47.97 ph) + Superannuation + Salary packaging"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/Ngpk_svp8Ec",
+      "organisation": {
+        "id": 5237,
+        "name": "Wellways Australia",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1621402833_151Xp_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1621402833_151Xp_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1621402833_151Xp_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1621402833_151Xp_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1621402833_151Xp_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1621402833_151Xp_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 554387,
+      "title": "Practice Supervisor",
+      "slug": "actforkids/practice-supervisor-mackay-1",
+      "organisationName": "Act for Kids",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1575948068_WTQXQ_.jpeg",
+      "summary": "Provides specialist child protection and DFV expertise, supporting practitioners working intensively with families, with DFV support two days a week.",
+      "expiresAt": "2026-03-30T05:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional QLD",
+          "locality": "Mackay"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://actforkids.connxcareers.com/Job/Details/899a5ac830864214a1ac247959322f34",
+      "location_name": "Regional QLD",
+      "locality": "Mackay",
+      "state": "QLD",
+      "url": "https://www.ethicaljobs.com.au/members/actforkids/practice-supervisor-mackay-1",
+      "approvedAt": "2026-03-17T03:24:19.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 204225,
+          "parentId": 554387,
+          "mimeType": "application/pdf",
+          "fileName": "1773713332_tI077_.pdf",
+          "size": 291695,
+          "originalFileName": "PD - MKY IFS - Practice Supervisor -March 2026.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1773713332_tI077_.pdf",
+          "createdAt": "2026-03-17 02:08:52",
+          "updatedAt": "2026-03-17 02:08:52"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 54,
+          "slug": "domesticfamilyviolence",
+          "title": "Domestic & Family Violence",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Domestic_and_Family_Violence.jpg",
+          "jobCount": 144
+        },
+        {
+          "archived": false,
+          "id": 19,
+          "slug": "familyservices",
+          "title": "Family Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Family_Services.jpg",
+          "jobCount": 296
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 184
+        },
+        {
+          "archived": false,
+          "id": 39,
+          "slug": "mentalhealthandcounselling",
+          "title": "Mental Health and Counselling",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Mental+Health+%26+Counselling.jpg",
+          "jobCount": 348
+        },
+        {
+          "archived": false,
+          "id": 53,
+          "slug": "youthservices",
+          "title": "Youth",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Youth.jpeg",
+          "jobCount": 306
+        },
+        {
+          "archived": false,
+          "id": 47,
+          "slug": "socialwork",
+          "title": "Social Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Social_Work.jpg",
+          "jobCount": 446
+        },
+        {
+          "archived": false,
+          "id": 36,
+          "slug": "management",
+          "title": "Management",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Management.jpeg",
+          "jobCount": 261
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 6,
+        "slug": "REGQLD",
+        "title": "Regional QLD",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$110,110 - $114,984 + Superannuation"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 2,
+          "slug": "CONTRACT",
+          "title": "Contract",
+          "archived": false
+        },
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/bNIT6DzpGo4",
+      "organisation": {
+        "id": 3384,
+        "name": "Act for Kids",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1575948068_WTQXQ_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1575948068_WTQXQ_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1575948068_WTQXQ_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1575948068_WTQXQ_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1575948068_WTQXQ_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1575948068_WTQXQ_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 554267,
+      "title": "Child and Family Consultant",
+      "slug": "actforkids/child-and-family-consultant-mackay-4",
+      "organisationName": "Act for Kids",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1575948068_WTQXQ_.jpeg",
+      "summary": "Join our Mackay team, working with key agencies to assess and support families, improving safety and wellbeing for vulnerable children.",
+      "expiresAt": "2026-03-27T07:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional QLD",
+          "locality": "Mackay & Coalfields"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://actforkids.connxcareers.com/Job/Details/65c95453c0074a5c92e8604f14cd3995",
+      "location_name": "Regional QLD",
+      "locality": "Mackay & Coalfields",
+      "state": "QLD",
+      "url": "https://www.ethicaljobs.com.au/members/actforkids/child-and-family-consultant-mackay-4",
+      "approvedAt": "2026-03-16T05:20:46.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 204143,
+          "parentId": 554267,
+          "mimeType": "application/pdf",
+          "fileName": "1769744634_RBa1K_.pdf",
+          "size": 263011,
+          "originalFileName": "PD - MKY ASC - Child and Family Consultant - January 2026.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1769744634_RBa1K_.pdf",
+          "createdAt": "2026-03-16 04:08:48",
+          "updatedAt": "2026-03-16 04:08:48"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 47,
+          "slug": "socialwork",
+          "title": "Social Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Social_Work.jpg",
+          "jobCount": 441
+        },
+        {
+          "archived": false,
+          "id": 53,
+          "slug": "youthservices",
+          "title": "Youth",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Youth.jpeg",
+          "jobCount": 303
+        },
+        {
+          "archived": false,
+          "id": 54,
+          "slug": "domesticfamilyviolence",
+          "title": "Domestic & Family Violence",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Domestic_and_Family_Violence.jpg",
+          "jobCount": 141
+        },
+        {
+          "archived": false,
+          "id": 19,
+          "slug": "familyservices",
+          "title": "Family Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Family_Services.jpg",
+          "jobCount": 293
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 183
+        },
+        {
+          "archived": false,
+          "id": 39,
+          "slug": "mentalhealthandcounselling",
+          "title": "Mental Health and Counselling",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Mental+Health+%26+Counselling.jpg",
+          "jobCount": 344
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 6,
+        "slug": "REGQLD",
+        "title": "Regional QLD",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$100,784 - $105,350 per annum + salary packaging"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 2,
+          "slug": "CONTRACT",
+          "title": "Contract",
+          "archived": false
+        },
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/Y54wgXlCxxI",
+      "organisation": {
+        "id": 3384,
+        "name": "Act for Kids",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1575948068_WTQXQ_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1575948068_WTQXQ_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1575948068_WTQXQ_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1575948068_WTQXQ_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1575948068_WTQXQ_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1575948068_WTQXQ_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 554218,
+      "title": "Senior Project Officer",
+      "slug": "aida/senior-project-officer-indigenous-medical-curriculum",
+      "organisationName": "Australian Indigenous Doctors' Association Ltd",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1578968606_avrBo_.jpeg",
+      "summary": "AIDA is looking for an experienced and exceptional Senior Project Officer â Indigenous Medical Curriculum on a Full time basis to join our team, reporting to Programs Coordinator.",
+      "expiresAt": "2026-04-07T07:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Canberra & ACT",
+          "locality": "Canberra & ACT"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Canberra & ACT",
+      "locality": "Canberra & ACT",
+      "state": "ACT",
+      "url": "https://www.ethicaljobs.com.au/members/aida/senior-project-officer-indigenous-medical-curriculum",
+      "approvedAt": "2026-03-16T04:07:49.000Z",
+      "application": "<p>To submit your application, please fill out your details below and upload the relevant documentation.</p>\n<p><em>Please note that only applicants short listed will be contacted.</em></p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 32,
+          "slug": "indigenous",
+          "title": "Indigenous",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Indigenous.jpeg",
+          "jobCount": 233
+        },
+        {
+          "archived": false,
+          "id": 45,
+          "slug": "projectmanagement",
+          "title": "Project Management",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Project+Management.jpeg",
+          "jobCount": 60
+        },
+        {
+          "archived": false,
+          "id": 16,
+          "slug": "educationandtraining",
+          "title": "Education and Training",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Education+%26+Training.jpeg",
+          "jobCount": 139
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 184
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 15,
+        "slug": "ACT",
+        "title": "Canberra & ACT",
+        "archived": false
+      },
+      "questions": [
+        {
+          "id": 24,
+          "question": "Do you have full and unrestricted rights to work in Australia?",
+          "alias": "Unrestricted rights to work in Australia",
+          "blanks": {},
+          "category": "Work Eligibility",
+          "displayText": "Do you have full and unrestricted rights to work in Australia?"
+        },
+        {
+          "id": 28,
+          "question": "Do you possess a current satisfactory Working With Children Check?",
+          "alias": "Working With Children Check",
+          "blanks": {},
+          "category": "Checks",
+          "displayText": "Do you possess a current satisfactory Working With Children Check?"
+        },
+        {
+          "id": 31,
+          "question": "Do you have experience working with Aboriginal and/or Torres Strait Islander Communities?",
+          "alias": "Worked with Aboriginal and/or Torres Strait Islander Communities",
+          "blanks": {},
+          "category": "Experience",
+          "displayText": "Do you have experience working with Aboriginal and/or Torres Strait Islander Communities?"
+        }
+      ],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 10600,
+        "name": "Australian Indigenous Doctors' Association Ltd",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1578968606_avrBo_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1578968606_avrBo_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1578968606_avrBo_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1578968606_avrBo_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1578968606_avrBo_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1578968606_avrBo_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 554237,
+      "title": "Therapeutic Specialist",
+      "slug": "taketwo/therapeutic-specialist-shepparton-4",
+      "organisationName": "Berry Street Take Two",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1540785041_EzAFZ_.jpeg",
+      "summary": "Provide clinical assessment and intervention to children and young people, psychoeducation resources, and a therapeutic framework for the residential carers who support the young people.",
+      "expiresAt": "2026-03-29T12:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional VIC",
+          "locality": "Shepparton & Goulburn Valley"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://www.livehire.com/careers/berrystreet/job/TYY4G/PYR22947SH/therapeutic-specialist?useBrowserBack=true",
+      "location_name": "Regional VIC",
+      "locality": "Shepparton & Goulburn Valley",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/taketwo/therapeutic-specialist-shepparton-4",
+      "approvedAt": "2026-03-16T03:09:59.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 204129,
+          "parentId": 554237,
+          "mimeType": "application/pdf",
+          "fileName": "1773630434_IICIX_.pdf",
+          "size": 323640,
+          "originalFileName": "20260313 PD - Therapeutic Specialist - ENRICH Shepparton.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1773630434_IICIX_.pdf",
+          "createdAt": "2026-03-16 03:07:14",
+          "updatedAt": "2026-03-16 03:07:14"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 19,
+          "slug": "familyservices",
+          "title": "Family Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Family_Services.jpg",
+          "jobCount": 293
+        },
+        {
+          "archived": false,
+          "id": 39,
+          "slug": "mentalhealthandcounselling",
+          "title": "Mental Health and Counselling",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Mental+Health+%26+Counselling.jpg",
+          "jobCount": 344
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 183
+        },
+        {
+          "archived": false,
+          "id": 47,
+          "slug": "socialwork",
+          "title": "Social Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Social_Work.jpg",
+          "jobCount": 441
+        },
+        {
+          "archived": false,
+          "id": 53,
+          "slug": "youthservices",
+          "title": "Youth",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Youth.jpeg",
+          "jobCount": 303
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 2,
+        "slug": "REGVIC",
+        "title": "Regional VIC",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$116K pro rata plus super and salary packaging"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=vQTgpZnABEs",
+      "organisation": {
+        "id": 900,
+        "name": "Berry Street Take Two",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1540785041_EzAFZ_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1540785041_EzAFZ_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1540785041_EzAFZ_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1540785041_EzAFZ_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1540785041_EzAFZ_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1540785041_EzAFZ_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 554228,
+      "title": "Senior Clinician",
+      "slug": "taketwo/senior-clinician-mildura-1",
+      "organisationName": "Berry Street Take Two",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1540785041_EzAFZ_.jpeg",
+      "summary": "The Clinician will conduct assessments and develop therapeutic treatment plans guided by the Neurosequential model, with clear goals that are reviewed regularly.",
+      "expiresAt": "2026-03-25T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional VIC",
+          "locality": "Mildura"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://www.livehire.com/careers/berrystreet/job/74KDP/T4XXVI9168/senior-clinician-take-two?useBrowserBack=true",
+      "location_name": "Regional VIC",
+      "locality": "Mildura",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/taketwo/senior-clinician-mildura-1",
+      "approvedAt": "2026-03-16T02:49:11.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 204125,
+          "parentId": 554228,
+          "mimeType": "application/pdf",
+          "fileName": "1773628942_15scH_.pdf",
+          "size": 259656,
+          "originalFileName": "20260226 PD Senior Clinician - Mallee Take Two.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1773628942_15scH_.pdf",
+          "createdAt": "2026-03-16 02:42:23",
+          "updatedAt": "2026-03-16 02:42:23"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 19,
+          "slug": "familyservices",
+          "title": "Family Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Family_Services.jpg",
+          "jobCount": 294
+        },
+        {
+          "archived": false,
+          "id": 39,
+          "slug": "mentalhealthandcounselling",
+          "title": "Mental Health and Counselling",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Mental+Health+%26+Counselling.jpg",
+          "jobCount": 347
+        },
+        {
+          "archived": false,
+          "id": 47,
+          "slug": "socialwork",
+          "title": "Social Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Social_Work.jpg",
+          "jobCount": 441
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 53,
+          "slug": "youthservices",
+          "title": "Youth",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Youth.jpeg",
+          "jobCount": 304
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 2,
+        "slug": "REGVIC",
+        "title": "Regional VIC",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "Base Salary $116k + Super & Salary Packaging"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 2,
+          "slug": "CONTRACT",
+          "title": "Contract",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=vQTgpZnABEs",
+      "organisation": {
+        "id": 900,
+        "name": "Berry Street Take Two",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1540785041_EzAFZ_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1540785041_EzAFZ_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1540785041_EzAFZ_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1540785041_EzAFZ_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1540785041_EzAFZ_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1540785041_EzAFZ_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 554172,
+      "title": "General Practitioners",
+      "slug": "tacinc/general-practitioners-launceston-and-devonport",
+      "organisationName": "Tasmanian Aboriginal Centre",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1472131474_PAU3p_.gif",
+      "summary": "The TAC is a community controlled organisation providing holistic health services across lutruwita/Tasmania. Weâre seeking General Practitioners to join our AHS teams in Launceston and Devonport.",
+      "expiresAt": "2026-04-08T07:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional TAS",
+          "locality": "Launceston"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Regional TAS",
+      "locality": "Launceston",
+      "state": "TAS",
+      "url": "https://www.ethicaljobs.com.au/members/tacinc/general-practitioners-launceston-and-devonport",
+      "approvedAt": "2026-03-15T22:55:27.000Z",
+      "application": "<ul>\n<li><strong>Apply today: Submit your application via the form below.</strong></li>\n</ul>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 32,
+          "slug": "indigenous",
+          "title": "Indigenous",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Indigenous.jpeg",
+          "jobCount": 233
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 183
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 12,
+        "slug": "REGTAS",
+        "title": "Regional TAS",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        },
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 917,
+        "name": "Tasmanian Aboriginal Centre",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1472131474_PAU3p_.gif",
+          "large": "https://static.ethicaljobs.com.au/media/large/1472131474_PAU3p_.gif",
+          "standard": "https://static.ethicaljobs.com.au/media/1472131474_PAU3p_.gif",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1472131474_PAU3p_.gif",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1472131474_PAU3p_.gif",
+          "social": "https://static.ethicaljobs.com.au/media/social/1472131474_PAU3p_.gif"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 554155,
+      "title": "Intake Officer",
+      "slug": "KingstonCityCouncil/intake-officer",
+      "organisationName": "City of Kingston",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1539914301_vg41b_.jpeg",
+      "summary": "Join AccessCare as anÂ IntakeÂ Officer and help connect clients to quality community care services.",
+      "expiresAt": "2026-03-27T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "Mentone"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/1161/gateway/default.aspx?c=apply&lJobID=493183&lJobSourceTypeID=803&sLanguage=en",
+      "location_name": "Melbourne",
+      "locality": "Mentone",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/KingstonCityCouncil/intake-officer",
+      "approvedAt": "2026-03-15T22:28:10.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 204092,
+          "parentId": 554155,
+          "mimeType": "application/pdf",
+          "fileName": "1773613143_VJ4ef_.pdf",
+          "size": 173308,
+          "originalFileName": "PD - Various - Intake Officer.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1773613143_VJ4ef_.pdf",
+          "createdAt": "2026-03-15 22:19:03",
+          "updatedAt": "2026-03-15 22:19:03"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 183
+        },
+        {
+          "archived": false,
+          "id": 47,
+          "slug": "socialwork",
+          "title": "Social Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Social_Work.jpg",
+          "jobCount": 441
+        },
+        {
+          "archived": false,
+          "id": 1,
+          "slug": "administration",
+          "title": "Administration",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Administration.jpeg",
+          "jobCount": 160
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$98,266- $107,214 per annum (dependent on experience) plus superannuation"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=daJi-pI5Kpc&t=1s",
+      "organisation": {
+        "id": 8689,
+        "name": "City of Kingston",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1539914301_vg41b_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1539914301_vg41b_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1539914301_vg41b_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1539914301_vg41b_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1539914301_vg41b_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1539914301_vg41b_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 554140,
+      "title": "Community Life Manager",
+      "slug": "visioncommunity/community-life-manager",
+      "organisationName": "Community vision",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1773213856_yes52_.png",
+      "summary": "Step into a role where leadership meets purpose, and every day is an opportunity to create meaningful impact.",
+      "expiresAt": "2026-03-31T09:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Perth",
+          "locality": "Joondalup"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Perth",
+      "locality": "Joondalup",
+      "state": "WA",
+      "url": "https://www.ethicaljobs.com.au/members/visioncommunity/community-life-manager",
+      "approvedAt": "2026-03-15T21:44:46.000Z",
+      "application": "<p>To apply, please submit your CV along with a cover letter addressing your suitability for the role and your interest in working with Community Vision.</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 10,
+          "slug": "communityanddevelopment",
+          "title": "Community Development",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Community_Development.jpeg.jpg",
+          "jobCount": 126
+        },
+        {
+          "archived": false,
+          "id": 36,
+          "slug": "management",
+          "title": "Management",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Management.jpeg",
+          "jobCount": 261
+        },
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 182
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 183
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 7,
+        "slug": "WA",
+        "title": "Perth",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$90,000 - $109,999 per annum"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 20940,
+        "name": "Community vision",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1773213856_yes52_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1773213856_yes52_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1773213856_yes52_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1773213856_yes52_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1773213856_yes52_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1773213856_yes52_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 554094,
+      "title": "Occupational Therapist",
+      "slug": "thrivemed/occupational-therapist-broken-hill",
+      "organisationName": "Thrive Medical",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1773298983_oEemR_.png",
+      "summary": "Thrive Medical is a multi-disciplinary health service that offers local, personalised and evidence-based care to the remote district of Far West NSW. Relocation assistance + benefits available.",
+      "expiresAt": null,
+      "isExpirationHidden": true,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Broken Hill"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Regional NSW",
+      "locality": "Broken Hill",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/thrivemed/occupational-therapist-broken-hill",
+      "approvedAt": "2026-03-13T05:23:58.000Z",
+      "application": "<p>Please submit the following documents:</p>\n<ul>\n<li><strong>CV</strong> &ndash; Summary of your professional qualifications and experience.</li>\n<li><strong>Cover Letter</strong> &ndash; A letter introducing yourself and outlining why you are interested in this role.</li>\n</ul>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 185
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$85,000 â $110,000 + super + relocation assistance + benefits"
+      },
+      "sectors": [
+        {
+          "id": 1,
+          "slug": "Business and Private Sector",
+          "title": "Business/Private Sector",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 4,
+          "slug": "GRADUATE",
+          "title": "Graduate",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 20947,
+        "name": "Thrive Medical",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1773298983_oEemR_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1773298983_oEemR_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1773298983_oEemR_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1773298983_oEemR_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1773298983_oEemR_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1773298983_oEemR_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 554103,
+      "title": "Clinical Services Manager",
+      "slug": "neami/clinical-services-manager-geelong-1",
+      "organisationName": "Neami National",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1687406453_eEQ9b_.png",
+      "summary": "The Clinical Services Manager will lead a multidisciplinary team to deliver a service that will reflect principals of Trauma Informed Care and Recovery Oriented practice.",
+      "expiresAt": "2026-04-02T00:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional VIC",
+          "locality": "Geelong"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://www.aplitrak.com/?adid=bmljaG9sYXMubWFyY2hpb25lLjk2Mjk0LjYwNDRAbmVhbWlhdS5hcGxpdHJhay5jb20",
+      "location_name": "Regional VIC",
+      "locality": "Geelong",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/neami/clinical-services-manager-geelong-1",
+      "approvedAt": "2026-03-13T04:38:51.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 39,
+          "slug": "mentalhealthandcounselling",
+          "title": "Mental Health and Counselling",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Mental+Health+%26+Counselling.jpg",
+          "jobCount": 344
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 183
+        },
+        {
+          "archived": false,
+          "id": 47,
+          "slug": "socialwork",
+          "title": "Social Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Social_Work.jpg",
+          "jobCount": 441
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 70
+        },
+        {
+          "archived": false,
+          "id": 36,
+          "slug": "management",
+          "title": "Management",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Management.jpeg",
+          "jobCount": 261
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 2,
+        "slug": "REGVIC",
+        "title": "Regional VIC",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "RN Level 4 $134,012 - $151,993 per annum + Super OR HP Level 4 $133,123 - $154,424 per annum + Super"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=zZ851yZ70Sk",
+      "organisation": {
+        "id": 4811,
+        "name": "Neami National",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1687406453_eEQ9b_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1687406453_eEQ9b_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1687406453_eEQ9b_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1687406453_eEQ9b_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1687406453_eEQ9b_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1687406453_eEQ9b_.png"
+        }
+      },
+      "applicationDate": null
+    }
+  ]
+}

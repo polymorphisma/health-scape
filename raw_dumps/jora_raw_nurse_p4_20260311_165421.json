@@ -1,0 +1,71 @@
+{
+  "category": "Nursing",
+  "data": [
+    {
+      "id": "dce406bba6ac6cb5dafc649a388d85fd",
+      "title": "Registered Nurse",
+      "facility_name": "Queensland Health",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Alexandra",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Registered-Nurse-dce406bba6ac6cb5dafc649a388d85fd",
+      "raw_location": "Alexandra QLD"
+    },
+    {
+      "id": "cc3eca0943a2adbf9b84179c5730466b",
+      "title": "Nurse Management Consultant - Sexual Health Clinic 34",
+      "facility_name": "NT Department of Health",
+      "category": "Nursing",
+      "state": "NT",
+      "city": "Darwin",
+      "date_posted": "2026-03-06",
+      "url": "https://au.jora.com/job/Management-Consultant-cc3eca0943a2adbf9b84179c5730466b",
+      "raw_location": "Darwin NT"
+    },
+    {
+      "id": "c247bc4c9e71b558d12470618f7d9627",
+      "title": "Registered Nurse",
+      "facility_name": "ForHealth Group",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Dubbo",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Registered-Nurse-c247bc4c9e71b558d12470618f7d9627",
+      "raw_location": "Dubbo NSW"
+    },
+    {
+      "id": "688b0584ffde5193ed2d4b522306ad8f",
+      "title": "Registered  Nurse- General Practice",
+      "facility_name": "Health HQ",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Southport",
+      "date_posted": "2026-03-04",
+      "url": "https://au.jora.com/job/Registered-Nurse-General-688b0584ffde5193ed2d4b522306ad8f",
+      "raw_location": "Southport QLD"
+    },
+    {
+      "id": "964b41ed5ebb291f802ea43fb99ce7c8",
+      "title": "Registered Nurse - Alcohol and Other Drugs Service (AODS)",
+      "facility_name": "North West Hospital and Health Service",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Mount Isa",
+      "date_posted": "2026-02-25",
+      "url": "https://au.jora.com/job/Registered-Nurse-964b41ed5ebb291f802ea43fb99ce7c8",
+      "raw_location": "Mount Isa QLD"
+    },
+    {
+      "id": "9d39b4a51e41958cc030b5b90ba88ac1",
+      "title": "Registered Nurse",
+      "facility_name": "ForHealth Group",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Ballina",
+      "date_posted": "2026-03-04",
+      "url": "https://au.jora.com/job/Registered-Nurse-9d39b4a51e41958cc030b5b90ba88ac1",
+      "raw_location": "Ballina NSW"
+    }
+  ]
+}

@@ -1,0 +1,1790 @@
+{
+  "data": [
+    {
+      "advertiser": {
+        "id": "44953314",
+        "description": "Engedi Inc"
+      },
+      "bulletPoints": [
+        "Lead a Diverse, Passionate Multidisciplinary Team",
+        "Make a Real Impact Through Innovative, Person‑Centred Leadership",
+        "A Listening, Supportive Culture Where You Can Truly Thrive"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/53a4012f-58f6-46ba-a1f0-93a1178ae4b7.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6333",
+            "description": "Management"
+          }
+        }
+      ],
+      "companyName": "Engedi",
+      "companyProfileStructuredDataId": 706846,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "promoted",
+      "employer": {
+        "id": "706846",
+        "name": "Engedi"
+      },
+      "id": "90806103",
+      "isFeatured": true,
+      "listingDate": "2026-03-09T03:43:09Z",
+      "listingDateDisplay": "3d ago",
+      "locations": [
+        {
+          "label": "Mackay, Mackay & Coalfields QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Mackay QLD 4740"
+            },
+            {
+              "contextualName": "Mackay & Coalfields QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "allied-health-manager",
+      "salaryLabel": "$67.96 – $70 per hour",
+      "solMetadata": {
+        "searchRequestToken": "2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "token": "0~2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "jobId": "90806103",
+        "section": "MAIN",
+        "sectionRank": 61,
+        "jobAdType": "SPONSORED",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Lead a vibrant, multidisciplinary team in a values‑driven organisation where innovation, collaboration and people are at the heart of everything we do",
+      "title": "Allied Health Manager",
+      "tracking": "ewogICJ0b2tlbiI6ICJjMWIxYmIyYy0zMjA1LTRiYzgtODBkNS0yNzQyMTEwYmJiYzJfMSIKfQ==",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "400017418",
+        "description": "Plena Healthcare"
+      },
+      "bulletPoints": [
+        "Telehealth based | Make a meaningful impact indirectly.",
+        "Enjoy flexibility, autonomy and work life balance.",
+        "Seeking Physiotherapists or Exercise Physiologists wanting a non-hands-on role."
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/3c705178-9581-4fd0-b10f-27d0acb0facc.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6352",
+            "description": "Physiotherapy, OT & Rehabilitation"
+          }
+        }
+      ],
+      "companyName": "Plena Healthcare",
+      "companyProfileStructuredDataId": 449820,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "promoted",
+      "employer": {
+        "id": "449820",
+        "name": "Plena Healthcare",
+        "companyId": "160393026567074",
+        "companyUrl": "https://www.seek.com.au/companies/plena-healthcare-160393026567074"
+      },
+      "id": "90326277",
+      "isFeatured": true,
+      "listingDate": "2026-02-13T03:54:17Z",
+      "listingDateDisplay": "27d ago",
+      "locations": [
+        {
+          "label": "Adelaide SA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Adelaide SA"
+            },
+            {
+              "contextualName": "South Australia SA"
+            }
+          ]
+        }
+      ],
+      "roleId": "assessor",
+      "salaryLabel": "Competitive salary + Plena perks",
+      "solMetadata": {
+        "searchRequestToken": "2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "token": "0~2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "jobId": "90326277",
+        "section": "MAIN",
+        "sectionRank": 62,
+        "jobAdType": "SPONSORED",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EXPIRES_SOON",
+          "label": "Expiring soon"
+        }
+      ],
+      "teaser": "This role is assessment and advisory-focused, giving you the chance to stay connected to clinical practice while working autonomously and flexibly.",
+      "title": "Allied Health Wellness Assessor",
+      "tracking": "ewogICJ0b2tlbiI6ICJjMWIxYmIyYy0zMjA1LTRiYzgtODBkNS0yNzQyMTEwYmJiYzJfMiIKfQ==",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "2",
+            "label": {
+              "text": "Hybrid"
+            }
+          }
+        ],
+        "displayText": "Hybrid"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "40434226",
+        "description": "Healthcare Australia - Allied Health - National"
+      },
+      "bulletPoints": [
+        "Hourly Rate: $35.42/hr",
+        "Accredited podiatry training provided",
+        "Salary Packaging + Novated Leasing!"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/ece57bc0-fe83-48cf-a826-1d5a3951e144.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6352",
+            "description": "Physiotherapy, OT & Rehabilitation"
+          }
+        }
+      ],
+      "companyName": "Healthcare Australia",
+      "companyProfileStructuredDataId": 5066,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "5066",
+        "name": "Healthcare Australia",
+        "companyId": "436507",
+        "companyUrl": "https://www.seek.com.au/companies/healthcare-australia-436507"
+      },
+      "id": "90864405",
+      "isFeatured": false,
+      "listingDate": "2026-03-11T04:09:04Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Sydney NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Sydney NSW"
+            },
+            {
+              "contextualName": "New South Wales NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "allied-health-assistant",
+      "salaryLabel": "$36/hr + 12% super",
+      "solMetadata": {
+        "searchRequestToken": "2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "token": "0~2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "jobId": "90864405",
+        "section": "MAIN",
+        "sectionRank": 63,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "We are currently seeking a talented and dedicated Allied Health Assistant to join our thriving team in Sydney!",
+      "title": "Allied Health Assistant, Sydney, NSW",
+      "tracking": "ewogICJ0b2tlbiI6ICJjMWIxYmIyYy0zMjA1LTRiYzgtODBkNS0yNzQyMTEwYmJiYzJfMyIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "41988494",
+        "description": "Inglewood and Districts Health Service"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/910cad1f-0161-481c-90bb-5d2ea0659c47.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6352",
+            "description": "Physiotherapy, OT & Rehabilitation"
+          }
+        }
+      ],
+      "companyName": "Inglewood & Districts Health Service",
+      "companyProfileStructuredDataId": 7699,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "7699",
+        "name": "Inglewood & Districts Health Service",
+        "companyId": "795720",
+        "companyUrl": "https://www.seek.com.au/companies/inglewood-n-districts-health-service-795720"
+      },
+      "id": "90648555",
+      "isFeatured": false,
+      "listingDate": "2026-03-02T03:47:03Z",
+      "listingDateDisplay": "10d ago",
+      "locations": [
+        {
+          "label": "Inglewood, Bendigo, Goldfields & Macedon Ranges VIC",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Inglewood VIC 3517"
+            },
+            {
+              "contextualName": "Bendigo, Goldfields & Macedon Ranges VIC"
+            }
+          ]
+        }
+      ],
+      "roleId": "allied-health-assistant",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "token": "0~2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "jobId": "90648555",
+        "section": "MAIN",
+        "sectionRank": 64,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Inglewood District Health Services are seeking an Allied Health Assistant to join their team",
+      "title": "Allied Health Assistant",
+      "tracking": "ewogICJ0b2tlbiI6ICJjMWIxYmIyYy0zMjA1LTRiYzgtODBkNS0yNzQyMTEwYmJiYzJfNCIKfQ==",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "40434226",
+        "description": "Healthcare Australia - Allied Health - National"
+      },
+      "bulletPoints": [
+        "$36/hr + 12% super",
+        "Accredited podiatry training provided",
+        "Salary Packaging + Novated Leasing!"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/ece57bc0-fe83-48cf-a826-1d5a3951e144.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6352",
+            "description": "Physiotherapy, OT & Rehabilitation"
+          }
+        }
+      ],
+      "companyName": "Healthcare Australia",
+      "companyProfileStructuredDataId": 5066,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "5066",
+        "name": "Healthcare Australia",
+        "companyId": "436507",
+        "companyUrl": "https://www.seek.com.au/companies/healthcare-australia-436507"
+      },
+      "id": "90864244",
+      "isFeatured": false,
+      "listingDate": "2026-03-11T04:04:19Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Adelaide SA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Adelaide SA"
+            },
+            {
+              "contextualName": "South Australia SA"
+            }
+          ]
+        }
+      ],
+      "roleId": "allied-health-assistant",
+      "salaryLabel": "$36/hr + 12% super",
+      "solMetadata": {
+        "searchRequestToken": "2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "token": "0~2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "jobId": "90864244",
+        "section": "MAIN",
+        "sectionRank": 65,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "We are currently seeking a talented and dedicated Allied Health Assistant to join our thriving team across Adelaide!",
+      "title": "Allied Health Assistant - Adelaide, SA",
+      "tracking": "ewogICJ0b2tlbiI6ICJjMWIxYmIyYy0zMjA1LTRiYzgtODBkNS0yNzQyMTEwYmJiYzJfNSIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "30230154",
+        "description": "St Mary's Aged Care"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/5755a10b-7618-6daa-a0f8-9e4490d28d72.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6352",
+            "description": "Physiotherapy, OT & Rehabilitation"
+          }
+        }
+      ],
+      "companyName": "St Mary's Aged Care",
+      "companyProfileStructuredDataId": 16102,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "16102",
+        "name": "St Mary's Aged Care"
+      },
+      "id": "90438135",
+      "isFeatured": false,
+      "listingDate": "2026-02-19T06:56:32Z",
+      "listingDateDisplay": "21d ago",
+      "locations": [
+        {
+          "label": "Coolum Beach, Sunshine Coast QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Coolum Beach QLD 4573"
+            },
+            {
+              "contextualName": "Sunshine Coast QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "allied-health-assistant",
+      "salaryLabel": "$36 - $40 p/hr + superannuation",
+      "solMetadata": {
+        "searchRequestToken": "2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "token": "0~2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "jobId": "90438135",
+        "section": "MAIN",
+        "sectionRank": 66,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "St Mary's Aged Care Pelican Waters is looking for an Allied Health Assistant to help with our strengthening and mobility program, four days per week.",
+      "title": "Allied Health Assistant",
+      "tracking": "ewogICJ0b2tlbiI6ICJjMWIxYmIyYy0zMjA1LTRiYzgtODBkNS0yNzQyMTEwYmJiYzJfNiIKfQ==",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "63269775",
+        "description": "Physio and Fitness"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6334",
+            "description": "Medical Administration"
+          }
+        }
+      ],
+      "companyName": "Physio and Fitness",
+      "companyProfileStructuredDataId": 3349396,
+      "displayType": "standard",
+      "employer": {
+        "id": "3349396",
+        "name": "Physio and Fitness"
+      },
+      "id": "90886930",
+      "isFeatured": false,
+      "listingDate": "2026-03-12T02:18:27Z",
+      "listingDateDisplay": "6h ago",
+      "locations": [
+        {
+          "label": "Gladstone, Gladstone & Central QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Gladstone QLD 4680"
+            },
+            {
+              "contextualName": "Gladstone & Central QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "allied-health-receptionist",
+      "salaryLabel": "$32 – $35 per hour",
+      "solMetadata": {
+        "searchRequestToken": "2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "token": "0~2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "jobId": "90886930",
+        "section": "MAIN",
+        "sectionRank": 67,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Join our busy physiotherapy clinic as a part-time Allied Health Receptionist. Must be organised, reliable and confident in a fast-paced environment.",
+      "title": "Allied Health Receptionist",
+      "tracking": "ewogICJ0b2tlbiI6ICJjMWIxYmIyYy0zMjA1LTRiYzgtODBkNS0yNzQyMTEwYmJiYzJfNyIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "46686822",
+        "description": "North and West Remote Health Limited"
+      },
+      "bulletPoints": [
+        "Grow professionally while providing meaningful support to clients.",
+        "5 weeks annual leave + 17.5% leave loading",
+        "Salary sacrificing options of up to $15,900"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/b0b0dbff-3b46-4211-ae98-9ed1a8f72152.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6352",
+            "description": "Physiotherapy, OT & Rehabilitation"
+          }
+        }
+      ],
+      "companyName": "North & West Remote Health",
+      "companyProfileStructuredDataId": 679488,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "679488",
+        "name": "North & West Remote Health"
+      },
+      "id": "90401513",
+      "isFeatured": false,
+      "listingDate": "2026-02-18T01:25:33Z",
+      "listingDateDisplay": "22d ago",
+      "locations": [
+        {
+          "label": "Townsville, Northern QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Townsville QLD 4810"
+            },
+            {
+              "contextualName": "Northern QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "allied-health-assistant",
+      "salaryLabel": "Healthy Salary + Super + More!",
+      "solMetadata": {
+        "searchRequestToken": "2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "token": "0~2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "jobId": "90401513",
+        "section": "MAIN",
+        "sectionRank": 68,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Join NWRH in Townsville as an Allied Health Assistant - support client care, assist therapy programs, and contribute to service improvement.",
+      "title": "Allied Health Assistant",
+      "tracking": "ewogICJ0b2tlbiI6ICJjMWIxYmIyYy0zMjA1LTRiYzgtODBkNS0yNzQyMTEwYmJiYzJfOCIKfQ==",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "40434226",
+        "description": "Healthcare Australia - Allied Health - National"
+      },
+      "bulletPoints": [
+        "Hourly Rate: $36/hr + 12% super",
+        "Casual, Part-Time & Full-Time opportunities available",
+        "Accredited podiatry training provided"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/ece57bc0-fe83-48cf-a826-1d5a3951e144.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6352",
+            "description": "Physiotherapy, OT & Rehabilitation"
+          }
+        }
+      ],
+      "companyName": "Healthcare Australia",
+      "companyProfileStructuredDataId": 5066,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "5066",
+        "name": "Healthcare Australia",
+        "companyId": "436507",
+        "companyUrl": "https://www.seek.com.au/companies/healthcare-australia-436507"
+      },
+      "id": "90885155",
+      "isFeatured": false,
+      "listingDate": "2026-03-12T01:28:42Z",
+      "listingDateDisplay": "6h ago",
+      "locations": [
+        {
+          "label": "Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Brisbane QLD"
+            },
+            {
+              "contextualName": "Queensland QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "allied-health-assistant",
+      "salaryLabel": "36 p/h + 12% super",
+      "solMetadata": {
+        "searchRequestToken": "2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "token": "0~2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "jobId": "90885155",
+        "section": "MAIN",
+        "sectionRank": 69,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Join the dynamic team at Healthcare Australia, a professional and collaborative workplace that prioritises its staff and patient outcomes.",
+      "title": "Allied Health Assistant, Brisbane, QLD",
+      "tracking": "ewogICJ0b2tlbiI6ICJjMWIxYmIyYy0zMjA1LTRiYzgtODBkNS0yNzQyMTEwYmJiYzJfOSIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "44325858",
+        "description": "Humanity Health Group"
+      },
+      "bulletPoints": [
+        "Professional Growth Opportunities",
+        "North Melbourne Suburbs community",
+        "Great Company Benefits"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/57202ca9-8494-78cb-4ddb-1d8e891003b5.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6354",
+            "description": "Speech Therapy"
+          }
+        }
+      ],
+      "companyName": "Humanity Health Group",
+      "companyProfileStructuredDataId": 407627,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "407627",
+        "name": "Humanity Health Group",
+        "companyId": "158942105057778",
+        "companyUrl": "https://www.seek.com.au/companies/humanity-health-group-158942105057778"
+      },
+      "id": "90799990",
+      "isFeatured": false,
+      "listingDate": "2026-03-09T00:35:54Z",
+      "listingDateDisplay": "3d ago",
+      "locations": [
+        {
+          "label": "Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Brisbane QLD"
+            },
+            {
+              "contextualName": "Queensland QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "allied-health-assistant",
+      "salaryLabel": "$65,000 – $73,000 per year",
+      "solMetadata": {
+        "searchRequestToken": "2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "token": "0~2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "jobId": "90799990",
+        "section": "MAIN",
+        "sectionRank": 70,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Work with a supportive national team helping children achieve their goals through meaningful, community-based therapy!",
+      "title": "Allied Health Assistant – (Speech Pathology & Occupational Therapy)",
+      "tracking": "ewogICJ0b2tlbiI6ICJjMWIxYmIyYy0zMjA1LTRiYzgtODBkNS0yNzQyMTEwYmJiYzJfMTAiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "2",
+            "label": {
+              "text": "Hybrid"
+            }
+          }
+        ],
+        "displayText": "Hybrid"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "61466342",
+        "description": "Robinvale District Health Services"
+      },
+      "bulletPoints": [
+        "Fantastic work culture and supportive team",
+        "Professional development support",
+        "Salary packaging and employee benefits"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/be483f00-bb68-4616-8ea8-025adeed3827.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6352",
+            "description": "Physiotherapy, OT & Rehabilitation"
+          }
+        }
+      ],
+      "companyName": "Robinvale District Health Services",
+      "companyProfileStructuredDataId": 7851,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "7851",
+        "name": "Robinvale District Health Services",
+        "companyId": "795742",
+        "companyUrl": "https://www.seek.com.au/companies/robinvale-district-health-services-795742"
+      },
+      "id": "90423218",
+      "isFeatured": false,
+      "listingDate": "2026-02-18T22:29:13Z",
+      "listingDateDisplay": "21d ago",
+      "locations": [
+        {
+          "label": "Robinvale, Mildura & Murray VIC",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Robinvale VIC 3549"
+            },
+            {
+              "contextualName": "Mildura & Murray VIC"
+            }
+          ]
+        }
+      ],
+      "roleId": "allied-health-assistant",
+      "salaryLabel": "$60,000 – $70,000 per year",
+      "solMetadata": {
+        "searchRequestToken": "2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "token": "0~2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "jobId": "90423218",
+        "section": "MAIN",
+        "sectionRank": 71,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Join a supportive, multidisciplinary team and make a real difference in your community as an Allied Health Assistant.",
+      "title": "Allied Health Assistant",
+      "tracking": "ewogICJ0b2tlbiI6ICJjMWIxYmIyYy0zMjA1LTRiYzgtODBkNS0yNzQyMTEwYmJiYzJfMTEiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "23960932",
+        "description": "Bayside Health"
+      },
+      "bulletPoints": [
+        "Join a Modern, Expanding Hospital Making a Real Impact",
+        "Be Part of a Supportive and Growing Team in New Hospital Facilities"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/d1d91b13-bbac-d350-b100-249ee4d31aa8.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6352",
+            "description": "Physiotherapy, OT & Rehabilitation"
+          }
+        }
+      ],
+      "companyName": "Bayside Health",
+      "companyProfileStructuredDataId": 801668,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "801668",
+        "name": "Bayside Health",
+        "companyId": "176532341694947",
+        "companyUrl": "https://www.seek.com.au/companies/bayside-health-176532341694947"
+      },
+      "id": "90736765",
+      "isFeatured": false,
+      "listingDate": "2026-03-05T02:00:27Z",
+      "listingDateDisplay": "7d ago",
+      "locations": [
+        {
+          "label": "Wonthaggi, Mornington Peninsula & Bass Coast VIC",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Wonthaggi VIC 3995"
+            },
+            {
+              "contextualName": "Mornington Peninsula & Bass Coast VIC"
+            }
+          ]
+        }
+      ],
+      "roleId": "allied-health-assistant",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "token": "0~2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "jobId": "90736765",
+        "section": "MAIN",
+        "sectionRank": 72,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Bayside Health is seeking a dedicated and enthusiastic Allied Health Assistant to join our growing team.",
+      "title": "Allied Health Assistant",
+      "tracking": "ewogICJ0b2tlbiI6ICJjMWIxYmIyYy0zMjA1LTRiYzgtODBkNS0yNzQyMTEwYmJiYzJfMTIiCn0=",
+      "workTypes": [
+        "Contract/Temp"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "",
+        "description": "Private Advertiser"
+      },
+      "bulletPoints": [
+        "Senior leadership role leading multidisciplinary NDIS allied health a team",
+        "Drive growth and strategy for a rapidly expanding disability services provider",
+        "Attractive salary + career progression within a supportive, purpose-driven org"
+      ],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6333",
+            "description": "Management"
+          }
+        }
+      ],
+      "companyName": "Private Advertiser",
+      "companyProfileStructuredDataId": 0,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "",
+        "name": "Private Advertiser"
+      },
+      "id": "90827104",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T00:56:53Z",
+      "listingDateDisplay": "2d ago",
+      "locations": [
+        {
+          "label": "Melbourne VIC",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Melbourne VIC"
+            },
+            {
+              "contextualName": "Victoria VIC"
+            }
+          ]
+        }
+      ],
+      "roleId": "allied-health-manager",
+      "salaryLabel": "$110,000 – $140,000 per year + Bonus",
+      "solMetadata": {
+        "searchRequestToken": "2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "token": "0~2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "jobId": "90827104",
+        "section": "MAIN",
+        "sectionRank": 73,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Lead NDIS allied health services across Victoria. Strategic growth, team leadership & client impact.",
+      "title": "State Manager Allied Health (NDIS)",
+      "tracking": "ewogICJ0b2tlbiI6ICJjMWIxYmIyYy0zMjA1LTRiYzgtODBkNS0yNzQyMTEwYmJiYzJfMTMiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "2",
+            "label": {
+              "text": "Hybrid"
+            }
+          }
+        ],
+        "displayText": "Hybrid"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "400017418",
+        "description": "Plena Healthcare"
+      },
+      "bulletPoints": [
+        "Join a high performing team, dedicated to aged care and clinical excellence",
+        "Casual or part time opportunity",
+        "Make a genuine difference to older adults’ lives in residential aged care"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/659cb201-ecb6-4da0-95a3-f2d08bcbf977.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6352",
+            "description": "Physiotherapy, OT & Rehabilitation"
+          }
+        }
+      ],
+      "companyName": "Plena Healthcare",
+      "companyProfileStructuredDataId": 449820,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "449820",
+        "name": "Plena Healthcare",
+        "companyId": "160393026567074",
+        "companyUrl": "https://www.seek.com.au/companies/plena-healthcare-160393026567074"
+      },
+      "id": "90741712",
+      "isFeatured": false,
+      "listingDate": "2026-03-05T03:58:18Z",
+      "listingDateDisplay": "7d ago",
+      "locations": [
+        {
+          "label": "Caboolture, Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Caboolture QLD 4510"
+            },
+            {
+              "contextualName": "All Brisbane QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "allied-health-assistant",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "token": "0~2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "jobId": "90741712",
+        "section": "MAIN",
+        "sectionRank": 74,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Support older people to stay active, independent and connected. Delivering reablement-focused programs that make a difference.",
+      "title": "Allied Health Assistant - Caboolture",
+      "tracking": "ewogICJ0b2tlbiI6ICJjMWIxYmIyYy0zMjA1LTRiYzgtODBkNS0yNzQyMTEwYmJiYzJfMTQiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "26417278",
+        "description": "Cerebral Palsy Alliance"
+      },
+      "bulletPoints": [
+        "Join CPA, the global leader in the treatment and prevention of cerebral palsy",
+        "Casual role, shift availability may vary",
+        "Benefit from our award winning training - your growth is our priority"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/f01d164e-9534-4673-a070-6ce00d6b809d.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6352",
+            "description": "Physiotherapy, OT & Rehabilitation"
+          }
+        }
+      ],
+      "companyName": "Cerebral Palsy Alliance",
+      "companyProfileStructuredDataId": 530,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "530",
+        "name": "Cerebral Palsy Alliance",
+        "companyId": "435090",
+        "companyUrl": "https://www.seek.com.au/companies/cerebral-palsy-alliance-435090"
+      },
+      "id": "90385773",
+      "isFeatured": false,
+      "listingDate": "2026-02-17T02:33:54Z",
+      "listingDateDisplay": "23d ago",
+      "locations": [
+        {
+          "label": "Allambie Heights, Sydney NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Allambie Heights NSW 2100"
+            },
+            {
+              "contextualName": "All Sydney NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "allied-health-assistant",
+      "salaryLabel": "Approximately $38 per hour",
+      "solMetadata": {
+        "searchRequestToken": "2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "token": "0~2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "jobId": "90385773",
+        "section": "MAIN",
+        "sectionRank": 75,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EXPIRES_SOON",
+          "label": "Expiring soon"
+        }
+      ],
+      "teaser": "An incredible opportunity to make a difference in the lives of people with disabilities - Join CPAs World-Leading Team of Allied Health Professionals!",
+      "title": "Allied Health Assistant",
+      "tracking": "ewogICJ0b2tlbiI6ICJjMWIxYmIyYy0zMjA1LTRiYzgtODBkNS0yNzQyMTEwYmJiYzJfMTUiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "32285210",
+        "description": "Department of Health - Queensland"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6352",
+            "description": "Physiotherapy, OT & Rehabilitation"
+          }
+        },
+        {
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subclassification": {
+            "id": "1411",
+            "description": "Government - State"
+          }
+        }
+      ],
+      "companyName": "Queensland Health",
+      "companyProfileStructuredDataId": 4669,
+      "displayType": "standard",
+      "employer": {
+        "id": "4669",
+        "name": "Queensland Health",
+        "companyId": "432313",
+        "companyUrl": "https://www.seek.com.au/companies/queensland-health-432313"
+      },
+      "id": "90835544",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T04:08:17Z",
+      "listingDateDisplay": "2d ago",
+      "locations": [
+        {
+          "label": "Gladstone, Gladstone & Central QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Gladstone QLD 4680"
+            },
+            {
+              "contextualName": "Gladstone & Central QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "allied-health-assistant",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "token": "0~2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "jobId": "90835544",
+        "section": "MAIN",
+        "sectionRank": 76,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "As an Allied Health Assistant within the Gladstone Allied Health team, you will support Allied Health Professionals by delivering clinical support...",
+      "title": "Allied Health Assistant",
+      "tracking": "ewogICJ0b2tlbiI6ICJjMWIxYmIyYy0zMjA1LTRiYzgtODBkNS0yNzQyMTEwYmJiYzJfMTYiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "32288085",
+        "description": "Central Queensland Hospital and Health Service"
+      },
+      "bulletPoints": [
+        "Elevate your career through advanced clinical leadership in a specialist team.",
+        "Embrace the CQ lifestyle with more time for the reef, bush, or family life.",
+        "Transform young lives by leading transdisciplinary paediatric assessments."
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/5e4a2156-1ef2-409d-a0c8-afbff219ec92.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6355",
+            "description": "Other"
+          }
+        },
+        {
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subclassification": {
+            "id": "1411",
+            "description": "Government - State"
+          }
+        }
+      ],
+      "companyName": "Central Queensland Hospital and Health Service",
+      "companyProfileStructuredDataId": 6367,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "6367",
+        "name": "Central Queensland Hospital and Health Service",
+        "companyId": "609455",
+        "companyUrl": "https://www.seek.com.au/companies/central-queensland-hospital-and-health-service-609455"
+      },
+      "id": "90894483",
+      "isFeatured": false,
+      "listingDate": "2026-03-12T05:14:59Z",
+      "listingDateDisplay": "3h ago",
+      "locations": [
+        {
+          "label": "Rockhampton, Rockhampton & Capricorn Coast QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Rockhampton QLD 4700"
+            },
+            {
+              "contextualName": "Rockhampton & Capricorn Coast QLD"
+            }
+          ]
+        }
+      ],
+      "salaryLabel": "$73.12 - $76.30 p.h. + super & benefits",
+      "solMetadata": {
+        "searchRequestToken": "2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "token": "0~2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "jobId": "90894483",
+        "section": "MAIN",
+        "sectionRank": 77,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Lead paediatric care in Central Queensland | Discover a relaxed coastal or country lifestyle | Drive advanced clinical outcomes for local children.",
+      "title": "Allied Health Advanced (Paediatric)",
+      "tracking": "ewogICJ0b2tlbiI6ICJjMWIxYmIyYy0zMjA1LTRiYzgtODBkNS0yNzQyMTEwYmJiYzJfMTciCn0=",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "25059132",
+        "description": "Boyd Physiotherapy"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6334",
+            "description": "Medical Administration"
+          }
+        }
+      ],
+      "companyProfileStructuredDataId": 0,
+      "displayType": "standard",
+      "id": "90876287",
+      "isFeatured": false,
+      "listingDate": "2026-03-11T11:03:40Z",
+      "listingDateDisplay": "21h ago",
+      "locations": [
+        {
+          "label": "Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Brisbane QLD"
+            },
+            {
+              "contextualName": "Queensland QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "Allied-Health-Administrator",
+      "salaryLabel": "$35 – $40 per hour",
+      "solMetadata": {
+        "searchRequestToken": "2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "token": "0~2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "jobId": "90876287",
+        "section": "MAIN",
+        "sectionRank": 78,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Join a leading physiotherapy practice in Brisbane as a medical administrator. Excellent work-life balance and supportive team culture.",
+      "title": "Permanent Part Time: Experienced Medical Allied Health Administration",
+      "tracking": "ewogICJ0b2tlbiI6ICJjMWIxYmIyYy0zMjA1LTRiYzgtODBkNS0yNzQyMTEwYmJiYzJfMTgiCn0=",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "46225012",
+        "description": "Southside Physio Group"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6352",
+            "description": "Physiotherapy, OT & Rehabilitation"
+          }
+        }
+      ],
+      "companyName": "Southside Physio Group",
+      "companyProfileStructuredDataId": 578056,
+      "displayType": "standard",
+      "employer": {
+        "id": "578056",
+        "name": "Southside Physio Group"
+      },
+      "id": "90833196",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T03:23:41Z",
+      "listingDateDisplay": "2d ago",
+      "locations": [
+        {
+          "label": "Greenway, Canberra ACT",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Greenway ACT 2900"
+            },
+            {
+              "contextualName": "All Canberra ACT"
+            }
+          ]
+        }
+      ],
+      "roleId": "allied-health-professional",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "token": "0~2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "jobId": "90833196",
+        "section": "MAIN",
+        "sectionRank": 79,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "We love to have fun, consider ourselves family and value excellence.",
+      "title": "Allied Health Professional at Southside Physio",
+      "tracking": "ewogICJ0b2tlbiI6ICJjMWIxYmIyYy0zMjA1LTRiYzgtODBkNS0yNzQyMTEwYmJiYzJfMTkiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "2",
+            "label": {
+              "text": "Hybrid"
+            }
+          }
+        ],
+        "displayText": "Hybrid"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "62314174",
+        "description": "Hand + Upper Limb Centre"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6334",
+            "description": "Medical Administration"
+          }
+        }
+      ],
+      "companyName": "Hand + Upper Limb Centre",
+      "companyProfileStructuredDataId": 3242253,
+      "displayType": "standard",
+      "employer": {
+        "id": "3242253",
+        "name": "Hand + Upper Limb Centre"
+      },
+      "id": "90803569",
+      "isFeatured": false,
+      "listingDate": "2026-03-09T02:37:50Z",
+      "listingDateDisplay": "3d ago",
+      "locations": [
+        {
+          "label": "CBD, Inner & Western Suburbs, Perth WA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Perth CBD, Inner & Western Suburbs Perth WA"
+            },
+            {
+              "contextualName": "All Perth WA"
+            }
+          ]
+        }
+      ],
+      "roleId": "administration-officer",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "token": "0~2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+        "jobId": "90803569",
+        "section": "MAIN",
+        "sectionRank": 80,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Allied Health Administration Assistant - 1 day per week - Wednesday - plus leave cover",
+      "title": "Allied Health Administrative Assistant Claremont and Murdoch",
+      "tracking": "ewogICJ0b2tlbiI6ICJjMWIxYmIyYy0zMjA1LTRiYzgtODBkNS0yNzQyMTEwYmJiYzJfMjAiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "totalCount": 10773,
+  "info": {
+    "timeTaken": 105,
+    "source": "JobSearch-sm",
+    "experiment": "mordor_841",
+    "newSince": 1773303643
+  },
+  "userQueryId": "API7436635285732472160",
+  "location": {
+    "description": "All Australia",
+    "locationDescription": "",
+    "type": "Country",
+    "whereId": "3000",
+    "localisedDescriptions": {
+      "en": {
+        "contextualName": "All Australia"
+      },
+      "id": {
+        "contextualName": "Australia"
+      },
+      "th": {
+        "contextualName": "ออสเตรเลีย"
+      },
+      "zh-Hant": {
+        "contextualName": "澳洲"
+      }
+    },
+    "isGranular": false,
+    "defaultDistanceKms": 50
+  },
+  "sortModes": [
+    {
+      "isActive": true,
+      "name": "Relevance",
+      "value": "KeywordRelevance"
+    },
+    {
+      "isActive": false,
+      "name": "Date",
+      "value": "ListedDate"
+    }
+  ],
+  "solMetadata": {
+    "requestToken": "2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+    "token": "0~2e156dc8-ce8e-4d4c-8683-b87585a56ebf",
+    "keywords": "allied health",
+    "sortMode": "RELEVANCE",
+    "locations": [
+      "All Australia",
+      "seek-3000"
+    ],
+    "locationDistance": 50,
+    "pageSize": 20,
+    "pageNumber": 4,
+    "totalJobCount": 10773,
+    "tags": {
+      "mordor:searchMarket": "UNIFIED_AU",
+      "mordor:result_count_rst": "3074",
+      "mordor:result_count_vec": "2988",
+      "mordor:rt": "96",
+      "mordor:count_vec": "2988",
+      "mordor__flights": "mordor_841",
+      "mordor:count_rst": "3074",
+      "mordor:count_ir": "4711",
+      "mordor:result_count_ir": "4711"
+    }
+  },
+  "facets": {},
+  "searchParams": {
+    "sitekey": "AU-Main",
+    "sourcesystem": "houston",
+    "where": "All Australia",
+    "page": "4",
+    "seekselectallpages": "true",
+    "keywords": "allied health",
+    "include": "seodata",
+    "locale": "en-AU"
+  }
+}

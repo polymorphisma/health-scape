@@ -1,0 +1,115 @@
+{
+  "category": "Nursing",
+  "data": [
+    {
+      "id": "8f970cb853379ca1888bb410a4ae8cac",
+      "title": "Perioperative Nurse - Day Hospital",
+      "facility_name": "City Fertility Centre",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Sunnybank",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Perioperative-Nurse-8f970cb853379ca1888bb410a4ae8cac",
+      "raw_location": "Sunnybank QLD"
+    },
+    {
+      "id": "e0a9e62af1a469eab6e01d637d7695d8",
+      "title": "Occupational Health Nurse",
+      "facility_name": "Rio Tinto",
+      "category": "Nursing",
+      "state": "TAS",
+      "city": "Bell Bay",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Occupational-Health-Nurse-e0a9e62af1a469eab6e01d637d7695d8",
+      "raw_location": "Bell Bay TAS"
+    },
+    {
+      "id": "7ba5a9c2544585c3c3eaf3c0ea3f8500",
+      "title": "Nurses (EN/RN) - Monday - Friday. No Nights. No Weekends",
+      "facility_name": "RediMed",
+      "category": "Nursing",
+      "state": "WA",
+      "city": "Perth",
+      "date_posted": "2024-11-17",
+      "url": "https://au.jora.com/job/Nurse-7ba5a9c2544585c3c3eaf3c0ea3f8500",
+      "raw_location": "Perth WA"
+    },
+    {
+      "id": "df88e9e9938df1d987b2fcc2e7f980f0",
+      "title": "Registered Nurse",
+      "facility_name": "ForHealth Group",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Ballina",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Registered-Nurse-df88e9e9938df1d987b2fcc2e7f980f0",
+      "raw_location": "Ballina NSW"
+    },
+    {
+      "id": "fcbf29170f8bb96e07a641747fda7193",
+      "title": "Occupational Health Nurse",
+      "facility_name": "KINNECT",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Gladstone",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Occupational-Health-Nurse-fcbf29170f8bb96e07a641747fda7193",
+      "raw_location": "Gladstone QLD"
+    },
+    {
+      "id": "bd0be592ec74cabf87a9495c40a9cba5",
+      "title": "Practice Nurse",
+      "facility_name": "Select Aust Sydney",
+      "category": "Nursing",
+      "state": "TAS",
+      "city": "Hobart",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Practice-Nurse-bd0be592ec74cabf87a9495c40a9cba5",
+      "raw_location": "Hobart TAS"
+    },
+    {
+      "id": "c3b55e4468fd17cfb954602faee47a68",
+      "title": "Occupational Health Nurse",
+      "facility_name": "Safework Health",
+      "category": "Nursing",
+      "state": "SA",
+      "city": "City of West Torrens",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Occupational-Health-Nurse-c3b55e4468fd17cfb954602faee47a68",
+      "raw_location": "City of West Torrens SA"
+    },
+    {
+      "id": "2c836ee1c3426a143d62fc583f70522d",
+      "title": "Practice Nurse",
+      "facility_name": "Hunter Doctors",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Cessnock",
+      "date_posted": "2026-03-10",
+      "url": "https://au.jora.com/job/Practice-Nurse-2c836ee1c3426a143d62fc583f70522d",
+      "raw_location": "Cessnock NSW"
+    },
+    {
+      "id": "aa7c715cfa41fcfe5e9840389da3d972",
+      "title": "Registered Nurse",
+      "facility_name": "NSW Health",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Blacktown",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Registered-Nurse-aa7c715cfa41fcfe5e9840389da3d972",
+      "raw_location": "Blacktown NSW"
+    },
+    {
+      "id": "952a5c34e1c60425bd6e087e084eeebe",
+      "title": "Flight Nurse",
+      "facility_name": "CareFlight",
+      "category": "Nursing",
+      "state": "NT",
+      "city": "Darwin",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Flight-Nurse-952a5c34e1c60425bd6e087e084eeebe",
+      "raw_location": "Darwin NT"
+    }
+  ]
+}

@@ -1,0 +1,2969 @@
+{
+  "category": "Allied Health",
+  "data": [
+    {
+      "id": 552323,
+      "title": "Medical Advisor",
+      "slug": "MSF/medical-advisor-womens-health-2",
+      "organisationName": "MÃ©decins Sans FrontiÃ¨res",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1670315703_rxwvL_.jpg",
+      "summary": "Provide strategic, technical & research-oriented leadership in Womenâs Health, ensuring operational priorities, quality of care & evidence generation are closely aligned.",
+      "expiresAt": "2026-03-15T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Ultimo"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://msfaustralia.elmotalent.com.au/careers/MSFAustralia/job/view/70",
+      "location_name": "Sydney",
+      "locality": "Ultimo",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/MSF/medical-advisor-womens-health-2",
+      "approvedAt": "2026-02-26T03:10:03.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 203152,
+          "parentId": 552323,
+          "mimeType": "application/pdf",
+          "fileName": "1770253331_PNtnY_.pdf",
+          "size": 242341,
+          "originalFileName": "JD_MU Medical Advisor Womens Health Jan26.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1770253331_PNtnY_.pdf",
+          "createdAt": "2026-02-26 01:16:54",
+          "updatedAt": "2026-02-26 01:16:54"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 28,
+          "slug": "healthpromotion",
+          "title": "Health Promotion",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health_Promotion.jpg",
+          "jobCount": 92
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 78
+        },
+        {
+          "archived": false,
+          "id": 44,
+          "slug": "policyandresearch",
+          "title": "Policy and Research",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Policy+%26+Research.jpeg",
+          "jobCount": 66
+        },
+        {
+          "archived": false,
+          "id": 52,
+          "slug": "womensorganisationsandservices",
+          "title": "Womens Organisations and Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Women's+Organisations+%26+Services.jpeg",
+          "jobCount": 105
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 199
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 2,
+          "slug": "CONTRACT",
+          "title": "Contract",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=YC2HH19Pznc",
+      "organisation": {
+        "id": 4836,
+        "name": "MÃ©decins Sans FrontiÃ¨res",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1670315703_rxwvL_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1670315703_rxwvL_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1670315703_rxwvL_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1670315703_rxwvL_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1670315703_rxwvL_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1670315703_rxwvL_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552294,
+      "title": "Exercise Coordinator",
+      "slug": "BalwynEC/exercise-coordinator-1",
+      "organisationName": "Balwyn Evergreen Centre",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1538374300_q5Iki_.jpeg",
+      "summary": "Make a genuine difference in the lives of older people as the full-time Exercise Coordinator at Balwyn Evergreen! Deliver strength and balance improvement programs to Balwyn Evergreen clients. ",
+      "expiresAt": "2026-03-26T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "Balwyn"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Melbourne",
+      "locality": "Balwyn",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/BalwynEC/exercise-coordinator-1",
+      "approvedAt": "2026-02-26T00:57:04.000Z",
+      "application": "<p>If this sounds like you, then please send a copy of your resume and a short covering letter outlining why this role is for you.</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 203139,
+          "parentId": 552294,
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "fileName": "1772062403_de78R_.docx",
+          "size": 55202,
+          "originalFileName": "2026 Exercise Coordinator PD.docx",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1772062403_de78R_.docx",
+          "createdAt": "2026-02-25 23:33:24",
+          "updatedAt": "2026-02-25 23:33:24"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 201
+        },
+        {
+          "archived": false,
+          "id": 28,
+          "slug": "healthpromotion",
+          "title": "Health Promotion",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health_Promotion.jpg",
+          "jobCount": 95
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 8608,
+        "name": "Balwyn Evergreen Centre",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1538374300_q5Iki_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1538374300_q5Iki_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1538374300_q5Iki_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1538374300_q5Iki_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1538374300_q5Iki_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1538374300_q5Iki_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552078,
+      "title": "Occupational Therapist",
+      "slug": "BaptistCare/occupational-therapist-south-perth",
+      "organisationName": "BaptistCare ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+      "summary": "If you are motivated by strong values and looking for a position that contributes meaningfully to the community, read on.",
+      "expiresAt": "2026-03-22T16:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Perth",
+          "locality": "South Perth"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/999/gateway/default.aspx?c=apply&lJobID=498294&lJobSourceTypeID=806&sLanguage=en",
+      "location_name": "Perth",
+      "locality": "South Perth",
+      "state": "WA",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/occupational-therapist-south-perth",
+      "approvedAt": "2026-02-24T05:42:08.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 201
+        },
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 7,
+        "slug": "WA",
+        "title": "Perth",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/WLtBI1PALDg",
+      "organisation": {
+        "id": 1136,
+        "name": "BaptistCare ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1700980305_5R7Ph_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1700980305_5R7Ph_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1700980305_5R7Ph_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1700980305_5R7Ph_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1700980305_5R7Ph_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552067,
+      "title": "Occupational Therapist - Home Care",
+      "slug": "BaptistCare/occupational-therapist-home-care-orange-and-surrounds",
+      "organisationName": "BaptistCare ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+      "summary": "Exciting opportunity to use your skills to enhance the independence, health and wellbeing of older Australians â while enjoying flexibility, support, and a great team environment.",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Orange"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/999/gateway/default.aspx?c=apply&lJobID=498297&lJobSourceTypeID=806&sLanguage=en",
+      "location_name": "Regional NSW",
+      "locality": "Orange",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/occupational-therapist-home-care-orange-and-surrounds",
+      "approvedAt": "2026-02-24T04:59:29.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 201
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/WLtBI1PALDg",
+      "organisation": {
+        "id": 1136,
+        "name": "BaptistCare ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1700980305_5R7Ph_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1700980305_5R7Ph_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1700980305_5R7Ph_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1700980305_5R7Ph_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1700980305_5R7Ph_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552066,
+      "title": "Occupational Therapist - Home Care",
+      "slug": "BaptistCare/occupational-therapist-home-care-griffith-and-surrounds",
+      "organisationName": "BaptistCare ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+      "summary": "Exciting opportunity to use your skills to enhance the independence, health and wellbeing of older Australians â while enjoying flexibility, support, and a great team environment.",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Griffith"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/999/gateway/default.aspx?c=apply&lJobID=498296&lJobSourceTypeID=806&sLanguage=en",
+      "location_name": "Regional NSW",
+      "locality": "Griffith",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/occupational-therapist-home-care-griffith-and-surrounds",
+      "approvedAt": "2026-02-24T04:57:37.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 186
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 199
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/WLtBI1PALDg",
+      "organisation": {
+        "id": 1136,
+        "name": "BaptistCare ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1700980305_5R7Ph_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1700980305_5R7Ph_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1700980305_5R7Ph_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1700980305_5R7Ph_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1700980305_5R7Ph_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552060,
+      "title": "Occupational Therapist",
+      "slug": "BaptistCare/occupational-therapist-ballina-1",
+      "organisationName": "BaptistCare ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+      "summary": "Are you a motivated occupational therapist looking to make a real difference in your community? We are seeking an experienced Occupational Therapist to join our growing team in Ballina and surrounds.",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Ballina"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/999/gateway/default.aspx?c=apply&lJobID=496829&lJobSourceTypeID=806&sLanguage=en",
+      "location_name": "Regional NSW",
+      "locality": "Ballina",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/occupational-therapist-ballina-1",
+      "approvedAt": "2026-02-24T04:53:32.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 199
+        },
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 186
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/WLtBI1PALDg",
+      "organisation": {
+        "id": 1136,
+        "name": "BaptistCare ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1700980305_5R7Ph_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1700980305_5R7Ph_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1700980305_5R7Ph_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1700980305_5R7Ph_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1700980305_5R7Ph_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552061,
+      "title": "Occupational Therapist",
+      "slug": "BaptistCare/occupational-therapist-canberra-1",
+      "organisationName": "BaptistCare ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+      "summary": "If you are motivated by strong values and looking for a position that contributes meaningfully to the community, read on.",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Canberra & ACT",
+          "locality": "Canberra & ACT"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/999/gateway/default.aspx?c=apply&lJobID=497446&lJobSourceTypeID=806&sLanguage=en",
+      "location_name": "Canberra & ACT",
+      "locality": "Canberra & ACT",
+      "state": "ACT",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/occupational-therapist-canberra-1",
+      "approvedAt": "2026-02-24T04:04:18.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 199
+        },
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 186
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 15,
+        "slug": "ACT",
+        "title": "Canberra & ACT",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/WLtBI1PALDg",
+      "organisation": {
+        "id": 1136,
+        "name": "BaptistCare ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1700980305_5R7Ph_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1700980305_5R7Ph_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1700980305_5R7Ph_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1700980305_5R7Ph_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1700980305_5R7Ph_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552032,
+      "title": "Occupational Therapist",
+      "slug": "BaptistCare/occupational-therapist-penrith-blue-mountains-and-surrounds",
+      "organisationName": "BaptistCare ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+      "summary": "Are you a motivated occupational therapist looking to make a real difference in your community? Lead with Heart. Empower Independence for our older Australians. Change Lives at Home.",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Penrith"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/999/gateway/default.aspx?c=apply&lJobID=497887&lJobSourceTypeID=806&sLanguage=en",
+      "location_name": "Sydney",
+      "locality": "Penrith",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/occupational-therapist-penrith-blue-mountains-and-surrounds",
+      "approvedAt": "2026-02-24T03:24:22.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 201
+        },
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 2,
+          "slug": "CONTRACT",
+          "title": "Contract",
+          "archived": false
+        },
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/WLtBI1PALDg",
+      "organisation": {
+        "id": 1136,
+        "name": "BaptistCare ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1700980305_5R7Ph_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1700980305_5R7Ph_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1700980305_5R7Ph_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1700980305_5R7Ph_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1700980305_5R7Ph_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552026,
+      "title": "Occupational Therapist",
+      "slug": "BaptistCare/occupational-therapist-wagga-wagga-1",
+      "organisationName": "BaptistCare ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+      "summary": "Are you a motivated occupational therapist looking to make a real difference in your community? Then this is an exciting opportunity for you!",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Wagga Wagga"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/999/gateway/default.aspx?c=apply&lJobID=495512&lJobSourceTypeID=806&sLanguage=en",
+      "location_name": "Regional NSW",
+      "locality": "Wagga Wagga",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/occupational-therapist-wagga-wagga-1",
+      "approvedAt": "2026-02-24T03:21:48.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 201
+        },
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/WLtBI1PALDg",
+      "organisation": {
+        "id": 1136,
+        "name": "BaptistCare ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1700980305_5R7Ph_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1700980305_5R7Ph_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1700980305_5R7Ph_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1700980305_5R7Ph_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1700980305_5R7Ph_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552018,
+      "title": "Occupational Therapist",
+      "slug": "BaptistCare/occupational-therapist-central-coast",
+      "organisationName": "BaptistCare ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+      "summary": "If you are motivated by strong values and looking for a position that contributes meaningfully to the community, read on.",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Gosford & Central Coast"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/999/gateway/default.aspx?c=apply&lJobID=498293&lJobSourceTypeID=806&sLanguage=en",
+      "location_name": "Regional NSW",
+      "locality": "Gosford & Central Coast",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/occupational-therapist-central-coast",
+      "approvedAt": "2026-02-24T02:48:55.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 201
+        },
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/WLtBI1PALDg",
+      "organisation": {
+        "id": 1136,
+        "name": "BaptistCare ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1700980305_5R7Ph_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1700980305_5R7Ph_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1700980305_5R7Ph_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1700980305_5R7Ph_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1700980305_5R7Ph_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552019,
+      "title": "Occupational Therapist",
+      "slug": "BaptistCare/occupational-therapist-cowra",
+      "organisationName": "BaptistCare ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+      "summary": "If you are motivated by strong values and looking for a position that contributes meaningfully to the community, read on.",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Cowra"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/999/gateway/default.aspx?c=apply&lJobID=497447&lJobSourceTypeID=806&sLanguage=en",
+      "location_name": "Regional NSW",
+      "locality": "Cowra",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/occupational-therapist-cowra",
+      "approvedAt": "2026-02-24T02:47:47.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 201
+        },
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/WLtBI1PALDg",
+      "organisation": {
+        "id": 1136,
+        "name": "BaptistCare ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1700980305_5R7Ph_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1700980305_5R7Ph_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1700980305_5R7Ph_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1700980305_5R7Ph_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1700980305_5R7Ph_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552000,
+      "title": "Occupational Therapist - Home Care",
+      "slug": "BaptistCare/occupational-therapist-home-care-forster-taree",
+      "organisationName": "BaptistCare ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+      "summary": "If you are motivated by strong values and looking for a position that contributes meaningfully to the community, read on.",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Forster"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/999/gateway/default.aspx?c=apply&lJobID=497456&lJobSourceTypeID=806&sLanguage=en",
+      "location_name": "Regional NSW",
+      "locality": "Forster",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/occupational-therapist-home-care-forster-taree",
+      "approvedAt": "2026-02-24T01:53:55.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 201
+        },
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/WLtBI1PALDg",
+      "organisation": {
+        "id": 1136,
+        "name": "BaptistCare ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1700980305_5R7Ph_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1700980305_5R7Ph_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1700980305_5R7Ph_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1700980305_5R7Ph_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1700980305_5R7Ph_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551992,
+      "title": "Occupational Therapist - Home Care",
+      "slug": "BaptistCare/occupational-therapist-home-care-port-macquarie-1",
+      "organisationName": "BaptistCare ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+      "summary": "If you are motivated by strong values and looking for a position that contributes meaningfully to the community, read on.",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Port Macquarie & Mid North Coast"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/999/gateway/default.aspx?c=apply&lJobID=497455&lJobSourceTypeID=806&sLanguage=en",
+      "location_name": "Regional NSW",
+      "locality": "Port Macquarie & Mid North Coast",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/occupational-therapist-home-care-port-macquarie-1",
+      "approvedAt": "2026-02-24T00:55:34.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 201
+        },
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/WLtBI1PALDg",
+      "organisation": {
+        "id": 1136,
+        "name": "BaptistCare ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1700980305_5R7Ph_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1700980305_5R7Ph_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1700980305_5R7Ph_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1700980305_5R7Ph_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1700980305_5R7Ph_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551966,
+      "title": "Therapeutic Specialist",
+      "slug": "lifestylesolutions/therapeutic-specialist-newcastle-maitland-hunter",
+      "organisationName": "Lifestyle Solutions",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1543889613_nFchu_.jpeg",
+      "summary": "Lead therapeutic care for Children and Young People in OOHC. Manage a caseload and embed trauma-informed, culturally responsive practice. ",
+      "expiresAt": "2026-04-09T07:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Newcastle, Maitland & Hunter"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/1066/gateway/default.aspx?c=apply&lJobID=495640&lJobSourceTypeID=803&sLanguage=en",
+      "location_name": "Regional NSW",
+      "locality": "Newcastle, Maitland & Hunter",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/lifestylesolutions/therapeutic-specialist-newcastle-maitland-hunter",
+      "approvedAt": "2026-02-23T23:59:07.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 19,
+          "slug": "familyservices",
+          "title": "Family Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Family_Services.jpg",
+          "jobCount": 281
+        },
+        {
+          "archived": false,
+          "id": 53,
+          "slug": "youthservices",
+          "title": "Youth",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Youth.jpeg",
+          "jobCount": 296
+        },
+        {
+          "archived": false,
+          "id": 47,
+          "slug": "socialwork",
+          "title": "Social Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Social_Work.jpg",
+          "jobCount": 423
+        },
+        {
+          "archived": false,
+          "id": 39,
+          "slug": "mentalhealthandcounselling",
+          "title": "Mental Health and Counselling",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Mental+Health+%26+Counselling.jpg",
+          "jobCount": 350
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 78
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 199
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 4072,
+        "name": "Lifestyle Solutions",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1543889613_nFchu_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1543889613_nFchu_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1543889613_nFchu_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1543889613_nFchu_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1543889613_nFchu_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1543889613_nFchu_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551945,
+      "title": "Peer Worker / Mental Health & Wellbeing Worker",
+      "slug": "neami/peer-worker-mental-health-wellbeing-worker-merrylands",
+      "organisationName": "Neami National",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1687406453_eEQ9b_.png",
+      "summary": "We work from a person-centred approach and prioritise holistic care, ensuring that people receive comprehensive support in all aspects of their lives.",
+      "expiresAt": "2026-03-27T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Merrylands"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://www.aplitrak.com/?adid=bWFkenkudGltbXMuNjU2MzIuNjA0NEBuZWFtaWF1LmFwbGl0cmFrLmNvbQ",
+      "location_name": "Sydney",
+      "locality": "Merrylands",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/neami/peer-worker-mental-health-wellbeing-worker-merrylands",
+      "approvedAt": "2026-02-23T06:03:57.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 10,
+          "slug": "communityanddevelopment",
+          "title": "Community Development",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Community_Development.jpeg.jpg",
+          "jobCount": 149
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 201
+        },
+        {
+          "archived": false,
+          "id": 47,
+          "slug": "socialwork",
+          "title": "Social Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Social_Work.jpg",
+          "jobCount": 433
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=zZ851yZ70Sk",
+      "organisation": {
+        "id": 4811,
+        "name": "Neami National",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1687406453_eEQ9b_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1687406453_eEQ9b_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1687406453_eEQ9b_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1687406453_eEQ9b_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1687406453_eEQ9b_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1687406453_eEQ9b_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551920,
+      "title": "First Aid Responders",
+      "slug": "RFDSVIC/first-aid-responders-level-1",
+      "organisationName": "Royal Flying Doctor Service Victoria",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1543211641_s1cQV_.jpeg",
+      "summary": "Join RFDS as a First Aid Responder - Level 1 and support events across Victoria.",
+      "expiresAt": "2026-03-24T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "Melbourne"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://www.aplitrak.com/?adid=YXllc2hhLmdldWUuODAyNDcuNjA0NEByZmRzYXUuYXBsaXRyYWsuY29t",
+      "location_name": "Melbourne",
+      "locality": "Melbourne",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/RFDSVIC/first-aid-responders-level-1",
+      "approvedAt": "2026-02-23T05:05:38.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 201
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "Base rate $27.79/hr plus casual loading and additional benefits"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=TWyhAVreoFs",
+      "organisation": {
+        "id": 2862,
+        "name": "Royal Flying Doctor Service Victoria",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1543211641_s1cQV_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1543211641_s1cQV_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1543211641_s1cQV_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1543211641_s1cQV_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1543211641_s1cQV_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1543211641_s1cQV_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551923,
+      "title": "Ambulance Transport Attendants",
+      "slug": "RFDSVIC/ambulance-transport-attendants-metropolitan-area",
+      "organisationName": "Royal Flying Doctor Service Victoria",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1543211641_s1cQV_.jpeg",
+      "summary": "Join Royal Flying Doctors Service as an Ambulance Transport Attendant in the Metro Area on a casual basis. You will be responsible for the safe and courteous transportation of patients.",
+      "expiresAt": "2026-03-24T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "CBD & Inner Suburbs Melbourne"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://rfn.t1cloud.com/T1Default/CiAnywhere/Web/RFN/OrganisationManagement/ApplicationWizard?f=%24ORG.REC.EXAPN.WIZ&suite=CES&func=%24ORG.REC.EXAPN.WIZ&portal=RECRUITMENT&isOldGuest=false&token=b73d36a8-5a59-425f-b873-a0146a91ac06",
+      "location_name": "Melbourne",
+      "locality": "CBD & Inner Suburbs Melbourne",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/RFDSVIC/ambulance-transport-attendants-metropolitan-area",
+      "approvedAt": "2026-02-23T04:58:58.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 202977,
+          "parentId": 551923,
+          "mimeType": "application/pdf",
+          "fileName": "1771822704_LGDOA_.pdf",
+          "size": 725838,
+          "originalFileName": "Position Description - Ambulance Transport Attendants (1).pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1771822704_LGDOA_.pdf",
+          "createdAt": "2026-02-23 04:58:24",
+          "updatedAt": "2026-02-23 04:58:24"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 199
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 78
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=TWyhAVreoFs",
+      "organisation": {
+        "id": 2862,
+        "name": "Royal Flying Doctor Service Victoria",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1543211641_s1cQV_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1543211641_s1cQV_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1543211641_s1cQV_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1543211641_s1cQV_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1543211641_s1cQV_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1543211641_s1cQV_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551912,
+      "title": "Physiotherapist",
+      "slug": "BaptistCare/physiotherapist-griffith-and-surrounds",
+      "organisationName": "BaptistCare ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+      "summary": "If you are motivated by strong values and looking for a position that contributes meaningfully to the community, read on. Full-time & part-time available.",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Griffith"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/999/gateway/default.aspx?c=apply&lJobID=498298&lJobSourceTypeID=806&sLanguage=en",
+      "location_name": "Regional NSW",
+      "locality": "Griffith",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-griffith-and-surrounds",
+      "approvedAt": "2026-02-23T04:41:09.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 186
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 191
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        },
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/WLtBI1PALDg",
+      "organisation": {
+        "id": 1136,
+        "name": "BaptistCare ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1700980305_5R7Ph_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1700980305_5R7Ph_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1700980305_5R7Ph_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1700980305_5R7Ph_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1700980305_5R7Ph_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551913,
+      "title": "Physiotherapist",
+      "slug": "BaptistCare/physiotherapist-dubbo-1",
+      "organisationName": "BaptistCare ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+      "summary": "We're seeking an experienced Physiotherapist. If you are motivated by strong values and looking for a position that contributes meaningfully to the community, read on.",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Dubbo & Central NSW"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/999/gateway/default.aspx?c=apply&lJobID=497448&lJobSourceTypeID=806&sLanguage=en",
+      "location_name": "Regional NSW",
+      "locality": "Dubbo & Central NSW",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-dubbo-1",
+      "approvedAt": "2026-02-23T04:38:22.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 201
+        },
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/WLtBI1PALDg",
+      "organisation": {
+        "id": 1136,
+        "name": "BaptistCare ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1700980305_5R7Ph_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1700980305_5R7Ph_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1700980305_5R7Ph_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1700980305_5R7Ph_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1700980305_5R7Ph_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551904,
+      "title": "Registered Paramedics / Nurses",
+      "slug": "RFDSVIC/registered-paramedics-nurses-lismore-1",
+      "organisationName": "Royal Flying Doctor Service Victoria",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1543211641_s1cQV_.jpeg",
+      "summary": "Join RFDS as a registered nurse or paramedic in Lismore on a full-time basis, we are also open to a flexible part-time basis.",
+      "expiresAt": "2026-03-23T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Lismore & Far North Coast"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://www.aplitrak.com/?adid=YXllc2hhLmdldWUuMTUyOTguNjA0NEByZmRzYXUuYXBsaXRyYWsuY29t",
+      "location_name": "Regional NSW",
+      "locality": "Lismore & Far North Coast",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/RFDSVIC/registered-paramedics-nurses-lismore-1",
+      "approvedAt": "2026-02-23T04:24:38.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 199
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 78
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "This role base rate is $34.63 per hr, plus additional benefits"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=TWyhAVreoFs",
+      "organisation": {
+        "id": 2862,
+        "name": "Royal Flying Doctor Service Victoria",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1543211641_s1cQV_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1543211641_s1cQV_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1543211641_s1cQV_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1543211641_s1cQV_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1543211641_s1cQV_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1543211641_s1cQV_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551892,
+      "title": "Doctors - GPs and Specialists",
+      "slug": "BendigoRainbow/doctors-gps-and-specialists-bendigo",
+      "organisationName": "The Bendigo Rainbow Hub",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1751268115_38HEI_.png",
+      "summary": "The Bendigo Rainbow Hub is seeking GPs and specialists who are dedicated to innovation and inclusion to join our growing practice in providing affirming healthcare.",
+      "expiresAt": null,
+      "isExpirationHidden": true,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional VIC",
+          "locality": "Bendigo, Goldfields & Macedon Ranges"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Regional VIC",
+      "locality": "Bendigo, Goldfields & Macedon Ranges",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/BendigoRainbow/doctors-gps-and-specialists-bendigo",
+      "approvedAt": "2026-02-23T04:09:49.000Z",
+      "application": "<p>Please submit your application, including CV and cover letter, by completing the form below.</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 201
+        },
+        {
+          "archived": false,
+          "id": 23,
+          "slug": "glbt",
+          "title": "LGBTQIA+",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/GLBTI+%26+Sexual+Health.jpeg",
+          "jobCount": 23
+        },
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 206
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 2,
+        "slug": "REGVIC",
+        "title": "Regional VIC",
+        "archived": false
+      },
+      "questions": [
+        {
+          "id": 24,
+          "question": "Do you have full and unrestricted rights to work in Australia?",
+          "alias": "Unrestricted rights to work in Australia",
+          "blanks": {},
+          "category": "Work Eligibility",
+          "displayText": "Do you have full and unrestricted rights to work in Australia?"
+        },
+        {
+          "id": 28,
+          "question": "Do you possess a current satisfactory Working With Children Check?",
+          "alias": "Working With Children Check",
+          "blanks": {},
+          "category": "Checks",
+          "displayText": "Do you possess a current satisfactory Working With Children Check?"
+        },
+        {
+          "id": 27,
+          "question": "Do you possess a current satisfactory National Police Clearance Certificate?",
+          "alias": "National Police Clearance Certificate",
+          "blanks": {},
+          "category": "Checks",
+          "displayText": "Do you possess a current satisfactory National Police Clearance Certificate?"
+        }
+      ],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 1,
+          "slug": "Business and Private Sector",
+          "title": "Business/Private Sector",
+          "archived": false
+        },
+        {
+          "id": 5,
+          "slug": "socialenterprise",
+          "title": "Social Enterprise",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 20044,
+        "name": "The Bendigo Rainbow Hub",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1751268115_38HEI_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1751268115_38HEI_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1751268115_38HEI_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1751268115_38HEI_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1751268115_38HEI_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1751268115_38HEI_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551895,
+      "title": "Physiotherapist",
+      "slug": "BaptistCare/physiotherapist-tweed-heads-kingscliff-and-surrounds",
+      "organisationName": "BaptistCare ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+      "summary": "If you are motivated by strong values and looking for a position that contributes meaningfully to the community, read on. Full-time & part-time available.",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Tweed Heads"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/999/gateway/default.aspx?c=apply&lJobID=498342&lJobSourceTypeID=806&sLanguage=en",
+      "location_name": "Regional NSW",
+      "locality": "Tweed Heads",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-tweed-heads-kingscliff-and-surrounds",
+      "approvedAt": "2026-02-23T03:51:07.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 186
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 199
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/WLtBI1PALDg",
+      "organisation": {
+        "id": 1136,
+        "name": "BaptistCare ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1700980305_5R7Ph_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1700980305_5R7Ph_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1700980305_5R7Ph_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1700980305_5R7Ph_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1700980305_5R7Ph_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551893,
+      "title": "Ambulance Transport Attendant",
+      "slug": "RFDSVIC/ambulance-transport-attendant-bendigo-2",
+      "organisationName": "Royal Flying Doctor Service Victoria",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1543211641_s1cQV_.jpeg",
+      "summary": "Join Royal Flying Doctors Service on a Part-time or Full-time basis as an Ambulance Transport Attendant. Deliver highâquality patient care across a wide range of medical conditions.",
+      "expiresAt": "2026-03-24T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional VIC",
+          "locality": "Bendigo, Goldfields & Macedon Ranges"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://www.aplitrak.com/?adid=YXllc2hhLmdldWUuNzk4MzcuNjA0NEByZmRzYXUuYXBsaXRyYWsuY29t",
+      "location_name": "Regional VIC",
+      "locality": "Bendigo, Goldfields & Macedon Ranges",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/RFDSVIC/ambulance-transport-attendant-bendigo-2",
+      "approvedAt": "2026-02-23T03:43:23.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 202969,
+          "parentId": 551893,
+          "mimeType": "application/pdf",
+          "fileName": "1771818235_tV4eE_.pdf",
+          "size": 725838,
+          "originalFileName": "Position Description - Ambulance Transport Attendants.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1771818235_tV4eE_.pdf",
+          "createdAt": "2026-02-23 03:43:56",
+          "updatedAt": "2026-02-23 03:43:56"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 199
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 78
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 2,
+        "slug": "REGVIC",
+        "title": "Regional VIC",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": " Base rate is $34.82-$40.18/hr based on experience. Registered Nurses only the base rate is $38.43/hr. Plus additional benefits."
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=TWyhAVreoFs",
+      "organisation": {
+        "id": 2862,
+        "name": "Royal Flying Doctor Service Victoria",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1543211641_s1cQV_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1543211641_s1cQV_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1543211641_s1cQV_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1543211641_s1cQV_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1543211641_s1cQV_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1543211641_s1cQV_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551882,
+      "title": "Physiotherapist",
+      "slug": "BaptistCare/physiotherapist-macarthur-1",
+      "organisationName": "BaptistCare ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+      "summary": "If you are motivated by strong values and looking for a position that contributes meaningfully to the community, read on. Full-time & part-time available.",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Campbelltown"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/999/gateway/default.aspx?c=apply&lJobID=497450&lJobSourceTypeID=806&sLanguage=en",
+      "location_name": "Sydney",
+      "locality": "Campbelltown",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-macarthur-1",
+      "approvedAt": "2026-02-23T03:25:31.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 199
+        },
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 186
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/WLtBI1PALDg",
+      "organisation": {
+        "id": 1136,
+        "name": "BaptistCare ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1700980305_5R7Ph_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1700980305_5R7Ph_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1700980305_5R7Ph_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1700980305_5R7Ph_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1700980305_5R7Ph_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551881,
+      "title": "Physiotherapist",
+      "slug": "BaptistCare/physiotherapist-penrith-blue-mountains",
+      "organisationName": "BaptistCare ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+      "summary": "If you are motivated by strong values and looking for a position that contributes meaningfully to the community, read on. Full-time & part-time available.",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Blue Mountains & Central West"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/999/gateway/default.aspx?c=apply&lJobID=495684&lJobSourceTypeID=806&sLanguage=en",
+      "location_name": "Regional NSW",
+      "locality": "Blue Mountains & Central West",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-penrith-blue-mountains",
+      "approvedAt": "2026-02-23T03:20:44.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 202
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/WLtBI1PALDg",
+      "organisation": {
+        "id": 1136,
+        "name": "BaptistCare ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1700980305_5R7Ph_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1700980305_5R7Ph_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1700980305_5R7Ph_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1700980305_5R7Ph_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1700980305_5R7Ph_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551880,
+      "title": "Physiotherapist",
+      "slug": "BaptistCare/physiotherapist-cowra-1",
+      "organisationName": "BaptistCare ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+      "summary": "If you are motivated by strong values and looking for a position that contributes meaningfully to the community, read on. Full-time & part-time available.",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Cowra"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/999/gateway/default.aspx?c=apply&lJobID=495461&lJobSourceTypeID=806&sLanguage=en",
+      "location_name": "Regional NSW",
+      "locality": "Cowra",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-cowra-1",
+      "approvedAt": "2026-02-23T03:14:11.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 201
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/WLtBI1PALDg",
+      "organisation": {
+        "id": 1136,
+        "name": "BaptistCare ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1700980305_5R7Ph_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1700980305_5R7Ph_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1700980305_5R7Ph_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1700980305_5R7Ph_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1700980305_5R7Ph_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551885,
+      "title": "Clinicians x2",
+      "slug": "taketwo/clinicians-x2-morwell",
+      "organisationName": "Berry Street Take Two",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1540785041_EzAFZ_.jpeg",
+      "summary": "This is your opportunity to have a positive impact on our communityâs most vulnerable children, young people and families.",
+      "expiresAt": "2026-03-25T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional VIC",
+          "locality": "Morwell"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://www.livehire.com/careers/berrystreet/job/XX9HA/EJ839RP0H0/clinician-take-two?useBrowserBack=true",
+      "location_name": "Regional VIC",
+      "locality": "Morwell",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/taketwo/clinicians-x2-morwell",
+      "approvedAt": "2026-02-23T02:58:07.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 202959,
+          "parentId": 551885,
+          "mimeType": "application/pdf",
+          "fileName": "1771815435_OPkXQ_.pdf",
+          "size": 299252,
+          "originalFileName": "20250220 Clinician - Gippsland.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1771815435_OPkXQ_.pdf",
+          "createdAt": "2026-02-23 02:57:15",
+          "updatedAt": "2026-02-23 02:57:15"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 39,
+          "slug": "mentalhealthandcounselling",
+          "title": "Mental Health and Counselling",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Mental+Health+%26+Counselling.jpg",
+          "jobCount": 355
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 201
+        },
+        {
+          "archived": false,
+          "id": 47,
+          "slug": "socialwork",
+          "title": "Social Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Social_Work.jpg",
+          "jobCount": 433
+        },
+        {
+          "archived": false,
+          "id": 53,
+          "slug": "youthservices",
+          "title": "Youth",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Youth.jpeg",
+          "jobCount": 299
+        },
+        {
+          "archived": false,
+          "id": 19,
+          "slug": "familyservices",
+          "title": "Family Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Family_Services.jpg",
+          "jobCount": 280
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 2,
+        "slug": "REGVIC",
+        "title": "Regional VIC",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$103k - $106k pa (Dependent on experience) + Super & Salary Packaging"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 2,
+          "slug": "CONTRACT",
+          "title": "Contract",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=vQTgpZnABEs",
+      "organisation": {
+        "id": 900,
+        "name": "Berry Street Take Two",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1540785041_EzAFZ_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1540785041_EzAFZ_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1540785041_EzAFZ_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1540785041_EzAFZ_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1540785041_EzAFZ_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1540785041_EzAFZ_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551869,
+      "title": "Physiotherapist",
+      "slug": "BaptistCare/physiotherapist-central-west",
+      "organisationName": "BaptistCare ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+      "summary": "If you are motivated by strong values and looking for a position that contributes meaningfully to the community, read on. Full-time & part-time avail.",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Blue Mountains & Central West"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/999/gateway/default.aspx?c=apply&lJobID=498295&lJobSourceTypeID=806&sLanguage=en",
+      "location_name": "Regional NSW",
+      "locality": "Blue Mountains & Central West",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-central-west",
+      "approvedAt": "2026-02-23T02:45:32.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 201
+        },
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/WLtBI1PALDg",
+      "organisation": {
+        "id": 1136,
+        "name": "BaptistCare ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1700980305_5R7Ph_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1700980305_5R7Ph_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1700980305_5R7Ph_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1700980305_5R7Ph_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1700980305_5R7Ph_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551870,
+      "title": "Physiotherapist",
+      "slug": "BaptistCare/physiotherapist-strathfield",
+      "organisationName": "BaptistCare ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+      "summary": "If you are motivated by strong values and looking for a position that contributes meaningfully to the community, read on. Full-time & part-time avail.",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Strathfield"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/999/gateway/default.aspx?c=apply&lJobID=497631&lJobSourceTypeID=806&sLanguage=en",
+      "location_name": "Sydney",
+      "locality": "Strathfield",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-strathfield",
+      "approvedAt": "2026-02-23T02:44:22.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 201
+        },
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/WLtBI1PALDg",
+      "organisation": {
+        "id": 1136,
+        "name": "BaptistCare ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1700980305_5R7Ph_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1700980305_5R7Ph_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1700980305_5R7Ph_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1700980305_5R7Ph_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1700980305_5R7Ph_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551861,
+      "title": "Physiotherapist",
+      "slug": "BaptistCare/physiotherapist-canberra-1",
+      "organisationName": "BaptistCare ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+      "summary": "Due to growth, we are looking for an amazing Physiotherapist to join our team in Canberra and surrounding areas. Full-time or Part-time.",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Canberra & ACT",
+          "locality": "Canberra & ACT"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/999/gateway/default.aspx?c=apply&lJobID=497445&lJobSourceTypeID=806&sLanguage=en",
+      "location_name": "Canberra & ACT",
+      "locality": "Canberra & ACT",
+      "state": "ACT",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-canberra-1",
+      "approvedAt": "2026-02-23T02:35:29.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 201
+        },
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 15,
+        "slug": "ACT",
+        "title": "Canberra & ACT",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/WLtBI1PALDg",
+      "organisation": {
+        "id": 1136,
+        "name": "BaptistCare ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1700980305_5R7Ph_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1700980305_5R7Ph_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1700980305_5R7Ph_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1700980305_5R7Ph_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1700980305_5R7Ph_.jpg"
+        }
+      },
+      "applicationDate": null
+    }
+  ]
+}

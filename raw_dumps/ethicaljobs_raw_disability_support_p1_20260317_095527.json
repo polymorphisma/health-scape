@@ -1,0 +1,3248 @@
+{
+  "category": "Disability Support",
+  "data": [
+    {
+      "id": 551967,
+      "title": "Disability Support Workers",
+      "slug": "Closercareaus/disability-support-workers-sydney",
+      "organisationName": "Closer Care",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1610591706_BDNNK_.png",
+      "summary": "Closer Care has casual vacancies and contractor vacancies for Disability and Mental Health Support Workers with at least one year of industry and/or education experience in Sydney.",
+      "expiresAt": null,
+      "isExpirationHidden": true,
+      "isFeatured": true,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "CBD, Inner West & Eastern Suburbs Sydney"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Sydney",
+      "locality": "CBD, Inner West & Eastern Suburbs Sydney",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Closercareaus/disability-support-workers-sydney",
+      "approvedAt": "2026-02-23T23:30:19.000Z",
+      "application": "<p>Please submit your resume, including a cover letter addressing how you will meet the company's core values, via the form below.</p>\n<p>We will go through your application and if you have the right experience and attributes, then we will contact you for an initial telephone interview.</p>\n<p>We look forward to your job application and the HR team will respond to shortlisted applicants in due course.</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 90
+        },
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 39,
+          "slug": "mentalhealthandcounselling",
+          "title": "Mental Health and Counselling",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Mental+Health+%26+Counselling.jpg",
+          "jobCount": 347
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": ""
+      },
+      "sectors": [
+        {
+          "id": 1,
+          "slug": "Business and Private Sector",
+          "title": "Business/Private Sector",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        },
+        {
+          "id": 2,
+          "slug": "CONTRACT",
+          "title": "Contract",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 12050,
+        "name": "Closer Care",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1610591706_BDNNK_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1610591706_BDNNK_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1610591706_BDNNK_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1610591706_BDNNK_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1610591706_BDNNK_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1610591706_BDNNK_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552792,
+      "title": "Disability Support Worker",
+      "slug": "SafeHealthyHappy/disability-support-worker-5",
+      "organisationName": "Safe Healthy Happy Ltd",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1566536872_e2prc_.jpeg",
+      "summary": "Are you looking for a permanent part-time job that makes a true difference? Experience with supporting autistic people preferred. You must be professional, kind, patient and reliable. ",
+      "expiresAt": null,
+      "isExpirationHidden": true,
+      "isFeatured": true,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "Thomastown"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Melbourne",
+      "locality": "Thomastown",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/SafeHealthyHappy/disability-support-worker-5",
+      "approvedAt": "2026-03-02T22:57:33.000Z",
+      "application": "<p>To apply for this position, please submit a current resume.</p>\n<p><strong>To be considered, you must also submit a covering letter including the following information</strong>:</p>\n<ul>\n<li>Why you are interested in this position?</li>\n<li>Are you available on Wednesdays and Saturdays 2.00pm - 10.00pm?</li>\n<li>Are you willing to complete a Level 2 First Aid course (if you haven't done so already)?</li>\n<li>The person's house is a COVID safe area so a mask is provided and is required to be worn at work. Are you comfortable with this requirement?</li>\n<li>Do you have any knowledge or experience of supporting Autistic adults?</li>\n<li>What is your availability to fill in other shifts when workers are on leave - either during the week or on weekends?</li>\n</ul>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 203352,
+          "parentId": 552792,
+          "mimeType": "application/pdf",
+          "fileName": "1772445651_S8RNU_.pdf",
+          "size": 589882,
+          "originalFileName": "SHH CJ Position Description V3.0 deidentified.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1772445651_S8RNU_.pdf",
+          "createdAt": "2026-03-02 10:00:52",
+          "updatedAt": "2026-03-02 10:00:52"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 90
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [
+        {
+          "id": 24,
+          "question": "Do you have full and unrestricted rights to work in Australia?",
+          "alias": "Unrestricted rights to work in Australia",
+          "blanks": {},
+          "category": "Work Eligibility",
+          "displayText": "Do you have full and unrestricted rights to work in Australia?"
+        },
+        {
+          "id": 25,
+          "question": "Do you have a current full Australian driver's licence?",
+          "alias": "Australian driver's licence",
+          "blanks": {},
+          "category": "Licence",
+          "displayText": "Do you have a current full Australian driver's licence?"
+        },
+        {
+          "id": 29,
+          "question": "Do you possess a current satisfactory NDIS Worker Screening Check?",
+          "alias": "NDIS Worker Screening Check",
+          "blanks": {},
+          "category": "Checks",
+          "displayText": "Do you possess a current satisfactory NDIS Worker Screening Check?"
+        },
+        {
+          "id": 36,
+          "question": "Are you available to work different rostered shifts, weekends, evening shifts and split shifts?",
+          "alias": "Nonstandard shift availability",
+          "blanks": {},
+          "category": "Work availability",
+          "displayText": "Are you available to work different rostered shifts, weekends, evening shifts and split shifts?"
+        },
+        {
+          "id": 32,
+          "question": "Do you have fluent oral and written communication skills in <x>?",
+          "alias": "Possess required language skills",
+          "blanks": {
+            "x": "English"
+          },
+          "category": "Language",
+          "displayText": "Do you have fluent oral and written communication skills in English?"
+        }
+      ],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 9984,
+        "name": "Safe Healthy Happy Ltd",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1566536872_e2prc_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1566536872_e2prc_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1566536872_e2prc_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1566536872_e2prc_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1566536872_e2prc_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1566536872_e2prc_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552120,
+      "title": "Disability Support Workers",
+      "slug": "WiseDisabilitySupportServices/disability-support-workers-sunbury",
+      "organisationName": "Wise Disability Support Services",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1765273318_Q767X_.png",
+      "summary": "Are you eager to make a real difference in the lives of people with disabilities? Do you believe in fostering independence, promoting inclusion, and treating every person with dignity and respect?",
+      "expiresAt": "2026-03-27T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "Sunbury"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Melbourne",
+      "locality": "Sunbury",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/WiseDisabilitySupportServices/disability-support-workers-sunbury",
+      "approvedAt": "2026-02-24T22:51:01.000Z",
+      "application": "<p>Please submit your Resume and a brief Cover Letter outlining your experience and why you are the ideal candidate for a Support Worker role at Wise Disability Support Services.</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 182
+        },
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 91
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$40 - $49.99 per hour"
+      },
+      "sectors": [
+        {
+          "id": 1,
+          "slug": "Business and Private Sector",
+          "title": "Business/Private Sector",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        },
+        {
+          "id": 2,
+          "slug": "CONTRACT",
+          "title": "Contract",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 20643,
+        "name": "Wise Disability Support Services",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1765273318_Q767X_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1765273318_Q767X_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1765273318_Q767X_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1765273318_Q767X_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1765273318_Q767X_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1765273318_Q767X_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551199,
+      "title": "Disability Support Worker",
+      "slug": "HRAlkira/disability-support-worker-4",
+      "organisationName": "Alkira",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1660196399_rH9oc_.jpg",
+      "summary": "Established NDIS provider in Box Hill. Seeking experienced disability support workers for ongoing casual positions; Immediate start available. ",
+      "expiresAt": null,
+      "isExpirationHidden": true,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "Box Hill"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Melbourne",
+      "locality": "Box Hill",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/HRAlkira/disability-support-worker-4",
+      "approvedAt": "2026-02-17T01:10:15.000Z",
+      "application": "<p>Please provide a current CV and cover letter outlining your relevant experience.</p>\n<p>Short-listing of candidates will be continuous. Interviews will commence immediately, so please forward your application as soon as possible. Only shortlisted applicants will be contacted.</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 182
+        },
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 91
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [
+        {
+          "id": 24,
+          "question": "Do you have full and unrestricted rights to work in Australia?",
+          "alias": "Unrestricted rights to work in Australia",
+          "blanks": {},
+          "category": "Work Eligibility",
+          "displayText": "Do you have full and unrestricted rights to work in Australia?"
+        },
+        {
+          "id": 29,
+          "question": "Do you possess a current satisfactory NDIS Worker Screening Check?",
+          "alias": "NDIS Worker Screening Check",
+          "blanks": {},
+          "category": "Checks",
+          "displayText": "Do you possess a current satisfactory NDIS Worker Screening Check?"
+        },
+        {
+          "id": 33,
+          "question": "Have you completed a <x> in <y> or a related field?",
+          "alias": "Completed required qualifications",
+          "blanks": {
+            "x": "Cert III or IV",
+            "y": "disability"
+          },
+          "category": "Qualifications",
+          "displayText": "Have you completed a Cert III or IV in disability or a related field?"
+        },
+        {
+          "id": 34,
+          "question": "Do you have a current First Aid Certificate?",
+          "alias": "First Aid Certificate",
+          "blanks": {},
+          "category": "Qualifications",
+          "displayText": "Do you have a current First Aid Certificate?"
+        },
+        {
+          "id": 35,
+          "question": "Do you have a current CPR Certificate?",
+          "alias": "CPR Certificate",
+          "blanks": {},
+          "category": "Qualifications",
+          "displayText": "Do you have a current CPR Certificate?"
+        }
+      ],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$40 - $44.99 per hour"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 3372,
+        "name": "Alkira",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1660196399_rH9oc_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1660196399_rH9oc_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1660196399_rH9oc_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1660196399_rH9oc_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1660196399_rH9oc_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1660196399_rH9oc_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 554346,
+      "title": "Disability Support Workers",
+      "slug": "Rozelle/disability-support-workers-6",
+      "organisationName": "together2",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1671080880_CDIx3_.png",
+      "summary": "We are looking for dedicated Disability Support Workers to join our team. Based in Rozelle, Strathfield, Bexley, Inner West Sydney -  part time and casual roles available.",
+      "expiresAt": null,
+      "isExpirationHidden": true,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "CBD, Inner West & Eastern Suburbs Sydney"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Sydney",
+      "locality": "CBD, Inner West & Eastern Suburbs Sydney",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Rozelle/disability-support-workers-6",
+      "approvedAt": "2026-03-17T00:42:30.000Z",
+      "application": "<p>Please submit your resume and a cover letter via the form below.</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 90
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        },
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 7935,
+        "name": "together2",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1671080880_CDIx3_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1671080880_CDIx3_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1671080880_CDIx3_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1671080880_CDIx3_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1671080880_CDIx3_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1671080880_CDIx3_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553234,
+      "title": "Disability Support Worker",
+      "slug": "SarahKReece/disability-support-worker-1",
+      "organisationName": "Sarah K Reece",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1712733273_AbY1N_.png",
+      "summary": "Our disability support workers visit clients in their homes. We get to know people so we can provide the best support we can. We connect and we work hard to help peopleâs lives get better. ",
+      "expiresAt": "2026-03-20T06:30:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Adelaide",
+          "locality": "Adelaide"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Adelaide",
+      "locality": "Adelaide",
+      "state": "SA",
+      "url": "https://www.ethicaljobs.com.au/members/SarahKReece/disability-support-worker-1",
+      "approvedAt": "2026-03-05T04:47:32.000Z",
+      "application": "<p>Please address your application to Sarah, and include:</p>\n<ul>\n<li>Your availability for work (when could you start and what days are you available)</li>\n<li>The suburb you live in</li>\n<li>Whether you currently have any of the things listed under 'has or prepared to obtain'</li>\n</ul>\n<p>If you want to, and feel comfortable, you're also welcome to address</p>\n<ul>\n<li>Any particular skills you have relevant to this job</li>\n<li>Any disabilities you are familiar with</li>\n<li>Whatever experience you have, personally or professionally supporting people</li>\n<li>Any feedback or questions about the job</li>\n</ul>\n<p>Brief is absolutely fine, we understand writing cover letters for hundreds of job applications is time consuming!</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 90
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 9,
+        "slug": "SA",
+        "title": "Adelaide",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$35 - $39.99 per hour"
+      },
+      "sectors": [
+        {
+          "id": 1,
+          "slug": "Business and Private Sector",
+          "title": "Business/Private Sector",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 18418,
+        "name": "Sarah K Reece",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1712733273_AbY1N_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1712733273_AbY1N_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1712733273_AbY1N_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1712733273_AbY1N_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1712733273_AbY1N_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1712733273_AbY1N_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553694,
+      "title": "Disability Support Worker",
+      "slug": "Yooralla/disability-support-worker-cobram",
+      "organisationName": "Yooralla",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1678317396_vDRyU_.jpg",
+      "summary": "If youâre looking for great work/life balance and a rewarding career supporting people with disability to live the lives they choose, then this is the job for you.",
+      "expiresAt": "2026-04-06T07:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional VIC",
+          "locality": "Cobram"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://jobs.yooralla.com.au/en/job/494868/disability-support-worker-cobram-sturt-street#",
+      "location_name": "Regional VIC",
+      "locality": "Cobram",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/Yooralla/disability-support-worker-cobram",
+      "approvedAt": "2026-03-10T06:04:41.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 203824,
+          "parentId": 553694,
+          "mimeType": "application/pdf",
+          "fileName": "1773120499_XkJsi_.pdf",
+          "size": 340902,
+          "originalFileName": "1. DSW SCHADS Level 2 RRSS PD - March 2021.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1773120499_XkJsi_.pdf",
+          "createdAt": "2026-03-10 05:28:19",
+          "updatedAt": "2026-03-10 05:28:19"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 90
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 2,
+        "slug": "REGVIC",
+        "title": "Regional VIC",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 5128,
+        "name": "Yooralla",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1678317396_vDRyU_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1678317396_vDRyU_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1678317396_vDRyU_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1678317396_vDRyU_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1678317396_vDRyU_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1678317396_vDRyU_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551621,
+      "title": "Disability Support Worker",
+      "slug": "CPSN/disability-support-worker-wodonga",
+      "organisationName": "Cerebral Palsy Support Network",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1558489361_UoJ5w_.jpeg",
+      "summary": "We are currently recruiting for female disability support workers within the Wodonga area. In this role no day will be like the other and you can look forward to variety and rewarding shifts.",
+      "expiresAt": null,
+      "isExpirationHidden": true,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional VIC",
+          "locality": "Wodonga"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Regional VIC",
+      "locality": "Wodonga",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/CPSN/disability-support-worker-wodonga",
+      "approvedAt": "2026-02-19T05:06:51.000Z",
+      "application": "<p>Please submit your updated resume and a covering letter addressing the key selection criteria.</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 182
+        },
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 91
+        },
+        {
+          "archived": false,
+          "id": 53,
+          "slug": "youthservices",
+          "title": "Youth",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Youth.jpeg",
+          "jobCount": 303
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 2,
+        "slug": "REGVIC",
+        "title": "Regional VIC",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$37.31 per hour"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 5064,
+        "name": "Cerebral Palsy Support Network",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1558489361_UoJ5w_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1558489361_UoJ5w_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1558489361_UoJ5w_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1558489361_UoJ5w_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1558489361_UoJ5w_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1558489361_UoJ5w_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 554450,
+      "title": "Disability Support Workers",
+      "slug": "Bedford/disability-support-workers-port-lincoln",
+      "organisationName": "Bedford Group",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1598316282_yunKz_.jpg",
+      "summary": "As a Disability Support Worker, you will provide hands-on, active support to participants, helping them work towards their individual goals while promoting choice, control and independence.",
+      "expiresAt": "2026-04-03T06:30:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional SA",
+          "locality": "Port Lincoln"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Regional SA",
+      "locality": "Port Lincoln",
+      "state": "SA",
+      "url": "https://www.ethicaljobs.com.au/members/Bedford/disability-support-workers-port-lincoln",
+      "approvedAt": "2026-03-17T06:12:03.000Z",
+      "application": "<p>To submit your application please fill out your details below and upload the relevant documentation.</p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 90
+        },
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 185
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 10,
+        "slug": "REGSA",
+        "title": "Regional SA",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=-_ssgl6ydbI",
+      "organisation": {
+        "id": 11453,
+        "name": "Bedford Group",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1598316282_yunKz_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1598316282_yunKz_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1598316282_yunKz_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1598316282_yunKz_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1598316282_yunKz_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1598316282_yunKz_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 554448,
+      "title": "Disability Support Workers",
+      "slug": "Bedford/disability-support-workers-port-pirie",
+      "organisationName": "Bedford Group",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1598316282_yunKz_.jpg",
+      "summary": "As a Disability Support Worker, you will provide hands-on, active support to participants, helping them work towards their individual goals while promoting choice, control and independence.",
+      "expiresAt": "2026-04-07T07:30:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional SA",
+          "locality": "Port Pirie"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Regional SA",
+      "locality": "Port Pirie",
+      "state": "SA",
+      "url": "https://www.ethicaljobs.com.au/members/Bedford/disability-support-workers-port-pirie",
+      "approvedAt": "2026-03-17T06:03:39.000Z",
+      "application": "<p>To submit your application please fill out your details below and upload the relevant documentation.</p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 182
+        },
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 91
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 10,
+        "slug": "REGSA",
+        "title": "Regional SA",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 2,
+          "slug": "CONTRACT",
+          "title": "Contract",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=-_ssgl6ydbI",
+      "organisation": {
+        "id": 11453,
+        "name": "Bedford Group",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1598316282_yunKz_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1598316282_yunKz_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1598316282_yunKz_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1598316282_yunKz_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1598316282_yunKz_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1598316282_yunKz_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 554447,
+      "title": "Disability Support Worker",
+      "slug": "Bedford/disability-support-worker-mt-gambier",
+      "organisationName": "Bedford Group",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1598316282_yunKz_.jpg",
+      "summary": "As a Disability Support Worker, you will provide hands-on, active support to participants, helping them work towards their individual goals while promoting choice, control and independence.",
+      "expiresAt": "2026-03-25T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional SA",
+          "locality": "Mount Gambier"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Regional SA",
+      "locality": "Mount Gambier",
+      "state": "SA",
+      "url": "https://www.ethicaljobs.com.au/members/Bedford/disability-support-worker-mt-gambier",
+      "approvedAt": "2026-03-17T06:02:48.000Z",
+      "application": "<p>Please submit your application via the form below.</p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 90
+        },
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 185
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 10,
+        "slug": "REGSA",
+        "title": "Regional SA",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 11453,
+        "name": "Bedford Group",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1598316282_yunKz_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1598316282_yunKz_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1598316282_yunKz_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1598316282_yunKz_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1598316282_yunKz_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1598316282_yunKz_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551627,
+      "title": "Disability Support Worker",
+      "slug": "CPSN/disability-support-worker-metro-regional-melbourne",
+      "organisationName": "Cerebral Palsy Support Network",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1558489361_UoJ5w_.jpeg",
+      "summary": "You'll provide person-centred support to people living with disability, supporting them to live independently and achieve their goals.",
+      "expiresAt": null,
+      "isExpirationHidden": true,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "Melbourne"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Melbourne",
+      "locality": "Melbourne",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/CPSN/disability-support-worker-metro-regional-melbourne",
+      "approvedAt": "2026-02-19T05:06:54.000Z",
+      "application": "<p>Please submit your CV.</p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 90
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$35.03 â $42.23 per hour"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 5064,
+        "name": "Cerebral Palsy Support Network",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1558489361_UoJ5w_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1558489361_UoJ5w_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1558489361_UoJ5w_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1558489361_UoJ5w_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1558489361_UoJ5w_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1558489361_UoJ5w_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 554385,
+      "title": "Disability Support Worker",
+      "slug": "Yooralla/disability-support-worker-swan-hill-1",
+      "organisationName": "Yooralla",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1678317396_vDRyU_.jpg",
+      "summary": "Grow your career as a Disability Support Worker in Residential Accommodation. We're looking for people who are passionate, have a great attitude and an eagerness to learn to join our Swan Hill team.",
+      "expiresAt": "2026-03-31T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional VIC",
+          "locality": "Swan Hill"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://jobs.yooralla.com.au/en/job/494806/disability-support-worker-swan-hill-splatt-st",
+      "location_name": "Regional VIC",
+      "locality": "Swan Hill",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/Yooralla/disability-support-worker-swan-hill-1",
+      "approvedAt": "2026-03-17T02:11:58.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 90
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 2,
+        "slug": "REGVIC",
+        "title": "Regional VIC",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 5128,
+        "name": "Yooralla",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1678317396_vDRyU_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1678317396_vDRyU_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1678317396_vDRyU_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1678317396_vDRyU_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1678317396_vDRyU_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1678317396_vDRyU_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552923,
+      "title": "Disability Support Worker",
+      "slug": "EmpowerCoreSupports/disability-support-worker",
+      "organisationName": "Empower Core Supports Pty Ltd",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1772006973_JV816_.png",
+      "summary": "Roles available in Northern and Eastern Suburbs Melbourne. Make a real impact with a team that champions dignity, growth, and inclusion. Support people to thrive while building a rewarding career.",
+      "expiresAt": null,
+      "isExpirationHidden": true,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "Melbourne"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Melbourne",
+      "locality": "Melbourne",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/EmpowerCoreSupports/disability-support-worker",
+      "approvedAt": "2026-03-03T23:02:49.000Z",
+      "application": "<p>Please submit your current CV along with a cover letter outlining your relevant experience and why you&rsquo;re passionate about this work.</p>\n<p><strong>Shortâlisting will occur on a rolling basis, and interviews will begin immediately, so we encourage you to apply as soon as possible. Only shortlisted applicants will be contacted.</strong></p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 91
+        },
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 182
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [
+        {
+          "id": 25,
+          "question": "Do you have a current full Australian driver's licence?",
+          "alias": "Australian driver's licence",
+          "blanks": {},
+          "category": "Licence",
+          "displayText": "Do you have a current full Australian driver's licence?"
+        },
+        {
+          "id": 34,
+          "question": "Do you have a current First Aid Certificate?",
+          "alias": "First Aid Certificate",
+          "blanks": {},
+          "category": "Qualifications",
+          "displayText": "Do you have a current First Aid Certificate?"
+        },
+        {
+          "id": 35,
+          "question": "Do you have a current CPR Certificate?",
+          "alias": "CPR Certificate",
+          "blanks": {},
+          "category": "Qualifications",
+          "displayText": "Do you have a current CPR Certificate?"
+        },
+        {
+          "id": 28,
+          "question": "Do you possess a current satisfactory Working With Children Check?",
+          "alias": "Working With Children Check",
+          "blanks": {},
+          "category": "Checks",
+          "displayText": "Do you possess a current satisfactory Working With Children Check?"
+        },
+        {
+          "id": 29,
+          "question": "Do you possess a current satisfactory NDIS Worker Screening Check?",
+          "alias": "NDIS Worker Screening Check",
+          "blanks": {},
+          "category": "Checks",
+          "displayText": "Do you possess a current satisfactory NDIS Worker Screening Check?"
+        }
+      ],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$35 - $44.99 per hour"
+      },
+      "sectors": [
+        {
+          "id": 1,
+          "slug": "Business and Private Sector",
+          "title": "Business/Private Sector",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        },
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 20878,
+        "name": "Empower Core Supports Pty Ltd",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1772006973_JV816_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1772006973_JV816_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1772006973_JV816_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1772006973_JV816_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1772006973_JV816_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1772006973_JV816_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551292,
+      "title": "Disability Support Workers",
+      "slug": "CASS/disability-support-workers",
+      "organisationName": "CASS ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1475796923_uyD5G_.jpeg",
+      "summary": "We are a registered NDIS service provider, seeking passionate Support Workers to join our team across Sydney Metro, including North West, South East, Inner West, Northern and Eastern suburbs.",
+      "expiresAt": "2026-04-03T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Campsie"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Sydney",
+      "locality": "Campsie",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/CASS/disability-support-workers",
+      "approvedAt": "2026-02-17T04:29:18.000Z",
+      "application": "<p>Applications in writing providing detailed resume and responses to the above requirements. Please submit via the form below.</p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 91
+        },
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 182
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 200,
+        "name": "CASS ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1475796923_uyD5G_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1475796923_uyD5G_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1475796923_uyD5G_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1475796923_uyD5G_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1475796923_uyD5G_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1475796923_uyD5G_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553251,
+      "title": "Disability Support Worker",
+      "slug": "MypowerFoundations/disability-support-worker-penrith-blue-mountains-hawksbury",
+      "organisationName": "Mypower Foundations",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1648094993_48mzq_.jpg",
+      "summary": "Weâre Hiring â Disability Support Professional Mypower Foundations is growing, and weâre looking for a compassionate, reliable and values-aligned Disability Support Professional to join our team.",
+      "expiresAt": "2026-04-19T07:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Penrith"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Sydney",
+      "locality": "Penrith",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/MypowerFoundations/disability-support-worker-penrith-blue-mountains-hawksbury",
+      "approvedAt": "2026-03-05T04:53:53.000Z",
+      "application": "<p>Submit your resume and a short cover letter explaining why you&rsquo;d be a strong fit for our team culture.</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 203579,
+          "parentId": 553251,
+          "mimeType": "application/pdf",
+          "fileName": "1772686110_mxUbO_.PDF",
+          "size": 115641,
+          "originalFileName": "DISABI~1.PDF",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1772686110_mxUbO_.PDF",
+          "createdAt": "2026-03-05 04:48:30",
+          "updatedAt": "2026-03-05 04:48:30"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 90
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [
+        {
+          "id": 24,
+          "question": "Do you have full and unrestricted rights to work in Australia?",
+          "alias": "Unrestricted rights to work in Australia",
+          "blanks": {},
+          "category": "Work Eligibility",
+          "displayText": "Do you have full and unrestricted rights to work in Australia?"
+        },
+        {
+          "id": 25,
+          "question": "Do you have a current full Australian driver's licence?",
+          "alias": "Australian driver's licence",
+          "blanks": {},
+          "category": "Licence",
+          "displayText": "Do you have a current full Australian driver's licence?"
+        },
+        {
+          "id": 26,
+          "question": "Do you have access to a current registered motor vehicle?",
+          "alias": "Access to a motor vehicle",
+          "blanks": {},
+          "category": "Travel",
+          "displayText": "Do you have access to a current registered motor vehicle?"
+        },
+        {
+          "id": 33,
+          "question": "Have you completed a <x> in <y> or a related field?",
+          "alias": "Completed required qualifications",
+          "blanks": {
+            "x": "Cert III or IV",
+            "y": "Disability/community Services"
+          },
+          "category": "Qualifications",
+          "displayText": "Have you completed a Cert III or IV in Disability/community Services or a related field?"
+        },
+        {
+          "id": 34,
+          "question": "Do you have a current First Aid Certificate?",
+          "alias": "First Aid Certificate",
+          "blanks": {},
+          "category": "Qualifications",
+          "displayText": "Do you have a current First Aid Certificate?"
+        }
+      ],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 1,
+          "slug": "Business and Private Sector",
+          "title": "Business/Private Sector",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 14730,
+        "name": "Mypower Foundations",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1648094993_48mzq_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1648094993_48mzq_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1648094993_48mzq_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1648094993_48mzq_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1648094993_48mzq_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1648094993_48mzq_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 554096,
+      "title": "Disability Support Worker",
+      "slug": "CPSN/disability-support-worker-tylden",
+      "organisationName": "Cerebral Palsy Support Network",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1558489361_UoJ5w_.jpeg",
+      "summary": "Casual SCHADS Home Care rates with regular ongoing shifts, rewarding opportunity to add value to our clients, amazing, supportive team environment, learning and development opportunities!\n",
+      "expiresAt": "2026-04-10T07:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional VIC",
+          "locality": "Tylden"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Regional VIC",
+      "locality": "Tylden",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/CPSN/disability-support-worker-tylden",
+      "approvedAt": "2026-03-13T04:43:01.000Z",
+      "application": "<p>Please apply with a 2 page resume clearly detailing your applicable experience for this role. A covering letter is mandatory.</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 90
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 2,
+        "slug": "REGVIC",
+        "title": "Regional VIC",
+        "archived": false
+      },
+      "questions": [
+        {
+          "id": 24,
+          "question": "Do you have full and unrestricted rights to work in Australia?",
+          "alias": "Unrestricted rights to work in Australia",
+          "blanks": {},
+          "category": "Work Eligibility",
+          "displayText": "Do you have full and unrestricted rights to work in Australia?"
+        },
+        {
+          "id": 25,
+          "question": "Do you have a current full Australian driver's licence?",
+          "alias": "Australian driver's licence",
+          "blanks": {},
+          "category": "Licence",
+          "displayText": "Do you have a current full Australian driver's licence?"
+        },
+        {
+          "id": 29,
+          "question": "Do you possess a current satisfactory NDIS Worker Screening Check?",
+          "alias": "NDIS Worker Screening Check",
+          "blanks": {},
+          "category": "Checks",
+          "displayText": "Do you possess a current satisfactory NDIS Worker Screening Check?"
+        },
+        {
+          "id": 34,
+          "question": "Do you have a current First Aid Certificate?",
+          "alias": "First Aid Certificate",
+          "blanks": {},
+          "category": "Qualifications",
+          "displayText": "Do you have a current First Aid Certificate?"
+        },
+        {
+          "id": 35,
+          "question": "Do you have a current CPR Certificate?",
+          "alias": "CPR Certificate",
+          "blanks": {},
+          "category": "Qualifications",
+          "displayText": "Do you have a current CPR Certificate?"
+        }
+      ],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$35 - $37.60 per hour"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 5064,
+        "name": "Cerebral Palsy Support Network",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1558489361_UoJ5w_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1558489361_UoJ5w_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1558489361_UoJ5w_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1558489361_UoJ5w_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1558489361_UoJ5w_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1558489361_UoJ5w_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553494,
+      "title": "Support Workers x2",
+      "slug": "Sunnyhaven/support-workers-x2-disability",
+      "organisationName": "Sunnyhaven Disability Services",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1607903183_QJ5kI_.png",
+      "summary": "Support vulnerable people. Change lives. Build a meaningful career. Rare full-time opportunities in your local St George and Bayside area.",
+      "expiresAt": "2026-04-05T07:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Southern Suburbs & Sutherland Shire Sydney"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Sydney",
+      "locality": "Southern Suburbs & Sutherland Shire Sydney",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Sunnyhaven/support-workers-x2-disability",
+      "approvedAt": "2026-03-09T00:19:31.000Z",
+      "application": "<p>Please submit a resume outlining your work experience and a cover letter specifying how you meet the advertisement criteria.</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 90
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [
+        {
+          "id": 24,
+          "question": "Do you have full and unrestricted rights to work in Australia?",
+          "alias": "Unrestricted rights to work in Australia",
+          "blanks": {},
+          "category": "Work Eligibility",
+          "displayText": "Do you have full and unrestricted rights to work in Australia?"
+        },
+        {
+          "id": 25,
+          "question": "Do you have a current full Australian driver's licence?",
+          "alias": "Australian driver's licence",
+          "blanks": {},
+          "category": "Licence",
+          "displayText": "Do you have a current full Australian driver's licence?"
+        },
+        {
+          "id": 27,
+          "question": "Do you possess a current satisfactory National Police Clearance Certificate?",
+          "alias": "National Police Clearance Certificate",
+          "blanks": {},
+          "category": "Checks",
+          "displayText": "Do you possess a current satisfactory National Police Clearance Certificate?"
+        },
+        {
+          "id": 28,
+          "question": "Do you possess a current satisfactory Working With Children Check?",
+          "alias": "Working With Children Check",
+          "blanks": {},
+          "category": "Checks",
+          "displayText": "Do you possess a current satisfactory Working With Children Check?"
+        },
+        {
+          "id": 29,
+          "question": "Do you possess a current satisfactory NDIS Worker Screening Check?",
+          "alias": "NDIS Worker Screening Check",
+          "blanks": {},
+          "category": "Checks",
+          "displayText": "Do you possess a current satisfactory NDIS Worker Screening Check?"
+        }
+      ],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$35 - $38 per hour"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 2,
+          "slug": "CONTRACT",
+          "title": "Contract",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 2147,
+        "name": "Sunnyhaven Disability Services",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1607903183_QJ5kI_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1607903183_QJ5kI_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1607903183_QJ5kI_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1607903183_QJ5kI_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1607903183_QJ5kI_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1607903183_QJ5kI_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552655,
+      "title": "Disability Support Worker",
+      "slug": "InterchangeIll/disability-support-worker-illawarra",
+      "organisationName": "Interchange Illawarra",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1565322465_JdbFz_.jpeg",
+      "summary": "Are you passionate and committed to making a difference in the lives of people with disabilities and their families?  We would like to hear from you!",
+      "expiresAt": "2026-04-16T07:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Wollongong, Illawarra & South Coast"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Regional NSW",
+      "locality": "Wollongong, Illawarra & South Coast",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/InterchangeIll/disability-support-worker-illawarra",
+      "approvedAt": "2026-03-02T01:11:34.000Z",
+      "application": "<p>Please apply including a resume and cover letter.</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 91
+        },
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 182
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 9921,
+        "name": "Interchange Illawarra",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1565322465_JdbFz_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1565322465_JdbFz_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1565322465_JdbFz_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1565322465_JdbFz_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1565322465_JdbFz_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1565322465_JdbFz_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551626,
+      "title": "Disability Support Worker",
+      "slug": "CPSN/disability-support-worker-swan-hill",
+      "organisationName": "Cerebral Palsy Support Network",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1558489361_UoJ5w_.jpeg",
+      "summary": "Weâre looking for compassionate and reliable Support Workers to join our team in Swan Hill, North West Victoria, to provide person-centred complex care supports.\n\n",
+      "expiresAt": null,
+      "isExpirationHidden": true,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional VIC",
+          "locality": "Swan Hill"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Regional VIC",
+      "locality": "Swan Hill",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/CPSN/disability-support-worker-swan-hill",
+      "approvedAt": "2026-02-19T05:06:53.000Z",
+      "application": "<p>Please submit your CV.</p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 182
+        },
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 91
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 2,
+        "slug": "REGVIC",
+        "title": "Regional VIC",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$34.68 â $37.31 per hour"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 5064,
+        "name": "Cerebral Palsy Support Network",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1558489361_UoJ5w_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1558489361_UoJ5w_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1558489361_UoJ5w_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1558489361_UoJ5w_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1558489361_UoJ5w_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1558489361_UoJ5w_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 550100,
+      "title": "Disability Support Worker",
+      "slug": "Yooralla/disability-support-worker-leongatha-hub-1",
+      "organisationName": "Yooralla",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1678317396_vDRyU_.jpg",
+      "summary": "At Yooralla, youâll have the opportunity to make a positive difference, supporting people at Community Hubs, in the community, and occasionally at home, to achieve their goals.",
+      "expiresAt": "2026-03-23T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional VIC",
+          "locality": "Leongatha"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://jobs.yooralla.com.au/en/job/494797/disability-support-worker-leongatha-hub",
+      "location_name": "Regional VIC",
+      "locality": "Leongatha",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/Yooralla/disability-support-worker-leongatha-hub-1",
+      "approvedAt": "2026-02-06T01:15:25.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 202123,
+          "parentId": 550100,
+          "mimeType": "application/pdf",
+          "fileName": "1770340391_Wx4jv_.pdf",
+          "size": 346698,
+          "originalFileName": "DSW SCHADS Level 2 Community Services PD - July 2020.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1770340391_Wx4jv_.pdf",
+          "createdAt": "2026-02-06 01:13:11",
+          "updatedAt": "2026-02-06 01:13:12"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 90
+        },
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 185
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 2,
+        "slug": "REGVIC",
+        "title": "Regional VIC",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=uNWTs9UgC58",
+      "organisation": {
+        "id": 5128,
+        "name": "Yooralla",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1678317396_vDRyU_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1678317396_vDRyU_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1678317396_vDRyU_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1678317396_vDRyU_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1678317396_vDRyU_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1678317396_vDRyU_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553525,
+      "title": "Refugee & Disability Post Placement Support Officer",
+      "slug": "ssi/refugee-disability-post-placement-support-officer",
+      "organisationName": "Settlement Services International",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1678743449_uapW0_.jfif",
+      "summary": "Monitor and provide post placement support to participants in employment, identify barriers to ongoing employment, provide solution focused approach to assist participants in maintaining employment.Â ",
+      "expiresAt": "2026-03-23T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Liverpool"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://jobs.dayforcehcm.com/en-AU/peoplessi/119322/jobs/DF1057?external=true",
+      "location_name": "Sydney",
+      "locality": "Liverpool",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/ssi/refugee-disability-post-placement-support-officer",
+      "approvedAt": "2026-03-09T04:04:31.000Z",
+      "application": "<p><a href=\"https://ars2.equest.com/?response_id=8aa74ee5e3a171aa6b9046e4567e5f4d\" target=\"_blank\" rel=\"noopener\"><img alt=\"Apply\" src=\"http://www2.equest.com/images/applyhere.gif\" /></a><img src=\"https://ars2.equest.com/?response_id=8aa74ee5e3a171aa6b9046e4567e5f4d&amp;view\" alt=\"\" width=\"1\" height=\"1\" /></p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 31,
+          "slug": "hrandemploymentservices",
+          "title": "HR and Employment Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/HR+%26+Employment+Services.jpeg",
+          "jobCount": 84
+        },
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 182
+        },
+        {
+          "archived": false,
+          "id": 35,
+          "slug": "legalandhumanrights",
+          "title": "Legal and Human Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Legal_&_Human_Rights.jpg",
+          "jobCount": 160
+        },
+        {
+          "archived": false,
+          "id": 40,
+          "slug": "multiculturalismdiversity",
+          "title": "Multiculturalism and Diversity",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Multiculturalism+%26+Diversity.jpeg",
+          "jobCount": 63
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/P9mPNLUqmHw",
+      "organisation": {
+        "id": 3668,
+        "name": "Settlement Services International",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1678743449_uapW0_.jfif",
+          "large": "https://static.ethicaljobs.com.au/media/large/1678743449_uapW0_.jfif",
+          "standard": "https://static.ethicaljobs.com.au/media/1678743449_uapW0_.jfif",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1678743449_uapW0_.jfif",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1678743449_uapW0_.jfif",
+          "social": "https://static.ethicaljobs.com.au/media/social/1678743449_uapW0_.jfif"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 550924,
+      "title": "Australian Disability and Development Consortium Policy Support Officer",
+      "slug": "CBMHR/australian-disability-and-development-consortium-policy-support-officer",
+      "organisationName": "CBM Australia",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1581487390_6u58k_.jpeg",
+      "summary": "We have a rewarding opportunity for an experienced and passionate ADDC Communications Officer to join CBM Australia in a part-time capacity (FTE 0.6).",
+      "expiresAt": "2026-03-30T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "Richmond"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Melbourne",
+      "locality": "Richmond",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/CBMHR/australian-disability-and-development-consortium-policy-support-officer",
+      "approvedAt": "2026-02-13T03:59:27.000Z",
+      "application": "<p>To submit your application please fill out your details below and upload the relevant documentation.</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 203680,
+          "parentId": 550924,
+          "mimeType": "application/pdf",
+          "fileName": "1772771194_ORamu_.pdf",
+          "size": 168666,
+          "originalFileName": "ADDC Communications Officer PD CBMA - March 2026.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1772771194_ORamu_.pdf",
+          "createdAt": "2026-03-06 04:26:35",
+          "updatedAt": "2026-03-06 04:32:30"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 44,
+          "slug": "policyandresearch",
+          "title": "Policy and Research",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Policy+%26+Research.jpeg",
+          "jobCount": 55
+        },
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 182
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [
+        {
+          "id": 24,
+          "question": "Do you have full and unrestricted rights to work in Australia?",
+          "alias": "Unrestricted rights to work in Australia",
+          "blanks": {},
+          "category": "Work Eligibility",
+          "displayText": "Do you have full and unrestricted rights to work in Australia?"
+        }
+      ],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 4063,
+        "name": "CBM Australia",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1581487390_6u58k_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1581487390_6u58k_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1581487390_6u58k_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1581487390_6u58k_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1581487390_6u58k_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1581487390_6u58k_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553810,
+      "title": "Refugee & Disability Employment Advocate",
+      "slug": "ssi/refugee-disability-employment-advocate",
+      "organisationName": "Settlement Services International",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1678743449_uapW0_.jfif",
+      "summary": "We are seeking a Refugee & Disability Employment Advocate to support people with disability from refugee backgrounds to achieve meaningful employment.",
+      "expiresAt": "2026-04-24T13:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Bankstown"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://jobs.dayforcehcm.com/en-AU/peoplessi/119322/jobs/DF1058?external=true",
+      "location_name": "Sydney",
+      "locality": "Bankstown",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/ssi/refugee-disability-employment-advocate",
+      "approvedAt": "2026-03-11T04:14:06.000Z",
+      "application": "<p><a href=\"https://ars2.equest.com/?response_id=4dd034b468548cbb09328dbb4b308203\" target=\"_blank\" rel=\"noopener\"><img alt=\"Apply\" src=\"http://www2.equest.com/images/applyhere.gif\" /></a><img src=\"https://ars2.equest.com/?response_id=4dd034b468548cbb09328dbb4b308203&amp;view\" alt=\"\" width=\"1\" height=\"1\" /></p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 31,
+          "slug": "hrandemploymentservices",
+          "title": "HR and Employment Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/HR+%26+Employment+Services.jpeg",
+          "jobCount": 84
+        },
+        {
+          "archived": false,
+          "id": 35,
+          "slug": "legalandhumanrights",
+          "title": "Legal and Human Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Legal_&_Human_Rights.jpg",
+          "jobCount": 161
+        },
+        {
+          "archived": false,
+          "id": 40,
+          "slug": "multiculturalismdiversity",
+          "title": "Multiculturalism and Diversity",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Multiculturalism+%26+Diversity.jpeg",
+          "jobCount": 55
+        },
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 185
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/P9mPNLUqmHw",
+      "organisation": {
+        "id": 3668,
+        "name": "Settlement Services International",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1678743449_uapW0_.jfif",
+          "large": "https://static.ethicaljobs.com.au/media/large/1678743449_uapW0_.jfif",
+          "standard": "https://static.ethicaljobs.com.au/media/1678743449_uapW0_.jfif",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1678743449_uapW0_.jfif",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1678743449_uapW0_.jfif",
+          "social": "https://static.ethicaljobs.com.au/media/social/1678743449_uapW0_.jfif"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551716,
+      "title": "Team Leader",
+      "slug": "TBS2021/team-leader-disability-gateway-1",
+      "organisationName": "The Benevolent Society ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1490055428_XBfaW_.jpeg",
+      "summary": "Lead a dedicated Disability Gateway contact centre team, delivering inclusive, highâquality support nationwide.",
+      "expiresAt": "2026-03-20T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Glebe"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://form.myrecruitmentplus.com/applicationform?jobAdId=9700309",
+      "location_name": "Sydney",
+      "locality": "Glebe",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/TBS2021/team-leader-disability-gateway-1",
+      "approvedAt": "2026-02-20T02:59:24.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 182
+        },
+        {
+          "archived": false,
+          "id": 36,
+          "slug": "management",
+          "title": "Management",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Management.jpeg",
+          "jobCount": 261
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$111k - $114k (depending on skills & experience) + Super + Salary Packaging"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 2,
+          "slug": "CONTRACT",
+          "title": "Contract",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 6085,
+        "name": "The Benevolent Society ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1490055428_XBfaW_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1490055428_XBfaW_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1490055428_XBfaW_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1490055428_XBfaW_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1490055428_XBfaW_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1490055428_XBfaW_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 554328,
+      "title": "Lawyer",
+      "slug": "AEDLegal/lawyer-disability-discrimination-human-rights-1",
+      "organisationName": "AED Legal Centre",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1757311001_7RmmB_.png",
+      "summary": "This exciting full-time role will see you provide legal advice and support to clients in the disability sector and lead or contribute to public advocacy on disability issues.",
+      "expiresAt": null,
+      "isExpirationHidden": true,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "Melbourne CBD"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Melbourne",
+      "locality": "Melbourne CBD",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/AEDLegal/lawyer-disability-discrimination-human-rights-1",
+      "approvedAt": "2026-03-16T23:47:04.000Z",
+      "application": "<p>Please apply by submitting a cover letter and CV via the form below.</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 35,
+          "slug": "legalandhumanrights",
+          "title": "Legal and Human Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Legal_&_Human_Rights.jpg",
+          "jobCount": 161
+        },
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 185
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 20329,
+        "name": "AED Legal Centre",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1757311001_7RmmB_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1757311001_7RmmB_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1757311001_7RmmB_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1757311001_7RmmB_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1757311001_7RmmB_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1757311001_7RmmB_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 550616,
+      "title": "Support Workers",
+      "slug": "JustSupport2/support-workers-youth-gaming-community-access",
+      "organisationName": "Just Support",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1751511794_8GFFq_.png",
+      "summary": "Inclusive, queer-led disability support team seeking energetic, Support Workers to mentor young people through gaming, group programs, and community access.",
+      "expiresAt": null,
+      "isExpirationHidden": true,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Brisbane & Gold Coast",
+          "locality": "Rocklea"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Brisbane & Gold Coast",
+      "locality": "Rocklea",
+      "state": "QLD",
+      "url": "https://www.ethicaljobs.com.au/members/JustSupport2/support-workers-youth-gaming-community-access",
+      "approvedAt": "2026-02-11T02:12:35.000Z",
+      "application": "<p>Please submit the following via the application form below:</p>\n<ul>\n<li>Your current resume.</li>\n<li>A short cover letter outlining your background, experience, and why you are interested in working with Just Support.</li>\n<li>Copies of all relevant checks, licences, and training certificates, including your Blue Card, NDIS Worker Screening Check, and required NDIS training modules if already completed.</li>\n</ul>\n<p>If you do not yet hold all required certificates but are willing to complete them prior to commencing work, please let us know in your application.</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 23,
+          "slug": "glbt",
+          "title": "LGBTQIA+",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/GLBTI+%26+Sexual+Health.jpeg",
+          "jobCount": 21
+        },
+        {
+          "archived": false,
+          "id": 47,
+          "slug": "socialwork",
+          "title": "Social Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Social_Work.jpg",
+          "jobCount": 441
+        },
+        {
+          "archived": false,
+          "id": 53,
+          "slug": "youthservices",
+          "title": "Youth",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Youth.jpeg",
+          "jobCount": 304
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 5,
+        "slug": "QLD",
+        "title": "Brisbane & Gold Coast",
+        "archived": false
+      },
+      "questions": [
+        {
+          "id": 24,
+          "question": "Do you have full and unrestricted rights to work in Australia?",
+          "alias": "Unrestricted rights to work in Australia",
+          "blanks": {},
+          "category": "Work Eligibility",
+          "displayText": "Do you have full and unrestricted rights to work in Australia?"
+        },
+        {
+          "id": 25,
+          "question": "Do you have a current full Australian driver's licence?",
+          "alias": "Australian driver's licence",
+          "blanks": {},
+          "category": "Licence",
+          "displayText": "Do you have a current full Australian driver's licence?"
+        },
+        {
+          "id": 26,
+          "question": "Do you have access to a current registered motor vehicle?",
+          "alias": "Access to a motor vehicle",
+          "blanks": {},
+          "category": "Travel",
+          "displayText": "Do you have access to a current registered motor vehicle?"
+        }
+      ],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$32.88 - $43.23 per hour"
+      },
+      "sectors": [
+        {
+          "id": 1,
+          "slug": "Business and Private Sector",
+          "title": "Business/Private Sector",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        },
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://videos.files.wordpress.com/RiySmJvs/js-advertisement-video.mp4",
+      "organisation": {
+        "id": 20059,
+        "name": "Just Support",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1751511794_8GFFq_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1751511794_8GFFq_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1751511794_8GFFq_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1751511794_8GFFq_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1751511794_8GFFq_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1751511794_8GFFq_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553408,
+      "title": "Senior Regional Manager",
+      "slug": "CPA/senior-regional-manager-1",
+      "organisationName": "Cerebral Palsy Alliance",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1590479204_v9PPn_.jpg",
+      "summary": "Lead SIL disability services across Sydney. Drive strategy, lead high-performing teams and deliver high-quality NDIS supports.",
+      "expiresAt": "2026-04-06T07:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Allambie Heights"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://www.aplitrak.com/?adid=bWVnaGFuLmRpYmUuOTE0NTQuNjA0NEBjZXJlYnJhbHBhbHN5YXUuYXBsaXRyYWsuY29t",
+      "location_name": "Sydney",
+      "locality": "Allambie Heights",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/CPA/senior-regional-manager-1",
+      "approvedAt": "2026-03-06T04:38:44.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 185
+        },
+        {
+          "archived": false,
+          "id": 18,
+          "slug": "executiveseniormanagement",
+          "title": "Executive and Senior Management",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Executive+Senior+Management.jpeg",
+          "jobCount": 86
+        },
+        {
+          "archived": false,
+          "id": 36,
+          "slug": "management",
+          "title": "Management",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Management.jpeg",
+          "jobCount": 261
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 1149,
+        "name": "Cerebral Palsy Alliance",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1590479204_v9PPn_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1590479204_v9PPn_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1590479204_v9PPn_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1590479204_v9PPn_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1590479204_v9PPn_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1590479204_v9PPn_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552153,
+      "title": "Support Worker",
+      "slug": "Avivo/support-worker-forrestfield",
+      "organisationName": "Avivo",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1550188691_83JEv_.jpeg",
+      "summary": "We work alongside people and families who need personalized support due to disability, ageing, or mental health experiences.",
+      "expiresAt": "2026-03-23T09:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Perth",
+          "locality": "Forrestfield"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://avivo.pulsesoftware.com/Pulse/job/oCjrip/Support-Worker-Forrestfield?source=public",
+      "location_name": "Perth",
+      "locality": "Forrestfield",
+      "state": "WA",
+      "url": "https://www.ethicaljobs.com.au/members/Avivo/support-worker-forrestfield",
+      "approvedAt": "2026-02-24T23:40:32.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 203075,
+          "parentId": 552153,
+          "mimeType": "application/pdf",
+          "fileName": "1771976368_UlOcv_.pdf",
+          "size": 225399,
+          "originalFileName": "Position Description - Support Worker.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1771976368_UlOcv_.pdf",
+          "createdAt": "2026-02-24 23:39:28",
+          "updatedAt": "2026-02-24 23:39:28"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 91
+        },
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 182
+        },
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 182
+        },
+        {
+          "archived": false,
+          "id": 39,
+          "slug": "mentalhealthandcounselling",
+          "title": "Mental Health and Counselling",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Mental+Health+%26+Counselling.jpg",
+          "jobCount": 344
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 7,
+        "slug": "WA",
+        "title": "Perth",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "Hourly Rate AUD $32.88 - $34.55"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 9133,
+        "name": "Avivo",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1550188691_83JEv_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1550188691_83JEv_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1550188691_83JEv_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1550188691_83JEv_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1550188691_83JEv_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1550188691_83JEv_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553811,
+      "title": "Customer Service Coordinator",
+      "slug": "CPA/customer-service-coordinator-donor-support",
+      "organisationName": "Cerebral Palsy Alliance",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1590479204_v9PPn_.jpg",
+      "summary": "Deliver exceptional service to CPA supporters. Support donors, process gifts and help create meaningful impact for people with disability.",
+      "expiresAt": "2026-04-10T13:30:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Allambie Heights"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://www.aplitrak.com/?adid=bWVnaGFuLmRpYmUuMDU0ODUuNjA0NEBjZXJlYnJhbHBhbHN5YXUuYXBsaXRyYWsuY29t",
+      "location_name": "Sydney",
+      "locality": "Allambie Heights",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/CPA/customer-service-coordinator-donor-support",
+      "approvedAt": "2026-03-11T04:15:27.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 22,
+          "slug": "fundraising",
+          "title": "Fundraising",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Fundraising.jpg",
+          "jobCount": 118
+        },
+        {
+          "archived": false,
+          "id": 1,
+          "slug": "administration",
+          "title": "Administration",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Administration.jpeg",
+          "jobCount": 161
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 1149,
+        "name": "Cerebral Palsy Alliance",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1590479204_v9PPn_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1590479204_v9PPn_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1590479204_v9PPn_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1590479204_v9PPn_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1590479204_v9PPn_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1590479204_v9PPn_.jpg"
+        }
+      },
+      "applicationDate": null
+    }
+  ]
+}

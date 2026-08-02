@@ -1,0 +1,126 @@
+{
+  "category": "Nursing",
+  "data": [
+    {
+      "id": "ccd097d128289c3685c5dea1a83e6638",
+      "title": "Practice Nurse",
+      "facility_name": "Randstad",
+      "category": "Nursing",
+      "state": "TAS",
+      "city": "Hobart",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Practice-Nurse-ccd097d128289c3685c5dea1a83e6638",
+      "raw_location": "Hobart TAS"
+    },
+    {
+      "id": "5324512d219837572fd908c0bc8276ab",
+      "title": "Registered Nurse / Enrolled Nurse | Southport QLD | Casual",
+      "facility_name": "ForHealth Group",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Southport",
+      "date_posted": "2026-03-09",
+      "url": "https://au.jora.com/job/Registered-Nurse-5324512d219837572fd908c0bc8276ab",
+      "raw_location": "Southport QLD"
+    },
+    {
+      "id": "93e2022f180d60c092afeab672a46d78",
+      "title": "Registered Nurses",
+      "facility_name": "St Vincent's Care Services",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Kangaroo Point",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Registered-Nurse-93e2022f180d60c092afeab672a46d78",
+      "raw_location": "Kangaroo Point QLD"
+    },
+    {
+      "id": "adf6bcda7809ba9578469f46da7ad137",
+      "title": "Registered Nurse - National Bowel Cancer Screening Program (NBCSP) Follow-Up",
+      "facility_name": "Department of Health Tasmania",
+      "category": "Nursing",
+      "state": "VIC",
+      "city": "Melbourne",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Registered-Nurse-adf6bcda7809ba9578469f46da7ad137",
+      "raw_location": "Melbourne VIC"
+    },
+    {
+      "id": "3bc1b4f2402338f94da0dbc260b3ccb4",
+      "title": "Registered Nurse",
+      "facility_name": "Serco",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Kapooka",
+      "date_posted": "2026-03-06",
+      "url": "https://au.jora.com/job/Registered-Nurse-3bc1b4f2402338f94da0dbc260b3ccb4",
+      "raw_location": "Kapooka NSW"
+    },
+    {
+      "id": "dce406bba6ac6cb5dafc649a388d85fd",
+      "title": "Registered Nurse",
+      "facility_name": "Queensland Health",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Alexandra",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Registered-Nurse-dce406bba6ac6cb5dafc649a388d85fd",
+      "raw_location": "Alexandra QLD"
+    },
+    {
+      "id": "ffd981c64a6ac205e3e41344cc501c4b",
+      "title": "Clinical Nurse - Public Health",
+      "facility_name": "Queensland Health",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Eight Mile Plains",
+      "date_posted": "2026-03-09",
+      "url": "https://au.jora.com/job/Clinical-Nurse-ffd981c64a6ac205e3e41344cc501c4b",
+      "raw_location": "Eight Mile Plains QLD"
+    },
+    {
+      "id": "c247bc4c9e71b558d12470618f7d9627",
+      "title": "Registered Nurse",
+      "facility_name": "ForHealth Group",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Dubbo",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Registered-Nurse-c247bc4c9e71b558d12470618f7d9627",
+      "raw_location": "Dubbo NSW"
+    },
+    {
+      "id": "964b41ed5ebb291f802ea43fb99ce7c8",
+      "title": "Registered Nurse - Alcohol and Other Drugs Service (AODS)",
+      "facility_name": "North West Hospital and Health Service",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Mount Isa",
+      "date_posted": "2026-02-25",
+      "url": "https://au.jora.com/job/Registered-Nurse-964b41ed5ebb291f802ea43fb99ce7c8",
+      "raw_location": "Mount Isa QLD"
+    },
+    {
+      "id": "4b6d8061dd6c7799b71c241ad73351f1",
+      "title": "Registered Nurse | Bankstown NSW | Casual",
+      "facility_name": "ForHealth Group",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Bankstown",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Registered-Nurse-4b6d8061dd6c7799b71c241ad73351f1",
+      "raw_location": "Bankstown NSW"
+    },
+    {
+      "id": "0ecc4e1f8395b3b04ac2e6bd484bb813",
+      "title": "REGISTERED NURSE-CANCER DAY UNIT",
+      "facility_name": "Metro North Hospital & Health Service",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Chermside",
+      "date_posted": "2026-03-09",
+      "url": "https://au.jora.com/job/Registered-Nurse-0ecc4e1f8395b3b04ac2e6bd484bb813",
+      "raw_location": "Chermside QLD"
+    }
+  ]
+}

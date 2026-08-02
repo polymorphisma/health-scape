@@ -1,0 +1,71 @@
+{
+  "category": "Nursing",
+  "data": [
+    {
+      "id": "f43bff52d111e06b87278af9f71fb577",
+      "title": "Registered Nurse",
+      "facility_name": "Rural Health West",
+      "category": "Nursing",
+      "state": "WA",
+      "city": "Geraldton",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Registered-Nurse-f43bff52d111e06b87278af9f71fb577",
+      "raw_location": "Geraldton WA"
+    },
+    {
+      "id": "abbf6c3ddba0e166eeec70028e29fe4b",
+      "title": "Registered Nurse – Fannie Bay Medical",
+      "facility_name": "Northern Territory PHN",
+      "category": "Nursing",
+      "state": "NT",
+      "city": "Darwin",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Registered-Nurse-abbf6c3ddba0e166eeec70028e29fe4b",
+      "raw_location": "Darwin NT"
+    },
+    {
+      "id": "ffd981c64a6ac205e3e41344cc501c4b",
+      "title": "Clinical Nurse - Public Health",
+      "facility_name": "Queensland Health",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Eight Mile Plains",
+      "date_posted": "2026-03-09",
+      "url": "https://au.jora.com/job/Clinical-Nurse-ffd981c64a6ac205e3e41344cc501c4b",
+      "raw_location": "Eight Mile Plains QLD"
+    },
+    {
+      "id": "e165946bd534c3257f253293e2bee905",
+      "title": "Registered Nurse",
+      "facility_name": "Doctors and Co",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Gosford",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Registered-Nurse-e165946bd534c3257f253293e2bee905",
+      "raw_location": "Gosford NSW"
+    },
+    {
+      "id": "bb942d6af67a9144baf3d43e3cf97015",
+      "title": "N4 - Angurugu - Primary Health",
+      "facility_name": "JPS Recruitment",
+      "category": "Nursing",
+      "state": "NT",
+      "city": "Angurugu",
+      "date_posted": "2026-03-09",
+      "url": "https://au.jora.com/job/N4-Angurugu-Primary-bb942d6af67a9144baf3d43e3cf97015",
+      "raw_location": "Angurugu NT"
+    },
+    {
+      "id": "93e2022f180d60c092afeab672a46d78",
+      "title": "Registered Nurses",
+      "facility_name": "St Vincent's Care Services",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Kangaroo Point",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Registered-Nurse-93e2022f180d60c092afeab672a46d78",
+      "raw_location": "Kangaroo Point QLD"
+    }
+  ]
+}

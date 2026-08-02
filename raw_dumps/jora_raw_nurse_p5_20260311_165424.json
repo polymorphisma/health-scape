@@ -1,0 +1,60 @@
+{
+  "category": "Nursing",
+  "data": [
+    {
+      "id": "7b84fa00dece30290fef660816ba1a0b",
+      "title": "Clinical Nurse (Neonatal Early Discharge Service)",
+      "facility_name": "Queensland Health",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Southport",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Clinical-Nurse-7b84fa00dece30290fef660816ba1a0b",
+      "raw_location": "Southport QLD"
+    },
+    {
+      "id": "70f18506fafd1f51f11876811eebe010",
+      "title": "Registered Nurse",
+      "facility_name": "Xpress Health",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Bundaberg",
+      "date_posted": "2026-03-05",
+      "url": "https://au.jora.com/job/Registered-Nurse-70f18506fafd1f51f11876811eebe010",
+      "raw_location": "Bundaberg QLD"
+    },
+    {
+      "id": "b27e95661ab8a9e2bee2a5569ede5089",
+      "title": "Registered Nurse and/or Registered Midwife | Child and Family Health | Permanent Part-time 32 hours per week Monday to Friday | Tresillian Dubbo",
+      "facility_name": "Tresillian",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Dubbo",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Registered-Midwife-b27e95661ab8a9e2bee2a5569ede5089",
+      "raw_location": "Dubbo NSW"
+    },
+    {
+      "id": "1c0f09ec52456c07a1442f42e46d7775",
+      "title": "Registered Nurse - Medical Research",
+      "facility_name": "Linear Clinical Research",
+      "category": "Nursing",
+      "state": "WA",
+      "city": "Joondalup",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Registered-Nurse-Medical-1c0f09ec52456c07a1442f42e46d7775",
+      "raw_location": "Joondalup WA"
+    },
+    {
+      "id": "183bfd63c62b6a959facf2a883679803",
+      "title": "Maitland Hospital Registered & Enrolled Nurse - RR226",
+      "facility_name": "SA Health",
+      "category": "Nursing",
+      "state": "SA",
+      "city": "Maitland",
+      "date_posted": "2026-03-05",
+      "url": "https://au.jora.com/job/Enrolled-Nurse-183bfd63c62b6a959facf2a883679803",
+      "raw_location": "Maitland SA"
+    }
+  ]
+}

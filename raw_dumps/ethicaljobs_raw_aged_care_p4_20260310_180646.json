@@ -1,0 +1,305 @@
+{
+  "category": "Aged Care",
+  "data": [
+    {
+      "id": 553099,
+      "title": "Cook",
+      "organisationName": "The Human Equation ",
+      "location_name": "Sydney",
+      "locality": "Fairfield",
+      "state": "NSW",
+      "approvedAt": "2026-03-04",
+      "url": "https://www.ethicaljobs.com.au/members/humanequation/cook"
+    },
+    {
+      "id": 553024,
+      "title": "Hub Chaplain",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "Lilyfield",
+      "state": "NSW",
+      "approvedAt": "2026-03-04",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/hub-chaplain-inner-west-sydney"
+    },
+    {
+      "id": 553035,
+      "title": "Project Manager",
+      "organisationName": "BaptistCare ",
+      "location_name": "Sydney",
+      "locality": "Blacktown",
+      "state": "NSW",
+      "approvedAt": "2026-03-04",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/project-manager-2"
+    },
+    {
+      "id": 553009,
+      "title": "Cleaners x2",
+      "organisationName": "Wesley Mission",
+      "location_name": "Sydney",
+      "locality": "Carlingford",
+      "state": "NSW",
+      "approvedAt": "2026-03-04",
+      "url": "https://www.ethicaljobs.com.au/members/WM/cleaners-x2-care-service-village"
+    },
+    {
+      "id": 552985,
+      "title": "Housing and Homelessness Support",
+      "organisationName": "Wintringham ",
+      "location_name": "Melbourne",
+      "locality": "Carlton",
+      "state": "VIC",
+      "approvedAt": "2026-03-04",
+      "url": "https://www.ethicaljobs.com.au/members/WINT/housing-and-homelessness-support-supportive-housing-case-worker"
+    },
+    {
+      "id": 552940,
+      "title": "Rostering and Service Commencement Team Leader",
+      "organisationName": "Bayside City Council ",
+      "location_name": "Melbourne",
+      "locality": "Sandringham",
+      "state": "VIC",
+      "approvedAt": "2026-03-03",
+      "url": "https://www.ethicaljobs.com.au/members/BaysideCC/rostering-and-service-commencement-team-leader"
+    },
+    {
+      "id": 552888,
+      "title": "Clinical Excellence Lead",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "Sydney CBD",
+      "state": "NSW",
+      "approvedAt": "2026-03-03",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/clinical-excellence-lead-parramatta-sydney"
+    },
+    {
+      "id": 552890,
+      "title": "Registered Nurse - Home & Community Care",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Grafton",
+      "state": "NSW",
+      "approvedAt": "2026-03-03",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/registered-nurse-home-community-care-yamba-grafton"
+    },
+    {
+      "id": 552889,
+      "title": "Cafe & Wellness Officer",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Nambucca Heads",
+      "state": "NSW",
+      "approvedAt": "2026-03-03",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/cafe-wellness-officer-nambucca-heads-1"
+    },
+    {
+      "id": 552885,
+      "title": "Senior Exercise Physiologist",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "Waverley",
+      "state": "NSW",
+      "approvedAt": "2026-03-03",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/senior-exercise-physiologist-seniors-gym"
+    },
+    {
+      "id": 552778,
+      "title": "Case Manager",
+      "organisationName": "The Benevolent Society ",
+      "location_name": "Sydney",
+      "locality": "Hurstville",
+      "state": "NSW",
+      "approvedAt": "2026-03-02",
+      "url": "https://www.ethicaljobs.com.au/members/TBS2021/case-manager-carer-gateway-2"
+    },
+    {
+      "id": 552765,
+      "title": "Clinical Care Advisor",
+      "organisationName": "Wesley Mission",
+      "location_name": "Regional NSW",
+      "locality": "Grafton",
+      "state": "NSW",
+      "approvedAt": "2026-03-02",
+      "url": "https://www.ethicaljobs.com.au/members/WM/clinical-care-advisor-north-coast-region"
+    },
+    {
+      "id": 552645,
+      "title": "Group Services Cooks",
+      "organisationName": "Spectrum",
+      "location_name": "Melbourne",
+      "locality": "Preston",
+      "state": "VIC",
+      "approvedAt": "2026-03-01",
+      "url": "https://www.ethicaljobs.com.au/members/SpectrumJobs/group-services-cooks"
+    },
+    {
+      "id": 552620,
+      "title": "Clinical Psychologist",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "Petersham",
+      "state": "NSW",
+      "approvedAt": "2026-03-01",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/clinical-psychologist-haberfield-petersham"
+    },
+    {
+      "id": 552587,
+      "title": "Accounts and Administration Officer",
+      "organisationName": "Bayside City Council ",
+      "location_name": "Melbourne",
+      "locality": "Sandringham",
+      "state": "VIC",
+      "approvedAt": "2026-02-27",
+      "url": "https://www.ethicaljobs.com.au/members/BaysideCC/accounts-and-administration-officer-community-care"
+    },
+    {
+      "id": 552552,
+      "title": "Hotel Services",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Armidale",
+      "state": "NSW",
+      "approvedAt": "2026-02-27",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/hotel-services-armidale-1"
+    },
+    {
+      "id": 552550,
+      "title": "Registered Nurse",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Goonellabah",
+      "state": "NSW",
+      "approvedAt": "2026-02-27",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/registered-nurse-goonellabah-55"
+    },
+    {
+      "id": 552548,
+      "title": "Hotel Services",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Yamba",
+      "state": "NSW",
+      "approvedAt": "2026-02-27",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/hotel-services-yamba-4"
+    },
+    {
+      "id": 552549,
+      "title": "Hotel Services Officer",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Goonellabah",
+      "state": "NSW",
+      "approvedAt": "2026-02-27",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/hotel-services-officer-1"
+    },
+    {
+      "id": 552559,
+      "title": "Support Worker",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Newcastle",
+      "state": "NSW",
+      "approvedAt": "2026-02-27",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/support-worker-newcastle-10"
+    },
+    {
+      "id": 552539,
+      "title": "Administration Officer - Kari Court",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "St Ives",
+      "state": "NSW",
+      "approvedAt": "2026-02-27",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/administration-officer-kari-court-st-ives"
+    },
+    {
+      "id": 552558,
+      "title": "Support Worker",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Yamba",
+      "state": "NSW",
+      "approvedAt": "2026-02-27",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/support-worker-yamba-8"
+    },
+    {
+      "id": 552557,
+      "title": "Support Worker",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Orange",
+      "state": "NSW",
+      "approvedAt": "2026-02-27",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/support-worker-orange-13"
+    },
+    {
+      "id": 552556,
+      "title": "Service Delivery - Care Worker",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "Richmond",
+      "state": "NSW",
+      "approvedAt": "2026-02-27",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/service-delivery-care-worker-hawkesbury-richmond"
+    },
+    {
+      "id": 552546,
+      "title": "Registered Nurse",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Yamba",
+      "state": "NSW",
+      "approvedAt": "2026-02-27",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/registered-nurse-yamba-60"
+    },
+    {
+      "id": 552554,
+      "title": "Village Support Worker",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Unanderra",
+      "state": "NSW",
+      "approvedAt": "2026-02-27",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/village-support-worker-unanderra"
+    },
+    {
+      "id": 552553,
+      "title": "Registered Nurse",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Armidale",
+      "state": "NSW",
+      "approvedAt": "2026-02-27",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/registered-nurse-106"
+    },
+    {
+      "id": 552463,
+      "title": "Kitchen Hand",
+      "organisationName": "Wesley Mission",
+      "location_name": "Sydney",
+      "locality": "Sylvania",
+      "state": "NSW",
+      "approvedAt": "2026-02-27",
+      "url": "https://www.ethicaljobs.com.au/members/WM/kitchen-hand"
+    },
+    {
+      "id": 552440,
+      "title": "Enrolled Nurse",
+      "organisationName": "Mercy Health",
+      "location_name": "Regional VIC",
+      "locality": "Yarrawonga",
+      "state": "VIC",
+      "approvedAt": "2026-02-26",
+      "url": "https://www.ethicaljobs.com.au/members/MercyHealthFoundation/enrolled-nurse-1"
+    },
+    {
+      "id": 552363,
+      "title": "Support Worker",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Tweed Heads",
+      "state": "NSW",
+      "approvedAt": "2026-02-26",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/support-worker-tweed-heads-12"
+    }
+  ]
+}

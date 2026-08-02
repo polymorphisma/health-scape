@@ -1,0 +1,1718 @@
+{
+  "data": [
+    {
+      "advertiser": {
+        "id": "400462166",
+        "description": "TasRespite and Support"
+      },
+      "bulletPoints": [
+        "Flexibility and Work-Life Balance is our guarantee",
+        "Predictable Rostering",
+        "Supportive Team Culture"
+      ],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "TasRespite and Support",
+      "companyProfileStructuredDataId": 3271950,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "promoted",
+      "employer": {
+        "id": "3271950",
+        "name": "TasRespite and Support"
+      },
+      "id": "90825847",
+      "isFeatured": true,
+      "listingDate": "2026-03-10T00:04:42Z",
+      "listingDateDisplay": "17h ago",
+      "locations": [
+        {
+          "label": "Hobart TAS",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Hobart TAS"
+            },
+            {
+              "contextualName": "Tasmania TAS"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$30 – $36 per hour",
+      "solMetadata": {
+        "searchRequestToken": "512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "token": "0~512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "jobId": "90825847",
+        "section": "MAIN",
+        "sectionRank": 1,
+        "jobAdType": "SPONSORED",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Whether you’re looking to start a meaningful career or take your experience to new heights: Join us, and let’s make a difference together.",
+      "title": "Disability Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICIyNGViM2VlMy1hOTRlLTQ4Y2ItOGY3MS1jNTYzYjM0YzhmZDFfMSIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "2",
+            "label": {
+              "text": "Hybrid"
+            }
+          }
+        ],
+        "displayText": "Hybrid"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "61872600",
+        "description": "Briighter Care Pty Ltd"
+      },
+      "bulletPoints": [
+        "Ongoing Training",
+        "Career Progression"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/c19b7119-868d-4837-b099-36b92813b1bf.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Briighter Care Pty Ltd",
+      "companyProfileStructuredDataId": 3031604,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "promoted",
+      "employer": {
+        "id": "3031604",
+        "name": "Briighter Care Pty Ltd"
+      },
+      "id": "90827349",
+      "isFeatured": true,
+      "listingDate": "2026-03-10T01:02:51Z",
+      "listingDateDisplay": "17h ago",
+      "locations": [
+        {
+          "label": "Oran Park, Sydney NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Oran Park NSW 2570"
+            },
+            {
+              "contextualName": "All Sydney NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$35 – $45 per hour",
+      "solMetadata": {
+        "searchRequestToken": "512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "token": "0~512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "jobId": "90827349",
+        "section": "MAIN",
+        "sectionRank": 2,
+        "jobAdType": "SPONSORED",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Make a real difference by supporting individuals with disabilities in a rewarding role with a supportive and friendly team!",
+      "title": "Disability Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICIyNGViM2VlMy1hOTRlLTQ4Y2ItOGY3MS1jNTYzYjM0YzhmZDFfMiIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "62891691",
+        "description": "4U Support Services"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "4U Support Services",
+      "companyProfileStructuredDataId": 3044426,
+      "displayType": "standard",
+      "employer": {
+        "id": "3044426",
+        "name": "4U Support Services"
+      },
+      "id": "90402219",
+      "isFeatured": false,
+      "listingDate": "2026-03-09T21:52:03Z",
+      "listingDateDisplay": "20h ago",
+      "locations": [
+        {
+          "label": "Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Brisbane QLD"
+            },
+            {
+              "contextualName": "Queensland QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "support-worker",
+      "salaryLabel": "$43.23 per hour + super",
+      "solMetadata": {
+        "searchRequestToken": "512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "token": "0~512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "jobId": "90402219",
+        "section": "MAIN",
+        "sectionRank": 3,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Support Worker to provide support for daily life activities and community access in home or in the community.",
+      "title": "Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICIyNGViM2VlMy1hOTRlLTQ4Y2ItOGY3MS1jNTYzYjM0YzhmZDFfMyIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "400462166",
+        "description": "TasRespite and Support"
+      },
+      "bulletPoints": [
+        "Flexibility and Work-Life Balance is our guarantee",
+        "Predictable Rostering",
+        "Supportive Team Culture"
+      ],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "TasRespite and Support",
+      "companyProfileStructuredDataId": 3271950,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "3271950",
+        "name": "TasRespite and Support"
+      },
+      "id": "90825847",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T00:04:42Z",
+      "listingDateDisplay": "17h ago",
+      "locations": [
+        {
+          "label": "Hobart TAS",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Hobart TAS"
+            },
+            {
+              "contextualName": "Tasmania TAS"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$30 – $36 per hour",
+      "solMetadata": {
+        "searchRequestToken": "512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "token": "0~512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "jobId": "90825847",
+        "section": "MAIN",
+        "sectionRank": 4,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Whether you’re looking to start a meaningful career or take your experience to new heights: Join us, and let’s make a difference together.",
+      "title": "Disability Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICIyNGViM2VlMy1hOTRlLTQ4Y2ItOGY3MS1jNTYzYjM0YzhmZDFfNCIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "2",
+            "label": {
+              "text": "Hybrid"
+            }
+          }
+        ],
+        "displayText": "Hybrid"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "55324236",
+        "description": "Support Squad"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyProfileStructuredDataId": 0,
+      "displayType": "standard",
+      "id": "90827629",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T01:17:53Z",
+      "listingDateDisplay": "16h ago",
+      "locations": [
+        {
+          "label": "Clearview, Adelaide SA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Clearview SA 5085"
+            },
+            {
+              "contextualName": "All Adelaide SA"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$43.23 per hour weekday, to $77.81 on a Sunday",
+      "solMetadata": {
+        "searchRequestToken": "512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "token": "0~512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "jobId": "90827629",
+        "section": "MAIN",
+        "sectionRank": 5,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Join a fresh, supportive SIL team in Clearview! Casual shifts supporting 3 male participants with active days and passive nights!",
+      "title": "Disability Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICIyNGViM2VlMy1hOTRlLTQ4Y2ItOGY3MS1jNTYzYjM0YzhmZDFfNSIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "60097556",
+        "description": "Careworks Disability Support"
+      },
+      "bulletPoints": [
+        "Meaningful work supporting people to live with dignity and independence",
+        "Flexible, rewarding casual shifts at least 2 hours",
+        "Respectful, values-driven team that genuinely cares for staff and clients"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/364c2d81-0b11-45eb-a34b-fd5cebe1c0fe.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Careworks Disability Support",
+      "companyProfileStructuredDataId": 3032077,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "3032077",
+        "name": "Careworks Disability Support"
+      },
+      "id": "90809139",
+      "isFeatured": false,
+      "listingDate": "2026-03-09T05:15:14Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Brisbane QLD"
+            },
+            {
+              "contextualName": "Queensland QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$40 – $45 per hour",
+      "solMetadata": {
+        "searchRequestToken": "512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "token": "0~512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "jobId": "90809139",
+        "section": "MAIN",
+        "sectionRank": 6,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "- Provide daily support & community access\n - Provide goal-focused support\n - Follow individual support plans\n - Keep accurate progress notes",
+      "title": "Disability Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICIyNGViM2VlMy1hOTRlLTQ4Y2ItOGY3MS1jNTYzYjM0YzhmZDFfNiIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "62942811",
+        "description": "Mells Care"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Mells Care",
+      "companyProfileStructuredDataId": 3155432,
+      "displayType": "standard",
+      "employer": {
+        "id": "3155432",
+        "name": "Mells Care",
+        "companyId": "176153494439917",
+        "companyUrl": "https://www.seek.com.au/companies/mells-care-176153494439917"
+      },
+      "id": "90806309",
+      "isFeatured": false,
+      "listingDate": "2026-03-09T03:49:05Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Hobart TAS",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Hobart TAS"
+            },
+            {
+              "contextualName": "Tasmania TAS"
+            }
+          ]
+        }
+      ],
+      "roleId": "support-worker",
+      "salaryLabel": "$42 – $43 per hour",
+      "solMetadata": {
+        "searchRequestToken": "512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "token": "0~512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "jobId": "90806309",
+        "section": "MAIN",
+        "sectionRank": 7,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Casual Support Worker opportunities across Tasmania\nPay: $43.23/hr | ASAP start | Supportive team",
+      "title": "Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICIyNGViM2VlMy1hOTRlLTQ4Y2ItOGY3MS1jNTYzYjM0YzhmZDFfNyIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "47491806",
+        "description": "Support Worker Co"
+      },
+      "bulletPoints": [
+        "Casual role with genuine opportunities to increase hours each week",
+        "SILS located in Kippa-Ring, Scarborough, Bray Park, Bellmere, Deception Bay",
+        "Combination of morning (from 6am), afternoon (from 2pm) & sleep over shifts"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/5b4dae92-130f-477d-9adf-a380ed9ec070.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Support Worker Co",
+      "companyProfileStructuredDataId": 530390,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "530390",
+        "name": "Support Worker Co",
+        "companyId": "163659544220562",
+        "companyUrl": "https://www.seek.com.au/companies/support-worker-co-163659544220562"
+      },
+      "id": "90799159",
+      "isFeatured": false,
+      "listingDate": "2026-03-08T23:55:43Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Kippa-Ring, Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Kippa-Ring QLD 4021"
+            },
+            {
+              "contextualName": "All Brisbane QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$43.23 per hour plus shift loadings & weekly pay",
+      "solMetadata": {
+        "searchRequestToken": "512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "token": "0~512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "jobId": "90799159",
+        "section": "MAIN",
+        "sectionRank": 8,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Join a growing Support Worker Agency and work within a leading Disability Service Provider. Support people in SIL services requiring 24-hour care.",
+      "title": "Disability Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICIyNGViM2VlMy1hOTRlLTQ4Y2ItOGY3MS1jNTYzYjM0YzhmZDFfOCIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "60475159",
+        "description": "Connection Disability Services Pty Ltd"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Connection Disability Services",
+      "companyProfileStructuredDataId": 697570,
+      "displayType": "standard",
+      "employer": {
+        "id": "697570",
+        "name": "Connection Disability Services"
+      },
+      "id": "90811572",
+      "isFeatured": false,
+      "listingDate": "2026-03-09T06:26:13Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Truganina, Melbourne VIC",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Truganina VIC 3029"
+            },
+            {
+              "contextualName": "All Melbourne VIC"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$43.23 per hour",
+      "solMetadata": {
+        "searchRequestToken": "512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "token": "0~512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "jobId": "90811572",
+        "section": "MAIN",
+        "sectionRank": 9,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Looking for support workers experienced working with Children and autism",
+      "title": "Disability Support Worker (Casual) Truganina VIC",
+      "tracking": "ewogICJ0b2tlbiI6ICIyNGViM2VlMy1hOTRlLTQ4Y2ItOGY3MS1jNTYzYjM0YzhmZDFfOSIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "400959083",
+        "description": "Just Better Care Adelaide"
+      },
+      "bulletPoints": [
+        "Flexible working hours",
+        "Weekly + SCHADS award pay",
+        "Ongoing training and development opportunity"
+      ],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Just Better Care",
+      "companyProfileStructuredDataId": 1855,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "1855",
+        "name": "Just Better Care",
+        "companyId": "433677",
+        "companyUrl": "https://www.seek.com.au/companies/just-better-care-433677"
+      },
+      "id": "90824625",
+      "isFeatured": false,
+      "listingDate": "2026-03-09T23:20:44Z",
+      "listingDateDisplay": "18h ago",
+      "locations": [
+        {
+          "label": "Adelaide SA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Adelaide SA"
+            },
+            {
+              "contextualName": "South Australia SA"
+            }
+          ]
+        }
+      ],
+      "roleId": "home-care-support-worker",
+      "salaryLabel": "$38.00 - $70.00 hourly",
+      "solMetadata": {
+        "searchRequestToken": "512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "token": "0~512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "jobId": "90824625",
+        "section": "MAIN",
+        "sectionRank": 10,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Seeking community support workers in Aged Care",
+      "title": "In-Home Care - Support Worker (Aged Care)",
+      "tracking": "ewogICJ0b2tlbiI6ICIyNGViM2VlMy1hOTRlLTQ4Y2ItOGY3MS1jNTYzYjM0YzhmZDFfMTAiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "3",
+            "label": {
+              "text": "Remote"
+            }
+          }
+        ],
+        "displayText": "Remote"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "61872600",
+        "description": "Briighter Care Pty Ltd"
+      },
+      "bulletPoints": [
+        "Ongoing Training",
+        "Career Progression"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/c19b7119-868d-4837-b099-36b92813b1bf.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Briighter Care Pty Ltd",
+      "companyProfileStructuredDataId": 3031604,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "3031604",
+        "name": "Briighter Care Pty Ltd"
+      },
+      "id": "90827349",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T01:02:51Z",
+      "listingDateDisplay": "17h ago",
+      "locations": [
+        {
+          "label": "Oran Park, Sydney NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Oran Park NSW 2570"
+            },
+            {
+              "contextualName": "All Sydney NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$35 – $45 per hour",
+      "solMetadata": {
+        "searchRequestToken": "512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "token": "0~512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "jobId": "90827349",
+        "section": "MAIN",
+        "sectionRank": 11,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Make a real difference by supporting individuals with disabilities in a rewarding role with a supportive and friendly team!",
+      "title": "Disability Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICIyNGViM2VlMy1hOTRlLTQ4Y2ItOGY3MS1jNTYzYjM0YzhmZDFfMTEiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "61801203",
+        "description": "OLIVE CARE DISABILITY SERVICES PTY LTD"
+      },
+      "bulletPoints": [
+        "A trusted, growing organization serving Illawarra & Shoalhaven.",
+        "Values-driven care, supportive teamwork.",
+        "Competitive pay, Vehicle Provided or Great km allowance, Casual to Permanent."
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/00726deb-3ee6-4b8c-90e8-4e1e71194bbc.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Olive Care Disability Services Pty Ltd",
+      "companyProfileStructuredDataId": 3157040,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "3157040",
+        "name": "Olive Care Disability Services Pty Ltd",
+        "companyId": "176291466221677",
+        "companyUrl": "https://www.seek.com.au/companies/olive-care-disability-services-pty-ltd-176291466221677"
+      },
+      "id": "90802766",
+      "isFeatured": false,
+      "listingDate": "2026-03-09T02:22:25Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Shellharbour, Wollongong, Illawarra & South Coast NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Shellharbour NSW 2529"
+            },
+            {
+              "contextualName": "Wollongong, Illawarra & South Coast NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$38 – $45 per hour",
+      "solMetadata": {
+        "searchRequestToken": "512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "token": "0~512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "jobId": "90802766",
+        "section": "MAIN",
+        "sectionRank": 12,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "URGENT",
+          "label": "Immediate start"
+        }
+      ],
+      "teaser": "Explore the chance to join Olive Care's dedicated teams, contributing to outstanding outcomes for our participants.",
+      "title": "DISABILITY SUPPORT WORKER  (WOLLONGONG/SHELLHARBOUR/NOWRA)",
+      "tracking": "ewogICJ0b2tlbiI6ICIyNGViM2VlMy1hOTRlLTQ4Y2ItOGY3MS1jNTYzYjM0YzhmZDFfMTIiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "63524270",
+        "description": "Primrose Home Care Services"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/e9b08325-7195-4d64-aae9-2d1c6f24a2a7.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyProfileStructuredDataId": 0,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "id": "90825478",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T01:53:11Z",
+      "listingDateDisplay": "16h ago",
+      "locations": [
+        {
+          "label": "Adelaide SA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Adelaide SA"
+            },
+            {
+              "contextualName": "South Australia SA"
+            }
+          ]
+        }
+      ],
+      "roleId": "support-worker",
+      "salaryLabel": "$35.15 – $39.11 per hour - negotiable",
+      "solMetadata": {
+        "searchRequestToken": "512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "token": "0~512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "jobId": "90825478",
+        "section": "MAIN",
+        "sectionRank": 13,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Primrose deliver uniquely tailored, high quality personal and community support services that champion the goals and aspiration of each participant.",
+      "title": "Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICIyNGViM2VlMy1hOTRlLTQ4Y2ItOGY3MS1jNTYzYjM0YzhmZDFfMTMiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "56051831",
+        "description": "Simply Helping Franchising"
+      },
+      "bulletPoints": [
+        "Quality Care – Personalised, compassionate support tailored to individual needs.",
+        "Join a team that values compassion and impact.",
+        "We have been providing care for over 27 years!"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/d8d9390f-ebb2-4723-9531-56d2ea5132c5.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Simply Helping",
+      "companyProfileStructuredDataId": 644232,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "644232",
+        "name": "Simply Helping",
+        "companyId": "167832563835573",
+        "companyUrl": "https://www.seek.com.au/companies/simply-helping-167832563835573"
+      },
+      "id": "90830384",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T02:19:39Z",
+      "listingDateDisplay": "15h ago",
+      "locations": [
+        {
+          "label": "Geelong, South West Coast VIC",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Geelong VIC 3220"
+            },
+            {
+              "contextualName": "South West Coast VIC"
+            }
+          ]
+        }
+      ],
+      "roleId": "support-worker",
+      "salaryLabel": "$30 – $40 per hour",
+      "solMetadata": {
+        "searchRequestToken": "512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "token": "0~512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "jobId": "90830384",
+        "section": "MAIN",
+        "sectionRank": 14,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Immediate start is available, around Lara, Ocean Grove, Portarlington, Torquay, \nJan Jac, Drysdale, Anglesea and Greater Geelong.",
+      "title": "Support Worker (qualified only)",
+      "tracking": "ewogICJ0b2tlbiI6ICIyNGViM2VlMy1hOTRlLTQ4Y2ItOGY3MS1jNTYzYjM0YzhmZDFfMTQiCn0=",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "46782438",
+        "description": "Bellona Care"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/57406c54-7b66-4e7e-bc63-8e924e12e4ff.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Bellona Care",
+      "companyProfileStructuredDataId": 3228143,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "3228143",
+        "name": "Bellona Care"
+      },
+      "id": "90819696",
+      "isFeatured": false,
+      "listingDate": "2026-03-09T12:51:40Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Sydney NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Sydney NSW"
+            },
+            {
+              "contextualName": "New South Wales NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "home-care-worker",
+      "salaryLabel": "$42.50 – $63+ per hour",
+      "solMetadata": {
+        "searchRequestToken": "512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "token": "0~512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "jobId": "90819696",
+        "section": "MAIN",
+        "sectionRank": 15,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Care provider seeking flexible, passionate staff across Sydney. We pay above award rates and have clients across Sydney that need assistance now!",
+      "title": "Home Care Workers (Aged & Disability Support)",
+      "tracking": "ewogICJ0b2tlbiI6ICIyNGViM2VlMy1hOTRlLTQ4Y2ItOGY3MS1jNTYzYjM0YzhmZDFfMTUiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "43136627",
+        "description": "HomeWise Health Pty Ltd"
+      },
+      "bulletPoints": [
+        "- minimum 3hr shift times with regular clients",
+        "- rosters issued monthly in advance",
+        "- 24/7 support from management team"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/97d09ee9-5c7d-42a2-8a0e-791c640ef299.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "HomeWise Health Pty Ltd",
+      "companyProfileStructuredDataId": 3243597,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "3243597",
+        "name": "HomeWise Health Pty Ltd"
+      },
+      "id": "90712788",
+      "isFeatured": false,
+      "listingDate": "2026-03-04T04:05:07Z",
+      "listingDateDisplay": "6d ago",
+      "locations": [
+        {
+          "label": "Gosford, Gosford & Central Coast NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Gosford NSW 2250"
+            },
+            {
+              "contextualName": "Gosford & Central Coast NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "support-worker",
+      "salaryLabel": "$41 – $43 per hour",
+      "solMetadata": {
+        "searchRequestToken": "512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "token": "0~512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "jobId": "90712788",
+        "section": "MAIN",
+        "sectionRank": 16,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "URGENT",
+          "label": "Immediate start"
+        }
+      ],
+      "teaser": "The role supports clients' independence, assists in social inclusion, and maintains a healthy home environment.",
+      "title": "Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICIyNGViM2VlMy1hOTRlLTQ4Y2ItOGY3MS1jNTYzYjM0YzhmZDFfMTYiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "44004924",
+        "description": "Gold Care Home Services"
+      },
+      "bulletPoints": [
+        "Flexible Work That Fits Your Life",
+        "Meaningful One-on-One Care",
+        "Supportive Team + Career Growth"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/19b8f8f5-2040-4f55-821c-9da4bf6d4511.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Gold Care Home Services",
+      "companyProfileStructuredDataId": 3240938,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "3240938",
+        "name": "Gold Care Home Services"
+      },
+      "id": "90772073",
+      "isFeatured": false,
+      "listingDate": "2026-03-06T04:52:36Z",
+      "listingDateDisplay": "4d ago",
+      "locations": [
+        {
+          "label": "Sydney NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Sydney NSW"
+            },
+            {
+              "contextualName": "New South Wales NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "home-care-support-worker",
+      "salaryLabel": "$38.91 – $43.24 Per Hour (Excl Super).",
+      "solMetadata": {
+        "searchRequestToken": "512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "token": "0~512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "jobId": "90772073",
+        "section": "MAIN",
+        "sectionRank": 17,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "APPLY NOW and start making a positive impact today!",
+      "title": "Home Care Support Worker - Hiring In All Sydney Regions (SYD Aus Only)",
+      "tracking": "ewogICJ0b2tlbiI6ICIyNGViM2VlMy1hOTRlLTQ4Y2ItOGY3MS1jNTYzYjM0YzhmZDFfMTciCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "60035580",
+        "description": "Rae of Sunshine Supports"
+      },
+      "bulletPoints": [
+        "Small, Local and Supportive Team",
+        "Flexible Working Hours with Weekly pay",
+        "Immediate Starts Available"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/f75779ee-f863-4f5d-ab99-f668ccfd580c.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Rae of Sunshine Supports",
+      "companyProfileStructuredDataId": 3264226,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "3264226",
+        "name": "Rae of Sunshine Supports"
+      },
+      "id": "90812551",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T00:14:40Z",
+      "listingDateDisplay": "17h ago",
+      "locations": [
+        {
+          "label": "Rockhampton, Rockhampton & Capricorn Coast QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Rockhampton QLD 4700"
+            },
+            {
+              "contextualName": "Rockhampton & Capricorn Coast QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$34 – $40 per hour",
+      "solMetadata": {
+        "searchRequestToken": "512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "token": "0~512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "jobId": "90812551",
+        "section": "MAIN",
+        "sectionRank": 18,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Rae of Sunshine Supports are seeking passionate and reliable Support Workers to join our Rockhampton based team with immediate starts available.",
+      "title": "Disability Support Worker",
+      "tracking": "ewogICJ0b2tlbiI6ICIyNGViM2VlMy1hOTRlLTQ4Y2ItOGY3MS1jNTYzYjM0YzhmZDFfMTgiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "46199368",
+        "description": "Carpe Diem Community Support"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6164",
+            "description": "Aged & Disability Support"
+          }
+        }
+      ],
+      "companyName": "Carpe Diem Community Support",
+      "companyProfileStructuredDataId": 697552,
+      "displayType": "standard",
+      "employer": {
+        "id": "697552",
+        "name": "Carpe Diem Community Support"
+      },
+      "id": "90800497",
+      "isFeatured": false,
+      "listingDate": "2026-03-09T00:59:35Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Darwin NT",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Darwin NT"
+            },
+            {
+              "contextualName": "Northern Territory NT"
+            }
+          ]
+        }
+      ],
+      "roleId": "disability-support-worker",
+      "salaryLabel": "$33 – $35 per hour",
+      "solMetadata": {
+        "searchRequestToken": "512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "token": "0~512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "jobId": "90800497",
+        "section": "MAIN",
+        "sectionRank": 19,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Experienced disability support workers and mentors wanted to work with diverse range of clients in the Darwin/Palmerston region.",
+      "title": "Disability Support Worker & Mentors",
+      "tracking": "ewogICJ0b2tlbiI6ICIyNGViM2VlMy1hOTRlLTQ4Y2ItOGY3MS1jNTYzYjM0YzhmZDFfMTkiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "24535857",
+        "description": "Aruma"
+      },
+      "bulletPoints": [
+        "From $43.23 Casual Base rate  + penalties + Salary Packaging increasing your ...",
+        "Various shifts to support work life balance",
+        "Employee benefits including, EAP, retail discounts & fitness passport."
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/c6ae5284-0247-2500-54f3-ae4375948f6d.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6163",
+            "description": "Community Services & Development"
+          },
+          "subclassification": {
+            "id": "6165",
+            "description": "Child Welfare, Youth & Family Services"
+          }
+        }
+      ],
+      "companyName": "Aruma",
+      "companyProfileStructuredDataId": 3344,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "3344",
+        "name": "Aruma",
+        "companyId": "432975",
+        "companyUrl": "https://www.seek.com.au/companies/aruma-432975"
+      },
+      "id": "90830720",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T02:27:11Z",
+      "listingDateDisplay": "15h ago",
+      "locations": [
+        {
+          "label": "Townsville, Northern QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Townsville QLD 4810"
+            },
+            {
+              "contextualName": "Northern QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "support-worker",
+      "salaryLabel": "From $43.23 Casual Base Rate + penalties",
+      "solMetadata": {
+        "searchRequestToken": "512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "token": "0~512b5af0-61ea-491c-bfce-5d5866cc4011",
+        "jobId": "90830720",
+        "section": "MAIN",
+        "sectionRank": 20,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Seeking enthusiastic Support Workers in Childrens Services. Support children in care to reach their potential and make a difference in their lives.",
+      "title": "Support Worker Childrens Services",
+      "tracking": "ewogICJ0b2tlbiI6ICIyNGViM2VlMy1hOTRlLTQ4Y2ItOGY3MS1jNTYzYjM0YzhmZDFfMjAiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "totalCount": 14850,
+  "info": {
+    "timeTaken": 128,
+    "source": "JobSearch-sm",
+    "experiment": "mordor_841",
+    "newSince": 1773165799
+  },
+  "userQueryId": "API3980673419232505444",
+  "location": {
+    "description": "All Australia",
+    "locationDescription": "",
+    "type": "Country",
+    "whereId": "3000",
+    "localisedDescriptions": {
+      "en": {
+        "contextualName": "All Australia"
+      },
+      "id": {
+        "contextualName": "Australia"
+      },
+      "th": {
+        "contextualName": "ออสเตรเลีย"
+      },
+      "zh-Hant": {
+        "contextualName": "澳洲"
+      }
+    },
+    "isGranular": false,
+    "defaultDistanceKms": 50
+  },
+  "sortModes": [
+    {
+      "isActive": true,
+      "name": "Relevance",
+      "value": "KeywordRelevance"
+    },
+    {
+      "isActive": false,
+      "name": "Date",
+      "value": "ListedDate"
+    }
+  ],
+  "solMetadata": {
+    "requestToken": "512b5af0-61ea-491c-bfce-5d5866cc4011",
+    "token": "0~512b5af0-61ea-491c-bfce-5d5866cc4011",
+    "keywords": "support worker",
+    "sortMode": "RELEVANCE",
+    "locations": [
+      "All Australia",
+      "seek-3000"
+    ],
+    "locationDistance": 50,
+    "pageSize": 20,
+    "pageNumber": 1,
+    "totalJobCount": 14850,
+    "tags": {
+      "mordor:searchMarket": "UNIFIED_AU",
+      "mordor:result_count_rst": "12435",
+      "mordor:result_count_vec": "129",
+      "mordor:rt": "119",
+      "mordor:count_vec": "129",
+      "mordor__flights": "mordor_841",
+      "mordor:count_rst": "12435",
+      "mordor:count_ir": "2286",
+      "mordor:result_count_ir": "2286"
+    }
+  },
+  "facets": {},
+  "searchParams": {
+    "sitekey": "AU-Main",
+    "sourcesystem": "houston",
+    "where": "All Australia",
+    "page": "1",
+    "seekselectallpages": "true",
+    "keywords": "support worker",
+    "include": "seodata",
+    "locale": "en-AU"
+  }
+}

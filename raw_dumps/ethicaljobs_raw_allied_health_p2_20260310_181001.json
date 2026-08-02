@@ -1,0 +1,305 @@
+{
+  "category": "Allied Health",
+  "data": [
+    {
+      "id": 553506,
+      "title": "School Psychologist",
+      "organisationName": "Berry Street Take Two",
+      "location_name": "Regional VIC",
+      "locality": "Morwell",
+      "state": "VIC",
+      "approvedAt": "2026-03-09",
+      "url": "https://www.ethicaljobs.com.au/members/taketwo/school-psychologist-morwell-2"
+    },
+    {
+      "id": 553497,
+      "title": "Occupational Therapist",
+      "organisationName": "Act for Kids",
+      "location_name": "Regional QLD",
+      "locality": "Toowoomba & Darling Downs",
+      "state": "QLD",
+      "approvedAt": "2026-03-09",
+      "url": "https://www.ethicaljobs.com.au/members/actforkids/occupational-therapist-toowoomba-1"
+    },
+    {
+      "id": 553455,
+      "title": "Senior Clinician",
+      "organisationName": "Anglicare NT",
+      "location_name": "Darwin",
+      "locality": "Darwin",
+      "state": "NT",
+      "approvedAt": "2026-03-08",
+      "url": "https://www.ethicaljobs.com.au/members/angliNT/senior-clinician-headspace-5"
+    },
+    {
+      "id": 553454,
+      "title": "Clinical Leads x2",
+      "organisationName": "Anglicare NT",
+      "location_name": "Darwin",
+      "locality": "Darwin",
+      "state": "NT",
+      "approvedAt": "2026-03-08",
+      "url": "https://www.ethicaljobs.com.au/members/angliNT/clinical-leads-x2-headspace-darwin-palmerston-3"
+    },
+    {
+      "id": 553487,
+      "title": "Drug & Alcohol Team Leader",
+      "organisationName": "Northern Sydney Local Health District",
+      "location_name": "Sydney",
+      "locality": "St Leonards",
+      "state": "NSW",
+      "approvedAt": "2026-03-08",
+      "url": "https://www.ethicaljobs.com.au/members/EmployeeServices/drug-alcohol-team-leader-assertive-case-management"
+    },
+    {
+      "id": 553453,
+      "title": "Mental Health Clinician",
+      "organisationName": "Anglicare NT",
+      "location_name": "Darwin",
+      "locality": "Darwin",
+      "state": "NT",
+      "approvedAt": "2026-03-08",
+      "url": "https://www.ethicaljobs.com.au/members/angliNT/mental-health-clinician-early-psychosis"
+    },
+    {
+      "id": 553458,
+      "title": "Speech Pathologist",
+      "organisationName": "Anecdote Clinical Support",
+      "location_name": "Melbourne",
+      "locality": "Brunswick",
+      "state": "VIC",
+      "approvedAt": "2026-03-08",
+      "url": "https://www.ethicaljobs.com.au/members/AnecdoteClinicalSupport/speech-pathologist"
+    },
+    {
+      "id": 553436,
+      "title": "Senior / Rural Generalist - Obstetrician",
+      "organisationName": "Northern Territory Government",
+      "location_name": "Regional NT",
+      "locality": "Nhulunbuy",
+      "state": "NT",
+      "approvedAt": "2026-03-06",
+      "url": "https://www.ethicaljobs.com.au/members/Atomic212/senior-rural-generalist-obstetrician-nhulunbuy"
+    },
+    {
+      "id": 553432,
+      "title": "Program Coordinator",
+      "organisationName": "Gold Coast Primary Health Network (GCPHN)",
+      "location_name": "Brisbane & Gold Coast",
+      "locality": "Robina",
+      "state": "QLD",
+      "approvedAt": "2026-03-06",
+      "url": "https://www.ethicaljobs.com.au/members/GCPHN/program-coordinator-primary-health-care"
+    },
+    {
+      "id": 553391,
+      "title": "Manager",
+      "organisationName": "North Western Melbourne Primary Health Network",
+      "location_name": "Melbourne",
+      "locality": "Docklands",
+      "state": "VIC",
+      "approvedAt": "2026-03-06",
+      "url": "https://www.ethicaljobs.com.au/members/NorthWestern_BS/manager-service-development"
+    },
+    {
+      "id": 553389,
+      "title": "Counsellor Advocates.",
+      "organisationName": "Queensland Program of Assistance to Survivors of Torture and Trauma",
+      "location_name": "Brisbane & Gold Coast",
+      "locality": "Brisbane",
+      "state": "QLD",
+      "approvedAt": "2026-03-06",
+      "url": "https://www.ethicaljobs.com.au/members/QPASTT/counsellor-advocates-brisbane-logan-gold-coast"
+    },
+    {
+      "id": 553111,
+      "title": "Occupational Therapists x2",
+      "organisationName": "Neuroqueer",
+      "location_name": "Melbourne",
+      "locality": "CBD & Inner Suburbs Melbourne",
+      "state": "VIC",
+      "approvedAt": "2026-03-06",
+      "url": "https://www.ethicaljobs.com.au/members/neuroqueer/occupational-therapists-x2-remote-work-from-home"
+    },
+    {
+      "id": 553377,
+      "title": "Program Support Officer",
+      "organisationName": "North Western Melbourne Primary Health Network",
+      "location_name": "Melbourne",
+      "locality": "Docklands",
+      "state": "VIC",
+      "approvedAt": "2026-03-06",
+      "url": "https://www.ethicaljobs.com.au/members/NorthWestern_BS/program-support-officer-workforce-development-1"
+    },
+    {
+      "id": 553360,
+      "title": "Senior Psychologist / Clinician Lead",
+      "organisationName": "Access Health and Community",
+      "location_name": "Melbourne",
+      "locality": "Malvern",
+      "state": "VIC",
+      "approvedAt": "2026-03-06",
+      "url": "https://www.ethicaljobs.com.au/members/IECHSheadspace/senior-psychologist-clinician-lead-headspace-malvern"
+    },
+    {
+      "id": 553379,
+      "title": "Deputy Chief Executive Officer (Identified)",
+      "organisationName": "Armajun Aboriginal Health Service",
+      "location_name": "Regional NSW",
+      "locality": "Armidale",
+      "state": "NSW",
+      "approvedAt": "2026-03-06",
+      "url": "https://www.ethicaljobs.com.au/members/AbundanceHR/deputy-chief-executive-officer-identified-flexible-location"
+    },
+    {
+      "id": 553352,
+      "title": "Continuing Professional Development Program Officer",
+      "organisationName": "EIS Health Limited",
+      "location_name": "Sydney",
+      "locality": "Mascot",
+      "state": "NSW",
+      "approvedAt": "2026-03-06",
+      "url": "https://www.ethicaljobs.com.au/members/eishealth/continuing-professional-development-program-officer-2"
+    },
+    {
+      "id": 553338,
+      "title": "Career Medical Officer",
+      "organisationName": "Royal Rehab Group",
+      "location_name": "Sydney",
+      "locality": "Ryde & Macquarie Park Sydney",
+      "state": "NSW",
+      "approvedAt": "2026-03-06",
+      "url": "https://www.ethicaljobs.com.au/members/Royalrehab/career-medical-officer"
+    },
+    {
+      "id": 553331,
+      "title": "Alcohol & Other Drugs Counsellor",
+      "organisationName": "Uniting (Victoria and Tasmania) Limited",
+      "location_name": "Melbourne",
+      "locality": "Narre Warren",
+      "state": "VIC",
+      "approvedAt": "2026-03-06",
+      "url": "https://www.ethicaljobs.com.au/members/WMV/alcohol-other-drugs-counsellor-2"
+    },
+    {
+      "id": 553314,
+      "title": "Mental Health Clinician",
+      "organisationName": "Neami National",
+      "location_name": "Melbourne",
+      "locality": "Northcote",
+      "state": "VIC",
+      "approvedAt": "2026-03-06",
+      "url": "https://www.ethicaljobs.com.au/members/neami/mental-health-clinician-northcote"
+    },
+    {
+      "id": 553322,
+      "title": "Speech Pathologist - Paediatrics - Grade 2",
+      "organisationName": "Scope (Aust) Ltd",
+      "location_name": "Regional VIC",
+      "locality": "Bendigo",
+      "state": "VIC",
+      "approvedAt": "2026-03-05",
+      "url": "https://www.ethicaljobs.com.au/members/Scope/speech-pathologist-paediatrics-grade-2-bendigo"
+    },
+    {
+      "id": 553308,
+      "title": "Health & Wellbeing Coordinator",
+      "organisationName": "Complete Recruitment Matters",
+      "location_name": "Perth",
+      "locality": "Perth",
+      "state": "WA",
+      "approvedAt": "2026-03-05",
+      "url": "https://www.ethicaljobs.com.au/members/CompleteRecruitmentMatters/health-wellbeing-coordinator-institute-of-sisters-of-mercy-of-australia-and-papua-new-guinea"
+    },
+    {
+      "id": 553282,
+      "title": "Social Worker",
+      "organisationName": "Women's and Children's Health Network",
+      "location_name": "Adelaide",
+      "locality": "Elizabeth",
+      "state": "SA",
+      "approvedAt": "2026-03-05",
+      "url": "https://www.ethicaljobs.com.au/members/WomensandChildrensHealthNetwork/social-worker-metropolitan-youth-health-north-1"
+    },
+    {
+      "id": 553274,
+      "title": "Clinical Educator",
+      "organisationName": "New Horizons",
+      "location_name": "Sydney",
+      "locality": "Ashfield",
+      "state": "NSW",
+      "approvedAt": "2026-03-05",
+      "url": "https://www.ethicaljobs.com.au/members/NewHorizons/clinical-educator-ashfield"
+    },
+    {
+      "id": 553269,
+      "title": "Oral Health Service Lead",
+      "organisationName": "Royal Flying Doctor Service Victoria",
+      "location_name": "Melbourne",
+      "locality": "Richmond",
+      "state": "VIC",
+      "approvedAt": "2026-03-05",
+      "url": "https://www.ethicaljobs.com.au/members/RFDSVIC/oral-health-service-lead"
+    },
+    {
+      "id": 553227,
+      "title": "Program Manager (Identified)",
+      "organisationName": "CheckUP",
+      "location_name": "Brisbane & Gold Coast",
+      "locality": "South Brisbane",
+      "state": "QLD",
+      "approvedAt": "2026-03-05",
+      "url": "https://www.ethicaljobs.com.au/members/CheckUP/program-manager-identified-aboriginal-and-torres-strait-islander-ndis-support-program"
+    },
+    {
+      "id": 553217,
+      "title": "Consultant Psychiatrist - headspace Early psychosis",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "Parramatta & Western Suburbs Sydney",
+      "state": "NSW",
+      "approvedAt": "2026-03-05",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/consultant-psychiatrist-headspace-early-psychosis-western-sydney"
+    },
+    {
+      "id": 553225,
+      "title": "Team Leader",
+      "organisationName": "Act for Kids",
+      "location_name": "Regional QLD",
+      "locality": "Cairns & Far North",
+      "state": "QLD",
+      "approvedAt": "2026-03-05",
+      "url": "https://www.ethicaljobs.com.au/members/actforkids/team-leader-cairns"
+    },
+    {
+      "id": 553232,
+      "title": "Care Manager",
+      "organisationName": "Lutheran Services",
+      "location_name": "Regional QLD",
+      "locality": "Buderim",
+      "state": "QLD",
+      "approvedAt": "2026-03-05",
+      "url": "https://www.ethicaljobs.com.au/members/LutheranServices/care-manager-buderim"
+    },
+    {
+      "id": 553172,
+      "title": "Mental Health Clinician",
+      "organisationName": "Bendigo Community Health Services",
+      "location_name": "Regional VIC",
+      "locality": "Bendigo, Goldfields & Macedon Ranges",
+      "state": "VIC",
+      "approvedAt": "2026-03-05",
+      "url": "https://www.ethicaljobs.com.au/members/BendigoCHS/mental-health-clinician-bendigo-9"
+    },
+    {
+      "id": 553163,
+      "title": "Cancer Council Navigators",
+      "organisationName": "Cancer Council Victoria",
+      "location_name": "Melbourne",
+      "locality": "East Melbourne",
+      "state": "VIC",
+      "approvedAt": "2026-03-05",
+      "url": "https://www.ethicaljobs.com.au/members/cancervic2011/cancer-council-navigators"
+    }
+  ]
+}

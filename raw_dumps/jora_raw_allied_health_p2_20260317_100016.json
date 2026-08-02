@@ -1,0 +1,126 @@
+{
+  "category": "Allied Health",
+  "data": [
+    {
+      "id": "308c4349ee822b9d46800c1b7772efe9",
+      "title": "Allied Health Assistant",
+      "facility_name": "Early Start Australia",
+      "category": "Allied Health",
+      "state": "NSW",
+      "city": "Manly",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Allied-Health-Assistant-308c4349ee822b9d46800c1b7772efe9",
+      "raw_location": "Manly NSW"
+    },
+    {
+      "id": "1bd2f2c5c4189f8b98ae8be208b85040",
+      "title": "Allied Health Assistants & Physiotherapists",
+      "facility_name": "Waratah Private Hospital",
+      "category": "Allied Health",
+      "state": "NSW",
+      "city": "Hurstville",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Allied-Health-Assistant-1bd2f2c5c4189f8b98ae8be208b85040",
+      "raw_location": "Hurstville NSW"
+    },
+    {
+      "id": "19ef32b33017243a273010a7c59b8389",
+      "title": "Allied Health Assistant",
+      "facility_name": "Early Start Australia",
+      "category": "Allied Health",
+      "state": "NSW",
+      "city": "Manly",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Allied-Health-Assistant-19ef32b33017243a273010a7c59b8389",
+      "raw_location": "Manly NSW"
+    },
+    {
+      "id": "96210f25024602f0bbb7ffd12e475db5",
+      "title": "Allied Health Assistant",
+      "facility_name": "TLC Medical Centres",
+      "category": "Allied Health",
+      "state": "VIC",
+      "city": "Mordialloc",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Allied-Health-Assistant-96210f25024602f0bbb7ffd12e475db5",
+      "raw_location": "Mordialloc VIC"
+    },
+    {
+      "id": "8154e84df95a3c474b0e46a66d77cc30",
+      "title": "Allied Health Assistant",
+      "facility_name": "Queensland Health",
+      "category": "Allied Health",
+      "state": "QLD",
+      "city": "Meadowbrook",
+      "date_posted": "2026-03-13",
+      "url": "https://au.jora.com/job/Allied-Health-Assistant-8154e84df95a3c474b0e46a66d77cc30",
+      "raw_location": "Meadowbrook QLD"
+    },
+    {
+      "id": "4a77b7fb7d687e50ea9990ded67da7eb",
+      "title": "Receptionist - Allied Health",
+      "facility_name": "InHand Occupational Therapy",
+      "category": "Allied Health",
+      "state": "WA",
+      "city": "Claremont",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Receptionist-Allied-Health-4a77b7fb7d687e50ea9990ded67da7eb",
+      "raw_location": "Claremont WA"
+    },
+    {
+      "id": "a1b663952c5400dadf6e9f529b758cf7",
+      "title": "Allied Health Assistant (Healthy Kindy Kids)",
+      "facility_name": "Gold Coast Hospital & Health Service",
+      "category": "Allied Health",
+      "state": "QLD",
+      "city": "Southport",
+      "date_posted": "2026-03-16",
+      "url": "https://au.jora.com/job/Allied-Health-Assistant-a1b663952c5400dadf6e9f529b758cf7",
+      "raw_location": "Southport QLD"
+    },
+    {
+      "id": "6c306b0867ae831161c3cd6b575a851e",
+      "title": "Admin Assistant – Allied Health / NDIS Clinic",
+      "facility_name": "Wheatbelt Psychology Services",
+      "category": "Allied Health",
+      "state": "WA",
+      "city": "Perth",
+      "date_posted": "2026-03-16",
+      "url": "https://au.jora.com/job/Admin-Assistant-Allied-6c306b0867ae831161c3cd6b575a851e",
+      "raw_location": "Perth WA"
+    },
+    {
+      "id": "0bef91e861cddcc74253d3f0418a4ec0",
+      "title": "Allied Health Assistant",
+      "facility_name": "Neurological Rehabilitation Group",
+      "category": "Allied Health",
+      "state": "VIC",
+      "city": "Mount Waverley",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Allied-Health-Assistant-0bef91e861cddcc74253d3f0418a4ec0",
+      "raw_location": "Mount Waverley VIC"
+    },
+    {
+      "id": "bad3330ee08b2cbca4e22a22977c1cbe",
+      "title": "Admin Officer - Paediatric Allied Health",
+      "facility_name": "Grow Co Pty Ltd",
+      "category": "Allied Health",
+      "state": "QLD",
+      "city": "Springwood",
+      "date_posted": "2026-03-16",
+      "url": "https://au.jora.com/job/Admin-Officer-Paediatric-bad3330ee08b2cbca4e22a22977c1cbe",
+      "raw_location": "Springwood QLD"
+    },
+    {
+      "id": "9fa656f0faffbd5b1d73285318c9705d",
+      "title": "Allied Health Leave Reliever",
+      "facility_name": "Alfred Health",
+      "category": "Allied Health",
+      "state": "VIC",
+      "city": "Melbourne",
+      "date_posted": "2026-03-16",
+      "url": "https://au.jora.com/job/Reliever-9fa656f0faffbd5b1d73285318c9705d",
+      "raw_location": "Melbourne VIC"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "category": "Aged Care",
+  "data": [
+    {
+      "id": "d20ef5f7902d5c07565a23447d8b981e",
+      "title": "Aged Care Employee: Wellbeing Services - IRT Culburra",
+      "facility_name": "IRT Group",
+      "category": "Aged Care",
+      "state": "NSW",
+      "city": "Culburra Beach",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Aged-Care-Employee-d20ef5f7902d5c07565a23447d8b981e",
+      "raw_location": "Culburra Beach NSW"
+    },
+    {
+      "id": "e7acd6e8b0e65be203e6732ef1be80e6",
+      "title": "Friendly Bus Drivers for Aged Care resident outings",
+      "facility_name": "Bethanie Group",
+      "category": "Aged Care",
+      "state": "WA",
+      "city": "Cooloongup",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Bus-Driver-e7acd6e8b0e65be203e6732ef1be80e6",
+      "raw_location": "Cooloongup WA"
+    },
+    {
+      "id": "8c6b74f76e2a473591b71e94ce56b952",
+      "title": "Care Assistant - Residential Care",
+      "facility_name": "Ozcare",
+      "category": "Aged Care",
+      "state": "Unknown",
+      "city": "Queensland",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Care-Assistant-8c6b74f76e2a473591b71e94ce56b952",
+      "raw_location": "Queensland"
+    },
+    {
+      "id": "3c6e5eb9bf0852d9eb080c91f7141308",
+      "title": "Aged Care Assistant in Nursing",
+      "facility_name": "Randstad",
+      "category": "Aged Care",
+      "state": "NSW",
+      "city": "Bateau Bay",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Aged-Care-Assistant-in-Nursing-3c6e5eb9bf0852d9eb080c91f7141308",
+      "raw_location": "Bateau Bay NSW"
+    },
+    {
+      "id": "cb955147cd5b3192161ed044bab72324",
+      "title": "Speak Cantonese? Share a connection. Join MiCare as a Volunteer Visitor.",
+      "facility_name": "MiCare Ltd",
+      "category": "Aged Care",
+      "state": "QLD",
+      "city": "The Gap",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Volunteer-cb955147cd5b3192161ed044bab72324",
+      "raw_location": "The Gap QLD"
+    },
+    {
+      "id": "8eb293ab211b01cf33bbe33b9305e3c6",
+      "title": "Personal Care Worker Aged Care Katherine",
+      "facility_name": "ARRCS Australian Regional and Remote Community Services",
+      "category": "Aged Care",
+      "state": "NT",
+      "city": "Katherine",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Personal-Care-Worker-8eb293ab211b01cf33bbe33b9305e3c6",
+      "raw_location": "Katherine NT"
+    },
+    {
+      "id": "9a024dfa4604f70b93263d0d10a05c04",
+      "title": "Assistant in Nursing (AIN) - Aged Care",
+      "facility_name": "Caring For You",
+      "category": "Aged Care",
+      "state": "NSW",
+      "city": "Newcastle",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Assistant-in-Nursing-9a024dfa4604f70b93263d0d10a05c04",
+      "raw_location": "Newcastle NSW"
+    },
+    {
+      "id": "385de50a43e6340007ab14f4f4527710",
+      "title": "Aged Care Support Worker",
+      "facility_name": "Maid My Day",
+      "category": "Aged Care",
+      "state": "NSW",
+      "city": "Wadalba",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Aged-Care-Support-Worker-385de50a43e6340007ab14f4f4527710",
+      "raw_location": "Wadalba NSW"
+    },
+    {
+      "id": "cbb4f5b0f1c72fe3ae289848ae679d95",
+      "title": "Aged Care Volunteer Visitor",
+      "facility_name": "ACVVS Riverina Community College",
+      "category": "Aged Care",
+      "state": "NSW",
+      "city": "Cootamundra",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Volunteer-cbb4f5b0f1c72fe3ae289848ae679d95",
+      "raw_location": "Cootamundra NSW"
+    },
+    {
+      "id": "453ac566f1ec0d5fd99a45a067cf56c3",
+      "title": "Aged Care Volunteer Visitors needed in North Brisbane, Caboolture region, and surrounding suburbs",
+      "facility_name": "Wesley Mission Queensland",
+      "category": "Aged Care",
+      "state": "QLD",
+      "city": "Caboolture",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Volunteer-453ac566f1ec0d5fd99a45a067cf56c3",
+      "raw_location": "Caboolture QLD"
+    },
+    {
+      "id": "742952575c6b1138da15cd3eb2e783b6",
+      "title": "Aged Care Volunteer Visitors needed in Aspley",
+      "facility_name": "Queensland Community Care Network",
+      "category": "Aged Care",
+      "state": "QLD",
+      "city": "Aspley",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Volunteer-742952575c6b1138da15cd3eb2e783b6",
+      "raw_location": "Aspley QLD"
+    },
+    {
+      "id": "2f80121fa59d67d85a7e4238a157bd48",
+      "title": "Support Worker - Maitland",
+      "facility_name": "New South Wales, NSW",
+      "category": "Aged Care",
+      "state": "NSW",
+      "city": "Maitland",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Support-Worker-2f80121fa59d67d85a7e4238a157bd48",
+      "raw_location": "Maitland NSW"
+    },
+    {
+      "id": "f0b25ecf6e73aa95765f487fd1846c00",
+      "title": "Home Or Residential Facility Visitor- Aged Care Volunteer Visitors Scheme Program",
+      "facility_name": "Umbrella Multicultural Community Care Services",
+      "category": "Aged Care",
+      "state": "WA",
+      "city": "Ascot",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Volunteer-f0b25ecf6e73aa95765f487fd1846c00",
+      "raw_location": "Ascot WA"
+    },
+    {
+      "id": "5d58c01eb8c833996aec4e3987853237",
+      "title": "Volunteer as a resident choir accompanist | Aged Care | Carina, QLD",
+      "facility_name": "St Vincent's Care",
+      "category": "Aged Care",
+      "state": "QLD",
+      "city": "Carindale",
+      "date_posted": "2026-02-20",
+      "url": "https://au.jora.com/job/Volunteer-5d58c01eb8c833996aec4e3987853237",
+      "raw_location": "Carindale QLD"
+    }
+  ]
+}

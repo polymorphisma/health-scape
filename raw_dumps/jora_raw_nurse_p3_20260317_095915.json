@@ -1,0 +1,104 @@
+{
+  "category": "Nursing",
+  "data": [
+    {
+      "id": "72de76f770010a5938afad229b5066d5",
+      "title": "Occupational Health Nurse",
+      "facility_name": "KINNECT",
+      "category": "Nursing",
+      "state": "NT",
+      "city": "Darwin",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Occupational-Health-Nurse-72de76f770010a5938afad229b5066d5",
+      "raw_location": "Darwin NT"
+    },
+    {
+      "id": "7b06f1b9da70cb0cd97144dbc7febdee",
+      "title": "Trainer & Assessor (Diploma of Nursing)",
+      "facility_name": "Southern Cross Education Institute",
+      "category": "Nursing",
+      "state": "VIC",
+      "city": "North Melbourne",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Trainer-Assessor-Diploma-7b06f1b9da70cb0cd97144dbc7febdee",
+      "raw_location": "North Melbourne VIC"
+    },
+    {
+      "id": "e165946bd534c3257f253293e2bee905",
+      "title": "Registered Nurse",
+      "facility_name": "Doctors and Co",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Gosford",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Registered-Nurse-e165946bd534c3257f253293e2bee905",
+      "raw_location": "Gosford NSW"
+    },
+    {
+      "id": "b70cf5199f759c7c7b582a2a75848a2c",
+      "title": "Registered Nurse",
+      "facility_name": "Townsville Hospital and Health Service",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Ingham",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Registered-Nurse-b70cf5199f759c7c7b582a2a75848a2c",
+      "raw_location": "Ingham QLD"
+    },
+    {
+      "id": "f000486736cef899803a98917a7ab29a",
+      "title": "Registered Nurse",
+      "facility_name": "Home Hill Surgery",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Home Hill",
+      "date_posted": "2026-03-16",
+      "url": "https://au.jora.com/job/Registered-Nurse-f000486736cef899803a98917a7ab29a",
+      "raw_location": "Home Hill QLD"
+    },
+    {
+      "id": "f43bff52d111e06b87278af9f71fb577",
+      "title": "Registered Nurse",
+      "facility_name": "Rural Health West",
+      "category": "Nursing",
+      "state": "WA",
+      "city": "Geraldton",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Registered-Nurse-f43bff52d111e06b87278af9f71fb577",
+      "raw_location": "Geraldton WA"
+    },
+    {
+      "id": "abbf6c3ddba0e166eeec70028e29fe4b",
+      "title": "Registered Nurse – Fannie Bay Medical",
+      "facility_name": "Northern Territory PHN",
+      "category": "Nursing",
+      "state": "NT",
+      "city": "Darwin",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Registered-Nurse-abbf6c3ddba0e166eeec70028e29fe4b",
+      "raw_location": "Darwin NT"
+    },
+    {
+      "id": "2c3d6568ab00f97e788781cac246c025",
+      "title": "Practice Nurse - Point Cook - PT",
+      "facility_name": "Bupa Dental",
+      "category": "Nursing",
+      "state": "VIC",
+      "city": "Point Cook",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Practice-Nurse-2c3d6568ab00f97e788781cac246c025",
+      "raw_location": "Point Cook VIC"
+    },
+    {
+      "id": "8304167b18edcd5b5a2b5737fc3f5cb5",
+      "title": "Registered Nurse",
+      "facility_name": "Child and Adolescent Health Service WA",
+      "category": "Nursing",
+      "state": "Unknown",
+      "city": "Western Australia",
+      "date_posted": "2026-03-16",
+      "url": "https://au.jora.com/job/Registered-Nurse-8304167b18edcd5b5a2b5737fc3f5cb5",
+      "raw_location": "Western Australia"
+    }
+  ]
+}

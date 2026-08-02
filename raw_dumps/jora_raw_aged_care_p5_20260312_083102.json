@@ -1,0 +1,170 @@
+{
+  "category": "Aged Care",
+  "data": [
+    {
+      "id": "f0b198aaaed0a1be6bd43b9ac97c38f0",
+      "title": "Personal Care Worker",
+      "facility_name": "Estia Investments Pty Ltd",
+      "category": "Aged Care",
+      "state": "WA",
+      "city": "Strathalbyn",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Personal-Care-Worker-f0b198aaaed0a1be6bd43b9ac97c38f0",
+      "raw_location": "Strathalbyn WA"
+    },
+    {
+      "id": "88d63734020c4c4996c8e9b4d7297fb7",
+      "title": "Trainee Personal Care Worker (Aged Care) - Albury",
+      "facility_name": "Ternary",
+      "category": "Aged Care",
+      "state": "NSW",
+      "city": "Albury",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Personal-Care-Worker-88d63734020c4c4996c8e9b4d7297fb7",
+      "raw_location": "Albury NSW"
+    },
+    {
+      "id": "afc10536c2684469d5e9024f224f6034",
+      "title": "Support Worker - Home Care",
+      "facility_name": "Lutheran Services",
+      "category": "Aged Care",
+      "state": "QLD",
+      "city": "Toowoomba",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Support-Worker-Home-afc10536c2684469d5e9024f224f6034",
+      "raw_location": "Toowoomba QLD"
+    },
+    {
+      "id": "71555160b21d4a09f528f848f0e49dc3",
+      "title": "Assistants In Nursing",
+      "facility_name": "Smarter Living Choices",
+      "category": "Aged Care",
+      "state": "NSW",
+      "city": "Orange",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Assistant-in-Nursing-71555160b21d4a09f528f848f0e49dc3",
+      "raw_location": "Orange NSW"
+    },
+    {
+      "id": "e13d36ff146fd1daad46182ea06c9288",
+      "title": "Friendly Bus Driver for Aged Care resident outings - 'HR' licence",
+      "facility_name": "Bethanie Group",
+      "category": "Aged Care",
+      "state": "WA",
+      "city": "Eaton",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Bus-Driver-e13d36ff146fd1daad46182ea06c9288",
+      "raw_location": "Eaton WA"
+    },
+    {
+      "id": "ca5e2a00a1fc80d2395c4aea8b87b0c1",
+      "title": "Driver for Aged Care Bus",
+      "facility_name": "Evergreen Life Care",
+      "category": "Aged Care",
+      "state": "NSW",
+      "city": "Gosford",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Driver-ca5e2a00a1fc80d2395c4aea8b87b0c1",
+      "raw_location": "Gosford NSW"
+    },
+    {
+      "id": "7335b6f2438ee6c589ee489548666a83",
+      "title": "Support Worker",
+      "facility_name": "Peridot Healthcare",
+      "category": "Aged Care",
+      "state": "WA",
+      "city": "Balga",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Support-Worker-7335b6f2438ee6c589ee489548666a83",
+      "raw_location": "Balga WA"
+    },
+    {
+      "id": "89911746ad4550c411df32cb6ad7235d",
+      "title": "Support Worker",
+      "facility_name": "Harwood Care Group",
+      "category": "Aged Care",
+      "state": "VIC",
+      "city": "Werribee",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Support-Worker-89911746ad4550c411df32cb6ad7235d",
+      "raw_location": "Werribee VIC"
+    },
+    {
+      "id": "29de8122594e1d790963de97a53e94d5",
+      "title": "Personal Care Worker",
+      "facility_name": "Bolton Clarke Residential Aged Care Opportunities",
+      "category": "Aged Care",
+      "state": "VIC",
+      "city": "McKinnon",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Personal-Care-Worker-29de8122594e1d790963de97a53e94d5",
+      "raw_location": "McKinnon VIC"
+    },
+    {
+      "id": "80d5d9f88890894e571f37054da23e42",
+      "title": "Personal Care Assistants",
+      "facility_name": "For Purpose Aged Care",
+      "category": "Aged Care",
+      "state": "NSW",
+      "city": "Grafton",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Personal-Care-Assistant-80d5d9f88890894e571f37054da23e42",
+      "raw_location": "Grafton NSW"
+    },
+    {
+      "id": "67bf9411cfbbdbd75afdf6b9ce782d00",
+      "title": "Direct Carer - Aged Care",
+      "facility_name": "Beaumont Care",
+      "category": "Aged Care",
+      "state": "QLD",
+      "city": "Wamuran",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Direct-Carer-Aged-67bf9411cfbbdbd75afdf6b9ce782d00",
+      "raw_location": "Wamuran QLD"
+    },
+    {
+      "id": "8e03ea216e9eba11ff555cd78de53a4c",
+      "title": "Care Service Employee - Young",
+      "facility_name": "Southern Crosscare Inc",
+      "category": "Aged Care",
+      "state": "NSW",
+      "city": "Young",
+      "date_posted": "2023-09-24",
+      "url": "https://au.jora.com/job/Care-Service-Employee-8e03ea216e9eba11ff555cd78de53a4c",
+      "raw_location": "Young NSW"
+    },
+    {
+      "id": "73fea5630caf0f6774a834376793a892",
+      "title": "Support Worker - Home Care",
+      "facility_name": "Lutheran Services",
+      "category": "Aged Care",
+      "state": "QLD",
+      "city": "Toowoomba",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Support-Worker-Home-73fea5630caf0f6774a834376793a892",
+      "raw_location": "Toowoomba QLD"
+    },
+    {
+      "id": "a2ade00a1e29cf82c42bd5e280d5ab68",
+      "title": "Personal Care Worker",
+      "facility_name": "Infinite Care",
+      "category": "Aged Care",
+      "state": "QLD",
+      "city": "Cleveland",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Personal-Care-Worker-a2ade00a1e29cf82c42bd5e280d5ab68",
+      "raw_location": "Cleveland QLD"
+    },
+    {
+      "id": "2144f21eacac3c9b023859b02a9efa14",
+      "title": "Care Services Employee",
+      "facility_name": "St Vincent's Care Services",
+      "category": "Aged Care",
+      "state": "NSW",
+      "city": "Sydney",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Care-Service-Employee-2144f21eacac3c9b023859b02a9efa14",
+      "raw_location": "Sydney NSW"
+    }
+  ]
+}

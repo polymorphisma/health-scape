@@ -1,0 +1,71 @@
+{
+  "category": "Nursing",
+  "data": [
+    {
+      "id": "69b9fa0a8d045e8c2ffb2c0f5b49c39e",
+      "title": "Registered Nurse - Clinic Lead",
+      "facility_name": "Healing Leaves Clinic",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Southport",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Registered-Nurse-Clinic-69b9fa0a8d045e8c2ffb2c0f5b49c39e",
+      "raw_location": "Southport QLD"
+    },
+    {
+      "id": "90496291100e45f78850f442f56e5c3f",
+      "title": "Health Assessment Nurse",
+      "facility_name": "East Adelaide Healthcare Pty Ltd",
+      "category": "Nursing",
+      "state": "SA",
+      "city": "Marden",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Assessment-Nurse-90496291100e45f78850f442f56e5c3f",
+      "raw_location": "Marden SA"
+    },
+    {
+      "id": "0f840069fb303bc56b66bddb0c589bde",
+      "title": "Telehealth Nurse (RN or EN) – Remote",
+      "facility_name": "On Demand HR Recruitment",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Sydney",
+      "date_posted": "2026-03-06",
+      "url": "https://au.jora.com/job/Telehealth-Nurse-0f840069fb303bc56b66bddb0c589bde",
+      "raw_location": "Sydney NSW"
+    },
+    {
+      "id": "0ed7e5106aeb41e0db7c218d549ee0bd",
+      "title": "Clinical Nurse",
+      "facility_name": "WA Government",
+      "category": "Nursing",
+      "state": "WA",
+      "city": "Geraldton",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Clinical-Nurse-0ed7e5106aeb41e0db7c218d549ee0bd",
+      "raw_location": "Geraldton WA"
+    },
+    {
+      "id": "36f22c150c07e6e3795a498991ff42de",
+      "title": "Registered Nurse - Emergency Department Macksville Hospital",
+      "facility_name": "Mid North Coast Local Health District",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Macksville",
+      "date_posted": "2026-02-16",
+      "url": "https://au.jora.com/job/Registered-Nurse-Emergency-36f22c150c07e6e3795a498991ff42de",
+      "raw_location": "Macksville NSW"
+    },
+    {
+      "id": "b017cf4dd03ce846c03e40ccf9187ff9",
+      "title": "Triage Practitioner",
+      "facility_name": "Ambulance Victoria",
+      "category": "Nursing",
+      "state": "VIC",
+      "city": "Burwood East",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Triage-Practitioner-b017cf4dd03ce846c03e40ccf9187ff9",
+      "raw_location": "Burwood East VIC"
+    }
+  ]
+}

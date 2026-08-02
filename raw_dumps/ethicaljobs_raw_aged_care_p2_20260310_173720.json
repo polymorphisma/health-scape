@@ -1,0 +1,305 @@
+{
+  "category": "Aged Care",
+  "data": [
+    {
+      "id": 552547,
+      "title": "Care Worker",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Yamba",
+      "state": "NSW",
+      "expiresAt": "2026-03-27T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/care-worker-yamba-29"
+    },
+    {
+      "id": 549240,
+      "title": "Registered Nurse - FlexConnect",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "Sydney",
+      "state": "NSW",
+      "expiresAt": null,
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/registered-nurse-flexconnect-sydney-1"
+    },
+    {
+      "id": 553214,
+      "title": "Care Worker",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "Blacktown",
+      "state": "NSW",
+      "expiresAt": "2026-04-04T07:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/care-worker-mullauna-1"
+    },
+    {
+      "id": 551615,
+      "title": "Service Manager",
+      "organisationName": "Heart Talent",
+      "location_name": "Regional QLD",
+      "locality": "Toowoomba & Darling Downs",
+      "state": "QLD",
+      "expiresAt": null,
+      "url": "https://www.ethicaljobs.com.au/members/HeartRecruitment/service-manager-toowoomba"
+    },
+    {
+      "id": 551266,
+      "title": "Care Worker",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Berry",
+      "state": "NSW",
+      "expiresAt": "2026-03-19T06:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/care-worker-berry-15"
+    },
+    {
+      "id": 551099,
+      "title": "Mental Health Care Worker",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "Haberfield",
+      "state": "NSW",
+      "expiresAt": "2026-03-18T06:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/mental-health-care-worker-4"
+    },
+    {
+      "id": 553065,
+      "title": "National Lifestyle Lead",
+      "organisationName": "Mercy Health",
+      "location_name": "Melbourne",
+      "locality": "Melbourne",
+      "state": "VIC",
+      "expiresAt": "2026-04-04T13:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/MercyHealthFoundation/national-lifestyle-lead"
+    },
+    {
+      "id": 551744,
+      "title": "Bus Driver Leisure and Lifestyle ",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "Manly",
+      "state": "NSW",
+      "expiresAt": "2026-03-20T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/leisure-and-lifestyle-bus-driver-1"
+    },
+    {
+      "id": 551588,
+      "title": "Registered Nurse",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "Turramurra",
+      "state": "NSW",
+      "expiresAt": "2026-03-21T06:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/registered-nurse-northaven"
+    },
+    {
+      "id": 553402,
+      "title": "Care Worker",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "Ashfield",
+      "state": "NSW",
+      "expiresAt": "2026-04-06T13:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/care-worker-ashfield-1"
+    },
+    {
+      "id": 551303,
+      "title": "Physiotherapy Assistant",
+      "organisationName": "CASS ",
+      "location_name": "Sydney",
+      "locality": "Asquith",
+      "state": "NSW",
+      "expiresAt": "2026-04-03T06:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/CASS/physiotherapy-assistant"
+    },
+    {
+      "id": 553232,
+      "title": "Care Manager",
+      "organisationName": "Lutheran Services",
+      "location_name": "Regional QLD",
+      "locality": "Buderim",
+      "state": "QLD",
+      "expiresAt": null,
+      "url": "https://www.ethicaljobs.com.au/members/LutheranServices/care-manager-buderim"
+    },
+    {
+      "id": 552545,
+      "title": "Care Worker",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Tamworth & North West NSW",
+      "state": "NSW",
+      "expiresAt": "2026-03-27T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/care-worker-tamworth-16"
+    },
+    {
+      "id": 550471,
+      "title": "Care Worker - Koombahla",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Elermore Vale",
+      "state": "NSW",
+      "expiresAt": "2026-03-12T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/care-worker-koombahla-elermore-vale-1"
+    },
+    {
+      "id": 552973,
+      "title": "Practice Integrity & Governance Partners x2",
+      "organisationName": "New Horizons",
+      "location_name": "Sydney",
+      "locality": "Sydney",
+      "state": "NSW",
+      "expiresAt": "2026-04-03T06:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/NewHorizons/practice-integrity-governance-partners-x2"
+    },
+    {
+      "id": 551331,
+      "title": "Assistant In Nursing",
+      "organisationName": "CASS ",
+      "location_name": "Sydney",
+      "locality": "Asquith",
+      "state": "NSW",
+      "expiresAt": "2026-04-03T06:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/CASS/assistant-in-nursing-asquith"
+    },
+    {
+      "id": 551330,
+      "title": "Assistant In Nursing",
+      "organisationName": "CASS ",
+      "location_name": "Sydney",
+      "locality": "Campsie",
+      "state": "NSW",
+      "expiresAt": "2026-04-03T06:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/CASS/assistant-in-nursing-campsie"
+    },
+    {
+      "id": 551328,
+      "title": "Kitchen Hand",
+      "organisationName": "CASS ",
+      "location_name": "Sydney",
+      "locality": "Asquith",
+      "state": "NSW",
+      "expiresAt": "2026-04-03T06:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/CASS/kitchen-hand"
+    },
+    {
+      "id": 551297,
+      "title": "Recreational Activities Officer",
+      "organisationName": "CASS ",
+      "location_name": "Sydney",
+      "locality": "Asquith",
+      "state": "NSW",
+      "expiresAt": "2026-04-03T06:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/CASS/recreational-activities-officer"
+    },
+    {
+      "id": 550920,
+      "title": "Facility Manager - Banksia Lodge",
+      "organisationName": "Shepparton Villages",
+      "location_name": "Regional VIC",
+      "locality": "Shepparton",
+      "state": "VIC",
+      "expiresAt": "2026-03-12T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Sheppvillages/facility-manager-banksia-lodge-shepparton"
+    },
+    {
+      "id": 552544,
+      "title": "Chef",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Tamworth",
+      "state": "NSW",
+      "expiresAt": "2026-03-29T06:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/chef-tamworth-1"
+    },
+    {
+      "id": 551896,
+      "title": "Registered Nurse",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "Lane Cove",
+      "state": "NSW",
+      "expiresAt": "2026-03-23T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/registered-nurse-kamilaroi-2"
+    },
+    {
+      "id": 551291,
+      "title": "Multicultural Home Ageing Services Care Coordinator",
+      "organisationName": "CASS ",
+      "location_name": "Sydney",
+      "locality": "Campsie",
+      "state": "NSW",
+      "expiresAt": "2026-04-03T06:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/CASS/multicultural-home-ageing-services-care-coordinator-1"
+    },
+    {
+      "id": 551274,
+      "title": "Multicultural Home Ageing Services Care Partner",
+      "organisationName": "CASS ",
+      "location_name": "Sydney",
+      "locality": "Campsie",
+      "state": "NSW",
+      "expiresAt": "2026-04-03T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/CASS/multicultural-home-ageing-services-care-partner-vietnamese-speaking"
+    },
+    {
+      "id": 550984,
+      "title": "Maintenance Officer",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "Richmond",
+      "state": "NSW",
+      "expiresAt": "2026-03-15T06:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/maintenance-officer-hawkesbury-4"
+    },
+    {
+      "id": 551307,
+      "title": "Maintenance and Technical Support Technician",
+      "organisationName": "CASS ",
+      "location_name": "Sydney",
+      "locality": "Campsie",
+      "state": "NSW",
+      "expiresAt": "2026-04-03T06:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/CASS/maintenance-and-technical-support-technician"
+    },
+    {
+      "id": 553530,
+      "title": "Care Workers - Kamilaroi",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "Lane Cove",
+      "state": "NSW",
+      "expiresAt": "2026-04-08T07:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/care-workers-kamilaroi-lane-cove"
+    },
+    {
+      "id": 553533,
+      "title": "Service Delivery",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "Manly",
+      "state": "NSW",
+      "expiresAt": "2026-04-08T13:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/service-delivery-care-worker-8"
+    },
+    {
+      "id": 552055,
+      "title": "Registered Nurse",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Belmont North",
+      "state": "NSW",
+      "expiresAt": "2026-03-26T06:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/registered-nurse-narla-1"
+    },
+    {
+      "id": 549966,
+      "title": "Leisure & Wellness Officer - Kammilaroi",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "Lane Cove",
+      "state": "NSW",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/leisure-wellness-officer-kammilaroi-lane-cove"
+    }
+  ]
+}

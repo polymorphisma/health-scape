@@ -1,0 +1,82 @@
+{
+  "category": "Nursing",
+  "data": [
+    {
+      "id": "3e309c5b04f3d5c9ad2e88ee0176acfe",
+      "title": "Registered Nurse",
+      "facility_name": "Queensland Health",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Meadowbrook",
+      "date_posted": "2026-03-16",
+      "url": "https://au.jora.com/job/Registered-Nurse-3e309c5b04f3d5c9ad2e88ee0176acfe",
+      "raw_location": "Meadowbrook QLD"
+    },
+    {
+      "id": "b2032f7f43a769c3eea860ecf46aa4c8",
+      "title": "Nurse Immuniser - Brisbane",
+      "facility_name": "Vitality Works",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Brisbane",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Nurse-Immuniser-Brisbane-b2032f7f43a769c3eea860ecf46aa4c8",
+      "raw_location": "Brisbane QLD"
+    },
+    {
+      "id": "8398820e37e323e63b092db22cb1ca8c",
+      "title": "Nurse Practitioner - Nephrology",
+      "facility_name": "WA Government",
+      "category": "Nursing",
+      "state": "WA",
+      "city": "Perth",
+      "date_posted": "2026-03-09",
+      "url": "https://au.jora.com/job/Nurse-Practitioner-8398820e37e323e63b092db22cb1ca8c",
+      "raw_location": "Perth WA"
+    },
+    {
+      "id": "c247bc4c9e71b558d12470618f7d9627",
+      "title": "Registered Nurse",
+      "facility_name": "ForHealth Group",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Dubbo",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Registered-Nurse-c247bc4c9e71b558d12470618f7d9627",
+      "raw_location": "Dubbo NSW"
+    },
+    {
+      "id": "032e97f45194a4cb1988c24c916fd65d",
+      "title": "Practice Nurse",
+      "facility_name": "seek.com.au",
+      "category": "Nursing",
+      "state": "WA",
+      "city": "Coolbellup",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Practice-Nurse-032e97f45194a4cb1988c24c916fd65d",
+      "raw_location": "Coolbellup WA"
+    },
+    {
+      "id": "75eaf7560e7c4e9a761d83ef0f5e9bfa",
+      "title": "FIFO- Team Leader – Warakurna Health Clinic",
+      "facility_name": "Ngaanyatjarra Council",
+      "category": "Nursing",
+      "state": "WA",
+      "city": "Perth",
+      "date_posted": "2026-03-13",
+      "url": "https://au.jora.com/job/Team-Leader-75eaf7560e7c4e9a761d83ef0f5e9bfa",
+      "raw_location": "Perth WA"
+    },
+    {
+      "id": "2c836ee1c3426a143d62fc583f70522d",
+      "title": "Practice Nurse",
+      "facility_name": "Hunter Doctors",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Cessnock",
+      "date_posted": "2026-03-10",
+      "url": "https://au.jora.com/job/Practice-Nurse-2c836ee1c3426a143d62fc583f70522d",
+      "raw_location": "Cessnock NSW"
+    }
+  ]
+}

@@ -1,0 +1,1826 @@
+{
+  "data": [
+    {
+      "advertiser": {
+        "id": "60241231",
+        "description": "Brisbane Private Hospital"
+      },
+      "bulletPoints": [
+        "Full time, part time and casual opportunities available",
+        "Shift times between 630am-9.30pm Monday to Friday",
+        "17 Theatres - Discounted parking and meals"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/d2b7b999-7015-4fbe-87ef-f80dd3da73db.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6348",
+            "description": "Nursing - Theatre & Recovery"
+          }
+        }
+      ],
+      "companyName": "Brisbane Private Hospital",
+      "companyProfileStructuredDataId": 12136,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "promoted",
+      "employer": {
+        "id": "12136",
+        "name": "Brisbane Private Hospital",
+        "companyId": "801150",
+        "companyUrl": "https://www.seek.com.au/companies/brisbane-private-hospital-801150"
+      },
+      "id": "90983549",
+      "isFeatured": true,
+      "listingDate": "2026-03-17T03:48:01Z",
+      "listingDateDisplay": "6h ago",
+      "locations": [
+        {
+          "label": "Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Brisbane QLD"
+            },
+            {
+              "contextualName": "Queensland QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "anaesthetic-registered-nurse",
+      "salaryLabel": "$39.66 - $52.97 p.h. + plus 12% super",
+      "solMetadata": {
+        "searchRequestToken": "ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "token": "0~ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "jobId": "90983549",
+        "section": "MAIN",
+        "sectionRank": 81,
+        "jobAdType": "SPONSORED",
+        "tags": {
+          "mordor__flights": "mordor_842",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Join our Anaesthetics team working between 630am-9pm Monday to Friday with minimal oncall & weekend shifts.17 theatres. Located 5mins to Brisbane CBD",
+      "title": "Registered Nurse - Anaesthetics",
+      "tracking": "ewogICJ0b2tlbiI6ICI2NDI5ODgwNy05ZDAwLTQxNjgtOTY5Yi00MzQ3NjBjNjFiOTlfMSIKfQ==",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "61957212",
+        "description": "TELUS Health (Australia) Pty Ltd"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/d21702af-4def-443e-831c-2e688a00fdf0.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "TELUS Health",
+      "companyProfileStructuredDataId": 349268,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "promoted",
+      "employer": {
+        "id": "349268",
+        "name": "TELUS Health"
+      },
+      "id": "90554628",
+      "isFeatured": true,
+      "listingDate": "2026-02-25T03:25:10Z",
+      "listingDateDisplay": "20d ago",
+      "locations": [
+        {
+          "label": "Albany, Albany & Great Southern WA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Albany WA 6330"
+            },
+            {
+              "contextualName": "Albany & Great Southern WA"
+            }
+          ]
+        }
+      ],
+      "roleId": "immunisation-nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "token": "0~ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "jobId": "90554628",
+        "section": "MAIN",
+        "sectionRank": 82,
+        "jobAdType": "SPONSORED",
+        "tags": {
+          "mordor__flights": "mordor_842",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Administer vital vaccines and contribute to improved public health as a Nurse Immuniser with TELUS Health. Competitive pay, flexible hours.",
+      "title": "Nurse Immuniser",
+      "tracking": "ewogICJ0b2tlbiI6ICI2NDI5ODgwNy05ZDAwLTQxNjgtOTY5Yi00MzQ3NjBjNjFiOTlfMiIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "20481382",
+        "description": "Trinity Lutheran College"
+      },
+      "bulletPoints": [
+        "Work in an encouraging and supportive community",
+        "Play a key role in supporting student health and wellbeing",
+        "Enjoy a term-time role with school holidays off - offering flexibility & balance"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/77db936b-6eec-4d03-963b-3056402ef0c0.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "Trinity Lutheran College",
+      "companyProfileStructuredDataId": 13114,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "13114",
+        "name": "Trinity Lutheran College",
+        "companyId": "802126",
+        "companyUrl": "https://www.seek.com.au/companies/trinity-lutheran-college-802126"
+      },
+      "id": "90992090",
+      "isFeatured": false,
+      "listingDate": "2026-03-17T07:58:21Z",
+      "listingDateDisplay": "1h ago",
+      "locations": [
+        {
+          "label": "Ashmore, Gold Coast QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Ashmore QLD 4214"
+            },
+            {
+              "contextualName": "All Gold Coast QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "enrolled-nurse",
+      "salaryLabel": "QLD Lutheran EBA - Enrolled Nurse Level",
+      "solMetadata": {
+        "searchRequestToken": "ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "token": "0~ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "jobId": "90992090",
+        "section": "MAIN",
+        "sectionRank": 83,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_842",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Deliver safe and effective health care services, supporting student wellbeing, while contributing to the smooth operation of the campus Health Centre.",
+      "title": "Campus Nurse – Enrolled Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICI2NDI5ODgwNy05ZDAwLTQxNjgtOTY5Yi00MzQ3NjBjNjFiOTlfMyIKfQ==",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "14944066",
+        "description": "Queensland X-Ray"
+      },
+      "bulletPoints": [
+        "Join an essential services market leader",
+        "We offer job stability and career progression",
+        "Full time or part time opportunity"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/a60f02c9-bc3d-464b-9c8e-e9c988f5b5dd.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "Queensland X-Ray",
+      "companyProfileStructuredDataId": 2995,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "2995",
+        "name": "Queensland X-Ray",
+        "companyId": "436305",
+        "companyUrl": "https://www.seek.com.au/companies/queensland-x-ray-436305"
+      },
+      "id": "90984464",
+      "isFeatured": false,
+      "listingDate": "2026-03-17T04:10:33Z",
+      "listingDateDisplay": "5h ago",
+      "locations": [
+        {
+          "label": "Toowoomba, Toowoomba & Darling Downs QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Toowoomba QLD 4350"
+            },
+            {
+              "contextualName": "Toowoomba & Darling Downs QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "token": "0~ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "jobId": "90984464",
+        "section": "MAIN",
+        "sectionRank": 84,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_842",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "We are looking for a Registered Nurse to join our team in the Toowoomba region on a full time or part time basis.",
+      "title": "Registered Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICI2NDI5ODgwNy05ZDAwLTQxNjgtOTY5Yi00MzQ3NjBjNjFiOTlfNCIKfQ==",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "62997251",
+        "description": "Serco Health Hub"
+      },
+      "bulletPoints": [
+        "Work remotely from home with flexible hours tailored to your schedule",
+        "Full week of paid online training and national clinical support",
+        "Be part of Australia’s digital health future"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/63e85a1d-13c1-42ec-ad7a-547faad10ce5.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6338",
+            "description": "Nursing - A&E, Critical Care & ICU"
+          }
+        }
+      ],
+      "companyName": "Serco",
+      "companyProfileStructuredDataId": 14,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "14",
+        "name": "Serco",
+        "companyId": "432405",
+        "companyUrl": "https://www.seek.com.au/companies/serco-432405"
+      },
+      "id": "90574179",
+      "isFeatured": false,
+      "listingDate": "2026-02-25T22:59:05Z",
+      "listingDateDisplay": "19d ago",
+      "locations": [
+        {
+          "label": "Perth WA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Perth WA"
+            },
+            {
+              "contextualName": "Western Australia WA"
+            }
+          ]
+        }
+      ],
+      "roleId": "Telehealth-Nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "token": "0~ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "jobId": "90574179",
+        "section": "MAIN",
+        "sectionRank": 85,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_842",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Be part of Australia’s digital health future. Telehealth RN roles: WFH, paid training. Flexibility + real impact",
+      "title": "Telehealth Nurse (Healthdirect)",
+      "tracking": "ewogICJ0b2tlbiI6ICI2NDI5ODgwNy05ZDAwLTQxNjgtOTY5Yi00MzQ3NjBjNjFiOTlfNSIKfQ==",
+      "workTypes": [
+        "Contract/Temp"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "3",
+            "label": {
+              "text": "Remote"
+            }
+          }
+        ],
+        "displayText": "Remote"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "45845918",
+        "description": "Bank Place Medical Centre"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6332",
+            "description": "General Practitioners"
+          }
+        }
+      ],
+      "companyName": "Bank Place Medical Centre",
+      "companyProfileStructuredDataId": 559326,
+      "displayType": "standard",
+      "employer": {
+        "id": "559326",
+        "name": "Bank Place Medical Centre"
+      },
+      "id": "90976293",
+      "isFeatured": false,
+      "listingDate": "2026-03-17T00:15:21Z",
+      "listingDateDisplay": "9h ago",
+      "locations": [
+        {
+          "label": "Drouin, West Gippsland & Latrobe Valley VIC",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Drouin VIC 3818"
+            },
+            {
+              "contextualName": "West Gippsland & Latrobe Valley VIC"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "$40 – $47 per hour",
+      "solMetadata": {
+        "searchRequestToken": "ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "token": "0~ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "jobId": "90976293",
+        "section": "MAIN",
+        "sectionRank": 86,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_842",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Part Time Registered Division 1 Registered Nurse",
+      "title": "Registered Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICI2NDI5ODgwNy05ZDAwLTQxNjgtOTY5Yi00MzQ3NjBjNjFiOTlfNiIKfQ==",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "21800388",
+        "description": "Medical Staff"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6341",
+            "description": "Nursing - Educators & Facilitators"
+          }
+        }
+      ],
+      "companyName": "Medial Staff",
+      "companyProfileStructuredDataId": 274126,
+      "displayType": "standard",
+      "employer": {
+        "id": "274126",
+        "name": "Medial Staff"
+      },
+      "id": "90973630",
+      "isFeatured": false,
+      "listingDate": "2026-03-16T21:20:14Z",
+      "listingDateDisplay": "12h ago",
+      "locations": [
+        {
+          "label": "Ipswich, Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Ipswich QLD 4305"
+            },
+            {
+              "contextualName": "All Brisbane QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "clinical-facilitator",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "token": "0~ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "jobId": "90973630",
+        "section": "MAIN",
+        "sectionRank": 87,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_842",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Looking for a career change in education? Build your career. Fantastic Opportunity for RN/Clinical Facilitators in Brisbane and Regional areas.",
+      "title": "Hiring Now RN's as Clinical Facilitators",
+      "tracking": "ewogICJ0b2tlbiI6ICI2NDI5ODgwNy05ZDAwLTQxNjgtOTY5Yi00MzQ3NjBjNjFiOTlfNyIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "25327552",
+        "description": "REDiMED"
+      },
+      "bulletPoints": [
+        "Sociable, family friendly hours - Monday to Friday and no weekends",
+        "Get hands on in theatre with plastic, neuro, and ortho specialists",
+        "Benefits including birthday leave and professional development support"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/e002df14-c4c3-4e41-b9b3-045f315806e0.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "RediMed",
+      "companyProfileStructuredDataId": 708221,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "708221",
+        "name": "RediMed"
+      },
+      "id": "90900251",
+      "isFeatured": false,
+      "listingDate": "2026-03-12T08:14:18Z",
+      "listingDateDisplay": "5d ago",
+      "locations": [
+        {
+          "label": "Perth WA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Perth WA"
+            },
+            {
+              "contextualName": "Western Australia WA"
+            }
+          ]
+        }
+      ],
+      "roleId": "nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "token": "0~ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "jobId": "90900251",
+        "section": "MAIN",
+        "sectionRank": 88,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_842",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Join RediMed as a Registered or Enrolled Nurse - Monday to Friday,  No nights, No weekends.",
+      "title": "Nurses (EN/RN) - Monday - Friday. No Nights. No Weekends",
+      "tracking": "ewogICJ0b2tlbiI6ICI2NDI5ODgwNy05ZDAwLTQxNjgtOTY5Yi00MzQ3NjBjNjFiOTlfOCIKfQ==",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "32285107",
+        "description": "Metro South Health"
+      },
+      "bulletPoints": [
+        "Lead public health responses to communicable diseases",
+        "Coordinate outbreak investigations and immunisation programs",
+        "Provide expert advice to healthcare providers and the community"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/59977210-4a94-5eb2-30f6-19bec29c46b7.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        },
+        {
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subclassification": {
+            "id": "1411",
+            "description": "Government - State"
+          }
+        }
+      ],
+      "companyName": "Metro South Health Service",
+      "companyProfileStructuredDataId": 21516,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "21516",
+        "name": "Metro South Health Service",
+        "companyId": "828953",
+        "companyUrl": "https://www.seek.com.au/companies/metro-south-health-service-828953"
+      },
+      "id": "90804309",
+      "isFeatured": false,
+      "listingDate": "2026-03-09T02:55:14Z",
+      "listingDateDisplay": "8d ago",
+      "locations": [
+        {
+          "label": "Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Brisbane QLD"
+            },
+            {
+              "contextualName": "Queensland QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "clinical-nurse",
+      "salaryLabel": "$111,198 - $119,072 per annum",
+      "solMetadata": {
+        "searchRequestToken": "ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "token": "0~ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "jobId": "90804309",
+        "section": "MAIN",
+        "sectionRank": 89,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_842",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Clinical Nurse role supporting communicable disease control, outbreak response and immunisation programs within the Metro South Public Health Unit.",
+      "title": "Clinical Nurse - Public Health",
+      "tracking": "ewogICJ0b2tlbiI6ICI2NDI5ODgwNy05ZDAwLTQxNjgtOTY5Yi00MzQ3NjBjNjFiOTlfOSIKfQ==",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "33907834",
+        "description": "Launceston Medical Centre"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/65d65e63-34a0-4a2c-957a-40b9e8346fcf.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6338",
+            "description": "Nursing - A&E, Critical Care & ICU"
+          }
+        }
+      ],
+      "companyName": "Launceston Medical Centre",
+      "companyProfileStructuredDataId": 569980,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "569980",
+        "name": "Launceston Medical Centre"
+      },
+      "id": "90767037",
+      "isFeatured": false,
+      "listingDate": "2026-03-06T02:53:44Z",
+      "listingDateDisplay": "11d ago",
+      "locations": [
+        {
+          "label": "Launceston, Launceston & North East TAS",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Launceston TAS 7250"
+            },
+            {
+              "contextualName": "Launceston & North East TAS"
+            }
+          ]
+        }
+      ],
+      "roleId": "urgent-care-nurse",
+      "salaryLabel": "$50 – $70 per hour",
+      "solMetadata": {
+        "searchRequestToken": "ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "token": "0~ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "jobId": "90767037",
+        "section": "MAIN",
+        "sectionRank": 90,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_842",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Provide triage, assessment and urgent clinical care for patients presenting to the Launceston Medicare Urgent Care Clinic.",
+      "title": "Urgent Care Nurse or Paramedic",
+      "tracking": "ewogICJ0b2tlbiI6ICI2NDI5ODgwNy05ZDAwLTQxNjgtOTY5Yi00MzQ3NjBjNjFiOTlfMTAiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "20008579",
+        "description": "Institute for Respiratory Health"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/2ed17eeb-2f21-0663-8fa6-505640fe4773.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "1353",
+            "description": "Clinical/Medical Research"
+          }
+        }
+      ],
+      "companyName": "Institute for Respiratory Health",
+      "companyProfileStructuredDataId": 452035,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "452035",
+        "name": "Institute for Respiratory Health"
+      },
+      "id": "90929281",
+      "isFeatured": false,
+      "listingDate": "2026-03-13T09:01:48Z",
+      "listingDateDisplay": "4d ago",
+      "locations": [
+        {
+          "label": "Midland, Perth WA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Midland WA 6056"
+            },
+            {
+              "contextualName": "All Perth WA"
+            }
+          ]
+        }
+      ],
+      "roleId": "research-nurse",
+      "salaryLabel": "$98,000 – $110,000 per year",
+      "solMetadata": {
+        "searchRequestToken": "ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "token": "0~ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "jobId": "90929281",
+        "section": "MAIN",
+        "sectionRank": 91,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_842",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Full-time position\n$98,000 to $110,000\n17% Superannuation\n5 weeks annual leave",
+      "title": "RESEARCH NURSE - CLINICAL TRIALS",
+      "tracking": "ewogICJ0b2tlbiI6ICI2NDI5ODgwNy05ZDAwLTQxNjgtOTY5Yi00MzQ3NjBjNjFiOTlfMTEiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "20675109",
+        "description": "Mediserve Nursing Agency"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6338",
+            "description": "Nursing - A&E, Critical Care & ICU"
+          }
+        }
+      ],
+      "companyName": "Mediserve Nursing Agency",
+      "companyProfileStructuredDataId": 1768,
+      "displayType": "standard",
+      "employer": {
+        "id": "1768",
+        "name": "Mediserve Nursing Agency"
+      },
+      "id": "90975907",
+      "isFeatured": false,
+      "listingDate": "2026-03-16T23:56:21Z",
+      "listingDateDisplay": "9h ago",
+      "locations": [
+        {
+          "label": "Adelaide SA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Adelaide SA"
+            },
+            {
+              "contextualName": "South Australia SA"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "$49 – $100 per hour",
+      "solMetadata": {
+        "searchRequestToken": "ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "token": "0~ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "jobId": "90975907",
+        "section": "MAIN",
+        "sectionRank": 92,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_842",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Registered Nurses for all Public Hospitals in Adelaide Urgently Required. Highest level of  service and attractive rates offered.  Join the Team",
+      "title": "Registered Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICI2NDI5ODgwNy05ZDAwLTQxNjgtOTY5Yi00MzQ3NjBjNjFiOTlfMTIiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "41631627",
+        "description": "Hair and Skin Science (Melb) Pty Ltd"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "Hair and Skin Science",
+      "companyProfileStructuredDataId": 566945,
+      "displayType": "standard",
+      "employer": {
+        "id": "566945",
+        "name": "Hair and Skin Science",
+        "companyId": "165370283355298",
+        "companyUrl": "https://www.seek.com.au/companies/hair-and-skin-science-165370283355298"
+      },
+      "id": "90734912",
+      "isFeatured": false,
+      "listingDate": "2026-03-05T01:25:58Z",
+      "listingDateDisplay": "12d ago",
+      "locations": [
+        {
+          "label": "Upper Mount Gravatt, Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Upper Mount Gravatt QLD 4122"
+            },
+            {
+              "contextualName": "All Brisbane QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "$40 – $45 per hour",
+      "solMetadata": {
+        "searchRequestToken": "ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "token": "0~ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "jobId": "90734912",
+        "section": "MAIN",
+        "sectionRank": 93,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_842",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Great opportunity! Hair and Skin Science is a fast growing PRP hair & skin clinic located in Mount Gravatt and East Brisbane.",
+      "title": "Cosmetic Nurse (Registered Nurse) + Earn Commission!",
+      "tracking": "ewogICJ0b2tlbiI6ICI2NDI5ODgwNy05ZDAwLTQxNjgtOTY5Yi00MzQ3NjBjNjFiOTlfMTMiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "36573525",
+        "description": "Ballarat Group Practice"
+      },
+      "bulletPoints": [
+        "No nights, no weekends!",
+        "Scrubs - we encourage your individuality and style",
+        "Multiple locations within supportive teams"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/f786092b-4906-ee1e-a8c7-db2dc24a8462.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "Ballarat Group Practice",
+      "companyProfileStructuredDataId": 217178,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "217178",
+        "name": "Ballarat Group Practice"
+      },
+      "id": "90922365",
+      "isFeatured": false,
+      "listingDate": "2026-03-13T05:34:56Z",
+      "listingDateDisplay": "4d ago",
+      "locations": [
+        {
+          "label": "Ballarat, Ballarat & Central Highlands VIC",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Ballarat VIC 3350"
+            },
+            {
+              "contextualName": "Ballarat & Central Highlands VIC"
+            }
+          ]
+        }
+      ],
+      "roleId": "practice-nurse",
+      "salaryLabel": "$47 p/h (RN- Div 1) / $42 p/h (EN - Div 2)",
+      "solMetadata": {
+        "searchRequestToken": "ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "token": "0~ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "jobId": "90922365",
+        "section": "MAIN",
+        "sectionRank": 94,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_842",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Got skills, scrubs, smiles and a big heart? \nCome work for Ballarat Group Practice!",
+      "title": "Practice Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICI2NDI5ODgwNy05ZDAwLTQxNjgtOTY5Yi00MzQ3NjBjNjFiOTlfMTQiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "32288034",
+        "description": "Cairns & Hinterland Hospital and Health Service"
+      },
+      "bulletPoints": [
+        "Be the Heartbeat of Health in the Far North",
+        "Join a supportive team dedicated to your success!",
+        "Receive mentorship from experienced healthcare professionals!"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/1fc18653-3e13-4eea-add3-4db66f0c39ba.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6344",
+            "description": "Nursing - Management"
+          }
+        },
+        {
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subclassification": {
+            "id": "1411",
+            "description": "Government - State"
+          }
+        }
+      ],
+      "companyName": "Cairns and Hinterland Hospital and Health Service",
+      "companyProfileStructuredDataId": 6435,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "6435",
+        "name": "Cairns and Hinterland Hospital and Health Service",
+        "companyId": "609521",
+        "companyUrl": "https://www.seek.com.au/companies/cairns-and-hinterland-hospital-and-health-service-609521"
+      },
+      "id": "90637180",
+      "isFeatured": false,
+      "listingDate": "2026-03-01T14:01:06Z",
+      "listingDateDisplay": "15d ago",
+      "locations": [
+        {
+          "label": "Cairns, Cairns & Far North QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Cairns QLD 4870"
+            },
+            {
+              "contextualName": "Cairns & Far North QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "nurse-navigator_2",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "token": "0~ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "jobId": "90637180",
+        "section": "MAIN",
+        "sectionRank": 95,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_842",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Use your specialised expertise. Well established, well-resourced service. Attractive conditions and career opportunities. Work/life balance.",
+      "title": "Nurse Navigator Complex Care, Nursing and Midwifery Services - Cairns Hospital",
+      "tracking": "ewogICJ0b2tlbiI6ICI2NDI5ODgwNy05ZDAwLTQxNjgtOTY5Yi00MzQ3NjBjNjFiOTlfMTUiCn0=",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "32285249",
+        "description": "Metro North Hospital & Health Service"
+      },
+      "bulletPoints": [
+        "Senior perioperative leadership role with real clinical impact",
+        "Coordinate orthopaedic loan sets and implantable devices",
+        "Work in a growing hospital with strong education links"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/a44a818c-5df9-53b0-c3ea-0487a54ea610.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6348",
+            "description": "Nursing - Theatre & Recovery"
+          }
+        },
+        {
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subclassification": {
+            "id": "1411",
+            "description": "Government - State"
+          }
+        }
+      ],
+      "companyName": "Metro North Hospital & Health Service",
+      "companyProfileStructuredDataId": 6430,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "6430",
+        "name": "Metro North Hospital & Health Service",
+        "companyId": "609516",
+        "companyUrl": "https://www.seek.com.au/companies/metro-north-hospital-n-health-service-609516"
+      },
+      "id": "90980886",
+      "isFeatured": false,
+      "listingDate": "2026-03-17T02:46:32Z",
+      "listingDateDisplay": "7h ago",
+      "locations": [
+        {
+          "label": "Redcliffe, Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Redcliffe QLD 4020"
+            },
+            {
+              "contextualName": "All Brisbane QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "clinical-nurse",
+      "salaryLabel": "$56.08 - $60.05 per hour",
+      "solMetadata": {
+        "searchRequestToken": "ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "token": "0~ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "jobId": "90980886",
+        "section": "MAIN",
+        "sectionRank": 96,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_842",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Lead safe, efficient surgery through expert loan set coordination",
+      "title": "Clinical Nurse - Loans Set Coordinator",
+      "tracking": "ewogICJ0b2tlbiI6ICI2NDI5ODgwNy05ZDAwLTQxNjgtOTY5Yi00MzQ3NjBjNjFiOTlfMTYiCn0=",
+      "workTypes": [
+        "Contract/Temp"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "29763411",
+        "description": "Eden Private Hospital"
+      },
+      "bulletPoints": [
+        "Supportive Environment",
+        "Noosa Hinterland",
+        "Free on-site parking"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/8b7af75f-06eb-6c49-e48a-a795f7f22cbb.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6355",
+            "description": "Other"
+          }
+        }
+      ],
+      "companyName": "Eden Private hospital",
+      "companyProfileStructuredDataId": 667207,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "667207",
+        "name": "Eden Private hospital"
+      },
+      "id": "90993741",
+      "isFeatured": false,
+      "listingDate": "2026-03-17T08:45:31Z",
+      "listingDateDisplay": "1h ago",
+      "locations": [
+        {
+          "label": "Cooroy, Sunshine Coast QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Cooroy QLD 4563"
+            },
+            {
+              "contextualName": "Sunshine Coast QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "token": "0~ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "jobId": "90993741",
+        "section": "MAIN",
+        "sectionRank": 97,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_842",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        },
+        {
+          "type": "URGENT",
+          "label": "Immediate start"
+        }
+      ],
+      "teaser": "Registered/Enrolled Nurse roles in supportive healthcare team. Competitive pay, training and development opportunities. Part Time/Casual roles.",
+      "title": "Registered Nurse & Enrolled Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICI2NDI5ODgwNy05ZDAwLTQxNjgtOTY5Yi00MzQ3NjBjNjFiOTlfMTciCn0=",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "15272126",
+        "description": "Department of Health"
+      },
+      "bulletPoints": [
+        "Permanent full-time role",
+        "Access to salary packaging",
+        "Our values - compassion, accountability, respect & excellence"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/05cc1a90-75bf-445b-aeb2-7caaccbb31a3.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6340",
+            "description": "Nursing - Community, Maternal & Child Health"
+          }
+        },
+        {
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subclassification": {
+            "id": "1411",
+            "description": "Government - State"
+          }
+        }
+      ],
+      "companyName": "Department of Health Tasmania",
+      "companyProfileStructuredDataId": 7574,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "7574",
+        "name": "Department of Health Tasmania",
+        "companyId": "796040",
+        "companyUrl": "https://www.seek.com.au/companies/department-of-health-tasmania-796040"
+      },
+      "id": "90979454",
+      "isFeatured": false,
+      "listingDate": "2026-03-17T02:14:39Z",
+      "listingDateDisplay": "7h ago",
+      "locations": [
+        {
+          "label": "Ulverstone, Devonport & North West TAS",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Ulverstone TAS 7315"
+            },
+            {
+              "contextualName": "Devonport & North West TAS"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "$80,524 to $109,175 (pro-rata) per annum+12% Super",
+      "solMetadata": {
+        "searchRequestToken": "ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "token": "0~ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "jobId": "90979454",
+        "section": "MAIN",
+        "sectionRank": 98,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_842",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Permanent Role - The Alcohol and Drug Services are seeking an enthusiastic Registered Nurse to join the North West team.",
+      "title": "Registered Nurse - Alcohol & Other Drug",
+      "tracking": "ewogICJ0b2tlbiI6ICI2NDI5ODgwNy05ZDAwLTQxNjgtOTY5Yi00MzQ3NjBjNjFiOTlfMTgiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "62007739",
+        "description": "Bendigo Primary Care Centre"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6340",
+            "description": "Nursing - Community, Maternal & Child Health"
+          }
+        }
+      ],
+      "companyName": "Bendigo Primary Care Centre",
+      "companyProfileStructuredDataId": 219224,
+      "displayType": "standard",
+      "employer": {
+        "id": "219224",
+        "name": "Bendigo Primary Care Centre"
+      },
+      "id": "90891638",
+      "isFeatured": false,
+      "listingDate": "2026-03-12T03:56:50Z",
+      "listingDateDisplay": "5d ago",
+      "locations": [
+        {
+          "label": "Bendigo, Bendigo, Goldfields & Macedon Ranges VIC",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Bendigo VIC 3550"
+            },
+            {
+              "contextualName": "Bendigo, Goldfields & Macedon Ranges VIC"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "token": "0~ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "jobId": "90891638",
+        "section": "MAIN",
+        "sectionRank": 99,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_842",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Join Bendigo's most significant Medical Practice at an exciting time and build your career in Nursing",
+      "title": "Registered Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICI2NDI5ODgwNy05ZDAwLTQxNjgtOTY5Yi00MzQ3NjBjNjFiOTlfMTkiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "4222637",
+        "description": "Albury Wodonga Health"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/1b567f5c-ce66-4cfb-b887-809e6e8c575a.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "Albury Wodonga Health",
+      "companyProfileStructuredDataId": 412,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "412",
+        "name": "Albury Wodonga Health",
+        "companyId": "436571",
+        "companyUrl": "https://www.seek.com.au/companies/albury-wodonga-health-436571"
+      },
+      "id": "90948063",
+      "isFeatured": false,
+      "listingDate": "2026-03-16T00:05:17Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Albury, Albury Area NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Albury NSW 2640"
+            },
+            {
+              "contextualName": "Albury Area NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "Cancer-Care-Coordinator",
+      "salaryLabel": "From 55.89 to 57.72 AUD per hour",
+      "solMetadata": {
+        "searchRequestToken": "ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "token": "0~ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+        "jobId": "90948063",
+        "section": "MAIN",
+        "sectionRank": 100,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_842",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Provides patient-centred coordination & support for people diagnosed with cancer, ensuring access to care, & continuity throughout the care journey.",
+      "title": "Cancer Care Coordinator",
+      "tracking": "ewogICJ0b2tlbiI6ICI2NDI5ODgwNy05ZDAwLTQxNjgtOTY5Yi00MzQ3NjBjNjFiOTlfMjAiCn0=",
+      "workTypes": [
+        "Contract/Temp"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "totalCount": 8220,
+  "info": {
+    "timeTaken": 139,
+    "source": "JobSearch-sm",
+    "experiment": "mordor_842",
+    "newSince": 1773741014
+  },
+  "userQueryId": "API7940469794707226218",
+  "location": {
+    "description": "All Australia",
+    "locationDescription": "",
+    "type": "Country",
+    "whereId": "3000",
+    "localisedDescriptions": {
+      "en": {
+        "contextualName": "All Australia"
+      },
+      "id": {
+        "contextualName": "Australia"
+      },
+      "th": {
+        "contextualName": "ออสเตรเลีย"
+      },
+      "zh-Hant": {
+        "contextualName": "澳洲"
+      }
+    },
+    "isGranular": false,
+    "defaultDistanceKms": 50
+  },
+  "sortModes": [
+    {
+      "isActive": true,
+      "name": "Relevance",
+      "value": "KeywordRelevance"
+    },
+    {
+      "isActive": false,
+      "name": "Date",
+      "value": "ListedDate"
+    }
+  ],
+  "solMetadata": {
+    "requestToken": "ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+    "token": "0~ac31da6a-f58b-4c34-bbdb-f7355ec4c59d",
+    "keywords": "nurse",
+    "sortMode": "RELEVANCE",
+    "locations": [
+      "All Australia",
+      "seek-3000"
+    ],
+    "locationDistance": 50,
+    "pageSize": 20,
+    "pageNumber": 5,
+    "totalJobCount": 8220,
+    "tags": {
+      "mordor:searchMarket": "UNIFIED_AU",
+      "mordor:result_count_rst": "8012",
+      "mordor:result_count_vec": "10",
+      "mordor:rt": "132",
+      "mordor:count_vec": "10",
+      "mordor__flights": "mordor_842",
+      "mordor:count_rst": "8012",
+      "mordor:count_ir": "198",
+      "mordor:result_count_ir": "198"
+    }
+  },
+  "facets": {},
+  "searchParams": {
+    "sitekey": "AU-Main",
+    "sourcesystem": "houston",
+    "where": "All Australia",
+    "page": "5",
+    "seekselectallpages": "true",
+    "keywords": "nurse",
+    "include": "seodata",
+    "locale": "en-AU"
+  }
+}

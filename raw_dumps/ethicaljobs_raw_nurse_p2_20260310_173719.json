@@ -1,0 +1,155 @@
+{
+  "category": "Nursing",
+  "data": [
+    {
+      "id": 549240,
+      "title": "Registered Nurse - FlexConnect",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "Sydney",
+      "state": "NSW",
+      "expiresAt": null,
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/registered-nurse-flexconnect-sydney-1"
+    },
+    {
+      "id": 553027,
+      "title": "Registered Nurse - Australian National Aged Care Classification - Grade 4",
+      "organisationName": "Shepparton Villages",
+      "location_name": "Regional VIC",
+      "locality": "Shepparton",
+      "state": "VIC",
+      "expiresAt": "2026-04-03T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Sheppvillages/registered-nurse-australian-national-aged-care-classification-grade-4-shepparton"
+    },
+    {
+      "id": 553262,
+      "title": "Registered Nurses",
+      "organisationName": "Banksia Palliative Care Service",
+      "location_name": "Melbourne",
+      "locality": "Heidelberg",
+      "state": "VIC",
+      "expiresAt": "2026-04-02T06:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Banksia/registered-nurses-community-palliative-care"
+    },
+    {
+      "id": 552560,
+      "title": "Registered Nurse - Koombahla",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Elermore Vale",
+      "state": "NSW",
+      "expiresAt": "2026-03-29T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/registered-nurse-koombahla-elermore-vale"
+    },
+    {
+      "id": 551282,
+      "title": "Registered Nurse",
+      "organisationName": "CASS ",
+      "location_name": "Sydney",
+      "locality": "Campsie",
+      "state": "NSW",
+      "expiresAt": "2026-04-03T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/CASS/registered-nurse-home-ageing-services"
+    },
+    {
+      "id": 551268,
+      "title": "Senior Registered Nurse",
+      "organisationName": "Uniting (Victoria and Tasmania) Limited",
+      "location_name": "Melbourne",
+      "locality": "Ivanhoe",
+      "state": "VIC",
+      "expiresAt": "2026-03-15T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/WMV/senior-registered-nurse-residential-withdrawal"
+    },
+    {
+      "id": 553018,
+      "title": "AOD Residential Nurse - Hope Centre",
+      "organisationName": "Odyssey House Victoria",
+      "location_name": "Regional VIC",
+      "locality": "Bairnsdale",
+      "state": "VIC",
+      "expiresAt": "2026-03-31T06:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/odysseyhousevic/aod-residential-nurse-hope-centre-bairnsdale-1"
+    },
+    {
+      "id": 552840,
+      "title": "Registered Nurse",
+      "organisationName": "Yooralla",
+      "location_name": "Melbourne",
+      "locality": "CBD & Inner Suburbs Melbourne",
+      "state": "VIC",
+      "expiresAt": "2026-03-20T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Yooralla/registered-nurse-disability-health-clinical-advisor-3"
+    },
+    {
+      "id": 552890,
+      "title": "Registered Nurse - Home & Community Care",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Grafton",
+      "state": "NSW",
+      "expiresAt": "2026-04-02T06:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/registered-nurse-home-community-care-yamba-grafton"
+    },
+    {
+      "id": 553569,
+      "title": "Nurse Practitioner - Mparntwe Urgent Care Clinic",
+      "organisationName": "Central Australian Aboriginal Congress",
+      "location_name": "Regional NT",
+      "locality": "Alice Springs",
+      "state": "NT",
+      "expiresAt": null,
+      "url": "https://www.ethicaljobs.com.au/members/CongressHRTeam/nurse-practitioner-mparntwe-urgent-care-clinic-alice-springs"
+    },
+    {
+      "id": 553304,
+      "title": "Youth Mental Health Nurse",
+      "organisationName": "Each ",
+      "location_name": "Melbourne",
+      "locality": "Narre Warren",
+      "state": "VIC",
+      "expiresAt": "2026-03-18T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/EACHnh/youth-mental-health-nurse-narre-warren-dandenong-pakenham-1"
+    },
+    {
+      "id": 553303,
+      "title": "Youth Mental Health Nurse",
+      "organisationName": "Each ",
+      "location_name": "Melbourne",
+      "locality": "Narre Warren",
+      "state": "VIC",
+      "expiresAt": "2026-03-18T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/EACHnh/youth-mental-health-nurse-narre-warren-dandenong-pakenham"
+    },
+    {
+      "id": 551275,
+      "title": "Clinical Care Partner / Registered Nurse - Aged Care",
+      "organisationName": "Impact Advising ",
+      "location_name": "Sydney",
+      "locality": "Ashfield",
+      "state": "NSW",
+      "expiresAt": "2026-03-19T04:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/ImpactAdvising/clinical-care-partner-registered-nurse-aged-care-eremea"
+    },
+    {
+      "id": 553277,
+      "title": "ICU Clinical Audit and Research Mentor (Voluntary) - ANGAU Hospital",
+      "organisationName": "Australian Volunteers Program",
+      "location_name": "International",
+      "locality": null,
+      "state": "Unknown",
+      "expiresAt": "2026-04-01T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/AVI/icu-clinical-audit-and-research-mentor-voluntary-angau-hospital-papua-new-guinea-1"
+    },
+    {
+      "id": 549365,
+      "title": "Industrial Officer",
+      "organisationName": "New South Wales Nurses and Midwives' Association",
+      "location_name": "Sydney",
+      "locality": "Waterloo",
+      "state": "NSW",
+      "expiresAt": "2026-03-19T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/NSWNursesAssociation/industrial-officer-ongoing"
+    }
+  ]
+}

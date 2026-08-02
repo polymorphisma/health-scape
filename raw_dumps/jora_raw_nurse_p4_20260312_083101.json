@@ -1,0 +1,126 @@
+{
+  "category": "Nursing",
+  "data": [
+    {
+      "id": "4c1811a8c07080824216a3affd4aa1ca",
+      "title": "Registered Nurse for Hunter Doctors Cessnock",
+      "facility_name": "Hunter Doctors",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Cessnock",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Registered-Nurse-4c1811a8c07080824216a3affd4aa1ca",
+      "raw_location": "Cessnock NSW"
+    },
+    {
+      "id": "dff537ebc9a39801f11e3436d1c05174",
+      "title": "Clinical Nurse (Patient Safety Officer)",
+      "facility_name": "Queensland Health",
+      "category": "Nursing",
+      "state": "Unknown",
+      "city": "Queensland",
+      "date_posted": "2026-03-05",
+      "url": "https://au.jora.com/job/Patient-Safety-Officer-dff537ebc9a39801f11e3436d1c05174",
+      "raw_location": "Queensland"
+    },
+    {
+      "id": "72de76f770010a5938afad229b5066d5",
+      "title": "Occupational Health Nurse",
+      "facility_name": "KINNECT",
+      "category": "Nursing",
+      "state": "NT",
+      "city": "Darwin",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Occupational-Health-Nurse-72de76f770010a5938afad229b5066d5",
+      "raw_location": "Darwin NT"
+    },
+    {
+      "id": "09656de8aab6a57a15be8a08a32d9aaf",
+      "title": "Remote Area Nurse - Men's Health - Miwatj Health - East Arnhem Land",
+      "facility_name": "Northern Territory PHN",
+      "category": "Nursing",
+      "state": "NT",
+      "city": "East Arnhem",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Remote-Area-Nurse-09656de8aab6a57a15be8a08a32d9aaf",
+      "raw_location": "East Arnhem NT"
+    },
+    {
+      "id": "1278c60a11b36b1d2e838427c8e10902",
+      "title": "Registered Community Nurse Integrated Primary Health Service District Nurse",
+      "facility_name": "Latrobe Community Health Services",
+      "category": "Nursing",
+      "state": "VIC",
+      "city": "Latrobe",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Community-Nurse-1278c60a11b36b1d2e838427c8e10902",
+      "raw_location": "Latrobe VIC"
+    },
+    {
+      "id": "7199218f809a48ba66e579093a3056e1",
+      "title": "The Registered Nurse (RN) Refresher Program",
+      "facility_name": "St Vincent's Health Australia",
+      "category": "Nursing",
+      "state": "VIC",
+      "city": "Melbourne",
+      "date_posted": "2026-03-10",
+      "url": "https://au.jora.com/job/The-Registered-Nurse-7199218f809a48ba66e579093a3056e1",
+      "raw_location": "Melbourne VIC"
+    },
+    {
+      "id": "9562a731c61d4dcf123b0890b7e943b7",
+      "title": "Registered Nurse - Emergency / General Wards - 5 -10k Incentives Offered",
+      "facility_name": "Western NSW Local Health District",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Cowra",
+      "date_posted": "2026-03-05",
+      "url": "https://au.jora.com/job/Registered-Nurse-Emergency-9562a731c61d4dcf123b0890b7e943b7",
+      "raw_location": "Cowra NSW"
+    },
+    {
+      "id": "70688f8871acc48959525f76f0ff407c",
+      "title": "Practice Nurse",
+      "facility_name": "Family Medical Centre",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Hunter Valley",
+      "date_posted": "2026-03-09",
+      "url": "https://au.jora.com/job/Practice-Nurse-70688f8871acc48959525f76f0ff407c",
+      "raw_location": "Hunter Valley NSW"
+    },
+    {
+      "id": "f43bff52d111e06b87278af9f71fb577",
+      "title": "Registered Nurse",
+      "facility_name": "Rural Health West",
+      "category": "Nursing",
+      "state": "WA",
+      "city": "Geraldton",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Registered-Nurse-f43bff52d111e06b87278af9f71fb577",
+      "raw_location": "Geraldton WA"
+    },
+    {
+      "id": "abbf6c3ddba0e166eeec70028e29fe4b",
+      "title": "Registered Nurse – Fannie Bay Medical",
+      "facility_name": "Northern Territory PHN",
+      "category": "Nursing",
+      "state": "NT",
+      "city": "Darwin",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Registered-Nurse-abbf6c3ddba0e166eeec70028e29fe4b",
+      "raw_location": "Darwin NT"
+    },
+    {
+      "id": "e165946bd534c3257f253293e2bee905",
+      "title": "Registered Nurse",
+      "facility_name": "Doctors and Co",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Gosford",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Registered-Nurse-e165946bd534c3257f253293e2bee905",
+      "raw_location": "Gosford NSW"
+    }
+  ]
+}

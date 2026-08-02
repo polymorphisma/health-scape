@@ -1,0 +1,305 @@
+{
+  "category": "Aged Care",
+  "data": [
+    {
+      "id": 552370,
+      "title": "Shared Kitchen",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "Westmead",
+      "state": "NSW",
+      "expiresAt": "2026-03-28T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/shared-kitchen-catering-assistant"
+    },
+    {
+      "id": 552365,
+      "title": "Seniors Gym",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "Waverley",
+      "state": "NSW",
+      "expiresAt": "2026-03-28T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/seniors-gym-exercise-physiologist-2"
+    },
+    {
+      "id": 552359,
+      "title": "Volunteer Coordinator (Paid Position)",
+      "organisationName": "Balwyn Evergreen Centre",
+      "location_name": "Melbourne",
+      "locality": "Balwyn",
+      "state": "VIC",
+      "expiresAt": "2026-03-20T06:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/BalwynEC/volunteer-coordinator-paid-position"
+    },
+    {
+      "id": 552294,
+      "title": "Exercise Coordinator",
+      "organisationName": "Balwyn Evergreen Centre",
+      "location_name": "Melbourne",
+      "locality": "Balwyn",
+      "state": "VIC",
+      "expiresAt": "2026-03-26T06:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/BalwynEC/exercise-coordinator-1"
+    },
+    {
+      "id": 552251,
+      "title": "Generation Australia Instructor - Care Industry",
+      "organisationName": "Generation Australia",
+      "location_name": "Sydney",
+      "locality": "Sydney",
+      "state": "NSW",
+      "expiresAt": null,
+      "url": "https://www.ethicaljobs.com.au/members/GenerationAustralia/generation-australia-instructor-care-industry-remote-work-from-home-1"
+    },
+    {
+      "id": 552243,
+      "title": "Rostering Support Officers",
+      "organisationName": "Bayside City Council ",
+      "location_name": "Melbourne",
+      "locality": "Sandringham",
+      "state": "VIC",
+      "expiresAt": "2026-03-11T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/BaysideCC/rostering-support-officers-1"
+    },
+    {
+      "id": 552208,
+      "title": "Catering Assistant",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "Leichhardt",
+      "state": "NSW",
+      "expiresAt": "2026-03-25T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/catering-assistant-leichhardt-1"
+    },
+    {
+      "id": 552154,
+      "title": "Support Worker",
+      "organisationName": "Avivo",
+      "location_name": "Perth",
+      "locality": "Fremantle & Southern Suburbs Perth",
+      "state": "WA",
+      "expiresAt": null,
+      "url": "https://www.ethicaljobs.com.au/members/Avivo/support-worker-south-teams"
+    },
+    {
+      "id": 552153,
+      "title": "Support Worker",
+      "organisationName": "Avivo",
+      "location_name": "Perth",
+      "locality": "Forrestfield",
+      "state": "WA",
+      "expiresAt": "2026-03-23T09:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Avivo/support-worker-forrestfield"
+    },
+    {
+      "id": 552150,
+      "title": "High Care Support Worker",
+      "organisationName": "Avivo",
+      "location_name": "Perth",
+      "locality": "Quinns Rocks",
+      "state": "WA",
+      "expiresAt": "2026-03-24T09:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Avivo/high-care-support-worker-quinns-rock-1"
+    },
+    {
+      "id": 552078,
+      "title": "Occupational Therapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Perth",
+      "locality": "South Perth",
+      "state": "WA",
+      "expiresAt": "2026-03-22T16:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/occupational-therapist-south-perth"
+    },
+    {
+      "id": 552067,
+      "title": "Occupational Therapist - Home Care",
+      "organisationName": "BaptistCare ",
+      "location_name": "Regional NSW",
+      "locality": "Orange",
+      "state": "NSW",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/occupational-therapist-home-care-orange-and-surrounds"
+    },
+    {
+      "id": 552066,
+      "title": "Occupational Therapist - Home Care",
+      "organisationName": "BaptistCare ",
+      "location_name": "Regional NSW",
+      "locality": "Griffith",
+      "state": "NSW",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/occupational-therapist-home-care-griffith-and-surrounds"
+    },
+    {
+      "id": 552060,
+      "title": "Occupational Therapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Regional NSW",
+      "locality": "Ballina",
+      "state": "NSW",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/occupational-therapist-ballina-1"
+    },
+    {
+      "id": 552050,
+      "title": "Support Worker",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Nowra",
+      "state": "NSW",
+      "expiresAt": "2026-03-26T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/support-worker-nowra-6"
+    },
+    {
+      "id": 552051,
+      "title": "Support Worker",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Tamworth & North West NSW",
+      "state": "NSW",
+      "expiresAt": "2026-03-26T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/support-worker-tamworth-10"
+    },
+    {
+      "id": 552054,
+      "title": "Community Engagement and Events Manager",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "CBD, Inner West & Eastern Suburbs Sydney",
+      "state": "NSW",
+      "expiresAt": "2026-03-27T06:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/community-engagement-and-events-manager-retirement-living"
+    },
+    {
+      "id": 552053,
+      "title": "Support Worker",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Nambucca Heads",
+      "state": "NSW",
+      "expiresAt": null,
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/support-worker-nambucca-heads-coffs-harbour-3"
+    },
+    {
+      "id": 552061,
+      "title": "Occupational Therapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Canberra & ACT",
+      "locality": "Canberra & ACT",
+      "state": "ACT",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/occupational-therapist-canberra-1"
+    },
+    {
+      "id": 552052,
+      "title": "Support Worker",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Eden",
+      "state": "NSW",
+      "expiresAt": "2026-03-26T06:00:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/support-worker-eden-bega-1"
+    },
+    {
+      "id": 552032,
+      "title": "Occupational Therapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Sydney",
+      "locality": "Penrith",
+      "state": "NSW",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/occupational-therapist-penrith-blue-mountains-and-surrounds"
+    },
+    {
+      "id": 552026,
+      "title": "Occupational Therapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Regional NSW",
+      "locality": "Wagga Wagga",
+      "state": "NSW",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/occupational-therapist-wagga-wagga-1"
+    },
+    {
+      "id": 552018,
+      "title": "Occupational Therapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Regional NSW",
+      "locality": "Gosford & Central Coast",
+      "state": "NSW",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/occupational-therapist-central-coast"
+    },
+    {
+      "id": 552019,
+      "title": "Occupational Therapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Regional NSW",
+      "locality": "Cowra",
+      "state": "NSW",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/occupational-therapist-cowra"
+    },
+    {
+      "id": 552000,
+      "title": "Occupational Therapist - Home Care",
+      "organisationName": "BaptistCare ",
+      "location_name": "Regional NSW",
+      "locality": "Forster",
+      "state": "NSW",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/occupational-therapist-home-care-forster-taree"
+    },
+    {
+      "id": 551992,
+      "title": "Occupational Therapist - Home Care",
+      "organisationName": "BaptistCare ",
+      "location_name": "Regional NSW",
+      "locality": "Port Macquarie & Mid North Coast",
+      "state": "NSW",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/occupational-therapist-home-care-port-macquarie-1"
+    },
+    {
+      "id": 551958,
+      "title": "Registered Nurses x2",
+      "organisationName": "Melbourne City Mission",
+      "location_name": "Melbourne",
+      "locality": "Thornbury",
+      "state": "VIC",
+      "expiresAt": "2026-03-23T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/melbcitymission/registered-nurses-x2-div-1"
+    },
+    {
+      "id": 551912,
+      "title": "Physiotherapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Regional NSW",
+      "locality": "Griffith",
+      "state": "NSW",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-griffith-and-surrounds"
+    },
+    {
+      "id": 551913,
+      "title": "Physiotherapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Regional NSW",
+      "locality": "Dubbo & Central NSW",
+      "state": "NSW",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-dubbo-1"
+    },
+    {
+      "id": 551895,
+      "title": "Physiotherapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Regional NSW",
+      "locality": "Tweed Heads",
+      "state": "NSW",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-tweed-heads-kingscliff-and-surrounds"
+    }
+  ]
+}

@@ -1,0 +1,4505 @@
+{
+  "category": "Disability Support",
+  "data": [
+    {
+      "key": "c1382ac2e9c97a54",
+      "title": "Family Support Services (FSS) Worker – CAAPS",
+      "facility_name": "Northern Territory PHN",
+      "state": "NT",
+      "city": "Darwin",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=c1382ac2e9c97a54"
+    },
+    {
+      "key": "60acaeb3384c2b2e",
+      "title": "Community Development Worker",
+      "facility_name": "Northern Health Australia",
+      "state": "UNKNOWN",
+      "city": "",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=60acaeb3384c2b2e"
+    },
+    {
+      "key": "e8bf285e07ad8e10",
+      "title": "Support Worker - Cockburn",
+      "facility_name": "Kanda",
+      "state": "WA",
+      "city": "Cockburn Central",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=e8bf285e07ad8e10"
+    },
+    {
+      "key": "8bb90279ea504b73",
+      "title": "Support Worker - Marangaroo",
+      "facility_name": "Kanda",
+      "state": "WA",
+      "city": "Marangaroo",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=8bb90279ea504b73"
+    },
+    {
+      "key": "e647e497364a6ad1",
+      "title": "Disability Support Worker (Casual)",
+      "facility_name": "Disacare Solution",
+      "state": "NSW",
+      "city": "Parramatta",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=e647e497364a6ad1"
+    },
+    {
+      "key": "49e1d80d90a029b8",
+      "title": "Support Worker - Bondi NSW",
+      "facility_name": "MedHireHub",
+      "state": "NSW",
+      "city": "Bondi",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=49e1d80d90a029b8"
+    },
+    {
+      "key": "0c9533e606d32bda",
+      "title": "Disability Support Worker",
+      "facility_name": "Unknown Facility",
+      "state": "VIC",
+      "city": "Berwick",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=0c9533e606d32bda"
+    },
+    {
+      "key": "c966176b211069fb",
+      "title": "Support Worker",
+      "facility_name": "The CareSide",
+      "state": "WA",
+      "city": "Bodallin",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=c966176b211069fb"
+    },
+    {
+      "key": "2593944b619f82c6",
+      "title": "Disability Support Worker - Shepparton DS25060601",
+      "facility_name": "Lifestyle Centred Services",
+      "state": "VIC",
+      "city": "Shepparton",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=2593944b619f82c6"
+    },
+    {
+      "key": "958537ac18e79d9b",
+      "title": "Disability Support Worker - Coleraine DS24122301",
+      "facility_name": "Lifestyle Centred Services",
+      "state": "VIC",
+      "city": "Coleraine",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=958537ac18e79d9b"
+    },
+    {
+      "key": "d5d7073734bdeb21",
+      "title": "Disability Support Worker - Carnegie DS25100801",
+      "facility_name": "Lifestyle Centred Services",
+      "state": "VIC",
+      "city": "Carnegie",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=d5d7073734bdeb21"
+    },
+    {
+      "key": "93123988bfc37228",
+      "title": "Mental Health Support Worker - Bentleigh DM25100102",
+      "facility_name": "Lifestyle Centred Services",
+      "state": "VIC",
+      "city": "Bentleigh",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=93123988bfc37228"
+    },
+    {
+      "key": "27fdaac6ccac2964",
+      "title": "Disability Support Worker - Seymour DS25100101",
+      "facility_name": "Lifestyle Centred Services",
+      "state": "VIC",
+      "city": "Seymour",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=27fdaac6ccac2964"
+    },
+    {
+      "key": "7dd1f088e7a3ffaf",
+      "title": "Support Worker",
+      "facility_name": "The CareSide",
+      "state": "WA",
+      "city": "Northampton",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=7dd1f088e7a3ffaf"
+    },
+    {
+      "key": "8926626ded9de1dc",
+      "title": "Disability Support Worker",
+      "facility_name": "Velvet Care Support Services",
+      "state": "SA",
+      "city": "Morphett Vale",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=8926626ded9de1dc"
+    },
+    {
+      "key": "67435e65681fb0e5",
+      "title": "Personal Support Worker",
+      "facility_name": "Direct Care Australia",
+      "state": "QLD",
+      "city": "Brisbane",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=67435e65681fb0e5"
+    },
+    {
+      "key": "116b4bd02b7160b1",
+      "title": "Support Worker",
+      "facility_name": "The CareSide",
+      "state": "NSW",
+      "city": "Berowra",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=116b4bd02b7160b1"
+    },
+    {
+      "key": "3a24f8527352fd59",
+      "title": "Support Worker",
+      "facility_name": "The CareSide",
+      "state": "NSW",
+      "city": "Ashcroft",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=3a24f8527352fd59"
+    },
+    {
+      "key": "f867f1a81c96b9be",
+      "title": "Support Worker - Toowoomba",
+      "facility_name": "Multiple Sclerosis Society of Queensland",
+      "state": "QLD",
+      "city": "Toowoomba",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=f867f1a81c96b9be"
+    },
+    {
+      "key": "6fbcef1176130724",
+      "title": "Support Worker",
+      "facility_name": "The CareSide",
+      "state": "WA",
+      "city": "Bruce Rock",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=6fbcef1176130724"
+    },
+    {
+      "key": "a6e369d64bba3b9a",
+      "title": "Disability Support Worker",
+      "facility_name": "Australian Safe Care",
+      "state": "QLD",
+      "city": "Tewantin",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=a6e369d64bba3b9a"
+    },
+    {
+      "key": "2147ac1790865ce1",
+      "title": "Disability Support Worker",
+      "facility_name": "A2Z Care Plus",
+      "state": "QLD",
+      "city": "Logan Reserve",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=2147ac1790865ce1"
+    },
+    {
+      "key": "af58d61d231bab87",
+      "title": "Disability Support Worker (Casual)",
+      "facility_name": "Help at Hand Support Services",
+      "state": "VIC",
+      "city": "Glen Iris",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=af58d61d231bab87"
+    },
+    {
+      "key": "1993f1694c54503e",
+      "title": "Mental Health Support Worker – Make a Real Difference",
+      "facility_name": "Help at Hand Support Services",
+      "state": "VIC",
+      "city": "Prahran",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=1993f1694c54503e"
+    },
+    {
+      "key": "c0874cb5f30d766e",
+      "title": "Mental Health Support Worker – Make a Real Difference",
+      "facility_name": "Help at Hand Support Services",
+      "state": "VIC",
+      "city": "Cremorne",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=c0874cb5f30d766e"
+    },
+    {
+      "key": "002d7363b8bcb816",
+      "title": "Mental Health Support Worker – Make a Real Difference",
+      "facility_name": "Help at Hand Support Services",
+      "state": "VIC",
+      "city": "Thornbury",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=002d7363b8bcb816"
+    },
+    {
+      "key": "cad454d9d4ef4337",
+      "title": "In Home Support Worker - Qualified PCA",
+      "facility_name": "Parkglen Home Care Services",
+      "state": "VIC",
+      "city": "Armadale",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=cad454d9d4ef4337"
+    },
+    {
+      "key": "38f9ffebdde3a697",
+      "title": "In Home Support Worker - Qualified PCA",
+      "facility_name": "Parkglen Home Care Services",
+      "state": "VIC",
+      "city": "Bentleigh",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=38f9ffebdde3a697"
+    },
+    {
+      "key": "ffc778e5ebfd5440",
+      "title": "In Home Support Worker - Qualified PCA",
+      "facility_name": "Parkglen Home Care Services",
+      "state": "VIC",
+      "city": "Doncaster",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=ffc778e5ebfd5440"
+    },
+    {
+      "key": "6e4abcd1fe287d79",
+      "title": "In Home Support Worker - Qualified PCA",
+      "facility_name": "Parkglen Home Care Services",
+      "state": "VIC",
+      "city": "Seaford",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=6e4abcd1fe287d79"
+    },
+    {
+      "key": "42909555156725dc",
+      "title": "Support Worker - Home Care Worker",
+      "facility_name": "LIFEST HEALTHCARE",
+      "state": "QLD",
+      "city": "Woolloongabba",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=42909555156725dc"
+    },
+    {
+      "key": "8e73c7b6ee356e49",
+      "title": "In Home Support Worker - Qualified PCA",
+      "facility_name": "Parkglen Home Care Services",
+      "state": "VIC",
+      "city": "Wheelers Hill",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=8e73c7b6ee356e49"
+    },
+    {
+      "key": "37787e53a4394d42",
+      "title": "Lifestyles Disability Support Worker (Female). Permanent Part Time",
+      "facility_name": "Life Without Barriers",
+      "state": "NSW",
+      "city": "Sydney",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=37787e53a4394d42"
+    },
+    {
+      "key": "737999b68a51ada7",
+      "title": "Disability Support Worker-SIL (Loganholme)",
+      "facility_name": "Accord Care",
+      "state": "QLD",
+      "city": "Loganholme",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=737999b68a51ada7"
+    },
+    {
+      "key": "143e074bcfd2e809",
+      "title": "Home Care Worker",
+      "facility_name": "Silverchain",
+      "state": "SA",
+      "city": "Morphettville",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=143e074bcfd2e809"
+    },
+    {
+      "key": "06ceee05bc1040e8",
+      "title": "Disability Support Workers",
+      "facility_name": "Focus Care",
+      "state": "NSW",
+      "city": "Sydney",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=06ceee05bc1040e8"
+    },
+    {
+      "key": "cc6488b8cea45fb3",
+      "title": "Disability Support Worker",
+      "facility_name": "Australian Partners In Support",
+      "state": "NSW",
+      "city": "Greystanes",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=cc6488b8cea45fb3"
+    },
+    {
+      "key": "09df4b8fb95dd7e1",
+      "title": "Disability Support Worker",
+      "facility_name": "Australian Partners In Support",
+      "state": "NSW",
+      "city": "Dee Why",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=09df4b8fb95dd7e1"
+    },
+    {
+      "key": "97f1e5864bce42bd",
+      "title": "Disability Support Worker",
+      "facility_name": "Blended Care Australia PTY LTD",
+      "state": "NSW",
+      "city": "Marsfield",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=97f1e5864bce42bd"
+    },
+    {
+      "key": "83c3deb51d407198",
+      "title": "Disability Support Workers - Brisbane",
+      "facility_name": "Focus Care",
+      "state": "QLD",
+      "city": "Brisbane",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=83c3deb51d407198"
+    },
+    {
+      "key": "20cd66de99000667",
+      "title": "Disability Support Worker/ Mentor (Casual)",
+      "facility_name": "Otherside Care Group",
+      "state": "QLD",
+      "city": "New Farm",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=20cd66de99000667"
+    },
+    {
+      "key": "b9760d597c64bebb",
+      "title": "Disability Support Worker",
+      "facility_name": "Multicap",
+      "state": "QLD",
+      "city": "Eight Mile Plains",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=b9760d597c64bebb"
+    },
+    {
+      "key": "b32dabe0aa8cd618",
+      "title": "Disability Support Worker",
+      "facility_name": "Applied Abilities",
+      "state": "QLD",
+      "city": "Victoria Point",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=b32dabe0aa8cd618"
+    },
+    {
+      "key": "314c8a42553139cc",
+      "title": "Complex Support Worker (MAPA Trained)",
+      "facility_name": "Optimum Care Plus",
+      "state": "QLD",
+      "city": "Gold Coast",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=314c8a42553139cc"
+    },
+    {
+      "key": "eca9175a7b60cd30",
+      "title": "Disability Support Worker",
+      "facility_name": "iAdor",
+      "state": "QLD",
+      "city": "Thornlands",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=eca9175a7b60cd30"
+    },
+    {
+      "key": "245d0e19a7246721",
+      "title": "Disability Support Worker - Casual",
+      "facility_name": "Hope ability services Pty Ltd",
+      "state": "VIC",
+      "city": "Melbourne",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=245d0e19a7246721"
+    },
+    {
+      "key": "06bce3a8d8f3d7bf",
+      "title": "Support Worker - NDIS - Lismore & surrounds",
+      "facility_name": "Support Temps",
+      "state": "NSW",
+      "city": "Lismore",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=06bce3a8d8f3d7bf"
+    },
+    {
+      "key": "edfec82ece7677ce",
+      "title": "Family Support Worker - South West Region",
+      "facility_name": "MacKillop Family Services",
+      "state": "WA",
+      "city": "Bunbury",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=edfec82ece7677ce"
+    },
+    {
+      "key": "c0b37233d92e9d87",
+      "title": "Disability Support Worker - Mummel",
+      "facility_name": "Southern Cross Community Healthcare",
+      "state": "NSW",
+      "city": "Goulburn",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=c0b37233d92e9d87"
+    },
+    {
+      "key": "ef93d8d1013370df",
+      "title": "Disability Support Worker",
+      "facility_name": "Southern Cross Community Healthcare",
+      "state": "VIC",
+      "city": "Bendigo",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=ef93d8d1013370df"
+    },
+    {
+      "key": "5d100b33061376f7",
+      "title": "Disability Support Worker",
+      "facility_name": "Southern Cross Community Healthcare",
+      "state": "NSW",
+      "city": "Wentworthville",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=5d100b33061376f7"
+    },
+    {
+      "key": "13f4af6636ab8f8c",
+      "title": "Aged Care Support Worker",
+      "facility_name": "Southern Cross Community Healthcare",
+      "state": "QLD",
+      "city": "Townsville",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=13f4af6636ab8f8c"
+    },
+    {
+      "key": "c4495a6e3c642afe",
+      "title": "DAY PROGRAM DISABILITY WORKER",
+      "facility_name": "Bluebird Support Service",
+      "state": "NSW",
+      "city": "Macksville",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=c4495a6e3c642afe"
+    },
+    {
+      "key": "bee70638e4f17feb",
+      "title": "Disability Support Worker (Casual)",
+      "facility_name": "Nad Care pty ltd",
+      "state": "VIC",
+      "city": "Hoppers Crossing",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=bee70638e4f17feb"
+    },
+    {
+      "key": "a505bf901a0bffa5",
+      "title": "Mobile Support Worker (Disability)",
+      "facility_name": "Nightlife Disability Services",
+      "state": "VIC",
+      "city": "Heatherton",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=a505bf901a0bffa5"
+    },
+    {
+      "key": "806163739a5859da",
+      "title": "Disability Support Worker- Personal Care & Community Access",
+      "facility_name": "Seven Angels Care and Support Services",
+      "state": "VIC",
+      "city": "Hughesdale",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=806163739a5859da"
+    },
+    {
+      "key": "c7908cc22602fdd3",
+      "title": "Disability and Mental Health Support Workers (Casual) - Frankston",
+      "facility_name": "VIP Support",
+      "state": "VIC",
+      "city": "Frankston",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=c7908cc22602fdd3"
+    },
+    {
+      "key": "82894d1fd27917c6",
+      "title": "Disability Support Worker (Casual)",
+      "facility_name": "Universal Ability",
+      "state": "NSW",
+      "city": "Parramatta",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=82894d1fd27917c6"
+    },
+    {
+      "key": "3eb3885900282230",
+      "title": "Positive Behaviour Support Practitioner",
+      "facility_name": "Connect Paediatric Therapy Services",
+      "state": "WA",
+      "city": "Karratha",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=3eb3885900282230"
+    },
+    {
+      "key": "4f6cc3920b253acc",
+      "title": "Disability Support Worker (Casual)",
+      "facility_name": "Australian Instant Care",
+      "state": "VIC",
+      "city": "Narre Warren",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=4f6cc3920b253acc"
+    },
+    {
+      "key": "0d5475b6589c7eb7",
+      "title": "Disability Support Worker (Casual)",
+      "facility_name": "Australian Instant Care",
+      "state": "VIC",
+      "city": "Cranbourne",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=0d5475b6589c7eb7"
+    },
+    {
+      "key": "04e1fe4619ff8663",
+      "title": "Disability Support Worker (Casual)",
+      "facility_name": "Australian Instant Care",
+      "state": "VIC",
+      "city": "Mornington",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=04e1fe4619ff8663"
+    },
+    {
+      "key": "4c0950692d8bffcb",
+      "title": "Disability Support Worker (Casual)",
+      "facility_name": "Australian Instant Care",
+      "state": "VIC",
+      "city": "Frankston East",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=4c0950692d8bffcb"
+    },
+    {
+      "key": "264e2f8a962a6444",
+      "title": "Disability Support Worker (Casual)",
+      "facility_name": "JNB Care Services",
+      "state": "VIC",
+      "city": "Kangaroo Flat",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=264e2f8a962a6444"
+    },
+    {
+      "key": "fc330d10374eef62",
+      "title": "Disability Support Worker | Sinnamon Park",
+      "facility_name": "Beyond Health Services",
+      "state": "QLD",
+      "city": "Sinnamon Park",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=fc330d10374eef62"
+    },
+    {
+      "key": "171e4b40f577a47e",
+      "title": "Support Worker",
+      "facility_name": "Nourished Not Deprived",
+      "state": "NSW",
+      "city": "Gosford",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=171e4b40f577a47e"
+    },
+    {
+      "key": "32bd794e4b76fb0e",
+      "title": "Support Worker",
+      "facility_name": "Nourished Not Deprived",
+      "state": "NSW",
+      "city": "Maitland",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=32bd794e4b76fb0e"
+    },
+    {
+      "key": "8e0e5032e8e1e884",
+      "title": "Support Worker",
+      "facility_name": "Nourished Not Deprived",
+      "state": "NSW",
+      "city": "Newcastle",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=8e0e5032e8e1e884"
+    },
+    {
+      "key": "77e95e4962e4c79c",
+      "title": "Support Worker",
+      "facility_name": "Northcott",
+      "state": "NSW",
+      "city": "Taree",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=77e95e4962e4c79c"
+    },
+    {
+      "key": "09a8059537edc465",
+      "title": "Identified Disability Support Worker",
+      "facility_name": "Kirinari Community Services Ltd",
+      "state": "NSW",
+      "city": "Kempsey",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=09a8059537edc465"
+    },
+    {
+      "key": "ed348770ca141d80",
+      "title": "Disability Support Worker",
+      "facility_name": "Kirinari Community Services Ltd",
+      "state": "NSW",
+      "city": "Gunnedah",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=ed348770ca141d80"
+    },
+    {
+      "key": "a002aca404d10863",
+      "title": "Community Support Workers – Regentville Area",
+      "facility_name": "Comfort home care",
+      "state": "NSW",
+      "city": "Regentville",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=a002aca404d10863"
+    },
+    {
+      "key": "9f2a596572bba512",
+      "title": "Disability Support Worker – Vietnamese or Cantonese Speaking | High Intensity Care | Mt Druitt",
+      "facility_name": "Blue Bird aged care and disability services",
+      "state": "NSW",
+      "city": "Mount Druitt",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=9f2a596572bba512"
+    },
+    {
+      "key": "9b40630ffc83182d",
+      "title": "Personal Care Assistant (PCA)/ Support Worker",
+      "facility_name": "Nurse Next Door Wagga Wagga",
+      "state": "NSW",
+      "city": "Tumut",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=9b40630ffc83182d"
+    },
+    {
+      "key": "2b12cb26f158bc89",
+      "title": "Disability Support Worker - Taree",
+      "facility_name": "Nextt Group Pty Ltd",
+      "state": "NSW",
+      "city": "Taree",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=2b12cb26f158bc89"
+    },
+    {
+      "key": "2e69c784b6b371a5",
+      "title": "Bathurst Support Worker",
+      "facility_name": "WESTHAVEN",
+      "state": "NSW",
+      "city": "Bathurst",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=2e69c784b6b371a5"
+    },
+    {
+      "key": "8d49909a89f46ebd",
+      "title": "Orange Support Worker - Children Services",
+      "facility_name": "WESTHAVEN",
+      "state": "NSW",
+      "city": "Orange",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=8d49909a89f46ebd"
+    },
+    {
+      "key": "4dce682717c35fcb",
+      "title": "Direct Support Worker - Fig Tree Pocket",
+      "facility_name": "CPL - Choice, Passion, Life",
+      "state": "QLD",
+      "city": "Fig Tree Pocket",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=4dce682717c35fcb"
+    },
+    {
+      "key": "ad8ffc843b5260ac",
+      "title": "Male Disability Support Worker (IMMEDIATE REQUIREMENT)",
+      "facility_name": "Kangaroo Care",
+      "state": "QLD",
+      "city": "Caboolture",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=ad8ffc843b5260ac"
+    },
+    {
+      "key": "ea8d9ea737b27801",
+      "title": "Disability Support Worker",
+      "facility_name": "Care Partners Australia",
+      "state": "NSW",
+      "city": "",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=ea8d9ea737b27801"
+    },
+    {
+      "key": "bc2f7da51311b622",
+      "title": "Support Worker",
+      "facility_name": "iAdor",
+      "state": "QLD",
+      "city": "Toowoomba",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=bc2f7da51311b622"
+    },
+    {
+      "key": "c4485ef3d4891279",
+      "title": "Disability Support Worker",
+      "facility_name": "A1 Disability Support Care",
+      "state": "QLD",
+      "city": "Sandgate",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=c4485ef3d4891279"
+    },
+    {
+      "key": "27963015e50064bc",
+      "title": "Disability Support Worker- Personal Care & Community Access",
+      "facility_name": "Seven Angels Care and Support Services",
+      "state": "VIC",
+      "city": "Cranbourne",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=27963015e50064bc"
+    },
+    {
+      "key": "b491b9b68322766a",
+      "title": "Disability Support Worker (Casual) - Children to Aged Care",
+      "facility_name": "ABLE-i",
+      "state": "VIC",
+      "city": "Caroline Springs",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=b491b9b68322766a"
+    },
+    {
+      "key": "a6bbc77082835b97",
+      "title": "Therapy Assistant / Support worker",
+      "facility_name": "ABLE-i",
+      "state": "VIC",
+      "city": "St Albans",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=a6bbc77082835b97"
+    },
+    {
+      "key": "d3564d6b9571bf65",
+      "title": "Female Disability Support Worker",
+      "facility_name": "NSW Disability Care Pty Ltd",
+      "state": "VIC",
+      "city": "Bayswater",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=d3564d6b9571bf65"
+    },
+    {
+      "key": "2cc40f39ea007294",
+      "title": "Disability Support Worker",
+      "facility_name": "Hope Anchor Care",
+      "state": "VIC",
+      "city": "Melton South",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=2cc40f39ea007294"
+    },
+    {
+      "key": "af70b191b3be81c7",
+      "title": "Disability Support Worker- Personal Care & Community Access",
+      "facility_name": "Seven Angels Care and Support Services",
+      "state": "VIC",
+      "city": "Noble Park",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=af70b191b3be81c7"
+    },
+    {
+      "key": "4de98253bd29489e",
+      "title": "Team Leader/Support Worker",
+      "facility_name": "Equisent Construction",
+      "state": "VIC",
+      "city": "Dandenong",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=4de98253bd29489e"
+    },
+    {
+      "key": "95410ca264fd85c6",
+      "title": "Support Worker - Home Care",
+      "facility_name": "Lutheran Services",
+      "state": "QLD",
+      "city": "Toowoomba",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=95410ca264fd85c6"
+    },
+    {
+      "key": "8e26deaf1f3fc205",
+      "title": "Support Worker",
+      "facility_name": "Endeavour Foundation",
+      "state": "QLD",
+      "city": "Kingston",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=8e26deaf1f3fc205"
+    },
+    {
+      "key": "0b1d6d2faddc97ed",
+      "title": "Direct Support Worker - Gold Coast | Coomera, Southport, Mermaid Beach",
+      "facility_name": "CPL - Choice, Passion, Life",
+      "state": "QLD",
+      "city": "Gold Coast",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=0b1d6d2faddc97ed"
+    },
+    {
+      "key": "191be666d8fa9c65",
+      "title": "Direct Support Workers - Gold Coast South | Mermaid Beach, Carrara, Robina",
+      "facility_name": "CPL - Choice, Passion, Life",
+      "state": "QLD",
+      "city": "Gold Coast",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=191be666d8fa9c65"
+    },
+    {
+      "key": "70d991d4c8de0452",
+      "title": "Disability Support Worker- Personal Care & Community Access",
+      "facility_name": "Seven Angels Care and Support Services",
+      "state": "VIC",
+      "city": "Clarinda",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=70d991d4c8de0452"
+    },
+    {
+      "key": "b4fb747acddb4a9f",
+      "title": "Aged Cared / Disability Support worker",
+      "facility_name": "Care Tribe Services Pty Ltd",
+      "state": "NSW",
+      "city": "Sutherland",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=b4fb747acddb4a9f"
+    },
+    {
+      "key": "a3ecdc74c9b8a552",
+      "title": "Disability Support Worker - Adamstown",
+      "facility_name": "Nextt Group Pty Ltd",
+      "state": "NSW",
+      "city": "Adamstown",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=a3ecdc74c9b8a552"
+    },
+    {
+      "key": "553b874d4ecd6efe",
+      "title": "Disability Support/Home Care Worker",
+      "facility_name": "Healthcare Heroes",
+      "state": "QLD",
+      "city": "Gold Coast",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=553b874d4ecd6efe"
+    },
+    {
+      "key": "c9c7d64caa2fb51f",
+      "title": "Disability Support Worker-Roselands",
+      "facility_name": "Adorablecare Pty Ltd",
+      "state": "NSW",
+      "city": "Roselands",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=c9c7d64caa2fb51f"
+    },
+    {
+      "key": "9d79f30dc7e298c9",
+      "title": "Female Disability Support Worker-Eltham North",
+      "facility_name": "Adorablecare Pty Ltd",
+      "state": "VIC",
+      "city": "Eltham North",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=9d79f30dc7e298c9"
+    },
+    {
+      "key": "ce7abda97b076ae1",
+      "title": "Disability Support/Home Care Worker",
+      "facility_name": "Healthcare Heroes",
+      "state": "QLD",
+      "city": "Logan City",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=ce7abda97b076ae1"
+    },
+    {
+      "key": "0d1c78c1bf9ecb34",
+      "title": "Support Worker for Disability and Aged Care - Oak Park, Greenvale, Broadmeadow Tullamarine, VIC area",
+      "facility_name": "Esse Care",
+      "state": "VIC",
+      "city": "Broadmeadows",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=0d1c78c1bf9ecb34"
+    },
+    {
+      "key": "a6e2a8bfb966e792",
+      "title": "Community Support Worker / Mentor – South Adelaide",
+      "facility_name": "iCOMMUNITY",
+      "state": "SA",
+      "city": "Noarlunga Centre",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=a6e2a8bfb966e792"
+    },
+    {
+      "key": "b26de6a8de121488",
+      "title": "Aged Care Support worker",
+      "facility_name": "Wesley Mission",
+      "state": "NSW",
+      "city": "Sylvania",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=b26de6a8de121488"
+    },
+    {
+      "key": "df7a5ca3ac6e39eb",
+      "title": "Support Worker",
+      "facility_name": "The CareSide",
+      "state": "VIC",
+      "city": "Mount Evelyn",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=df7a5ca3ac6e39eb"
+    },
+    {
+      "key": "ff3ca98364939f44",
+      "title": "Support Worker - Mounties Care",
+      "facility_name": "Mounties Care",
+      "state": "NSW",
+      "city": "Ashfield",
+      "date_posted": "2026-03-12",
+      "url": "https://au.indeed.com/viewjob?jk=ff3ca98364939f44"
+    },
+    {
+      "key": "9bc9edfa3fbbb32c",
+      "title": "Support Worker - Mounties Care",
+      "facility_name": "Mounties Care",
+      "state": "NSW",
+      "city": "Eastwood",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=9bc9edfa3fbbb32c"
+    },
+    {
+      "key": "a7a2731d00d27131",
+      "title": "Casual Disability Support Workers - Southern Suburbs",
+      "facility_name": "SACARE",
+      "state": "SA",
+      "city": "Noarlunga Centre",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=a7a2731d00d27131"
+    },
+    {
+      "key": "5dc4194c2522a2b3",
+      "title": "Casual Disability Support Workers - Victor Harbor",
+      "facility_name": "SACARE",
+      "state": "SA",
+      "city": "Victor Harbour",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=5dc4194c2522a2b3"
+    },
+    {
+      "key": "24eb5f81cc0cfdea",
+      "title": "Support Worker - Accommodation Services",
+      "facility_name": "Challenge Community Services",
+      "state": "NSW",
+      "city": "Newcastle",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=24eb5f81cc0cfdea"
+    },
+    {
+      "key": "a2875c15ee119312",
+      "title": "Disability Support Worker",
+      "facility_name": "Blended Care Australia PTY LTD",
+      "state": "NSW",
+      "city": "Warriewood",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=a2875c15ee119312"
+    },
+    {
+      "key": "1ca120d506b11a90",
+      "title": "Disability Support Worker",
+      "facility_name": "MATRIX HEALTH SOLUTIONs",
+      "state": "WA",
+      "city": "Bentley",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=1ca120d506b11a90"
+    },
+    {
+      "key": "c2e293331824e085",
+      "title": "Trainee Community Workers (Aged Care) - Port Maquarie",
+      "facility_name": "Ternary",
+      "state": "NSW",
+      "city": "Port Macquarie",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=c2e293331824e085"
+    },
+    {
+      "key": "f5c090f2b6ead43e",
+      "title": "Trainee Community Workers (Aged Care) - Cundletown area",
+      "facility_name": "Ternary",
+      "state": "NSW",
+      "city": "Cundletown",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=f5c090f2b6ead43e"
+    },
+    {
+      "key": "17c53eb9c99bc461",
+      "title": "Disability Support Worker (Wellington)",
+      "facility_name": "Bamara",
+      "state": "NSW",
+      "city": "Wellington",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=17c53eb9c99bc461"
+    },
+    {
+      "key": "50f55162e2b272ab",
+      "title": "Disability Support Worker",
+      "facility_name": "CorExpert Support Solutions",
+      "state": "WA",
+      "city": "Como",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=50f55162e2b272ab"
+    },
+    {
+      "key": "f68fadcd32eec4b7",
+      "title": "Disability Support Worker (SIL). Casual",
+      "facility_name": "Life Without Barriers",
+      "state": "NSW",
+      "city": "Hunter Valley",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=f68fadcd32eec4b7"
+    },
+    {
+      "key": "4198121a628881e1",
+      "title": "Home Support Worker",
+      "facility_name": "Busy Life Hub",
+      "state": "QLD",
+      "city": "Sunshine Coast",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=4198121a628881e1"
+    },
+    {
+      "key": "3a4450e85afa5848",
+      "title": "In Home Support Worker",
+      "facility_name": "Ozcare",
+      "state": "QLD",
+      "city": "Bundaberg",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=3a4450e85afa5848"
+    },
+    {
+      "key": "445f2b5ac5c9eaf5",
+      "title": "Disability Support Worker (Male)",
+      "facility_name": "Paradise Health Solutions",
+      "state": "NSW",
+      "city": "Bexley",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=445f2b5ac5c9eaf5"
+    },
+    {
+      "key": "73f1b04c7548383a",
+      "title": "Support Worker",
+      "facility_name": "Castalia Group",
+      "state": "WA",
+      "city": "Perth",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=73f1b04c7548383a"
+    },
+    {
+      "key": "f9e6771865822d0f",
+      "title": "Community Support Practitioner",
+      "facility_name": "MacKillop Family Services",
+      "state": "VIC",
+      "city": "Broadmeadows",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=f9e6771865822d0f"
+    },
+    {
+      "key": "7c2d9275612ad3ec",
+      "title": "Female Disability Support Worker in Kingston (Casual)",
+      "facility_name": "QLD Support Group Pty Ltd",
+      "state": "QLD",
+      "city": "Kingston",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=7c2d9275612ad3ec"
+    },
+    {
+      "key": "8c4c1d148383f22a",
+      "title": "Support Worker - Fremantle",
+      "facility_name": "ACTIV",
+      "state": "WA",
+      "city": "Perth",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=8c4c1d148383f22a"
+    },
+    {
+      "key": "c97aef567e59243e",
+      "title": "Community Support Worker (Companionship and Community Access)",
+      "facility_name": "Allegiance Heart & Home Care",
+      "state": "NSW",
+      "city": "Rouse Hill",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=c97aef567e59243e"
+    },
+    {
+      "key": "2c37a9e2f81f7de9",
+      "title": "Support Worker",
+      "facility_name": "The CareSide",
+      "state": "SA",
+      "city": "Blakeview",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=2c37a9e2f81f7de9"
+    },
+    {
+      "key": "d7fdae6de059e4e1",
+      "title": "Support Worker",
+      "facility_name": "The CareSide",
+      "state": "SA",
+      "city": "Penfield",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=d7fdae6de059e4e1"
+    },
+    {
+      "key": "5a1ca4ed1a3fa9d0",
+      "title": "NDIS Support Worker – Derrimut & Maidstone, VIC",
+      "facility_name": "Engaged Care Pty Ltd",
+      "state": "VIC",
+      "city": "Derrimut",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=5a1ca4ed1a3fa9d0"
+    },
+    {
+      "key": "65ffcbd7a9726d05",
+      "title": "Support Worker",
+      "facility_name": "The CareSide",
+      "state": "SA",
+      "city": "Golden Grove",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=65ffcbd7a9726d05"
+    },
+    {
+      "key": "513672039f0fa252",
+      "title": "Aged Care/NDIS Support Worker at North Ryde",
+      "facility_name": "Love at Home",
+      "state": "NSW",
+      "city": "East Ryde",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=513672039f0fa252"
+    },
+    {
+      "key": "b378bc4c6db70e6f",
+      "title": "Disability Support Workers - Greater Sydney Area",
+      "facility_name": "Mt Group Australia",
+      "state": "NSW",
+      "city": "",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=b378bc4c6db70e6f"
+    },
+    {
+      "key": "299d8b7de3c5dd2b",
+      "title": "Product Recovery & Quality Co-worker",
+      "facility_name": "IKEA",
+      "state": "WA",
+      "city": "Perth",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=299d8b7de3c5dd2b"
+    },
+    {
+      "key": "ec9f6d8b9f61ba66",
+      "title": "Disability Support Worker (Male Preferred) - Beveridge VIC",
+      "facility_name": "Easy iCare",
+      "state": "VIC",
+      "city": "Sunbury",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=ec9f6d8b9f61ba66"
+    },
+    {
+      "key": "6bea42df7d7f662b",
+      "title": "Disability Support Worker (Male Preferred) - Beveridge VIC",
+      "facility_name": "Easy iCare",
+      "state": "VIC",
+      "city": "Wallan",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=6bea42df7d7f662b"
+    },
+    {
+      "key": "a8389429573846b2",
+      "title": "Disability Support Worker (Male Preferred) - Beveridge VIC",
+      "facility_name": "Easy iCare",
+      "state": "VIC",
+      "city": "Kalkallo",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=a8389429573846b2"
+    },
+    {
+      "key": "810cf03ffad69942",
+      "title": "Disability Support Worker – Community Access & SIL Supports",
+      "facility_name": "Enabling Hands Support Services",
+      "state": "QLD",
+      "city": "Caboolture",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=810cf03ffad69942"
+    },
+    {
+      "key": "96eff6b80ab32ad3",
+      "title": "Disability Support Worker (Male Preferred) - Beveridge VIC",
+      "facility_name": "Easy iCare",
+      "state": "VIC",
+      "city": "Broadmeadows",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=96eff6b80ab32ad3"
+    },
+    {
+      "key": "8295d9a07874a4f6",
+      "title": "Disability Support Worker (Male Preferred) - Beveridge VIC",
+      "facility_name": "Easy iCare",
+      "state": "VIC",
+      "city": "Epping",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=8295d9a07874a4f6"
+    },
+    {
+      "key": "cfeb09f6e97441e7",
+      "title": "Disability Support Worker (Male Preferred) - Beveridge VIC",
+      "facility_name": "Easy iCare",
+      "state": "VIC",
+      "city": "Meadow Heights",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=cfeb09f6e97441e7"
+    },
+    {
+      "key": "9676ca634d2a471a",
+      "title": "Disability Support Worker (Male Preferred) - Beveridge VIC",
+      "facility_name": "Easy iCare",
+      "state": "VIC",
+      "city": "Roxburgh Park",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=9676ca634d2a471a"
+    },
+    {
+      "key": "9785a81a564d12a3",
+      "title": "Disability Support Worker (Male Preferred) - Beveridge VIC",
+      "facility_name": "Easy iCare",
+      "state": "VIC",
+      "city": "Donnybrook",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=9785a81a564d12a3"
+    },
+    {
+      "key": "1c6e457119bc2fbe",
+      "title": "Disability Support Worker (Male Preferred) - Beveridge VIC",
+      "facility_name": "Easy iCare",
+      "state": "VIC",
+      "city": "Mickleham",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=1c6e457119bc2fbe"
+    },
+    {
+      "key": "65310ff54598cae0",
+      "title": "Disability Support Worker",
+      "facility_name": "Unknown Facility",
+      "state": "VIC",
+      "city": "Horsham",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=65310ff54598cae0"
+    },
+    {
+      "key": "a38470b18a80ff1f",
+      "title": "Disability Support Worker (Male Preferred) - Beveridge VIC",
+      "facility_name": "Easy iCare",
+      "state": "VIC",
+      "city": "Greenvale",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=a38470b18a80ff1f"
+    },
+    {
+      "key": "c08f4eb814dd3709",
+      "title": "Bengali Speaking support worker",
+      "facility_name": "Glow Health Care Australia",
+      "state": "NSW",
+      "city": "Bankstown",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=c08f4eb814dd3709"
+    },
+    {
+      "key": "a940f3ee440e6f7f",
+      "title": "Support Worker (Female)",
+      "facility_name": "Oaktrees Support Services",
+      "state": "NSW",
+      "city": "Campsie",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=a940f3ee440e6f7f"
+    },
+    {
+      "key": "55b6d6b26256bc1a",
+      "title": "Disability Support Worker -Exceptional Training & Team Culture",
+      "facility_name": "ZOES VILLAGE",
+      "state": "QLD",
+      "city": "Buderim",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=55b6d6b26256bc1a"
+    },
+    {
+      "key": "67ee47330da11782",
+      "title": "Disability Support Worker",
+      "facility_name": "Unidex Healthcare",
+      "state": "QLD",
+      "city": "Caboolture",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=67ee47330da11782"
+    },
+    {
+      "key": "28f91c0b442c1515",
+      "title": "Disability Support Worker Female",
+      "facility_name": "A STAR DISABILITY SUPPORT SERVICES",
+      "state": "QLD",
+      "city": "Coomera",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=28f91c0b442c1515"
+    },
+    {
+      "key": "d9952c0258c79be3",
+      "title": "AOD Support Worker",
+      "facility_name": "Lives Lived Well",
+      "state": "NSW",
+      "city": "Berkeley",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=d9952c0258c79be3"
+    },
+    {
+      "key": "63abef4940e5b228",
+      "title": "Support Worker/Carer",
+      "facility_name": "The CareSide",
+      "state": "VIC",
+      "city": "Clayton",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=63abef4940e5b228"
+    },
+    {
+      "key": "8795a60f846631d7",
+      "title": "Support Worker - Home Care",
+      "facility_name": "Lutheran Services",
+      "state": "QLD",
+      "city": "Gympie",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=8795a60f846631d7"
+    },
+    {
+      "key": "32e32ccc96cabf57",
+      "title": "Community Support Workers - Illawarra",
+      "facility_name": "CatholicCare Sydney",
+      "state": "NSW",
+      "city": "Illawarra",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=32e32ccc96cabf57"
+    },
+    {
+      "key": "3e88b46cc83ec61d",
+      "title": "Disability Support Worker- Casual",
+      "facility_name": "Perth Disability Services",
+      "state": "WA",
+      "city": "Perth",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=3e88b46cc83ec61d"
+    },
+    {
+      "key": "0e7c57054ab1ee67",
+      "title": "Disability Support Worker - Mandurah - South Yunderup",
+      "facility_name": "Elba Inc",
+      "state": "WA",
+      "city": "South Yunderup",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=0e7c57054ab1ee67"
+    },
+    {
+      "key": "5b44655fe9c60933",
+      "title": "Disability Support Worker",
+      "facility_name": "Platinum Care Services",
+      "state": "QLD",
+      "city": "Nundah",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=5b44655fe9c60933"
+    },
+    {
+      "key": "6177048fbf8d01f1",
+      "title": "Disability Support Workers (Casual and Fill in)",
+      "facility_name": "Australian Support Worker Services Sydney",
+      "state": "NSW",
+      "city": "Chatswood",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=6177048fbf8d01f1"
+    },
+    {
+      "key": "d0b17be11b72bb8e",
+      "title": "Home Care Worker",
+      "facility_name": "LiveBetter Aged Care",
+      "state": "NSW",
+      "city": "Oberon",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=d0b17be11b72bb8e"
+    },
+    {
+      "key": "87bb1d6081fa0bd4",
+      "title": "Home Care Worker",
+      "facility_name": "LiveBetter Aged Care",
+      "state": "NSW",
+      "city": "Gilgandra",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=87bb1d6081fa0bd4"
+    },
+    {
+      "key": "d39f2e4bf7086ddc",
+      "title": "School Transport Support Worker (NDIS Participant)",
+      "facility_name": "Unknown Facility",
+      "state": "VIC",
+      "city": "Clyde",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=d39f2e4bf7086ddc"
+    },
+    {
+      "key": "f30e22013201e909",
+      "title": "Alcohol & Other Drugs Support Worker",
+      "facility_name": "Uniting Vic.Tas",
+      "state": "VIC",
+      "city": "Coburg",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=f30e22013201e909"
+    },
+    {
+      "key": "42ac21c6b91d9ad4",
+      "title": "Behaviour Support Practitioner",
+      "facility_name": "Outcomes Connect Australia",
+      "state": "VIC",
+      "city": "Hoppers Crossing",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=42ac21c6b91d9ad4"
+    },
+    {
+      "key": "39d58cecc8e48262",
+      "title": "Family and Community Engagement Worker",
+      "facility_name": "Thrive Services",
+      "state": "NSW",
+      "city": "Katoomba",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=39d58cecc8e48262"
+    },
+    {
+      "key": "d09332b3d8f7af79",
+      "title": "Support Worker - Goulburn/Crookwell",
+      "facility_name": "Uniting",
+      "state": "NSW",
+      "city": "Goulburn",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=d09332b3d8f7af79"
+    },
+    {
+      "key": "bfbdbceaa50ce298",
+      "title": "Disability Support Worker",
+      "facility_name": "Pink Ribbon Community Supports Australia",
+      "state": "QLD",
+      "city": "Noosaville",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=bfbdbceaa50ce298"
+    },
+    {
+      "key": "11edb0efbd83d1fd",
+      "title": "Disability Support Practitioner",
+      "facility_name": "Cerebral Palsy Alliance",
+      "state": "NSW",
+      "city": "Prairiewood",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=11edb0efbd83d1fd"
+    },
+    {
+      "key": "b54ee21a35a1d701",
+      "title": "Overnight Support Worker",
+      "facility_name": "Myassista",
+      "state": "QLD",
+      "city": "Gold Coast",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=b54ee21a35a1d701"
+    },
+    {
+      "key": "30a5c43a1e11add6",
+      "title": "Overnight - Support Worker",
+      "facility_name": "Myassista",
+      "state": "QLD",
+      "city": "Coorparoo",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=30a5c43a1e11add6"
+    },
+    {
+      "key": "9d1b795efe363fef",
+      "title": "Casual Disability Support Worker",
+      "facility_name": "MacKillop Family Services",
+      "state": "NSW",
+      "city": "Balranald",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=9d1b795efe363fef"
+    },
+    {
+      "key": "81bb3af389fc2731",
+      "title": "Residential Support Worker - Glenwood",
+      "facility_name": "Flintwood Disability Services Ltd",
+      "state": "NSW",
+      "city": "Glenwood",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=81bb3af389fc2731"
+    },
+    {
+      "key": "437a2ab6879be762",
+      "title": "Disability Support Worker - Port Augusta",
+      "facility_name": "Beyond Health Services",
+      "state": "SA",
+      "city": "Port Augusta",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=437a2ab6879be762"
+    },
+    {
+      "key": "edaf3cf3266d512b",
+      "title": "Disability Support Worker (Male Preferred) - Beveridge VIC",
+      "facility_name": "Easy iCare",
+      "state": "VIC",
+      "city": "Craigieburn",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=edaf3cf3266d512b"
+    },
+    {
+      "key": "bce7537b455dde36",
+      "title": "Community Development Worker",
+      "facility_name": "Mission Australia",
+      "state": "NT",
+      "city": "Alice Springs",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=bce7537b455dde36"
+    },
+    {
+      "key": "a31170d0bc0faed0",
+      "title": "Disability Support Worker (Fulltime)",
+      "facility_name": "My Supports",
+      "state": "WA",
+      "city": "Busselton",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=a31170d0bc0faed0"
+    },
+    {
+      "key": "1b348b7ee3dae6db",
+      "title": "Arabic Speaking Home Care Worker",
+      "facility_name": "Abel Tasman Village",
+      "state": "NSW",
+      "city": "Villawood",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=1b348b7ee3dae6db"
+    },
+    {
+      "key": "f4f7b75b381c1bcf",
+      "title": "Male Disability Support Worker",
+      "facility_name": "SUPPORT NEST",
+      "state": "VIC",
+      "city": "Ashwood",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=f4f7b75b381c1bcf"
+    },
+    {
+      "key": "f7388711fdaed7cd",
+      "title": "Disability Support Worker",
+      "facility_name": "Smart Disability Care",
+      "state": "VIC",
+      "city": "Wollert",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=f7388711fdaed7cd"
+    },
+    {
+      "key": "6e2734c4e9ba417f",
+      "title": "Disability Support Worker - (Chelsea, VIC)",
+      "facility_name": "Prestige Inhome Care",
+      "state": "VIC",
+      "city": "Chelsea",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=6e2734c4e9ba417f"
+    },
+    {
+      "key": "7860bf158b5f0b63",
+      "title": "Personal Support Worker - Palmview and Surrounds",
+      "facility_name": "Spinal Life Australia",
+      "state": "QLD",
+      "city": "Palmview",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=7860bf158b5f0b63"
+    },
+    {
+      "key": "d27fb6ab255b26d2",
+      "title": "Disability Support Worker",
+      "facility_name": "Amp Up Independent Living",
+      "state": "NSW",
+      "city": "Campbelltown",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=d27fb6ab255b26d2"
+    },
+    {
+      "key": "b6c069a02d5e4c54",
+      "title": "Female Disability Support Worker – Experienced in Manual Handling",
+      "facility_name": "A3 Care Pty Ltd",
+      "state": "SA",
+      "city": "Newton",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=b6c069a02d5e4c54"
+    },
+    {
+      "key": "9989fbedd56c5341",
+      "title": "Therapeutic Residential Care Worker",
+      "facility_name": "Victorian Aboriginal Child Care Agency (VACCA)",
+      "state": "VIC",
+      "city": "Wodonga",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=9989fbedd56c5341"
+    },
+    {
+      "key": "b7a9f3c6a717af41",
+      "title": "Experienced Support Workers – Lara, VIC",
+      "facility_name": "Golden Plus Care",
+      "state": "VIC",
+      "city": "Lara",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=b7a9f3c6a717af41"
+    },
+    {
+      "key": "bb7897bb43b26f7b",
+      "title": "Family Healthcare Support Worker",
+      "facility_name": "Royal Children's Hospital",
+      "state": "VIC",
+      "city": "Parkville",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=bb7897bb43b26f7b"
+    },
+    {
+      "key": "a5b8e3f97bc079f5",
+      "title": "Support Workers",
+      "facility_name": "DH HOLISTIC CARE",
+      "state": "WA",
+      "city": "Mandurah",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=a5b8e3f97bc079f5"
+    },
+    {
+      "key": "72d69ce7da92afda",
+      "title": "Support Worker",
+      "facility_name": "Multicap",
+      "state": "QLD",
+      "city": "Logan City",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=72d69ce7da92afda"
+    },
+    {
+      "key": "532a9da8a959f27c",
+      "title": "Support Worker - TAC",
+      "facility_name": "West Wimmera Health Service",
+      "state": "VIC",
+      "city": "Kaniva",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=532a9da8a959f27c"
+    },
+    {
+      "key": "22b32869c947de17",
+      "title": "Disability Support Worker (Casual)",
+      "facility_name": "Passion Disability Support Services",
+      "state": "QLD",
+      "city": "Bundamba",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=22b32869c947de17"
+    },
+    {
+      "key": "6ffebd1d558d6a6e",
+      "title": "Mount Waverley - Disability Support Worker",
+      "facility_name": "InLife Independent Living",
+      "state": "VIC",
+      "city": "Mount Waverley",
+      "date_posted": "2026-03-01",
+      "url": "https://au.indeed.com/viewjob?jk=6ffebd1d558d6a6e"
+    },
+    {
+      "key": "82cff7a8fcbb739e",
+      "title": "Disability Support Worker with experience with Autism",
+      "facility_name": "Scribble Mental Health",
+      "state": "VIC",
+      "city": "Melton South",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=82cff7a8fcbb739e"
+    },
+    {
+      "key": "f631b417739f3012",
+      "title": "Disability Support Worker",
+      "facility_name": "All About Caring",
+      "state": "VIC",
+      "city": "South Yarra",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=f631b417739f3012"
+    },
+    {
+      "key": "8398e77bcf0efa7c",
+      "title": "Aged Care Support Worker (Home Care)",
+      "facility_name": "Living Waters Aged Care",
+      "state": "NSW",
+      "city": "Narrabeen",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=8398e77bcf0efa7c"
+    },
+    {
+      "key": "b880ae00ab575c0d",
+      "title": "Support Worker - Footscray",
+      "facility_name": "Absolute In Home Care",
+      "state": "VIC",
+      "city": "Footscray",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=b880ae00ab575c0d"
+    },
+    {
+      "key": "1aee1697dc55a9dd",
+      "title": "Team Leader (Nursing Unit Manager Level 2, Occupational Therapist/ Social Worker Level 5, Clinical Psychologist) - Assertive Outreach Team (AOT)",
+      "facility_name": "NSW Health",
+      "state": "NSW",
+      "city": "Campsie",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=1aee1697dc55a9dd"
+    },
+    {
+      "key": "7d4daf410e7e0564",
+      "title": "Support Worker – Aged Care (Vietnamese‑Speaking)",
+      "facility_name": "Unknown Facility",
+      "state": "NSW",
+      "city": "Guildford",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=7d4daf410e7e0564"
+    },
+    {
+      "key": "12d61be1c4ef2a9a",
+      "title": "Aged Care Support Worker (Home Care)",
+      "facility_name": "Living Waters Aged Care",
+      "state": "NSW",
+      "city": "Kensington",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=12d61be1c4ef2a9a"
+    },
+    {
+      "key": "b6510868ff333ce1",
+      "title": "DISABILITY SUPPORT WORKER (Northern Suburbs, Melbourne)",
+      "facility_name": "Independence Care",
+      "state": "VIC",
+      "city": "North Melbourne",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=b6510868ff333ce1"
+    },
+    {
+      "key": "64d1b7c467b0d135",
+      "title": "NDIS Support Worker (Female)",
+      "facility_name": "Glow Health Care Australia",
+      "state": "NSW",
+      "city": "Roselands",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=64d1b7c467b0d135"
+    },
+    {
+      "key": "fcba63c32e0a4f63",
+      "title": "Disability Support Worker (Casual)",
+      "facility_name": "Passion Disability Support Services",
+      "state": "QLD",
+      "city": "Springfield",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=fcba63c32e0a4f63"
+    },
+    {
+      "key": "6e7abb6a2c4408df",
+      "title": "Family Support Worker",
+      "facility_name": "DYNAMIC ACCOUNTING SOLUTIONS",
+      "state": "NSW",
+      "city": "Granville",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=6e7abb6a2c4408df"
+    },
+    {
+      "key": "674730a0488fa6b9",
+      "title": "Support Worker/Carer",
+      "facility_name": "The CareSide",
+      "state": "QLD",
+      "city": "Gracemere",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=674730a0488fa6b9"
+    },
+    {
+      "key": "03f7743f314adc51",
+      "title": "Support Worker - Supported Independent Living (SIL)",
+      "facility_name": "North West Disability Services",
+      "state": "NSW",
+      "city": "Quakers Hill",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=03f7743f314adc51"
+    },
+    {
+      "key": "578fae5e01cced40",
+      "title": "Support Worker",
+      "facility_name": "Miracle Health Services",
+      "state": "VIC",
+      "city": "Sunbury",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=578fae5e01cced40"
+    },
+    {
+      "key": "d837cedbe6c53da8",
+      "title": "Disability Support Worker- Personal Care & Community Access",
+      "facility_name": "Seven Angels Care and Support Services",
+      "state": "VIC",
+      "city": "Dandenong",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=d837cedbe6c53da8"
+    },
+    {
+      "key": "96ae21c335bc07e0",
+      "title": "Support Worker Required - Smithfield",
+      "facility_name": "ATLAS PAY GROUP PTY LTD",
+      "state": "NSW",
+      "city": "Smithfield",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=96ae21c335bc07e0"
+    },
+    {
+      "key": "e9e08fc74347389f",
+      "title": "Family Connections Support Worker",
+      "facility_name": "LiveBetter Childrens Services",
+      "state": "NSW",
+      "city": "Cowra",
+      "date_posted": "2026-03-11",
+      "url": "https://au.indeed.com/viewjob?jk=e9e08fc74347389f"
+    },
+    {
+      "key": "ab3cd548763699f8",
+      "title": "Disability Support Worker",
+      "facility_name": "SUPPORT NEST",
+      "state": "VIC",
+      "city": "Essendon",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=ab3cd548763699f8"
+    },
+    {
+      "key": "e35b479786a38658",
+      "title": "Disability Support Worker",
+      "facility_name": "SUPPORT NEST",
+      "state": "VIC",
+      "city": "Sunshine",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=e35b479786a38658"
+    },
+    {
+      "key": "9bf72ed4eebdf679",
+      "title": "Casual NDIS Support Worker – Empowering Independence in Narre Warren VIC 3805",
+      "facility_name": "Care To Heal Pty Ltd",
+      "state": "VIC",
+      "city": "Narre Warren",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=9bf72ed4eebdf679"
+    },
+    {
+      "key": "2ebd49a52bc6df41",
+      "title": "Disability Support Worker",
+      "facility_name": "AB Care Group (Australia) Pty Ltd",
+      "state": "SA",
+      "city": "Ethelton",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=2ebd49a52bc6df41"
+    },
+    {
+      "key": "c2783e0642d517dc",
+      "title": "Behaviour Support Practitioner - Flexible Role Part/Full-time - Perth",
+      "facility_name": "Kameleon Group",
+      "state": "WA",
+      "city": "Perth",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=c2783e0642d517dc"
+    },
+    {
+      "key": "a1f5c58802738833",
+      "title": "Behaviour Support Practitioner - Flexible Role Part/Full-time - Sydney",
+      "facility_name": "Kameleon Group",
+      "state": "NSW",
+      "city": "Sydney",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=a1f5c58802738833"
+    },
+    {
+      "key": "cf7f4a09877f9ea3",
+      "title": "Disability Support Worker",
+      "facility_name": "Ausability Care Services",
+      "state": "NSW",
+      "city": "Pendle Hill",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=cf7f4a09877f9ea3"
+    },
+    {
+      "key": "1c491118e7c76e4c",
+      "title": "Female Tagalog-Speaking Support Worker (Parramatta, NSW)",
+      "facility_name": "Montessori Care",
+      "state": "NSW",
+      "city": "Parramatta",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=1c491118e7c76e4c"
+    },
+    {
+      "key": "2331da5ec2bbfb37",
+      "title": "Disability Support Worker (Casual)",
+      "facility_name": "Phenomenal Health Care Australia",
+      "state": "NSW",
+      "city": "Hornsby",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=2331da5ec2bbfb37"
+    },
+    {
+      "key": "a421c4fd8b5ba9a7",
+      "title": "Disability Support Worker",
+      "facility_name": "Gtec Training and Development Pty Ltd",
+      "state": "QLD",
+      "city": "Townsville",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=a421c4fd8b5ba9a7"
+    },
+    {
+      "key": "f692a704e702ff9c",
+      "title": "Disability Support Worker- Personal Care & Community Access",
+      "facility_name": "Seven Angels Care and Support Services",
+      "state": "VIC",
+      "city": "Mulgrave",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=f692a704e702ff9c"
+    },
+    {
+      "key": "506f6d783087f597",
+      "title": "Disability Support Worker- Personal Care & Community Access",
+      "facility_name": "Seven Angels Care and Support Services",
+      "state": "VIC",
+      "city": "Notting Hill",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=506f6d783087f597"
+    },
+    {
+      "key": "d79a9a8913dd5761",
+      "title": "Support Worker",
+      "facility_name": "Wellcare Australia",
+      "state": "NSW",
+      "city": "Sunshine Bay",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=d79a9a8913dd5761"
+    },
+    {
+      "key": "ef846b12e73b5ed1",
+      "title": "Peer Support Worker",
+      "facility_name": "Queensland Government",
+      "state": "QLD",
+      "city": "Toowoomba",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=ef846b12e73b5ed1"
+    },
+    {
+      "key": "7069cc4d18e9939b",
+      "title": "Disability Support Worker- Personal Care & Community Access",
+      "facility_name": "Seven Angels Care and Support Services",
+      "state": "VIC",
+      "city": "Springvale",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=7069cc4d18e9939b"
+    },
+    {
+      "key": "9a1a7e2d25ec44b0",
+      "title": "Casual Support Worker (Sleepover Shifts)",
+      "facility_name": "Cosy Home and Community Care",
+      "state": "VIC",
+      "city": "Kalkallo",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=9a1a7e2d25ec44b0"
+    },
+    {
+      "key": "a4ca54eb57271eef",
+      "title": "Disability Support Worker- Personal Care & Community Access",
+      "facility_name": "Seven Angels Care and Support Services",
+      "state": "VIC",
+      "city": "Huntingdale",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=a4ca54eb57271eef"
+    },
+    {
+      "key": "3140c1e812d7731f",
+      "title": "Disability Support Worker- Personal Care & Community Access",
+      "facility_name": "Seven Angels Care and Support Services",
+      "state": "VIC",
+      "city": "Oakleigh",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=3140c1e812d7731f"
+    },
+    {
+      "key": "5617f5a3f82dcda2",
+      "title": "Home Care Worker",
+      "facility_name": "Silverchain",
+      "state": "QLD",
+      "city": "Merrimac",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=5617f5a3f82dcda2"
+    },
+    {
+      "key": "9afd086b9b77a1da",
+      "title": "Female Disability Support Worker - Toowoomba",
+      "facility_name": "Carefinity",
+      "state": "QLD",
+      "city": "Toowoomba",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=9afd086b9b77a1da"
+    },
+    {
+      "key": "5f72ac06663df709",
+      "title": "Home Care Worker",
+      "facility_name": "Silverchain",
+      "state": "NSW",
+      "city": "Harrington",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=5f72ac06663df709"
+    },
+    {
+      "key": "a15a3ffa5a96e45e",
+      "title": "Trainee Aged Care Workers (home care) - Northern Beaches area",
+      "facility_name": "Ternary",
+      "state": "NSW",
+      "city": "Narrabeen",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=a15a3ffa5a96e45e"
+    },
+    {
+      "key": "5eabbf6951f7b43b",
+      "title": "Trainee Aged Care Workers (home care) - Manley area",
+      "facility_name": "Ternary",
+      "state": "NSW",
+      "city": "Manly",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=5eabbf6951f7b43b"
+    },
+    {
+      "key": "d6f178474c2acb4d",
+      "title": "Support Worker/Driver",
+      "facility_name": "Able to Thrive",
+      "state": "NSW",
+      "city": "Kingsford",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=d6f178474c2acb4d"
+    },
+    {
+      "key": "97d648e7de3acab2",
+      "title": "Female Disability Support Worker (Casual) – Brunswick",
+      "facility_name": "Absolute Support Care Pty Ltd",
+      "state": "VIC",
+      "city": "Brunswick",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=97d648e7de3acab2"
+    },
+    {
+      "key": "123a6cd57a4bb98b",
+      "title": "Support Worker/Driver",
+      "facility_name": "Able to Thrive",
+      "state": "NSW",
+      "city": "Sutherland",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=123a6cd57a4bb98b"
+    },
+    {
+      "key": "156efce577ebd350",
+      "title": "Support Worker/Driver",
+      "facility_name": "Able to Thrive",
+      "state": "NSW",
+      "city": "The Ponds",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=156efce577ebd350"
+    },
+    {
+      "key": "3e212578ca446d09",
+      "title": "Disability Support Worker | CitiReach",
+      "facility_name": "Unknown Facility",
+      "state": "UNKNOWN",
+      "city": "",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=3e212578ca446d09"
+    },
+    {
+      "key": "60edaa930a5aff00",
+      "title": "Support Workers- Male",
+      "facility_name": "Prana Pathways Australia Pty Ltd",
+      "state": "VIC",
+      "city": "Melbourne",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=60edaa930a5aff00"
+    },
+    {
+      "key": "e5bf933efba10470",
+      "title": "Support Worker - Mounties Care",
+      "facility_name": "Mounties Care",
+      "state": "NSW",
+      "city": "Freshwater",
+      "date_posted": "2026-03-08",
+      "url": "https://au.indeed.com/viewjob?jk=e5bf933efba10470"
+    },
+    {
+      "key": "9c831301935af103",
+      "title": "Community Service Worker (Recovery Program)",
+      "facility_name": "Housing Choices Australia",
+      "state": "SA",
+      "city": "",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=9c831301935af103"
+    },
+    {
+      "key": "007ae9e846cb2ba0",
+      "title": "Male Aboriginal Health Worker - Aboriginal Palliative Care and Cancer Services - Perm FT",
+      "facility_name": "NSW Government",
+      "state": "NSW",
+      "city": "Sydney Western Suburbs",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=007ae9e846cb2ba0"
+    },
+    {
+      "key": "b23dc0d032e84499",
+      "title": "Male Aboriginal Health Worker - Aboriginal Palliative Care and Cancer Services - Perm FT",
+      "facility_name": "NSW Health",
+      "state": "NSW",
+      "city": "Warwick Farm",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=b23dc0d032e84499"
+    },
+    {
+      "key": "a6d2b46000a6d691",
+      "title": "Aboriginal Health Worker - Transition to Practice - Community Connector",
+      "facility_name": "NSW Health",
+      "state": "NSW",
+      "city": "Dubbo",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=a6d2b46000a6d691"
+    },
+    {
+      "key": "0c47ed9193a6ea1a",
+      "title": "Disability Support Worker (Female Only)",
+      "facility_name": "Unknown Facility",
+      "state": "NSW",
+      "city": "Dubbo",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=0c47ed9193a6ea1a"
+    },
+    {
+      "key": "bb82fada1c78f468",
+      "title": "Aboriginal and Torres Strait Islander Community Liaison Worker (Identified)",
+      "facility_name": "Queensland Government",
+      "state": "QLD",
+      "city": "Brisbane",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=bb82fada1c78f468"
+    },
+    {
+      "key": "1147fb84fa620025",
+      "title": "Disability Support Worker",
+      "facility_name": "Unknown Facility",
+      "state": "VIC",
+      "city": "Bayswater",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=1147fb84fa620025"
+    },
+    {
+      "key": "0de4f7c731ad5d24",
+      "title": "NDIS Support Worker Wanted - Melbourne Vic",
+      "facility_name": "KB7 CARE",
+      "state": "VIC",
+      "city": "Melbourne",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=0de4f7c731ad5d24"
+    },
+    {
+      "key": "354effca99e1df72",
+      "title": "Support Worker (Casual) – Competitive Pay + Superannuation",
+      "facility_name": "Nursehands Support Services Australia Pty Ltd",
+      "state": "VIC",
+      "city": "Melbourne",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=354effca99e1df72"
+    },
+    {
+      "key": "af420085f9a66de3",
+      "title": "Personal Support Worker",
+      "facility_name": "Arcare Aged Care",
+      "state": "VIC",
+      "city": "Epping",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=af420085f9a66de3"
+    },
+    {
+      "key": "b979ff94b691df00",
+      "title": "Disability Support Worker (Casual)",
+      "facility_name": "HERE TO HELP HOME CARE",
+      "state": "QLD",
+      "city": "Mount Sheridan",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=b979ff94b691df00"
+    },
+    {
+      "key": "6946a6e105de69cc",
+      "title": "Forensic Behaviour Support Practitioner",
+      "facility_name": "SAL Consulting",
+      "state": "WA",
+      "city": "Perth",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=6946a6e105de69cc"
+    },
+    {
+      "key": "b2181df9a7b20774",
+      "title": "Support Worker - Gunnedah",
+      "facility_name": "Uniting",
+      "state": "NSW",
+      "city": "Gunnedah",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=b2181df9a7b20774"
+    },
+    {
+      "key": "a06c8d133d733454",
+      "title": "Support Worker - Leichhardt and surrounding suburbs",
+      "facility_name": "Catholic Healthcare Limited",
+      "state": "NSW",
+      "city": "Leichhardt",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=a06c8d133d733454"
+    },
+    {
+      "key": "fb5c803f5251d7d9",
+      "title": "Therapeutic Residential Care Worker",
+      "facility_name": "Victorian Aboriginal Child Care Agency (VACCA)",
+      "state": "VIC",
+      "city": "Wodonga",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=fb5c803f5251d7d9"
+    },
+    {
+      "key": "c1522a0eec84f266",
+      "title": "Support Worker - URGENT start",
+      "facility_name": "One Hope Home Care",
+      "state": "NSW",
+      "city": "Maroubra",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=c1522a0eec84f266"
+    },
+    {
+      "key": "3dd1b4d3224bafe5",
+      "title": "Support Worker - Mandurah and surrounds",
+      "facility_name": "Silverchain",
+      "state": "WA",
+      "city": "South West",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=3dd1b4d3224bafe5"
+    },
+    {
+      "key": "8f38f70ff46ab918",
+      "title": "Home Care Worker",
+      "facility_name": "Silverchain",
+      "state": "VIC",
+      "city": "Seabrook",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=8f38f70ff46ab918"
+    },
+    {
+      "key": "6006f982288d35f3",
+      "title": "Support Worker",
+      "facility_name": "Silverchain",
+      "state": "WA",
+      "city": "Mandurah",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=6006f982288d35f3"
+    },
+    {
+      "key": "d91343cbbd90d6e3",
+      "title": "Support Worker - Greenfields, Pinjarra and surrounds",
+      "facility_name": "Silverchain",
+      "state": "WA",
+      "city": "South West",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=d91343cbbd90d6e3"
+    },
+    {
+      "key": "08064fec9c26ff23",
+      "title": "Case Worker Housing Support",
+      "facility_name": "Catholic Care",
+      "state": "NT",
+      "city": "Katherine",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=08064fec9c26ff23"
+    },
+    {
+      "key": "6451ec98385bfc98",
+      "title": "Support Worker - Caboolture",
+      "facility_name": "Multiple Sclerosis Society of Queensland",
+      "state": "QLD",
+      "city": "Caboolture",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=6451ec98385bfc98"
+    },
+    {
+      "key": "369eb7d9d99c5f67",
+      "title": "Support Worker – Domestic Assistance",
+      "facility_name": "ASISTE Nursing Australia",
+      "state": "VIC",
+      "city": "Broadford",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=369eb7d9d99c5f67"
+    },
+    {
+      "key": "243fa8cea6888277",
+      "title": "Disability Support Worker - Victor Harbour",
+      "facility_name": "BET group Global",
+      "state": "SA",
+      "city": "Victor Harbour",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=243fa8cea6888277"
+    },
+    {
+      "key": "92c23e6444bab1f7",
+      "title": "Disability Support Worker (Casual)",
+      "facility_name": "Elevo Care",
+      "state": "VIC",
+      "city": "Frankston",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=92c23e6444bab1f7"
+    },
+    {
+      "key": "fbc8fa5fc9074756",
+      "title": "Experienced Female Support Worker",
+      "facility_name": "Conexson",
+      "state": "QLD",
+      "city": "Tewantin",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=fbc8fa5fc9074756"
+    },
+    {
+      "key": "9fab42da7b67b7a9",
+      "title": "Victim Support Worker",
+      "facility_name": "Department of Justice and Community Safety",
+      "state": "VIC",
+      "city": "Melbourne City Centre",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=9fab42da7b67b7a9"
+    },
+    {
+      "key": "f263fcb0a9f92495",
+      "title": "Disability Support Worker",
+      "facility_name": "No Limits Care",
+      "state": "VIC",
+      "city": "Tarneit",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=f263fcb0a9f92495"
+    },
+    {
+      "key": "0a522ab9475ad808",
+      "title": "Support Worker",
+      "facility_name": "CareVicinity",
+      "state": "QLD",
+      "city": "Strathpine",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=0a522ab9475ad808"
+    },
+    {
+      "key": "8bed9b16412e0b97",
+      "title": "Support Worker/Carer",
+      "facility_name": "The CareSide",
+      "state": "NSW",
+      "city": "Gilead",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=8bed9b16412e0b97"
+    },
+    {
+      "key": "3bb80baaeef6cdc6",
+      "title": "Disability Support Worker (Casual) - Western Sydney & Blue Mountains",
+      "facility_name": "Lime Rainbow",
+      "state": "NSW",
+      "city": "Blue Mountains",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=3bb80baaeef6cdc6"
+    },
+    {
+      "key": "5eba2d8fbef48429",
+      "title": "Support Worker",
+      "facility_name": "CareVicinity",
+      "state": "VIC",
+      "city": "Coburg North",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=5eba2d8fbef48429"
+    },
+    {
+      "key": "e892b3b10e18b182",
+      "title": "Support Worker",
+      "facility_name": "CareVicinity",
+      "state": "QLD",
+      "city": "Mudgeeraba",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=e892b3b10e18b182"
+    },
+    {
+      "key": "ccaad21e3a9a81cc",
+      "title": "Support Worker",
+      "facility_name": "CareVicinity",
+      "state": "QLD",
+      "city": "Harristown",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=ccaad21e3a9a81cc"
+    },
+    {
+      "key": "0c83da05faff7d07",
+      "title": "Support Worker",
+      "facility_name": "CareVicinity",
+      "state": "QLD",
+      "city": "Hervey Bay",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=0c83da05faff7d07"
+    },
+    {
+      "key": "c36f71094e5afa4b",
+      "title": "Support Worker",
+      "facility_name": "CareVicinity",
+      "state": "QLD",
+      "city": "Mount Sheridan",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=c36f71094e5afa4b"
+    },
+    {
+      "key": "f1eca18e11f1d955",
+      "title": "Casual Community Disability Support Worker",
+      "facility_name": "SACARE",
+      "state": "SA",
+      "city": "Adelaide",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=f1eca18e11f1d955"
+    },
+    {
+      "key": "362b9bdfe001deb4",
+      "title": "Home Care Support Worker at Dromana",
+      "facility_name": "Faithworks Care Services",
+      "state": "VIC",
+      "city": "Dromana",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=362b9bdfe001deb4"
+    },
+    {
+      "key": "624f051fbaa0e877",
+      "title": "Home Care Support Worker",
+      "facility_name": "Faithworks Care Services",
+      "state": "VIC",
+      "city": "Greensborough",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=624f051fbaa0e877"
+    },
+    {
+      "key": "d4aa2cf607fbce84",
+      "title": "Casual Support Worker",
+      "facility_name": "Cosy Home and Community Care",
+      "state": "VIC",
+      "city": "Laverton",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=d4aa2cf607fbce84"
+    },
+    {
+      "key": "b41173fff73854ce",
+      "title": "Disability Support Worker",
+      "facility_name": "Monash Homecare",
+      "state": "VIC",
+      "city": "Croydon",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=b41173fff73854ce"
+    },
+    {
+      "key": "bb3690c214011511",
+      "title": "Victim Support Worker",
+      "facility_name": "Department of Justice and Community Safety",
+      "state": "VIC",
+      "city": "Melbourne",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=bb3690c214011511"
+    },
+    {
+      "key": "692864c7ed8a7914",
+      "title": "Home Care Worker",
+      "facility_name": "Silverchain",
+      "state": "VIC",
+      "city": "Collingwood",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=692864c7ed8a7914"
+    },
+    {
+      "key": "eb0b7d3d9dc5b149",
+      "title": "Home Care Worker",
+      "facility_name": "Silverchain",
+      "state": "VIC",
+      "city": "Seabrook",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=eb0b7d3d9dc5b149"
+    },
+    {
+      "key": "7d37b7c418ae73f4",
+      "title": "Male Personal Care Support Worker Location: Constitution Hill,",
+      "facility_name": "Community Home Care Service",
+      "state": "NSW",
+      "city": "Constitution Hill",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=7d37b7c418ae73f4"
+    },
+    {
+      "key": "c8f2974927c88e19",
+      "title": "Disability Support Worker - Mayfield",
+      "facility_name": "Nextt Group Pty Ltd",
+      "state": "NSW",
+      "city": "Mayfield",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=c8f2974927c88e19"
+    },
+    {
+      "key": "d83239c08a07efb8",
+      "title": "Personal Support Worker - Bowen Hills & Surrounds",
+      "facility_name": "Spinal Life Australia",
+      "state": "QLD",
+      "city": "Bowen Hills",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=d83239c08a07efb8"
+    },
+    {
+      "key": "9fae68b068b35c94",
+      "title": "Home Care Worker",
+      "facility_name": "Silverchain",
+      "state": "NSW",
+      "city": "Blacktown",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=9fae68b068b35c94"
+    },
+    {
+      "key": "43e8bf1fd251bf7b",
+      "title": "Personal Support Worker",
+      "facility_name": "Arcare Aged Care",
+      "state": "VIC",
+      "city": "Castlemaine",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=43e8bf1fd251bf7b"
+    },
+    {
+      "key": "f644e52a4eed7897",
+      "title": "Personal Support Worker",
+      "facility_name": "Arcare Aged Care",
+      "state": "QLD",
+      "city": "Parkwood",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=f644e52a4eed7897"
+    },
+    {
+      "key": "ebbf57079f043c69",
+      "title": "Support Worker",
+      "facility_name": "Endeavour Foundation",
+      "state": "QLD",
+      "city": "Hervey Bay",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=ebbf57079f043c69"
+    },
+    {
+      "key": "597004d53747240d",
+      "title": "Female Casual Disability Support Worker My Disability Care – Fraser coast, QLD 4655",
+      "facility_name": "Disability Care Pty Ltd",
+      "state": "QLD",
+      "city": "Maryborough",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=597004d53747240d"
+    },
+    {
+      "key": "772476bc872e71cf",
+      "title": "Disability Support Worker",
+      "facility_name": "Resilient Disability Services",
+      "state": "VIC",
+      "city": "Wangaratta",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=772476bc872e71cf"
+    },
+    {
+      "key": "a736508126f8561f",
+      "title": "Support Worker Childrens Services",
+      "facility_name": "Aruma",
+      "state": "QLD",
+      "city": "Townsville",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=a736508126f8561f"
+    },
+    {
+      "key": "5a79d82a4436dbed",
+      "title": "Support Worker Childrens Service",
+      "facility_name": "Aruma",
+      "state": "QLD",
+      "city": "Mackay",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=5a79d82a4436dbed"
+    },
+    {
+      "key": "6f97da6f5ff9a8e4",
+      "title": "Support Worker - Community - South Melbourne",
+      "facility_name": "Claro Disability Services",
+      "state": "VIC",
+      "city": "South Melbourne",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=6f97da6f5ff9a8e4"
+    },
+    {
+      "key": "28d165f342d0c149",
+      "title": "Residential Support Worker",
+      "facility_name": "Stride",
+      "state": "NSW",
+      "city": "Ashfield",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=28d165f342d0c149"
+    },
+    {
+      "key": "8238b394c3852932",
+      "title": "Behaviour Support Practitioner - Hybrid",
+      "facility_name": "Aruma",
+      "state": "NSW",
+      "city": "Parramatta",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=8238b394c3852932"
+    },
+    {
+      "key": "661d3f8e6a7b9f49",
+      "title": "Behaviour Support Practitioner - Hybrid",
+      "facility_name": "Aruma",
+      "state": "VIC",
+      "city": "Swan Hill",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=661d3f8e6a7b9f49"
+    },
+    {
+      "key": "cc5ea1766292f3cb",
+      "title": "Disability Support Worker",
+      "facility_name": "Monash Homecare",
+      "state": "WA",
+      "city": "Kalgoorlie",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=cc5ea1766292f3cb"
+    },
+    {
+      "key": "e5d001265d7cad69",
+      "title": "Disability Support Worker",
+      "facility_name": "Real Care Disability",
+      "state": "VIC",
+      "city": "Romsey",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=e5d001265d7cad69"
+    },
+    {
+      "key": "6bc5ff4b4348ae26",
+      "title": "Permanent Part-Time (20hrs per Fortnight) Home Care Workers – Western Aged Care – Wagga Wagga & Surrounding Region",
+      "facility_name": "valmar",
+      "state": "UNKNOWN",
+      "city": "",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=6bc5ff4b4348ae26"
+    },
+    {
+      "key": "cb3b246f5abc69cf",
+      "title": "Disability Support Worker",
+      "facility_name": "Southern Cross Community Healthcare",
+      "state": "NSW",
+      "city": "Nowra",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=cb3b246f5abc69cf"
+    },
+    {
+      "key": "4c8146bc6f96077e",
+      "title": "Disability Support Worker (DSW)",
+      "facility_name": "Discover Nursing Australia",
+      "state": "NSW",
+      "city": "Batehaven",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=4c8146bc6f96077e"
+    },
+    {
+      "key": "fc86782420fc4e2a",
+      "title": "Disability Support Worker (female) - Hornsby & West Pymble",
+      "facility_name": "Nextt Group Pty Ltd",
+      "state": "NSW",
+      "city": "West Pymble",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=fc86782420fc4e2a"
+    },
+    {
+      "key": "a001a9c9a72ed52d",
+      "title": "Disability Support Worker (Casual)",
+      "facility_name": "Partnercare Australia",
+      "state": "WA",
+      "city": "Mandurah",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=a001a9c9a72ed52d"
+    },
+    {
+      "key": "dec4c66253409fdf",
+      "title": "Male NDIS Support Worker (Strathfield, NSW)",
+      "facility_name": "Montessori Care",
+      "state": "NSW",
+      "city": "Strathfield",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=dec4c66253409fdf"
+    },
+    {
+      "key": "49cb1359f1e71941",
+      "title": "Disability Support Worker (Casual)",
+      "facility_name": "Manaaki",
+      "state": "NSW",
+      "city": "Central Coast",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=49cb1359f1e71941"
+    },
+    {
+      "key": "01c9c389c2c562fa",
+      "title": "Residential Support Worker",
+      "facility_name": "Anglicare Central Queensland",
+      "state": "QLD",
+      "city": "Gladstone",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=01c9c389c2c562fa"
+    },
+    {
+      "key": "9a610b0b476ef852",
+      "title": "Disability Support Worker (Female Preferred)",
+      "facility_name": "Easy iCare",
+      "state": "VIC",
+      "city": "Newport",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=9a610b0b476ef852"
+    },
+    {
+      "key": "3f9507ed53c5566d",
+      "title": "Disability Support Worker (Casual)",
+      "facility_name": "Manaaki",
+      "state": "NSW",
+      "city": "Morisset",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=3f9507ed53c5566d"
+    },
+    {
+      "key": "50b082a66df4aafa",
+      "title": "Aged Cared / Disability Support worker",
+      "facility_name": "Care Tribe Services Pty Ltd",
+      "state": "VIC",
+      "city": "Tinamba",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=50b082a66df4aafa"
+    },
+    {
+      "key": "79667043adb6e1a5",
+      "title": "Residential Support Worker",
+      "facility_name": "MercyCare",
+      "state": "WA",
+      "city": "Broome",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=79667043adb6e1a5"
+    },
+    {
+      "key": "905e8d0560c824ec",
+      "title": "Disability Support Worker",
+      "facility_name": "Irena care",
+      "state": "VIC",
+      "city": "Shepparton",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=905e8d0560c824ec"
+    },
+    {
+      "key": "b720e572e682c7d0",
+      "title": "Female Casual Disability Support Worker My Disability Care – Fraser coast, QLD 4655",
+      "facility_name": "Disability Care Pty Ltd",
+      "state": "QLD",
+      "city": "Hervey Bay",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=b720e572e682c7d0"
+    },
+    {
+      "key": "22e6a49999f09a42",
+      "title": "SUPPORT WORKER/ CAREGIVER (Brisbane Northside & Moreton Bay",
+      "facility_name": "Nurse Next Door Brisbane North West",
+      "state": "QLD",
+      "city": "Brisbane",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=22e6a49999f09a42"
+    },
+    {
+      "key": "99d4a14cf7c30d8b",
+      "title": "Social and Emotional Wellbeing Support Worker",
+      "facility_name": "Mallee District Aboriginal Services",
+      "state": "VIC",
+      "city": "Swan Hill",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=99d4a14cf7c30d8b"
+    },
+    {
+      "key": "db5ecc125b113c8f",
+      "title": "Direct Support Worker (Arts)",
+      "facility_name": "CPL - Choice, Passion, Life",
+      "state": "QLD",
+      "city": "Yeronga",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=db5ecc125b113c8f"
+    },
+    {
+      "key": "1a466a03c4d77270",
+      "title": "Womensline-Counsellor Support Worker",
+      "facility_name": "DVConnect",
+      "state": "QLD",
+      "city": "Brisbane",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=1a466a03c4d77270"
+    },
+    {
+      "key": "8ecf11df649ba113",
+      "title": "Disability Support Worker",
+      "facility_name": "EmpowerU",
+      "state": "NSW",
+      "city": "Penrith",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=8ecf11df649ba113"
+    },
+    {
+      "key": "3c7450899aad089b",
+      "title": "Key Worker / Support Team Lead",
+      "facility_name": "Our Future Focus",
+      "state": "QLD",
+      "city": "Karalee",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=3c7450899aad089b"
+    },
+    {
+      "key": "24dedb7df1c74eca",
+      "title": "Disability Support Worker- Personal Care & Community Access",
+      "facility_name": "Seven Angels Care and Support Services",
+      "state": "VIC",
+      "city": "Clayton",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=24dedb7df1c74eca"
+    },
+    {
+      "key": "be6601a51ce30192",
+      "title": "Disability Support Worker - Gold Coast",
+      "facility_name": "Carefinity",
+      "state": "QLD",
+      "city": "Gold Coast",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=be6601a51ce30192"
+    },
+    {
+      "key": "eebba75c8720c427",
+      "title": "Disability Support Worker (Fulltime)",
+      "facility_name": "My Supports",
+      "state": "WA",
+      "city": "Bullsbrook",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=eebba75c8720c427"
+    },
+    {
+      "key": "2487d5e89d0092af",
+      "title": "Support Worker – NDIS Community Support (Nedlands)",
+      "facility_name": "Boutique Disability Services",
+      "state": "WA",
+      "city": "Nedlands",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=2487d5e89d0092af"
+    },
+    {
+      "key": "0ee91b07520777b7",
+      "title": "Disability Support Worker",
+      "facility_name": "Unknown Facility",
+      "state": "WA",
+      "city": "Welshpool",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=0ee91b07520777b7"
+    },
+    {
+      "key": "863a357337b8c247",
+      "title": "Support Worker – NDIS Social & Community Access + Personal Care",
+      "facility_name": "Boutique Disability Services",
+      "state": "WA",
+      "city": "Rockingham",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=863a357337b8c247"
+    },
+    {
+      "key": "949a37db9b415c19",
+      "title": "Disability Support Worker",
+      "facility_name": "Achieve Australia",
+      "state": "NSW",
+      "city": "Ryde",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=949a37db9b415c19"
+    },
+    {
+      "key": "6f8959c0aa8e987e",
+      "title": "Support Worker (Female)",
+      "facility_name": "Home Caring Loganlea",
+      "state": "QLD",
+      "city": "Coomera",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=6f8959c0aa8e987e"
+    },
+    {
+      "key": "b9f3c4672458d5c4",
+      "title": "SUPPORT WORKER FEMALES ONLY",
+      "facility_name": "Home Caring Loganlea",
+      "state": "QLD",
+      "city": "Gold Coast",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=b9f3c4672458d5c4"
+    },
+    {
+      "key": "f06c850f89b9ee18",
+      "title": "Disability Support Worker",
+      "facility_name": "SUPPORT NEST",
+      "state": "VIC",
+      "city": "Fawkner",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=f06c850f89b9ee18"
+    },
+    {
+      "key": "2610802ee4d0ef50",
+      "title": "Disability Support Worker (Casual)",
+      "facility_name": "Joy home care",
+      "state": "VIC",
+      "city": "Hampton East",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=2610802ee4d0ef50"
+    },
+    {
+      "key": "bff26218fbcadfdd",
+      "title": "Disability Support Worker",
+      "facility_name": "Invisible Supports",
+      "state": "NSW",
+      "city": "Bondi Junction",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=bff26218fbcadfdd"
+    },
+    {
+      "key": "bf4d4b9b41ee8d1f",
+      "title": "Disability Support Worker",
+      "facility_name": "Invisible Supports",
+      "state": "VIC",
+      "city": "Seaford",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=bf4d4b9b41ee8d1f"
+    },
+    {
+      "key": "c902cb9dfcf33859",
+      "title": "Community Worker",
+      "facility_name": "Project Possible",
+      "state": "QLD",
+      "city": "Brisbane",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=c902cb9dfcf33859"
+    },
+    {
+      "key": "679a2d27ad4e60b5",
+      "title": "Support Worker",
+      "facility_name": "Bos Home Maintenance",
+      "state": "QLD",
+      "city": "Lutwyche",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=679a2d27ad4e60b5"
+    },
+    {
+      "key": "bd3a637578e70faa",
+      "title": "Residential Support Worker – Granville",
+      "facility_name": "Flintwood Disability Services Ltd",
+      "state": "NSW",
+      "city": "Granville",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=bd3a637578e70faa"
+    },
+    {
+      "key": "d6a0d60768a90d9f",
+      "title": "Community Support Worker – Pennant Hills, Day Program",
+      "facility_name": "Flintwood Disability Services Ltd",
+      "state": "NSW",
+      "city": "Pennant Hills",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=d6a0d60768a90d9f"
+    },
+    {
+      "key": "1d58f9e7e1779ec0",
+      "title": "Community Support Worker – Harris Park, Day Program",
+      "facility_name": "Flintwood Disability Services Ltd",
+      "state": "NSW",
+      "city": "Harris Park",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=1d58f9e7e1779ec0"
+    },
+    {
+      "key": "cae302f6037cc2ab",
+      "title": "Community Support Worker - Penrith, Day Program",
+      "facility_name": "Flintwood Disability Services Ltd",
+      "state": "NSW",
+      "city": "Penrith",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=cae302f6037cc2ab"
+    },
+    {
+      "key": "c31d806ca6975390",
+      "title": "Support Worker for Disability and Aged Care - Epping, Thomastown, Lalor and Wollert VIC areas ONLY",
+      "facility_name": "Esse Care",
+      "state": "VIC",
+      "city": "Epping",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=c31d806ca6975390"
+    },
+    {
+      "key": "d802b5b9428f16a8",
+      "title": "In-Home Care - Support Worker (Aged Care)",
+      "facility_name": "Just Better Care",
+      "state": "SA",
+      "city": "",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=d802b5b9428f16a8"
+    },
+    {
+      "key": "5cb6f7d6b7b6fc91",
+      "title": "Early Years Family Support Worker",
+      "facility_name": "South Burnett CTC",
+      "state": "QLD",
+      "city": "Kingaroy",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=5cb6f7d6b7b6fc91"
+    },
+    {
+      "key": "4ae6996b8bcf146f",
+      "title": "Disability Support Worker (Male)",
+      "facility_name": "Ausnew",
+      "state": "NSW",
+      "city": "Schofields",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=4ae6996b8bcf146f"
+    },
+    {
+      "key": "55c3d39a41d30b13",
+      "title": "Home Care Support Worker",
+      "facility_name": "One Care",
+      "state": "TAS",
+      "city": "Burnie",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=55c3d39a41d30b13"
+    },
+    {
+      "key": "c805c5b57a4f0226",
+      "title": "Home Care Support Worker",
+      "facility_name": "One Care",
+      "state": "TAS",
+      "city": "Launceston",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=c805c5b57a4f0226"
+    },
+    {
+      "key": "dc4f30ab06867319",
+      "title": "Home Care Worker",
+      "facility_name": "LiveBetter Aged Care",
+      "state": "NSW",
+      "city": "Wagga Wagga",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=dc4f30ab06867319"
+    },
+    {
+      "key": "0c9ad66fb7210cf9",
+      "title": "Home Care Worker",
+      "facility_name": "LiveBetter Aged Care",
+      "state": "NSW",
+      "city": "Dubbo",
+      "date_posted": "2026-03-10",
+      "url": "https://au.indeed.com/viewjob?jk=0c9ad66fb7210cf9"
+    },
+    {
+      "key": "103e839b6933004a",
+      "title": "Community Support Worker",
+      "facility_name": "Finders Keepers WA PTY LTD",
+      "state": "WA",
+      "city": "Fremantle",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=103e839b6933004a"
+    },
+    {
+      "key": "ddfe298da0c9ec2c",
+      "title": "Disability Support Worker",
+      "facility_name": "Community care Links services",
+      "state": "QLD",
+      "city": "Gold Coast",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=ddfe298da0c9ec2c"
+    },
+    {
+      "key": "d150d340056583cb",
+      "title": "Complex Mental Health Support Worker",
+      "facility_name": "You Connect",
+      "state": "NSW",
+      "city": "Newcastle",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=d150d340056583cb"
+    },
+    {
+      "key": "e36d0d6af2c9af05",
+      "title": "Male Disability Support Worker (Casual)",
+      "facility_name": "Passion Disability Support Services",
+      "state": "QLD",
+      "city": "Burpengary",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=e36d0d6af2c9af05"
+    },
+    {
+      "key": "52b51a965fd05cf8",
+      "title": "Personal Support Worker - Brighton and Surrounds",
+      "facility_name": "Spinal Life Australia",
+      "state": "QLD",
+      "city": "Brighton",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=52b51a965fd05cf8"
+    },
+    {
+      "key": "3bfd62d09c9831f6",
+      "title": "Casual Disability Support Worker",
+      "facility_name": "Waves of Ability",
+      "state": "NSW",
+      "city": "Cronulla",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=3bfd62d09c9831f6"
+    },
+    {
+      "key": "bba8f84971a3785e",
+      "title": "Disability Support Worker - Langwarrin DS25112402",
+      "facility_name": "Lifestyle Centred Services",
+      "state": "VIC",
+      "city": "Langwarrin",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=bba8f84971a3785e"
+    },
+    {
+      "key": "8644fac1cb8ab201",
+      "title": "Disability Support Worker - Balwyn North DS25112601",
+      "facility_name": "Lifestyle Centred Services",
+      "state": "VIC",
+      "city": "Balwyn North",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=8644fac1cb8ab201"
+    },
+    {
+      "key": "5a8f28c6497ca73e",
+      "title": "Disability Support Worker - Doncaster East DS25112701",
+      "facility_name": "Lifestyle Centred Services",
+      "state": "VIC",
+      "city": "Doncaster East",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=5a8f28c6497ca73e"
+    },
+    {
+      "key": "3b400fa599eee07a",
+      "title": "Disability Support Worker - Endeavour Hills DS25120101",
+      "facility_name": "Lifestyle Centred Services",
+      "state": "VIC",
+      "city": "Endeavour Hills",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=3b400fa599eee07a"
+    },
+    {
+      "key": "0bf7d5d22cf54b71",
+      "title": "Residential Youth Worker",
+      "facility_name": "Anglicare Victoria",
+      "state": "VIC",
+      "city": "Hotham Hill",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=0bf7d5d22cf54b71"
+    },
+    {
+      "key": "e1cce134f07d211b",
+      "title": "Support Worker",
+      "facility_name": "Unknown Facility",
+      "state": "VIC",
+      "city": "Seville East",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=e1cce134f07d211b"
+    },
+    {
+      "key": "f667e9203beea777",
+      "title": "Disability Support Worker with experience with Autism",
+      "facility_name": "Scribble Mental Health",
+      "state": "VIC",
+      "city": "Tarneit",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=f667e9203beea777"
+    },
+    {
+      "key": "b3dbc67c676982c7",
+      "title": "Community/Disability Support Worker",
+      "facility_name": "Advantage Healthcare Support Nursing Agency",
+      "state": "NSW",
+      "city": "Jordan Springs",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=b3dbc67c676982c7"
+    },
+    {
+      "key": "2e55b33e6f777538",
+      "title": "Community Support Worker - Mounties Care",
+      "facility_name": "Mounties Care",
+      "state": "QLD",
+      "city": "Logan City",
+      "date_posted": "2026-03-07",
+      "url": "https://au.indeed.com/viewjob?jk=2e55b33e6f777538"
+    },
+    {
+      "key": "2dcec4fed81a7c5e",
+      "title": "Disability Support Worker- Female",
+      "facility_name": "Serena Care",
+      "state": "VIC",
+      "city": "Doveton",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=2dcec4fed81a7c5e"
+    },
+    {
+      "key": "0a2eb860b11b2ba8",
+      "title": "Support Worker",
+      "facility_name": "Unknown Facility",
+      "state": "QLD",
+      "city": "Gold Coast",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=0a2eb860b11b2ba8"
+    },
+    {
+      "key": "256363369cf39c57",
+      "title": "Disability Support Worker",
+      "facility_name": "Joy home care",
+      "state": "VIC",
+      "city": "Kilsyth",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=256363369cf39c57"
+    },
+    {
+      "key": "030ecc1a47a78403",
+      "title": "Experienced Disability Support Worker – Complex Needs",
+      "facility_name": "Tuley",
+      "state": "WA",
+      "city": "Carramar",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=030ecc1a47a78403"
+    },
+    {
+      "key": "e24ff86516124d13",
+      "title": "Disability Support Worker",
+      "facility_name": "Unidex Healthcare",
+      "state": "QLD",
+      "city": "Brighton",
+      "date_posted": "2026-03-08",
+      "url": "https://au.indeed.com/viewjob?jk=e24ff86516124d13"
+    },
+    {
+      "key": "400be64ccc88411b",
+      "title": "Home Care Support Worker - Mudgee",
+      "facility_name": "Australian Unity",
+      "state": "NSW",
+      "city": "Mudgee",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=400be64ccc88411b"
+    },
+    {
+      "key": "56fad67f050f7843",
+      "title": "Home Care Support Worker - Coonabarabran",
+      "facility_name": "Australian Unity",
+      "state": "NSW",
+      "city": "Coonabarabran",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=56fad67f050f7843"
+    },
+    {
+      "key": "bfbb3f98c10df88f",
+      "title": "Disability Support Worker",
+      "facility_name": "Neway Disability Services Pty Ltd",
+      "state": "VIC",
+      "city": "North Melbourne",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=bfbb3f98c10df88f"
+    },
+    {
+      "key": "9bdf5ffafb0b2546",
+      "title": "Senior Social Worker - Community & Rural Services",
+      "facility_name": "Queensland Government",
+      "state": "QLD",
+      "city": "Brisbane",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=9bdf5ffafb0b2546"
+    },
+    {
+      "key": "ac4c5824ce2f38f1",
+      "title": "Personal Support Worker",
+      "facility_name": "Arcare Aged Care",
+      "state": "NSW",
+      "city": "Warriewood",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=ac4c5824ce2f38f1"
+    },
+    {
+      "key": "265dfbb3a3590056",
+      "title": "Support Worker - Maroubra and surrounding suburbs",
+      "facility_name": "Catholic Healthcare Limited",
+      "state": "NSW",
+      "city": "Maroubra",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=265dfbb3a3590056"
+    },
+    {
+      "key": "394f27c70b9cdf85",
+      "title": "Disability Support Worker",
+      "facility_name": "Elevated Supports",
+      "state": "NSW",
+      "city": "Cessnock",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=394f27c70b9cdf85"
+    },
+    {
+      "key": "3f6b041ec6da1861",
+      "title": "Senior Childcare Support Worker (Cook)",
+      "facility_name": "Clarence City Council",
+      "state": "TAS",
+      "city": "Rosny Park",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=3f6b041ec6da1861"
+    },
+    {
+      "key": "d8df26c6651b896c",
+      "title": "Youth Support Worker",
+      "facility_name": "Anglicare Central Queensland",
+      "state": "QLD",
+      "city": "Biloela",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=d8df26c6651b896c"
+    },
+    {
+      "key": "9865a3fb5316d63d",
+      "title": "Family Support Practitioner",
+      "facility_name": "ACT FOR KIDS",
+      "state": "QLD",
+      "city": "Maryborough",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=9865a3fb5316d63d"
+    },
+    {
+      "key": "4591acae728e664a",
+      "title": "Home Care Worker",
+      "facility_name": "Anglicare Sydney",
+      "state": "NSW",
+      "city": "Warriewood",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=4591acae728e664a"
+    },
+    {
+      "key": "0cdf15197f42ad81",
+      "title": "Home Care Worker",
+      "facility_name": "LiveBetter Aged Care",
+      "state": "NSW",
+      "city": "Molong",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=0cdf15197f42ad81"
+    },
+    {
+      "key": "6e59e6677be0757f",
+      "title": "Community Support Worker",
+      "facility_name": "identitywa",
+      "state": "WA",
+      "city": "Perth",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=6e59e6677be0757f"
+    },
+    {
+      "key": "83a509722bb32c71",
+      "title": "Female Disability Support Worker with Mental Health Experience",
+      "facility_name": "JCICare Support Services",
+      "state": "QLD",
+      "city": "Wynnum",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=83a509722bb32c71"
+    },
+    {
+      "key": "6c220a2c7636a5f9",
+      "title": "NDIS Support Worker",
+      "facility_name": "Advanced Recruitment Solutions",
+      "state": "NSW",
+      "city": "Blacktown",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=6c220a2c7636a5f9"
+    },
+    {
+      "key": "4c428bc74e2b3820",
+      "title": "Disability Support Worker (Casual)",
+      "facility_name": "Supporting Steps",
+      "state": "NSW",
+      "city": "Sydney",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=4c428bc74e2b3820"
+    },
+    {
+      "key": "61c3e737fe0c4982",
+      "title": "Home Care Worker",
+      "facility_name": "LiveBetter Aged Care",
+      "state": "NSW",
+      "city": "Wellington",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=61c3e737fe0c4982"
+    },
+    {
+      "key": "9447413f2e8153d5",
+      "title": "Home Care Worker",
+      "facility_name": "LiveBetter Aged Care",
+      "state": "NSW",
+      "city": "Bathurst",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=9447413f2e8153d5"
+    },
+    {
+      "key": "23deb2aa25d88138",
+      "title": "Disability Support Worker",
+      "facility_name": "Kirinari Community Services Ltd",
+      "state": "NSW",
+      "city": "Bathurst",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=23deb2aa25d88138"
+    },
+    {
+      "key": "77173873d9bcb2ee",
+      "title": "Disability Support Worker",
+      "facility_name": "Rae of Sunshine Supports",
+      "state": "QLD",
+      "city": "Rockhampton",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=77173873d9bcb2ee"
+    },
+    {
+      "key": "481497b776514047",
+      "title": "Now Hiring: Support Workers!",
+      "facility_name": "One Dream Community Pty Ltd",
+      "state": "QLD",
+      "city": "Nerang",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=481497b776514047"
+    },
+    {
+      "key": "4ba68f274c893ea5",
+      "title": "Disability Support Worker. Casual",
+      "facility_name": "Life Without Barriers",
+      "state": "WA",
+      "city": "Perth",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=4ba68f274c893ea5"
+    },
+    {
+      "key": "334bb4f6ad329481",
+      "title": "Casual Community Support Worker",
+      "facility_name": "Disability Care 4 U",
+      "state": "NSW",
+      "city": "Couridjah",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=334bb4f6ad329481"
+    },
+    {
+      "key": "f0382a85f5416c13",
+      "title": "Support Worker",
+      "facility_name": "Sunnyfield",
+      "state": "NSW",
+      "city": "Cessnock",
+      "date_posted": "2026-03-08",
+      "url": "https://au.indeed.com/viewjob?jk=f0382a85f5416c13"
+    },
+    {
+      "key": "1421cdbbf6fe6f89",
+      "title": "Support Worker",
+      "facility_name": "Sunnyfield",
+      "state": "NSW",
+      "city": "Cessnock",
+      "date_posted": "2026-03-08",
+      "url": "https://au.indeed.com/viewjob?jk=1421cdbbf6fe6f89"
+    },
+    {
+      "key": "3048065c9740c482",
+      "title": "Support Worker",
+      "facility_name": "CareVicinity",
+      "state": "NT",
+      "city": "Darwin",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=3048065c9740c482"
+    },
+    {
+      "key": "ae9137814b066a28",
+      "title": "Support Worker",
+      "facility_name": "CareVicinity",
+      "state": "NSW",
+      "city": "Central Coast",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=ae9137814b066a28"
+    },
+    {
+      "key": "d1f9433a92756a53",
+      "title": "Support Worker",
+      "facility_name": "CareVicinity",
+      "state": "SA",
+      "city": "South Adelaide",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=d1f9433a92756a53"
+    },
+    {
+      "key": "0ab1e485830fdb9f",
+      "title": "NDIS Support Worker",
+      "facility_name": "Reliance Caring",
+      "state": "QLD",
+      "city": "Gold Coast",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=0ab1e485830fdb9f"
+    },
+    {
+      "key": "bc6669b71a3bd59d",
+      "title": "Support Worker",
+      "facility_name": "CareVicinity",
+      "state": "NSW",
+      "city": "Newcastle",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=bc6669b71a3bd59d"
+    },
+    {
+      "key": "6b20d387097d9300",
+      "title": "Support Worker",
+      "facility_name": "The CareSide",
+      "state": "VIC",
+      "city": "Mill Park",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=6b20d387097d9300"
+    },
+    {
+      "key": "c1d395c4778a757c",
+      "title": "Support Worker",
+      "facility_name": "CareVicinity",
+      "state": "QLD",
+      "city": "Chermside",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=c1d395c4778a757c"
+    },
+    {
+      "key": "86b10c68c23b5c4f",
+      "title": "NDIS Support Worker",
+      "facility_name": "Triniti Home care Pty Ltd",
+      "state": "NSW",
+      "city": "Edmondson Park",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=86b10c68c23b5c4f"
+    },
+    {
+      "key": "45eb457b407f1115",
+      "title": "Male Support Worker",
+      "facility_name": "National Community Support Group",
+      "state": "NSW",
+      "city": "Padstow",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=45eb457b407f1115"
+    },
+    {
+      "key": "78c7fbc5913aa73e",
+      "title": "Home Care Worker/ Assisting in Nursing - HIRING NOW",
+      "facility_name": "Right At Home Sydney Norwest",
+      "state": "NSW",
+      "city": "North Rocks",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=78c7fbc5913aa73e"
+    },
+    {
+      "key": "5b2b335dd645fb89",
+      "title": "Casual Support Worker",
+      "facility_name": "MeToU Care",
+      "state": "NSW",
+      "city": "Maroubra",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=5b2b335dd645fb89"
+    },
+    {
+      "key": "3d596c064f6cfa5e",
+      "title": "Home Care Worker/ Assisting in Nursing - HIRING NOW",
+      "facility_name": "Right At Home Sydney Norwest",
+      "state": "NSW",
+      "city": "North Parramatta",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=3d596c064f6cfa5e"
+    },
+    {
+      "key": "bc1ba8175d2cb6f8",
+      "title": "Casual Support Worker",
+      "facility_name": "MeToU Care",
+      "state": "NSW",
+      "city": "Dee Why",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=bc1ba8175d2cb6f8"
+    },
+    {
+      "key": "56692875a64a1cfd",
+      "title": "Support Worker",
+      "facility_name": "MeToU Care",
+      "state": "NSW",
+      "city": "Grose Vale",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=56692875a64a1cfd"
+    },
+    {
+      "key": "4b73d63b66fe2409",
+      "title": "Casual Support Worker",
+      "facility_name": "MeToU Care",
+      "state": "NSW",
+      "city": "Mount Druitt",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=4b73d63b66fe2409"
+    },
+    {
+      "key": "82a5c7d811e5dd07",
+      "title": "Personal Support Worker - Memory Support Unit",
+      "facility_name": "Arcare Aged Care",
+      "state": "QLD",
+      "city": "Maroochydore",
+      "date_posted": "2026-03-08",
+      "url": "https://au.indeed.com/viewjob?jk=82a5c7d811e5dd07"
+    },
+    {
+      "key": "e99e3f3a8bdc1852",
+      "title": "Disability Support Worker",
+      "facility_name": "LiveBetter Disability",
+      "state": "QLD",
+      "city": "Mackay",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=e99e3f3a8bdc1852"
+    },
+    {
+      "key": "959640649bcb423c",
+      "title": "Disability Support Worker – Day Shifts (Morning & Afternoon)",
+      "facility_name": "Quark",
+      "state": "NSW",
+      "city": "Lindfield",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=959640649bcb423c"
+    },
+    {
+      "key": "a11d509e7fff1371",
+      "title": "DISABILITY SUPPORT WORKER",
+      "facility_name": "Lifestyle Solutions",
+      "state": "NSW",
+      "city": "Newcastle",
+      "date_posted": "2026-03-08",
+      "url": "https://au.indeed.com/viewjob?jk=a11d509e7fff1371"
+    },
+    {
+      "key": "adf95034870fd53a",
+      "title": "Support Worker",
+      "facility_name": "One Hope Home Care",
+      "state": "NSW",
+      "city": "Marsden Park",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=adf95034870fd53a"
+    },
+    {
+      "key": "824f8c9233520ff8",
+      "title": "NDIS Support Worker",
+      "facility_name": "Blooming Supports",
+      "state": "WA",
+      "city": "Warwick",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=824f8c9233520ff8"
+    },
+    {
+      "key": "e3e7d4e8b2db70de",
+      "title": "Female Support Worker – Hornsby Area",
+      "facility_name": "Care For You Australia",
+      "state": "NSW",
+      "city": "Hornsby",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=e3e7d4e8b2db70de"
+    },
+    {
+      "key": "52b5e8763dffa990",
+      "title": "Support Worker - Casa Bella",
+      "facility_name": "Fighting Chance Australia",
+      "state": "NSW",
+      "city": "Beacon Hill",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=52b5e8763dffa990"
+    },
+    {
+      "key": "17d2e0c22a2e8b93",
+      "title": "NDIS Support Worker",
+      "facility_name": "Gold Star Loving Care Services",
+      "state": "WA",
+      "city": "Perth",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=17d2e0c22a2e8b93"
+    },
+    {
+      "key": "065b86f0f3f10914",
+      "title": "Female Casual Disability Support Worker",
+      "facility_name": "Disability Care Pty Ltd",
+      "state": "QLD",
+      "city": "Deception Bay",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=065b86f0f3f10914"
+    },
+    {
+      "key": "df9b9cbbb06df254",
+      "title": "Disability Support Worker (Casual)",
+      "facility_name": "Phenomenal Health Care Australia",
+      "state": "NSW",
+      "city": "Mosman",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=df9b9cbbb06df254"
+    },
+    {
+      "key": "3ec967bce40983da",
+      "title": "Disability Support Worker",
+      "facility_name": "Holistic In Home Care",
+      "state": "SA",
+      "city": "Parkside",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=3ec967bce40983da"
+    },
+    {
+      "key": "2e39cfa71204eb59",
+      "title": "Disability Support Worker",
+      "facility_name": "Holistic In Home Care",
+      "state": "SA",
+      "city": "Mitcham",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=2e39cfa71204eb59"
+    },
+    {
+      "key": "61444dba631c3138",
+      "title": "Disability Support Worker",
+      "facility_name": "Holistic In Home Care",
+      "state": "SA",
+      "city": "Goodwood",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=61444dba631c3138"
+    },
+    {
+      "key": "8882652b33cd41a3",
+      "title": "Disability Support Worker",
+      "facility_name": "Holistic In Home Care",
+      "state": "SA",
+      "city": "Unley",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=8882652b33cd41a3"
+    },
+    {
+      "key": "b6fd62d36e5ad73b",
+      "title": "Disability Support Worker",
+      "facility_name": "Holistic In Home Care",
+      "state": "SA",
+      "city": "Aberfoyle Park",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=b6fd62d36e5ad73b"
+    },
+    {
+      "key": "2f54aff783138eb1",
+      "title": "Disability Support Worker",
+      "facility_name": "Holistic In Home Care",
+      "state": "SA",
+      "city": "Flagstaff Hill",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=2f54aff783138eb1"
+    },
+    {
+      "key": "1729b0a2aed799cf",
+      "title": "Disability Support Worker",
+      "facility_name": "Holistic In Home Care",
+      "state": "SA",
+      "city": "Belair",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=1729b0a2aed799cf"
+    },
+    {
+      "key": "476f3a31a8121b69",
+      "title": "Disability Support Worker",
+      "facility_name": "Holistic In Home Care",
+      "state": "SA",
+      "city": "Blackwood",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=476f3a31a8121b69"
+    },
+    {
+      "key": "c4af019587e36665",
+      "title": "Disability Support Worker",
+      "facility_name": "Holistic In Home Care",
+      "state": "SA",
+      "city": "Old Noarlunga",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=c4af019587e36665"
+    },
+    {
+      "key": "c220f8b168fba1cd",
+      "title": "Disability Support Worker",
+      "facility_name": "Holistic In Home Care",
+      "state": "SA",
+      "city": "Seaford",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=c220f8b168fba1cd"
+    },
+    {
+      "key": "66494dc50a87f8c2",
+      "title": "Female Support Worker Required - Macquarie Fields",
+      "facility_name": "Unknown Facility",
+      "state": "NSW",
+      "city": "Macquarie Fields",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=66494dc50a87f8c2"
+    },
+    {
+      "key": "d74b50457df55c70",
+      "title": "Disability Support Worker",
+      "facility_name": "Holistic In Home Care",
+      "state": "SA",
+      "city": "Port Noarlunga",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=d74b50457df55c70"
+    },
+    {
+      "key": "b963cc3bb269650b",
+      "title": "Disability Support Worker",
+      "facility_name": "Holistic In Home Care",
+      "state": "SA",
+      "city": "Hackham",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=b963cc3bb269650b"
+    },
+    {
+      "key": "8662c1c2a94b2dc1",
+      "title": "Disability Support Worker",
+      "facility_name": "Holistic In Home Care",
+      "state": "SA",
+      "city": "Reynella",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=8662c1c2a94b2dc1"
+    },
+    {
+      "key": "4ebdda7f3e336d52",
+      "title": "Disability Support Worker",
+      "facility_name": "Holistic In Home Care",
+      "state": "SA",
+      "city": "Christies Beach",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=4ebdda7f3e336d52"
+    },
+    {
+      "key": "bab8b78f31011d99",
+      "title": "Support Worker - Casa Vivus",
+      "facility_name": "Fighting Chance Australia",
+      "state": "NSW",
+      "city": "Beacon Hill",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=bab8b78f31011d99"
+    },
+    {
+      "key": "651e34944df31ae6",
+      "title": "Residential Support Worker - Hedland",
+      "facility_name": "Hope Community Service",
+      "state": "WA",
+      "city": "South Hedland",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=651e34944df31ae6"
+    },
+    {
+      "key": "a07a55a37d0d9473",
+      "title": "Disability Support Worker",
+      "facility_name": "Holistic In Home Care",
+      "state": "SA",
+      "city": "Morphett Vale",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=a07a55a37d0d9473"
+    },
+    {
+      "key": "5fdf584434ebade5",
+      "title": "Disability Support Worker",
+      "facility_name": "LiveBetter Disability",
+      "state": "NSW",
+      "city": "Warren",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=5fdf584434ebade5"
+    },
+    {
+      "key": "b2a7616267191b6a",
+      "title": "Disability Support Worker",
+      "facility_name": "Holistic In Home Care",
+      "state": "SA",
+      "city": "Seacliff",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=b2a7616267191b6a"
+    },
+    {
+      "key": "0154501d1a9825ba",
+      "title": "Disability and Aged Care Support Worker – Redfern (2016) and Glebe (2037) NSW",
+      "facility_name": "EnableU",
+      "state": "NSW",
+      "city": "Redfern",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=0154501d1a9825ba"
+    },
+    {
+      "key": "8a926bb5e3581a4f",
+      "title": "Disability Support Worker",
+      "facility_name": "Holistic In Home Care",
+      "state": "SA",
+      "city": "Hallett Cove",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=8a926bb5e3581a4f"
+    },
+    {
+      "key": "32ce60ed8f174dd7",
+      "title": "Disability Support Worker",
+      "facility_name": "Holistic In Home Care",
+      "state": "SA",
+      "city": "Brighton",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=32ce60ed8f174dd7"
+    },
+    {
+      "key": "99d7ce4d3ebe9b3c",
+      "title": "Disability Support Worker",
+      "facility_name": "Holistic In Home Care",
+      "state": "SA",
+      "city": "Oaklands Park",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=99d7ce4d3ebe9b3c"
+    },
+    {
+      "key": "8078ee9b321ca28c",
+      "title": "Support Worker/Carer",
+      "facility_name": "The CareSide",
+      "state": "QLD",
+      "city": "Coopers Plains",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=8078ee9b321ca28c"
+    },
+    {
+      "key": "2577dc9d0d86f0ba",
+      "title": "Disability Support Worker",
+      "facility_name": "Holistic In Home Care",
+      "state": "SA",
+      "city": "Clovelly Park",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=2577dc9d0d86f0ba"
+    },
+    {
+      "key": "a8cde856fd571776",
+      "title": "Disability Support Worker",
+      "facility_name": "Holistic In Home Care",
+      "state": "SA",
+      "city": "Marion",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=a8cde856fd571776"
+    },
+    {
+      "key": "c90ba2248caebf3a",
+      "title": "Support Worker Multi-Skilled (Gosnells)",
+      "facility_name": "Chorus",
+      "state": "WA",
+      "city": "Gosnells",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=c90ba2248caebf3a"
+    },
+    {
+      "key": "21dfac3d88c0e354",
+      "title": "Disability Support Worker",
+      "facility_name": "Holistic In Home Care",
+      "state": "SA",
+      "city": "Sturt",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=21dfac3d88c0e354"
+    },
+    {
+      "key": "c2d473fde6cba2d9",
+      "title": "Disability Support Worker",
+      "facility_name": "Holistic In Home Care",
+      "state": "SA",
+      "city": "Bedford Park",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=c2d473fde6cba2d9"
+    },
+    {
+      "key": "0ae3ccd45dfe9106",
+      "title": "Disability Support Worker",
+      "facility_name": "Boutique Disability Services",
+      "state": "WA",
+      "city": "Mandurah",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=0ae3ccd45dfe9106"
+    },
+    {
+      "key": "38a4dc7b78bb5537",
+      "title": "Child, Family & Community Worker - Multicultural Services",
+      "facility_name": "Intereach",
+      "state": "VIC",
+      "city": "Mildura",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=38a4dc7b78bb5537"
+    },
+    {
+      "key": "61f585c8e2554a5c",
+      "title": "Home Care Worker - Sydney",
+      "facility_name": "My Guardian",
+      "state": "NSW",
+      "city": "Sydney",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=61f585c8e2554a5c"
+    },
+    {
+      "key": "44d6fd73da85ecdc",
+      "title": "Support Worker/Carer",
+      "facility_name": "The CareSide",
+      "state": "QLD",
+      "city": "Helensvale",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=44d6fd73da85ecdc"
+    },
+    {
+      "key": "1a38f3f6b9bf6e5e",
+      "title": "Support Worker",
+      "facility_name": "Better Plan Advocacy",
+      "state": "NSW",
+      "city": "Moss Vale",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=1a38f3f6b9bf6e5e"
+    },
+    {
+      "key": "aec6fb4c3cf8a237",
+      "title": "Greek Speaking Female Aged Care Worker (Greek only)",
+      "facility_name": "Healthy Seniors",
+      "state": "NSW",
+      "city": "Chipping Norton",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=aec6fb4c3cf8a237"
+    },
+    {
+      "key": "9cee40fb2f9bc27c",
+      "title": "Home Care Worker - Pacific Paradise, Queensland",
+      "facility_name": "My Guardian",
+      "state": "QLD",
+      "city": "Pacific Paradise",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=9cee40fb2f9bc27c"
+    },
+    {
+      "key": "b52340d8dd46ee26",
+      "title": "NDIS - Community Support Worker",
+      "facility_name": "Allambi Care",
+      "state": "NSW",
+      "city": "Charlestown",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=b52340d8dd46ee26"
+    },
+    {
+      "key": "b5176ae0cc06b8b2",
+      "title": "Residential Care - Youth Support Worker (ITC)",
+      "facility_name": "Allambi Care",
+      "state": "NSW",
+      "city": "Charlestown",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=b5176ae0cc06b8b2"
+    },
+    {
+      "key": "793272fff4280dbe",
+      "title": "NDIS - Disability Support Worker",
+      "facility_name": "Allambi Care",
+      "state": "NSW",
+      "city": "Charlestown",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=793272fff4280dbe"
+    },
+    {
+      "key": "75eb4876e5f4226d",
+      "title": "Mental Health Support Worker",
+      "facility_name": "Lavender Disability and Mental Health Support",
+      "state": "NSW",
+      "city": "Ryde",
+      "date_posted": "2026-03-08",
+      "url": "https://au.indeed.com/viewjob?jk=75eb4876e5f4226d"
+    },
+    {
+      "key": "d8f3702d22af07e1",
+      "title": "FEMALE SUPPORT WORKERS",
+      "facility_name": "Home Caring Loganlea",
+      "state": "QLD",
+      "city": "Mermaid Waters",
+      "date_posted": "2026-03-08",
+      "url": "https://au.indeed.com/viewjob?jk=d8f3702d22af07e1"
+    },
+    {
+      "key": "e208a07ef8a1e331",
+      "title": "Disability Support Worker",
+      "facility_name": "Me&You Carers",
+      "state": "NSW",
+      "city": "Auburn",
+      "date_posted": "2026-03-08",
+      "url": "https://au.indeed.com/viewjob?jk=e208a07ef8a1e331"
+    },
+    {
+      "key": "5dce83da2a5babfb",
+      "title": "Home Care Worker",
+      "facility_name": "Silverchain",
+      "state": "NSW",
+      "city": "Sutherland",
+      "date_posted": "2026-02-12",
+      "url": "https://au.indeed.com/viewjob?jk=5dce83da2a5babfb"
+    },
+    {
+      "key": "7a802a17808bd579",
+      "title": "Home Care Worker (2) - VIC Metro South - Casual",
+      "facility_name": "Silverchain",
+      "state": "VIC",
+      "city": "St Kilda",
+      "date_posted": "2025-12-18",
+      "url": "https://au.indeed.com/viewjob?jk=7a802a17808bd579"
+    },
+    {
+      "key": "5811aa533e34d8fe",
+      "title": "Volunteer Support Worker",
+      "facility_name": "Unknown Facility",
+      "state": "VIC",
+      "city": "Sunshine",
+      "date_posted": "2026-03-08",
+      "url": "https://au.indeed.com/viewjob?jk=5811aa533e34d8fe"
+    },
+    {
+      "key": "bca928142d62ae92",
+      "title": "Support Worker",
+      "facility_name": "Unknown Facility",
+      "state": "QLD",
+      "city": "Cleveland",
+      "date_posted": "2026-03-08",
+      "url": "https://au.indeed.com/viewjob?jk=bca928142d62ae92"
+    },
+    {
+      "key": "1975fcea8b6a8fb7",
+      "title": "Disability Support Worker",
+      "facility_name": "The Helpers",
+      "state": "NSW",
+      "city": "West Pennant Hills",
+      "date_posted": "2026-03-08",
+      "url": "https://au.indeed.com/viewjob?jk=1975fcea8b6a8fb7"
+    },
+    {
+      "key": "0170b5b12aaeb0ec",
+      "title": "Casual Support Worker",
+      "facility_name": "Wattlecliffe Youth Services",
+      "state": "NSW",
+      "city": "Belmont",
+      "date_posted": "2026-03-08",
+      "url": "https://au.indeed.com/viewjob?jk=0170b5b12aaeb0ec"
+    },
+    {
+      "key": "4975557ea4952c16",
+      "title": "NDIS Support Worker (Female)",
+      "facility_name": "Recovery Concepts",
+      "state": "NSW",
+      "city": "Strathfield",
+      "date_posted": "2026-03-08",
+      "url": "https://au.indeed.com/viewjob?jk=4975557ea4952c16"
+    },
+    {
+      "key": "8432c56c0ae6d6c7",
+      "title": "NDIS Psychosocial Support Worker – Eastern Suburbs Sydney",
+      "facility_name": "Concrete Schoolyard",
+      "state": "NSW",
+      "city": "Randwick",
+      "date_posted": "2026-03-07",
+      "url": "https://au.indeed.com/viewjob?jk=8432c56c0ae6d6c7"
+    },
+    {
+      "key": "04628a88981efdc6",
+      "title": "Aged care and disability support worker in the community",
+      "facility_name": "Carms academy",
+      "state": "SA",
+      "city": "Campbelltown",
+      "date_posted": "2026-03-07",
+      "url": "https://au.indeed.com/viewjob?jk=04628a88981efdc6"
+    },
+    {
+      "key": "c37b387d8451dc21",
+      "title": "Community Support Worker - Mounties Care",
+      "facility_name": "Mounties Care",
+      "state": "QLD",
+      "city": "Robina",
+      "date_posted": "2026-03-04",
+      "url": "https://au.indeed.com/viewjob?jk=c37b387d8451dc21"
+    },
+    {
+      "key": "0590f0bc5cb4fca1",
+      "title": "Personal Care Worker - Mulgrave Rise Care Community",
+      "facility_name": "Opal HealthCare",
+      "state": "VIC",
+      "city": "Mulgrave",
+      "date_posted": "2026-03-07",
+      "url": "https://au.indeed.com/viewjob?jk=0590f0bc5cb4fca1"
+    },
+    {
+      "key": "6bbffe28712d4e40",
+      "title": "Disability Support Worker",
+      "facility_name": "With A Little Care PTY Ltd",
+      "state": "QLD",
+      "city": "Nanango",
+      "date_posted": "2026-03-07",
+      "url": "https://au.indeed.com/viewjob?jk=6bbffe28712d4e40"
+    },
+    {
+      "key": "3d15564c1fc9ebd2",
+      "title": "Disability Support Worker - Craigieburn",
+      "facility_name": "Beyond Health Services",
+      "state": "VIC",
+      "city": "Craigieburn",
+      "date_posted": "2026-03-07",
+      "url": "https://au.indeed.com/viewjob?jk=3d15564c1fc9ebd2"
+    },
+    {
+      "key": "40431f42535e45c2",
+      "title": "Support Worker - Accommodation Services",
+      "facility_name": "Challenge Community Services",
+      "state": "NSW",
+      "city": "Hamlyn Terrace",
+      "date_posted": "2026-02-20",
+      "url": "https://au.indeed.com/viewjob?jk=40431f42535e45c2"
+    },
+    {
+      "key": "67aa0421b867bc5c",
+      "title": "Disability Support Worker",
+      "facility_name": "UNIQUE CARE SERVICES QLD",
+      "state": "QLD",
+      "city": "Lawnton",
+      "date_posted": "2026-03-07",
+      "url": "https://au.indeed.com/viewjob?jk=67aa0421b867bc5c"
+    },
+    {
+      "key": "20a94afbbd3f0fd7",
+      "title": "Peer Support Worker",
+      "facility_name": "Concrete Schoolyard",
+      "state": "NSW",
+      "city": "Sydney",
+      "date_posted": "2026-03-07",
+      "url": "https://au.indeed.com/viewjob?jk=20a94afbbd3f0fd7"
+    },
+    {
+      "key": "2af2f05c2f454e26",
+      "title": "Disability Support Worker - MALE",
+      "facility_name": "Australian Safe Care",
+      "state": "QLD",
+      "city": "Russell Island",
+      "date_posted": "2026-03-07",
+      "url": "https://au.indeed.com/viewjob?jk=2af2f05c2f454e26"
+    },
+    {
+      "key": "1ed7fa714a3a6a98",
+      "title": "Disability Support Worker (Casual)",
+      "facility_name": "Compassionate Connections Support Services",
+      "state": "NSW",
+      "city": "Wagga Wagga",
+      "date_posted": "2026-03-07",
+      "url": "https://au.indeed.com/viewjob?jk=1ed7fa714a3a6a98"
+    },
+    {
+      "key": "3726afb7360a79dd",
+      "title": "Disability Support Worker (Working with Children)",
+      "facility_name": "Just Better Care",
+      "state": "QLD",
+      "city": "Brisbane",
+      "date_posted": "2026-03-06",
+      "url": "https://au.indeed.com/viewjob?jk=3726afb7360a79dd"
+    },
+    {
+      "key": "cab19bc258b8f59d",
+      "title": "Support Worker - Disability and Aged Care - Townsville",
+      "facility_name": "Just Better Care",
+      "state": "QLD",
+      "city": "Townsville",
+      "date_posted": "2026-03-06",
+      "url": "https://au.indeed.com/viewjob?jk=cab19bc258b8f59d"
+    },
+    {
+      "key": "5ce85284a5dbd402",
+      "title": "Support Worker - Disability and Aged Care - Ayr",
+      "facility_name": "Just Better Care",
+      "state": "QLD",
+      "city": "Ayr",
+      "date_posted": "2026-03-06",
+      "url": "https://au.indeed.com/viewjob?jk=5ce85284a5dbd402"
+    },
+    {
+      "key": "94e3c9717400c365",
+      "title": "Support Worker - Women's Services",
+      "facility_name": "Sacred Heart Mission",
+      "state": "VIC",
+      "city": "St Kilda",
+      "date_posted": "2026-03-06",
+      "url": "https://au.indeed.com/viewjob?jk=94e3c9717400c365"
+    },
+    {
+      "key": "2335ff603677cd30",
+      "title": "Behaviour Support Practitioner / Social Worker - Melbourne and across Victoria",
+      "facility_name": "MedHealth",
+      "state": "VIC",
+      "city": "Melbourne",
+      "date_posted": "2026-03-09",
+      "url": "https://au.indeed.com/viewjob?jk=2335ff603677cd30"
+    },
+    {
+      "key": "749d7007d188abe0",
+      "title": "Support Worker - Mounties Care",
+      "facility_name": "Mounties Care",
+      "state": "NSW",
+      "city": "Sydney",
+      "date_posted": "2026-03-04",
+      "url": "https://au.indeed.com/viewjob?jk=749d7007d188abe0"
+    },
+    {
+      "key": "b81ff59347b5ff30",
+      "title": "Support Worker - Mounties Care",
+      "facility_name": "Mounties Care",
+      "state": "NSW",
+      "city": "Rockdale",
+      "date_posted": "2026-03-06",
+      "url": "https://au.indeed.com/viewjob?jk=b81ff59347b5ff30"
+    },
+    {
+      "key": "862b25eb6e05e82e",
+      "title": "Disability Support Worker - Care",
+      "facility_name": "GSL: A Good Start to Life",
+      "state": "QLD",
+      "city": "Bundaberg",
+      "date_posted": "2026-03-06",
+      "url": "https://au.indeed.com/viewjob?jk=862b25eb6e05e82e"
+    },
+    {
+      "key": "ffaa4e90402ce920",
+      "title": "Support worker Disability",
+      "facility_name": "Senami Counselling",
+      "state": "SA",
+      "city": "",
+      "date_posted": "2026-03-06",
+      "url": "https://au.indeed.com/viewjob?jk=ffaa4e90402ce920"
+    },
+    {
+      "key": "b5d129f05922b098",
+      "title": "Residential Support Worker",
+      "facility_name": "NSW Government",
+      "state": "NSW",
+      "city": "Sydney",
+      "date_posted": "2026-03-06",
+      "url": "https://au.indeed.com/viewjob?jk=b5d129f05922b098"
+    },
+    {
+      "key": "e1f353213e50fec6",
+      "title": "Social Worker (Level 3) - Mental Health Recovery Unit",
+      "facility_name": "NSW Government",
+      "state": "NSW",
+      "city": "Riverina",
+      "date_posted": "2026-03-06",
+      "url": "https://au.indeed.com/viewjob?jk=e1f353213e50fec6"
+    },
+    {
+      "key": "28ed4d180c1072a3",
+      "title": "MHPARC Peer Support Worker",
+      "facility_name": "NSW Government",
+      "state": "NSW",
+      "city": "Far West",
+      "date_posted": "2026-03-06",
+      "url": "https://au.indeed.com/viewjob?jk=28ed4d180c1072a3"
+    },
+    {
+      "key": "95f1eba8f05e59b7",
+      "title": "Personal Care Worker - Templestowe Woodlands Care Community",
+      "facility_name": "Opal HealthCare",
+      "state": "VIC",
+      "city": "Templestowe",
+      "date_posted": "2026-03-06",
+      "url": "https://au.indeed.com/viewjob?jk=95f1eba8f05e59b7"
+    },
+    {
+      "key": "ec3b57096e17a324",
+      "title": "MHPARC Peer Support Worker",
+      "facility_name": "NSW Health",
+      "state": "NSW",
+      "city": "Broken Hill",
+      "date_posted": "2026-03-06",
+      "url": "https://au.indeed.com/viewjob?jk=ec3b57096e17a324"
+    },
+    {
+      "key": "6fdcaa08dc07bcbc",
+      "title": "Home Care Worker - Narromine",
+      "facility_name": "UPA Aged Care Solutions",
+      "state": "NSW",
+      "city": "Narromine",
+      "date_posted": "2026-03-06",
+      "url": "https://au.indeed.com/viewjob?jk=6fdcaa08dc07bcbc"
+    },
+    {
+      "key": "b6592b0df3859467",
+      "title": "Support Worker (Mental Health)",
+      "facility_name": "HelpingMinds",
+      "state": "WA",
+      "city": "Perth",
+      "date_posted": "2025-08-20",
+      "url": "https://au.indeed.com/viewjob?jk=b6592b0df3859467"
+    },
+    {
+      "key": "0408c4b2dcc3ced0",
+      "title": "Support Worker - Accommodation Services",
+      "facility_name": "Challenge Community Services",
+      "state": "QLD",
+      "city": "Ipswich",
+      "date_posted": "2026-02-18",
+      "url": "https://au.indeed.com/viewjob?jk=0408c4b2dcc3ced0"
+    },
+    {
+      "key": "60dd4ddfdf53421f",
+      "title": "Support Worker - Home and Community care",
+      "facility_name": "Catholic Healthcare Limited",
+      "state": "NSW",
+      "city": "Bathurst",
+      "date_posted": "2026-03-06",
+      "url": "https://au.indeed.com/viewjob?jk=60dd4ddfdf53421f"
+    },
+    {
+      "key": "584a12f48a533703",
+      "title": "Support Worker - Home and Community Care",
+      "facility_name": "Catholic Healthcare Limited",
+      "state": "NSW",
+      "city": "Wagga Wagga",
+      "date_posted": "2026-03-06",
+      "url": "https://au.indeed.com/viewjob?jk=584a12f48a533703"
+    },
+    {
+      "key": "ba8c0f8b55c22c3d",
+      "title": "Support Worker - Canterbury and surrounding suburbs",
+      "facility_name": "Catholic Healthcare Limited",
+      "state": "NSW",
+      "city": "Canterbury",
+      "date_posted": "2026-03-06",
+      "url": "https://au.indeed.com/viewjob?jk=ba8c0f8b55c22c3d"
+    },
+    {
+      "key": "ce3a76ab0a265973",
+      "title": "Support Worker",
+      "facility_name": "Catholic Healthcare Limited",
+      "state": "NSW",
+      "city": "Sydney",
+      "date_posted": "2026-03-06",
+      "url": "https://au.indeed.com/viewjob?jk=ce3a76ab0a265973"
+    },
+    {
+      "key": "ae7faaac0d91eb54",
+      "title": "Support Worker - Russian Speaking - Eastern suburbs",
+      "facility_name": "Catholic Healthcare Limited",
+      "state": "NSW",
+      "city": "Waterloo",
+      "date_posted": "2026-03-06",
+      "url": "https://au.indeed.com/viewjob?jk=ae7faaac0d91eb54"
+    },
+    {
+      "key": "bbea4fbea7d27c4a",
+      "title": "Support Worker - Greek Speaking",
+      "facility_name": "Catholic Healthcare Limited",
+      "state": "NSW",
+      "city": "Leichhardt",
+      "date_posted": "2026-03-06",
+      "url": "https://au.indeed.com/viewjob?jk=bbea4fbea7d27c4a"
+    },
+    {
+      "key": "490e34264a3f6123",
+      "title": "Support Worker - Cabramatta and surrounding areas",
+      "facility_name": "Catholic Healthcare Limited",
+      "state": "NSW",
+      "city": "Cabramatta",
+      "date_posted": "2026-03-06",
+      "url": "https://au.indeed.com/viewjob?jk=490e34264a3f6123"
+    },
+    {
+      "key": "2cb9a420338a7d33",
+      "title": "Support Worker - Matraville and surrounding suburbs",
+      "facility_name": "Catholic Healthcare Limited",
+      "state": "NSW",
+      "city": "Matraville",
+      "date_posted": "2026-03-06",
+      "url": "https://au.indeed.com/viewjob?jk=2cb9a420338a7d33"
+    }
+  ]
+}

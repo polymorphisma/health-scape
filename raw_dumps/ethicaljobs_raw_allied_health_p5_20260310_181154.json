@@ -1,0 +1,305 @@
+{
+  "category": "Allied Health",
+  "data": [
+    {
+      "id": 551913,
+      "title": "Physiotherapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Regional NSW",
+      "locality": "Dubbo & Central NSW",
+      "state": "NSW",
+      "approvedAt": "2026-02-23",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-dubbo-1"
+    },
+    {
+      "id": 551904,
+      "title": "Registered Paramedics / Nurses",
+      "organisationName": "Royal Flying Doctor Service Victoria",
+      "location_name": "Regional NSW",
+      "locality": "Lismore & Far North Coast",
+      "state": "NSW",
+      "approvedAt": "2026-02-23",
+      "url": "https://www.ethicaljobs.com.au/members/RFDSVIC/registered-paramedics-nurses-lismore-1"
+    },
+    {
+      "id": 551892,
+      "title": "Doctors - GPs and Specialists",
+      "organisationName": "The Bendigo Rainbow Hub",
+      "location_name": "Regional VIC",
+      "locality": "Bendigo, Goldfields & Macedon Ranges",
+      "state": "VIC",
+      "approvedAt": "2026-02-23",
+      "url": "https://www.ethicaljobs.com.au/members/BendigoRainbow/doctors-gps-and-specialists-bendigo"
+    },
+    {
+      "id": 551895,
+      "title": "Physiotherapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Regional NSW",
+      "locality": "Tweed Heads",
+      "state": "NSW",
+      "approvedAt": "2026-02-23",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-tweed-heads-kingscliff-and-surrounds"
+    },
+    {
+      "id": 551893,
+      "title": "Ambulance Transport Attendant",
+      "organisationName": "Royal Flying Doctor Service Victoria",
+      "location_name": "Regional VIC",
+      "locality": "Bendigo, Goldfields & Macedon Ranges",
+      "state": "VIC",
+      "approvedAt": "2026-02-23",
+      "url": "https://www.ethicaljobs.com.au/members/RFDSVIC/ambulance-transport-attendant-bendigo-2"
+    },
+    {
+      "id": 551882,
+      "title": "Physiotherapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Sydney",
+      "locality": "Campbelltown",
+      "state": "NSW",
+      "approvedAt": "2026-02-23",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-macarthur-1"
+    },
+    {
+      "id": 551881,
+      "title": "Physiotherapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Regional NSW",
+      "locality": "Blue Mountains & Central West",
+      "state": "NSW",
+      "approvedAt": "2026-02-23",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-penrith-blue-mountains"
+    },
+    {
+      "id": 551880,
+      "title": "Physiotherapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Regional NSW",
+      "locality": "Cowra",
+      "state": "NSW",
+      "approvedAt": "2026-02-23",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-cowra-1"
+    },
+    {
+      "id": 551885,
+      "title": "Clinicians x2",
+      "organisationName": "Berry Street Take Two",
+      "location_name": "Regional VIC",
+      "locality": "Morwell",
+      "state": "VIC",
+      "approvedAt": "2026-02-23",
+      "url": "https://www.ethicaljobs.com.au/members/taketwo/clinicians-x2-morwell"
+    },
+    {
+      "id": 551869,
+      "title": "Physiotherapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Regional NSW",
+      "locality": "Blue Mountains & Central West",
+      "state": "NSW",
+      "approvedAt": "2026-02-23",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-central-west"
+    },
+    {
+      "id": 551870,
+      "title": "Physiotherapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Sydney",
+      "locality": "Strathfield",
+      "state": "NSW",
+      "approvedAt": "2026-02-23",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-strathfield"
+    },
+    {
+      "id": 551861,
+      "title": "Physiotherapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Canberra & ACT",
+      "locality": "Canberra & ACT",
+      "state": "ACT",
+      "approvedAt": "2026-02-23",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-canberra-1"
+    },
+    {
+      "id": 551848,
+      "title": "Senior Assessment and Facilitation Officer - Home and Community Care Program for Younger People",
+      "organisationName": "Uniting (Victoria and Tasmania) Limited",
+      "location_name": "Regional VIC",
+      "locality": "Morwell",
+      "state": "VIC",
+      "approvedAt": "2026-02-23",
+      "url": "https://www.ethicaljobs.com.au/members/WMV/senior-assessment-and-facilitation-officer-home-and-community-care-program-for-younger-people-morwell"
+    },
+    {
+      "id": 551862,
+      "title": "Physiotherapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Regional NSW",
+      "locality": "Ballina",
+      "state": "NSW",
+      "approvedAt": "2026-02-23",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-ballina"
+    },
+    {
+      "id": 551856,
+      "title": "Physiotherapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Regional NSW",
+      "locality": "Gosford & Central Coast",
+      "state": "NSW",
+      "approvedAt": "2026-02-23",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-central-coast"
+    },
+    {
+      "id": 551857,
+      "title": "Physiotherapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Regional NSW",
+      "locality": "Forster",
+      "state": "NSW",
+      "approvedAt": "2026-02-23",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-forster-taree"
+    },
+    {
+      "id": 551850,
+      "title": "Physiotherapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Regional NSW",
+      "locality": "Port Macquarie & Mid North Coast",
+      "state": "NSW",
+      "approvedAt": "2026-02-23",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-port-macquarie"
+    },
+    {
+      "id": 551835,
+      "title": "Physiotherapist",
+      "organisationName": "BaptistCare ",
+      "location_name": "Sydney",
+      "locality": "Randwick",
+      "state": "NSW",
+      "approvedAt": "2026-02-23",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-randwick-1"
+    },
+    {
+      "id": 551807,
+      "title": "Clinical Educator",
+      "organisationName": "Each ",
+      "location_name": "Regional NSW",
+      "locality": "Port Macquarie & Mid North Coast",
+      "state": "NSW",
+      "approvedAt": "2026-02-22",
+      "url": "https://www.ethicaljobs.com.au/members/EACHnh/clinical-educator-headspace-port-macquarie-2"
+    },
+    {
+      "id": 551755,
+      "title": "Senior Occupational Therapist",
+      "organisationName": "DPV Health",
+      "location_name": "Melbourne",
+      "locality": "Epping",
+      "state": "VIC",
+      "approvedAt": "2026-02-20",
+      "url": "https://www.ethicaljobs.com.au/members/DPVHealth/senior-occupational-therapist-adult-neurodevelopmental-and-psychosocial-disabilities"
+    },
+    {
+      "id": 551760,
+      "title": "Clinician",
+      "organisationName": "Berry Street Take Two",
+      "location_name": "Melbourne",
+      "locality": "Dandenong",
+      "state": "VIC",
+      "approvedAt": "2026-02-20",
+      "url": "https://www.ethicaljobs.com.au/members/taketwo/clinician-connect-centre-2"
+    },
+    {
+      "id": 551758,
+      "title": "Clinician",
+      "organisationName": "Berry Street Take Two",
+      "location_name": "Regional VIC",
+      "locality": "Seymour",
+      "state": "VIC",
+      "approvedAt": "2026-02-20",
+      "url": "https://www.ethicaljobs.com.au/members/taketwo/clinician-seymour"
+    },
+    {
+      "id": 551756,
+      "title": "Senior Clinician",
+      "organisationName": "Berry Street Take Two",
+      "location_name": "Regional VIC",
+      "locality": "Seymour",
+      "state": "VIC",
+      "approvedAt": "2026-02-20",
+      "url": "https://www.ethicaljobs.com.au/members/taketwo/senior-clinician-seymour"
+    },
+    {
+      "id": 551741,
+      "title": "Psychologist - GS Plus program",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Regional NSW",
+      "locality": "Gosford & Central Coast",
+      "state": "NSW",
+      "approvedAt": "2026-02-20",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/psychologist-gs-plus-program-central-coast-north-east-sydney"
+    },
+    {
+      "id": 551757,
+      "title": "Senior Clinician",
+      "organisationName": "Berry Street Take Two",
+      "location_name": "Regional VIC",
+      "locality": "Shepparton & Goulburn Valley",
+      "state": "VIC",
+      "approvedAt": "2026-02-20",
+      "url": "https://www.ethicaljobs.com.au/members/taketwo/senior-clinician-shepparton-2"
+    },
+    {
+      "id": 551742,
+      "title": "General Practitioner",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Sydney",
+      "locality": "Katoomba",
+      "state": "NSW",
+      "approvedAt": "2026-02-20",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/general-practitioner-headspace-primary-care-katoomba-4"
+    },
+    {
+      "id": 551740,
+      "title": "Consultant Psychiatrist",
+      "organisationName": "Uniting (NSW.ACT)",
+      "location_name": "Canberra & ACT",
+      "locality": "Lyneham",
+      "state": "ACT",
+      "approvedAt": "2026-02-20",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/consultant-psychiatrist-youth-trauma-services-1"
+    },
+    {
+      "id": 551728,
+      "title": "Behaviour Support Practitioner",
+      "organisationName": "Beaumont People",
+      "location_name": "Sydney",
+      "locality": "Sydney",
+      "state": "NSW",
+      "approvedAt": "2026-02-20",
+      "url": "https://www.ethicaljobs.com.au/members/BeaumontConsulting/behaviour-support-practitioner-independent-community-living-australia-1"
+    },
+    {
+      "id": 551711,
+      "title": "Telephone & Online Counsellor",
+      "organisationName": "Eastern Health",
+      "location_name": "Melbourne",
+      "locality": "Richmond",
+      "state": "VIC",
+      "approvedAt": "2026-02-20",
+      "url": "https://www.ethicaljobs.com.au/members/EasternHealth/telephone-online-counsellor-6"
+    },
+    {
+      "id": 551702,
+      "title": "Psychiatrist",
+      "organisationName": "OzChild",
+      "location_name": "Sydney",
+      "locality": "Campbelltown",
+      "state": "NSW",
+      "approvedAt": "2026-02-20",
+      "url": "https://www.ethicaljobs.com.au/members/OzChild/psychiatrist"
+    }
+  ]
+}

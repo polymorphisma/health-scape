@@ -1,0 +1,115 @@
+{
+  "category": "Nursing",
+  "data": [
+    {
+      "id": "4c1811a8c07080824216a3affd4aa1ca",
+      "title": "Registered Nurse for Hunter Doctors Cessnock",
+      "facility_name": "Hunter Doctors",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Cessnock",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Registered-Nurse-4c1811a8c07080824216a3affd4aa1ca",
+      "raw_location": "Cessnock NSW"
+    },
+    {
+      "id": "e7f561b5d9c301e9152eddba8ce36bbb",
+      "title": "Registered Nurse",
+      "facility_name": "Ballarat Family Medical Centre",
+      "category": "Nursing",
+      "state": "VIC",
+      "city": "Ballarat Central",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Registered-Nurse-e7f561b5d9c301e9152eddba8ce36bbb",
+      "raw_location": "Ballarat Central VIC"
+    },
+    {
+      "id": "1278c60a11b36b1d2e838427c8e10902",
+      "title": "Registered Community Nurse Integrated Primary Health Service District Nurse",
+      "facility_name": "Latrobe Community Health Services",
+      "category": "Nursing",
+      "state": "VIC",
+      "city": "Latrobe",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Community-Nurse-1278c60a11b36b1d2e838427c8e10902",
+      "raw_location": "Latrobe VIC"
+    },
+    {
+      "id": "9562a731c61d4dcf123b0890b7e943b7",
+      "title": "Registered Nurse - Emergency / General Wards - 5 -10k Incentives Offered",
+      "facility_name": "Western NSW Local Health District",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Cowra",
+      "date_posted": "2026-03-05",
+      "url": "https://au.jora.com/job/Registered-Nurse-Emergency-9562a731c61d4dcf123b0890b7e943b7",
+      "raw_location": "Cowra NSW"
+    },
+    {
+      "id": "dff537ebc9a39801f11e3436d1c05174",
+      "title": "Clinical Nurse (Patient Safety Officer)",
+      "facility_name": "Queensland Health",
+      "category": "Nursing",
+      "state": "Unknown",
+      "city": "Queensland",
+      "date_posted": "2026-03-05",
+      "url": "https://au.jora.com/job/Patient-Safety-Officer-dff537ebc9a39801f11e3436d1c05174",
+      "raw_location": "Queensland"
+    },
+    {
+      "id": "98f9c61c6f3a0731737a4195795cc677",
+      "title": "Registered Nurse (Hervey Bay)",
+      "facility_name": "Queensland Health",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Hervey Bay",
+      "date_posted": "2026-03-05",
+      "url": "https://au.jora.com/job/Registered-Nurse-98f9c61c6f3a0731737a4195795cc677",
+      "raw_location": "Hervey Bay QLD"
+    },
+    {
+      "id": "72de76f770010a5938afad229b5066d5",
+      "title": "Occupational Health Nurse",
+      "facility_name": "KINNECT",
+      "category": "Nursing",
+      "state": "NT",
+      "city": "Darwin",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Occupational-Health-Nurse-72de76f770010a5938afad229b5066d5",
+      "raw_location": "Darwin NT"
+    },
+    {
+      "id": "4b6d8061dd6c7799b71c241ad73351f1",
+      "title": "Registered Nurse | Bankstown NSW | Casual",
+      "facility_name": "ForHealth Group",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Bankstown",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Registered-Nurse-4b6d8061dd6c7799b71c241ad73351f1",
+      "raw_location": "Bankstown NSW"
+    },
+    {
+      "id": "fc83b8635f6a5343606812c69e51c3f0",
+      "title": "Registered Nurse",
+      "facility_name": "Vasectomy Doctors",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Leichhardt",
+      "date_posted": "2026-03-03",
+      "url": "https://au.jora.com/job/Registered-Nurse-fc83b8635f6a5343606812c69e51c3f0",
+      "raw_location": "Leichhardt NSW"
+    },
+    {
+      "id": "70688f8871acc48959525f76f0ff407c",
+      "title": "Practice Nurse",
+      "facility_name": "Family Medical Centre",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Hunter Valley",
+      "date_posted": "2026-03-09",
+      "url": "https://au.jora.com/job/Practice-Nurse-70688f8871acc48959525f76f0ff407c",
+      "raw_location": "Hunter Valley NSW"
+    }
+  ]
+}

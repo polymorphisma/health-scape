@@ -1,0 +1,2994 @@
+{
+  "category": "Aged Care",
+  "data": [
+    {
+      "id": 552055,
+      "title": "Registered Nurse",
+      "slug": "Uniting/registered-nurse-narla-1",
+      "organisationName": "Uniting (NSW.ACT)",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+      "summary": "Uniting Narla, based in Belmont North seek casual and permanent experienced Registered Nurses for their aged care facility. To $54.19 p/h plus lots more!",
+      "expiresAt": "2026-03-26T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Belmont North"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://ars2.equest.com/?response_id=42a502bb237eb8280a34b85889a1302b",
+      "location_name": "Regional NSW",
+      "locality": "Belmont North",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/registered-nurse-narla-1",
+      "approvedAt": "2026-02-24T04:38:04.000Z",
+      "application": "<p><a href=\"https://ars2.equest.com/?response_id=42a502bb237eb8280a34b85889a1302b\" target=\"_blank\" rel=\"noopener\"><img alt=\"Apply\" src=\"http://www2.equest.com/images/applyhere.gif\" /></a><img src=\"https://ars2.equest.com/?response_id=42a502bb237eb8280a34b85889a1302b&amp;view\" alt=\"\" width=\"1\" height=\"1\" /></p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 186
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 78
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "To $54.19 p/h + super, casual loading & more"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        },
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/MIEiR9Brl2Y",
+      "organisation": {
+        "id": 6389,
+        "name": "Uniting (NSW.ACT)",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1766119118_I8OGM_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1766119118_I8OGM_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1766119118_I8OGM_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1766119118_I8OGM_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1766119118_I8OGM_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 549966,
+      "title": "Leisure & Wellness Officer - Kammilaroi",
+      "slug": "Uniting/leisure-wellness-officer-kammilaroi-lane-cove",
+      "organisationName": "Uniting (NSW.ACT)",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+      "summary": "We are seeking a Leisure & Wellness Officer to work at our Lane Cove aged care service, 22.5 hours per week working Tuesday, Wednesday and Fridays.",
+      "expiresAt": "2026-03-22T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Lane Cove"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://jobs.dayforcehcm.com/en-AU/unitingaunsw/119921/jobs/DF2559?external=true",
+      "location_name": "Sydney",
+      "locality": "Lane Cove",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/leisure-wellness-officer-kammilaroi-lane-cove",
+      "approvedAt": "2026-02-05T04:45:47.000Z",
+      "application": "<p><a href=\"https://ars2.equest.com/?response_id=f7e6ef705086fc71e0b54d44e53dcab2\" target=\"_blank\" rel=\"noopener\"><img alt=\"Apply\" src=\"http://www2.equest.com/images/applyhere.gif\" /></a><img src=\"https://ars2.equest.com/?response_id=f7e6ef705086fc71e0b54d44e53dcab2&amp;view\" alt=\"\" width=\"1\" height=\"1\" /></p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 186
+        },
+        {
+          "archived": false,
+          "id": 28,
+          "slug": "healthpromotion",
+          "title": "Health Promotion",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health_Promotion.jpg",
+          "jobCount": 92
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        },
+        {
+          "id": 2,
+          "slug": "CONTRACT",
+          "title": "Contract",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/MIEiR9Brl2Y",
+      "organisation": {
+        "id": 6389,
+        "name": "Uniting (NSW.ACT)",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1766119118_I8OGM_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1766119118_I8OGM_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1766119118_I8OGM_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1766119118_I8OGM_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1766119118_I8OGM_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553401,
+      "title": "Maintenance Officer",
+      "slug": "Uniting/maintenance-officer-orange-5",
+      "organisationName": "Uniting (NSW.ACT)",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+      "summary": "Maintenance Officer in Orange. Hands-on role keeping our aged care & retirement living safe, tidy and welcoming. Full-time Mon-Fri, secure ongoing role, no weekends. Local team.",
+      "expiresAt": "2026-04-06T13:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Orange"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://ars2.equest.com/?response_id=4c1e1c728bf8dc23dc17fd0920ad73b9",
+      "location_name": "Regional NSW",
+      "locality": "Orange",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/maintenance-officer-orange-5",
+      "approvedAt": "2026-03-06T04:24:01.000Z",
+      "application": "<p><a href=\"https://ars2.equest.com/?response_id=4c1e1c728bf8dc23dc17fd0920ad73b9\" target=\"_blank\" rel=\"noopener\"><img alt=\"Apply\" src=\"http://www2.equest.com/images/applyhere.gif\" /></a><img src=\"https://ars2.equest.com/?response_id=4c1e1c728bf8dc23dc17fd0920ad73b9&amp;view\" alt=\"\" width=\"1\" height=\"1\" /></p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        },
+        {
+          "archived": false,
+          "id": 49,
+          "slug": "tradesandservices",
+          "title": "Trades and Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Trades+%26+Services.jpeg",
+          "jobCount": 30
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$31.51 per hour + super + NFP salary packaging (pay less tax, take home more pay)"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/MIEiR9Brl2Y",
+      "organisation": {
+        "id": 6389,
+        "name": "Uniting (NSW.ACT)",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1766119118_I8OGM_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1766119118_I8OGM_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1766119118_I8OGM_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1766119118_I8OGM_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1766119118_I8OGM_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551265,
+      "title": "Registered Nurse - Lindsay Gardens",
+      "slug": "Uniting/registered-nurse-lindsay-gardens-hamilton-5",
+      "organisationName": "Uniting (NSW.ACT)",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+      "summary": "Registered Nurse required for our Hamilton aged care service.Â Night Duty shifts, up to 40 hours per fortnight.Â To $54.19 p/h plus super and great NFP benefits.",
+      "expiresAt": "2026-03-19T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Hamilton"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://jobs.dayforcehcm.com/en-AU/unitingaunsw/119921/jobs/DF2618?external=true",
+      "location_name": "Regional NSW",
+      "locality": "Hamilton",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/registered-nurse-lindsay-gardens-hamilton-5",
+      "approvedAt": "2026-02-17T03:50:25.000Z",
+      "application": "<p><a href=\"https://ars2.equest.com/?response_id=a5cf77d30ea3cbc500d348c047fe4c82\" target=\"_blank\" rel=\"noopener\"><img alt=\"Apply\" src=\"http://www2.equest.com/images/applyhere.gif\" /></a><img src=\"https://ars2.equest.com/?response_id=a5cf77d30ea3cbc500d348c047fe4c82&amp;view\" alt=\"\" width=\"1\" height=\"1\" /></p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 186
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 78
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "Above-award pay rates (up to $52.66 per hour) and maximum allowable salary packaging"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/MIEiR9Brl2Y",
+      "organisation": {
+        "id": 6389,
+        "name": "Uniting (NSW.ACT)",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1766119118_I8OGM_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1766119118_I8OGM_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1766119118_I8OGM_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1766119118_I8OGM_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1766119118_I8OGM_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553026,
+      "title": "Cleaner - Lindsay Gardens",
+      "slug": "Uniting/cleaner-lindsay-gardens-hamilton",
+      "organisationName": "Uniting (NSW.ACT)",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+      "summary": "Uniting Lindsay Gardens seek a cleaner for their aged care facility. $28.63 p/h plus super, salary packaging and other great not for profit benefits. Join our team today!",
+      "expiresAt": "2026-04-03T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Hamilton"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://jobs.dayforcehcm.com/en-AU/unitingaunsw/119921/jobs/DF2744?external=true",
+      "location_name": "Regional NSW",
+      "locality": "Hamilton",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/cleaner-lindsay-gardens-hamilton",
+      "approvedAt": "2026-03-04T05:21:53.000Z",
+      "application": "<p><a href=\"https://ars2.equest.com/?response_id=6772ed5c8a3789357ebb9c64a3506838\" target=\"_blank\" rel=\"noopener\"><img alt=\"Apply\" src=\"http://www2.equest.com/images/applyhere.gif\" /></a><img src=\"https://ars2.equest.com/?response_id=6772ed5c8a3789357ebb9c64a3506838&amp;view\" alt=\"\" width=\"1\" height=\"1\" /></p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        },
+        {
+          "archived": false,
+          "id": 49,
+          "slug": "tradesandservices",
+          "title": "Trades and Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Trades+%26+Services.jpeg",
+          "jobCount": 30
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$28.63 p/h + super, salary packaging & other great not for profit benefits"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/MIEiR9Brl2Y",
+      "organisation": {
+        "id": 6389,
+        "name": "Uniting (NSW.ACT)",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1766119118_I8OGM_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1766119118_I8OGM_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1766119118_I8OGM_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1766119118_I8OGM_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1766119118_I8OGM_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551254,
+      "title": "Community Services Coordinator",
+      "slug": "CASS/community-services-coordinator",
+      "organisationName": "CASS ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1475796923_uyD5G_.jpeg",
+      "summary": "You will be responsible for assisting the Chinese community in accessing and understanding aged care systems, services and information as well as developing community services needed by the community.",
+      "expiresAt": "2026-04-03T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Campsie"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Sydney",
+      "locality": "Campsie",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/CASS/community-services-coordinator",
+      "approvedAt": "2026-02-17T03:42:07.000Z",
+      "application": "<p>Applications in writing providing detailed resume, responses to the above requirements are to be forwarded to: Ms. Vickie Xu, Executive Officer/Human Resources Management, CASS Care Ltd, 44-50 Sixth Avenue, Campsie NSW 2194 or submitted via the form below.</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 202646,
+          "parentId": 551254,
+          "mimeType": "application/pdf",
+          "fileName": "1771296874_4Q4mZ_.pdf",
+          "size": 237115,
+          "originalFileName": "Job-Ad_Community-Services-Coordinator_Feb-2026.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1771296874_4Q4mZ_.pdf",
+          "createdAt": "2026-02-17 02:54:35",
+          "updatedAt": "2026-02-17 02:54:35"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 40,
+          "slug": "multiculturalismdiversity",
+          "title": "Multiculturalism and Diversity",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Multiculturalism+%26+Diversity.jpeg",
+          "jobCount": 67
+        },
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 186
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 200,
+        "name": "CASS ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1475796923_uyD5G_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1475796923_uyD5G_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1475796923_uyD5G_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1475796923_uyD5G_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1475796923_uyD5G_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1475796923_uyD5G_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552560,
+      "title": "Registered Nurse - Koombahla",
+      "slug": "Uniting/registered-nurse-koombahla-elermore-vale",
+      "organisationName": "Uniting (NSW.ACT)",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+      "summary": "Seeking an experienced RN for our Elermore Vale aged care service for a contract working Mon, Tue Wed mornings from April to October 2026. To $54.19 p/h + great benefits.",
+      "expiresAt": "2026-03-29T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Elermore Vale"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://ars2.equest.com/?response_id=0442aa59cf7939cc6d3dd8a971273136",
+      "location_name": "Regional NSW",
+      "locality": "Elermore Vale",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/registered-nurse-koombahla-elermore-vale",
+      "approvedAt": "2026-02-27T04:39:36.000Z",
+      "application": "<p><a href=\"https://ars2.equest.com/?response_id=0442aa59cf7939cc6d3dd8a971273136\" target=\"_blank\" rel=\"noopener\"><img alt=\"Apply\" src=\"http://www2.equest.com/images/applyhere.gif\" /></a><img src=\"https://ars2.equest.com/?response_id=0442aa59cf7939cc6d3dd8a971273136&amp;view\" alt=\"\" width=\"1\" height=\"1\" /></p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 186
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 78
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$54.19 p/h + great benefits."
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/MIEiR9Brl2Y",
+      "organisation": {
+        "id": 6389,
+        "name": "Uniting (NSW.ACT)",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1766119118_I8OGM_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1766119118_I8OGM_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1766119118_I8OGM_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1766119118_I8OGM_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1766119118_I8OGM_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 551267,
+      "title": "Laundry - Laundry Assistant",
+      "slug": "Uniting/laundry-laundry-assistant-eden",
+      "organisationName": "Uniting (NSW.ACT)",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+      "summary": "Are you passionate about making a real difference in peopleâs lives? We seek compassionate individuals to join our team and provide hotel service support to residents in our aged care home.",
+      "expiresAt": "2026-03-19T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Eden"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://jobs.dayforcehcm.com/en-AU/unitingaunsw/119921/jobs/DF2293?external=true",
+      "location_name": "Regional NSW",
+      "locality": "Eden",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/laundry-laundry-assistant-eden",
+      "approvedAt": "2026-02-17T05:12:52.000Z",
+      "application": "<p><a href=\"https://ars2.equest.com/?response_id=becd7f9989f70f9437ca85578c0936b0\" target=\"_blank\" rel=\"noopener\"><img alt=\"Apply\" src=\"http://www2.equest.com/images/applyhere.gif\" /></a><img src=\"https://ars2.equest.com/?response_id=becd7f9989f70f9437ca85578c0936b0&amp;view\" alt=\"\" width=\"1\" height=\"1\" /></p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        },
+        {
+          "archived": false,
+          "id": 30,
+          "slug": "retailandhospitality",
+          "title": "Retail and Hospitality",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Retail_&_Hospitality.jpg",
+          "jobCount": 45
+        },
+        {
+          "archived": false,
+          "id": 49,
+          "slug": "tradesandservices",
+          "title": "Trades and Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Trades+%26+Services.jpeg",
+          "jobCount": 30
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/MIEiR9Brl2Y",
+      "organisation": {
+        "id": 6389,
+        "name": "Uniting (NSW.ACT)",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1766119118_I8OGM_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1766119118_I8OGM_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1766119118_I8OGM_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1766119118_I8OGM_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1766119118_I8OGM_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 552056,
+      "title": "Cook",
+      "slug": "Uniting/cook-shared-kitchen",
+      "organisationName": "Uniting (NSW.ACT)",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+      "summary": "Are you passionate about cooking with purpose? Join our team in Westmead and use your culinary skills to make a real difference in the lives of residents in our aged care home.",
+      "expiresAt": "2026-03-26T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Westmead"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://jobs.dayforcehcm.com/en-AU/unitingaunsw/119921/jobs/DF2655?external=true",
+      "location_name": "Sydney",
+      "locality": "Westmead",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/cook-shared-kitchen",
+      "approvedAt": "2026-02-24T04:45:28.000Z",
+      "application": "<p><a href=\"https://ars2.equest.com/?response_id=c3f12884aed0b1fa3fa6aaa75681c00f\" target=\"_blank\" rel=\"noopener\"><img alt=\"Apply\" src=\"http://www2.equest.com/images/applyhere.gif\" /></a><img src=\"https://ars2.equest.com/?response_id=c3f12884aed0b1fa3fa6aaa75681c00f&amp;view\" alt=\"\" width=\"1\" height=\"1\" /></p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 186
+        },
+        {
+          "archived": false,
+          "id": 30,
+          "slug": "retailandhospitality",
+          "title": "Retail and Hospitality",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Retail_&_Hospitality.jpg",
+          "jobCount": 44
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/MIEiR9Brl2Y",
+      "organisation": {
+        "id": 6389,
+        "name": "Uniting (NSW.ACT)",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1766119118_I8OGM_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1766119118_I8OGM_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1766119118_I8OGM_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1766119118_I8OGM_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1766119118_I8OGM_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553733,
+      "title": "Policy Governance Lead",
+      "slug": "NewHorizons/policy-governance-lead",
+      "organisationName": "New Horizons",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1473237929_0CNV9_.png",
+      "summary": "Join an organisation with a powerful mission: enhancing the wellbeing of people across disability, aged care, and mental health services.",
+      "expiresAt": "2026-04-09T22:30:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Sydney"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://apply.jobadder.com/au6/2702/839642/g7d6cvnhyckunb7lfpw3o4n75i",
+      "location_name": "Sydney",
+      "locality": "Sydney",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/NewHorizons/policy-governance-lead",
+      "approvedAt": "2026-03-10T22:59:11.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 42,
+          "slug": "operationsriskmanagement",
+          "title": "Operations and Risk Management",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Operations+%26+Risk+Managament.jpeg",
+          "jobCount": 175
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=zfNZNDsWMvU",
+      "organisation": {
+        "id": 1908,
+        "name": "New Horizons",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1473237929_0CNV9_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1473237929_0CNV9_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1473237929_0CNV9_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1473237929_0CNV9_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1473237929_0CNV9_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1473237929_0CNV9_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553455,
+      "title": "Senior Clinician",
+      "slug": "angliNT/senior-clinician-headspace-5",
+      "organisationName": "Anglicare NT",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1565668891_ndE6p_.jpeg",
+      "summary": "Work within a nationally recognised model of care, supporting young people aged 12â25 who are experiencing or at risk of developing psychosis.",
+      "expiresAt": null,
+      "isExpirationHidden": true,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Darwin",
+          "locality": "Darwin"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://anglicarent.jobs.subscribe-hr.com/jobs/989-darwin-senior-clinician-early-psychosis",
+      "location_name": "Darwin",
+      "locality": "Darwin",
+      "state": "NT",
+      "url": "https://www.ethicaljobs.com.au/members/angliNT/senior-clinician-headspace-5",
+      "approvedAt": "2026-03-08T23:23:25.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 203704,
+          "parentId": 553455,
+          "mimeType": "application/pdf",
+          "fileName": "1762402595_0IB7c_.pdf",
+          "size": 178521,
+          "originalFileName": "APPROVED Position Description Senior Clinician Early Psychosis MARCH 2024.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1762402595_0IB7c_.pdf",
+          "createdAt": "2026-03-06 07:23:51",
+          "updatedAt": "2026-03-06 07:23:51"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 53,
+          "slug": "youthservices",
+          "title": "Youth",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Youth.jpeg",
+          "jobCount": 299
+        },
+        {
+          "archived": false,
+          "id": 39,
+          "slug": "mentalhealthandcounselling",
+          "title": "Mental Health and Counselling",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Mental+Health+%26+Counselling.jpg",
+          "jobCount": 355
+        },
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 201
+        },
+        {
+          "archived": false,
+          "id": 47,
+          "slug": "socialwork",
+          "title": "Social Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Social_Work.jpg",
+          "jobCount": 433
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 13,
+        "slug": "NT",
+        "title": "Darwin",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "HPSS Level 3.4 $95,272,.85 p/a + Salary Packaging"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/n40q8p5ce1Y",
+      "organisation": {
+        "id": 1897,
+        "name": "Anglicare NT",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1565668891_ndE6p_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1565668891_ndE6p_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1565668891_ndE6p_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1565668891_ndE6p_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1565668891_ndE6p_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1565668891_ndE6p_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553399,
+      "title": "Educator",
+      "slug": "Uniting/educator-51",
+      "organisationName": "Uniting (NSW.ACT)",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+      "summary": "Join a warm, purpose-led team in Chisholm, nurturing children aged 0 - 3 years in a creative, caring, and inspiring early learning environment.",
+      "expiresAt": "2026-04-05T07:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Canberra & ACT",
+          "locality": "Chisholm"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://jobs.dayforcehcm.com/en-AU/unitingaunsw/119921/jobs/DF2754?external=true",
+      "location_name": "Canberra & ACT",
+      "locality": "Chisholm",
+      "state": "ACT",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/educator-51",
+      "approvedAt": "2026-03-06T04:27:19.000Z",
+      "application": "<p><a href=\"https://ars2.equest.com/?response_id=c1342c0062c2f64bb5c402d536b7aee2\" target=\"_blank\" rel=\"noopener\"><img alt=\"Apply\" src=\"http://www2.equest.com/images/applyhere.gif\" /></a><img src=\"https://ars2.equest.com/?response_id=c1342c0062c2f64bb5c402d536b7aee2&amp;view\" alt=\"\" width=\"1\" height=\"1\" /></p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 14,
+          "slug": "earlychildhood",
+          "title": "Early Childhood",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Early_Childhood.jpg",
+          "jobCount": 77
+        },
+        {
+          "archived": false,
+          "id": 16,
+          "slug": "educationandtraining",
+          "title": "Education and Training",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Education+%26+Training.jpeg",
+          "jobCount": 157
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 15,
+        "slug": "ACT",
+        "title": "Canberra & ACT",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$33.75 - 37.74/hr (Depending on experience) + Super + Salary Packaging"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/MIEiR9Brl2Y",
+      "organisation": {
+        "id": 6389,
+        "name": "Uniting (NSW.ACT)",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1766119118_I8OGM_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1766119118_I8OGM_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1766119118_I8OGM_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1766119118_I8OGM_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1766119118_I8OGM_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553239,
+      "title": "OSHC Educator - Kent Park Primary School",
+      "slug": "WMV/oshc-educator-kent-park-primary-school-portland",
+      "organisationName": "Uniting (Victoria and Tasmania) Limited",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1763593170_OxI0z_.png",
+      "summary": "Part time and casual roles available. Deliver after-school programs that provide high-quality education and care to school-aged children and support the wider community.",
+      "expiresAt": "2026-04-05T13:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional VIC",
+          "locality": "Portland"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/837/gateway/?c=apply&sJobIDs=524945&SourceTypeID=803&sLanguage=en",
+      "location_name": "Regional VIC",
+      "locality": "Portland",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/WMV/oshc-educator-kent-park-primary-school-portland",
+      "approvedAt": "2026-03-05T04:50:56.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 14,
+          "slug": "earlychildhood",
+          "title": "Early Childhood",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Early_Childhood.jpg",
+          "jobCount": 77
+        },
+        {
+          "archived": false,
+          "id": 16,
+          "slug": "educationandtraining",
+          "title": "Education and Training",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Education+%26+Training.jpeg",
+          "jobCount": 157
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 2,
+        "slug": "REGVIC",
+        "title": "Regional VIC",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        },
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=yuLfWau4h28",
+      "organisation": {
+        "id": 3026,
+        "name": "Uniting (Victoria and Tasmania) Limited",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1763593170_OxI0z_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1763593170_OxI0z_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1763593170_OxI0z_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1763593170_OxI0z_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1763593170_OxI0z_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1763593170_OxI0z_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 550267,
+      "title": "Safe House Senior Carer",
+      "slug": "TangentyereCouncil/safe-house-senior-carer-alice-springs",
+      "organisationName": "Tangentyere Council",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1590631187_rtWGL_.jpg",
+      "summary": "The Tangentyere Safe House (Ndarndarinjika Safe Houses) provides short term crisis accommodation for Aboriginal children between the ages of 5-12 years old, including respite care.",
+      "expiresAt": "2026-03-26T07:30:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NT",
+          "locality": "Alice Springs & Central Australia"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Regional NT",
+      "locality": "Alice Springs & Central Australia",
+      "state": "NT",
+      "url": "https://www.ethicaljobs.com.au/members/TangentyereCouncil/safe-house-senior-carer-alice-springs",
+      "approvedAt": "2026-02-09T01:50:57.000Z",
+      "application": "<p>To be consider for this position, the application must include the following documents: Cover Letter, claims against the Selection Criteria and a Resume (including two nominated current referees). The application must also include a copy of a satisfactory Police Check, Ochre Card (WWC), and evidence of full COVID-19 vaccination (three doses consisting of two primary and one booster).</p>\n<p>A suitable candidate may be appointed prior to closing date.</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 202202,
+          "parentId": 550267,
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "fileName": "1770594570_n2sVf_.docx",
+          "size": 175639,
+          "originalFileName": "doc_000_ PD - FSSS - Safe House Senior Carer 4.1.docx",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1770594570_n2sVf_.docx",
+          "createdAt": "2026-02-08 23:49:31",
+          "updatedAt": "2026-02-08 23:49:31"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 32,
+          "slug": "indigenous",
+          "title": "Indigenous",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Indigenous.jpeg",
+          "jobCount": 253
+        },
+        {
+          "archived": false,
+          "id": 53,
+          "slug": "youthservices",
+          "title": "Youth",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Youth.jpeg",
+          "jobCount": 296
+        },
+        {
+          "archived": false,
+          "id": 29,
+          "slug": "housing",
+          "title": "Housing and Homelessness",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Housing_&_Homelessness.jpg",
+          "jobCount": 98
+        },
+        {
+          "archived": false,
+          "id": 47,
+          "slug": "socialwork",
+          "title": "Social Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Social_Work.jpg",
+          "jobCount": 423
+        },
+        {
+          "archived": false,
+          "id": 19,
+          "slug": "familyservices",
+          "title": "Family Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Family_Services.jpg",
+          "jobCount": 281
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 14,
+        "slug": "REGNT",
+        "title": "Regional NT",
+        "archived": false
+      },
+      "questions": [
+        {
+          "id": 24,
+          "question": "Do you have full and unrestricted rights to work in Australia?",
+          "alias": "Unrestricted rights to work in Australia",
+          "blanks": {},
+          "category": "Work Eligibility",
+          "displayText": "Do you have full and unrestricted rights to work in Australia?"
+        },
+        {
+          "id": 27,
+          "question": "Do you possess a current satisfactory National Police Clearance Certificate?",
+          "alias": "National Police Clearance Certificate",
+          "blanks": {},
+          "category": "Checks",
+          "displayText": "Do you possess a current satisfactory National Police Clearance Certificate?"
+        },
+        {
+          "id": 28,
+          "question": "Do you possess a current satisfactory Working With Children Check?",
+          "alias": "Working With Children Check",
+          "blanks": {},
+          "category": "Checks",
+          "displayText": "Do you possess a current satisfactory Working With Children Check?"
+        }
+      ],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$85,000 - $89,999 per annum + salary packaging"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 7387,
+        "name": "Tangentyere Council",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1590631187_rtWGL_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1590631187_rtWGL_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1590631187_rtWGL_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1590631187_rtWGL_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1590631187_rtWGL_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1590631187_rtWGL_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553962,
+      "title": "Case Manager",
+      "slug": "MerriOutreach/case-manager-low-cost-accommodation-support-program-2",
+      "organisationName": "Merri Outreach Support Service",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1623127596_tTf7H_.jpg",
+      "summary": "Full-time role. This isnât just a job â itâs a chance to make a real impact every day. Join MOSS, a values-driven organisation working to end homelessness and strengthen communities.\n",
+      "expiresAt": "2026-03-30T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "Brunswick"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Melbourne",
+      "locality": "Brunswick",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/MerriOutreach/case-manager-low-cost-accommodation-support-program-2",
+      "approvedAt": "2026-03-12T04:56:04.000Z",
+      "application": "<p>To apply, please submit your <strong>cover letter</strong>, <strong>resume</strong>, and <strong>responses to the key selection criteria</strong> to: <strong>Anne Roberts, </strong>Program Manager &ndash; Older Persons Support and Connect<strong>.</strong></p>\n<p><strong>Please note applications that do not address the key selection criteria will not be short-listed. </strong></p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 203977,
+          "parentId": 553962,
+          "mimeType": "application/pdf",
+          "fileName": "1773290512_ETFYC_.pdf",
+          "size": 290087,
+          "originalFileName": "Case Manage LCA 12.03.2026.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1773290512_ETFYC_.pdf",
+          "createdAt": "2026-03-12 04:41:53",
+          "updatedAt": "2026-03-12 04:41:53"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        },
+        {
+          "archived": false,
+          "id": 29,
+          "slug": "housing",
+          "title": "Housing and Homelessness",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Housing_&_Homelessness.jpg",
+          "jobCount": 105
+        },
+        {
+          "archived": false,
+          "id": 47,
+          "slug": "socialwork",
+          "title": "Social Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Social_Work.jpg",
+          "jobCount": 433
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 3485,
+        "name": "Merri Outreach Support Service",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1623127596_tTf7H_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1623127596_tTf7H_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1623127596_tTf7H_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1623127596_tTf7H_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1623127596_tTf7H_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1623127596_tTf7H_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553939,
+      "title": "Registered Nurse",
+      "slug": "Uniting/registered-nurse-salamander-bay-32",
+      "organisationName": "Uniting (NSW.ACT)",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+      "summary": "Uniting Salamander Bay require an RN who can work night shift and also a maternity leave cover.Â To $54.19 p/h plus relevant penalties. Immediate start.",
+      "expiresAt": "2026-04-11T07:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Salamander Bay"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://jobs.dayforcehcm.com/en-AU/unitingaunsw/119921/jobs/DF2768?external=true",
+      "location_name": "Regional NSW",
+      "locality": "Salamander Bay",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/registered-nurse-salamander-bay-32",
+      "approvedAt": "2026-03-12T04:13:51.000Z",
+      "application": "<p><a href=\"https://ars2.equest.com/?response_id=ca65cef5fec940da7404a4ab20c6b1ed\" target=\"_blank\" rel=\"noopener\"><img alt=\"Apply\" src=\"http://www2.equest.com/images/applyhere.gif\" /></a><img src=\"https://ars2.equest.com/?response_id=ca65cef5fec940da7404a4ab20c6b1ed&amp;view\" alt=\"\" width=\"1\" height=\"1\" /></p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 186
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 78
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "Above-award pay rates (up to $54.19 per hour + casual loading)"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 1,
+          "slug": "CASUAL",
+          "title": "Casual",
+          "archived": false
+        },
+        {
+          "id": 2,
+          "slug": "CONTRACT",
+          "title": "Contract",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/MIEiR9Brl2Y",
+      "organisation": {
+        "id": 6389,
+        "name": "Uniting (NSW.ACT)",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1766119118_I8OGM_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1766119118_I8OGM_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1766119118_I8OGM_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1766119118_I8OGM_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1766119118_I8OGM_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553940,
+      "title": "Care Partner",
+      "slug": "Uniting/care-partner-2",
+      "organisationName": "Uniting (NSW.ACT)",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+      "summary": "This position is responsible for leading case management and the delivery of person-centred home and community care services.",
+      "expiresAt": "2026-04-11T07:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Kingscliff"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://ars2.equest.com/?response_id=951733a6f5727fb12d2cc32c950e8c90",
+      "location_name": "Regional NSW",
+      "locality": "Kingscliff",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/care-partner-2",
+      "approvedAt": "2026-03-12T03:50:20.000Z",
+      "application": "<p><a href=\"https://ars2.equest.com/?response_id=951733a6f5727fb12d2cc32c950e8c90\" target=\"_blank\" rel=\"noopener\"><img alt=\"Apply\" src=\"http://www2.equest.com/images/applyhere.gif\" /></a><img src=\"https://ars2.equest.com/?response_id=951733a6f5727fb12d2cc32c950e8c90&amp;view\" alt=\"\" width=\"1\" height=\"1\" /></p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        },
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 96
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/MIEiR9Brl2Y",
+      "organisation": {
+        "id": 6389,
+        "name": "Uniting (NSW.ACT)",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1766119118_I8OGM_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1766119118_I8OGM_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1766119118_I8OGM_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1766119118_I8OGM_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1766119118_I8OGM_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553938,
+      "title": "Registered Nurse - Community Care",
+      "slug": "Uniting/registered-nurse-community-care-tweed-heads-kingscliff",
+      "organisationName": "Uniting (NSW.ACT)",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+      "summary": "Play a key role in providing high-quality clinical care that promotes client self-determination, enhances resilience, & improves overall quality of life for both individuals and their family carers. ",
+      "expiresAt": "2026-04-11T07:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Tweed Heads"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://ars2.equest.com/?response_id=9bc85a3d9b85f1f655a6811b60779ff1",
+      "location_name": "Regional NSW",
+      "locality": "Tweed Heads",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/registered-nurse-community-care-tweed-heads-kingscliff",
+      "approvedAt": "2026-03-12T03:46:59.000Z",
+      "application": "<p><a href=\"https://ars2.equest.com/?response_id=9bc85a3d9b85f1f655a6811b60779ff1\" target=\"_blank\" rel=\"noopener\"><img alt=\"Apply\" src=\"http://www2.equest.com/images/applyhere.gif\" /></a><img src=\"https://ars2.equest.com/?response_id=9bc85a3d9b85f1f655a6811b60779ff1&amp;view\" alt=\"\" width=\"1\" height=\"1\" /></p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        },
+        {
+          "archived": false,
+          "id": 41,
+          "slug": "nursing",
+          "title": "Nursing",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Nursing.jpeg",
+          "jobCount": 79
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/MIEiR9Brl2Y",
+      "organisation": {
+        "id": 6389,
+        "name": "Uniting (NSW.ACT)",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1766119118_I8OGM_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1766119118_I8OGM_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1766119118_I8OGM_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1766119118_I8OGM_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1766119118_I8OGM_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553815,
+      "title": "Home And Community Care Transformation",
+      "slug": "Uniting/home-and-community-care-transformation-transformation-lead",
+      "organisationName": "Uniting (NSW.ACT)",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+      "summary": "Working within a high-impact transformation office, you will drive and coordinate transformation initiatives across Home and Community Care, ensuring projects deliver measurable outcomes.",
+      "expiresAt": "2026-04-11T13:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "CBD, Inner West & Eastern Suburbs Sydney"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://ars2.equest.com/?response_id=5714766fa83843728ede31842563fab0",
+      "location_name": "Sydney",
+      "locality": "CBD, Inner West & Eastern Suburbs Sydney",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/home-and-community-care-transformation-transformation-lead",
+      "approvedAt": "2026-03-11T04:49:30.000Z",
+      "application": "<p><a href=\"https://ars2.equest.com/?response_id=5714766fa83843728ede31842563fab0\" target=\"_blank\" rel=\"noopener\"><img alt=\"Apply\" src=\"http://www2.equest.com/images/applyhere.gif\" /></a><img src=\"https://ars2.equest.com/?response_id=5714766fa83843728ede31842563fab0&amp;view\" alt=\"\" width=\"1\" height=\"1\" /></p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 45,
+          "slug": "projectmanagement",
+          "title": "Project Management",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Project+Management.jpeg",
+          "jobCount": 64
+        },
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 2,
+          "slug": "CONTRACT",
+          "title": "Contract",
+          "archived": false
+        },
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/MIEiR9Brl2Y",
+      "organisation": {
+        "id": 6389,
+        "name": "Uniting (NSW.ACT)",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1766119118_I8OGM_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1766119118_I8OGM_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1766119118_I8OGM_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1766119118_I8OGM_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1766119118_I8OGM_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553819,
+      "title": "Support Worker",
+      "slug": "Uniting/support-worker-goulburn-crookwell-1",
+      "organisationName": "Uniting (NSW.ACT)",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+      "summary": "Join us as a Uniting Home Care Worker, where you'll play a crucial role in providing essential and practical care for our elderly clients.",
+      "expiresAt": "2026-04-10T07:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Goulburn"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://jobs.dayforcehcm.com/en-AU/unitingaunsw/119921/jobs/DF2777?external=true",
+      "location_name": "Regional NSW",
+      "locality": "Goulburn",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/support-worker-goulburn-crookwell-1",
+      "approvedAt": "2026-03-11T04:19:03.000Z",
+      "application": "<p><a href=\"https://ars2.equest.com/?response_id=4986f588dc3c3cd7cb0e51919ca9c930\" target=\"_blank\" rel=\"noopener\"><img alt=\"Apply\" src=\"http://www2.equest.com/images/applyhere.gif\" /></a><img src=\"https://ars2.equest.com/?response_id=4986f588dc3c3cd7cb0e51919ca9c930&amp;view\" alt=\"\" width=\"1\" height=\"1\" /></p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        },
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 96
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$31.14 - $35.98 per hour + 99c per km and travel time"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/MIEiR9Brl2Y",
+      "organisation": {
+        "id": 6389,
+        "name": "Uniting (NSW.ACT)",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1766119118_I8OGM_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1766119118_I8OGM_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1766119118_I8OGM_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1766119118_I8OGM_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1766119118_I8OGM_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553818,
+      "title": "Support Worker",
+      "slug": "Uniting/support-worker-blacktown-2",
+      "organisationName": "Uniting (NSW.ACT)",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+      "summary": "Join us as a Uniting Home Care Worker, where you'll play a crucial role in providing essential and practical care for our elderly clients.",
+      "expiresAt": null,
+      "isExpirationHidden": true,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Blacktown"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://jobs.dayforcehcm.com/en-AU/unitingaunsw/119921/jobs/DF2306?external=true",
+      "location_name": "Sydney",
+      "locality": "Blacktown",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/support-worker-blacktown-2",
+      "approvedAt": "2026-03-11T04:11:37.000Z",
+      "application": "<p><a href=\"https://ars2.equest.com/?response_id=a0cf83067067a065d9116fa86b2a40dc\" target=\"_blank\" rel=\"noopener\"><img alt=\"Apply\" src=\"http://www2.equest.com/images/applyhere.gif\" /></a><img src=\"https://ars2.equest.com/?response_id=a0cf83067067a065d9116fa86b2a40dc&amp;view\" alt=\"\" width=\"1\" height=\"1\" /></p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        },
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 96
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$31.14 - $35.98 per hour + 99c per km and travel time"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/MIEiR9Brl2Y",
+      "organisation": {
+        "id": 6389,
+        "name": "Uniting (NSW.ACT)",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1766119118_I8OGM_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1766119118_I8OGM_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1766119118_I8OGM_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1766119118_I8OGM_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1766119118_I8OGM_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553816,
+      "title": "Support Worker",
+      "slug": "Uniting/support-worker-gunnedah-13",
+      "organisationName": "Uniting (NSW.ACT)",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+      "summary": "Join our Home Care Team and positively impact the lives of elderly clients in your community!",
+      "expiresAt": "2026-04-10T07:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Regional NSW",
+          "locality": "Gunnedah"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://jobs.dayforcehcm.com/en-AU/unitingaunsw/119921/jobs/DF2778?external=true",
+      "location_name": "Regional NSW",
+      "locality": "Gunnedah",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/Uniting/support-worker-gunnedah-13",
+      "approvedAt": "2026-03-11T04:08:58.000Z",
+      "application": "<p><a href=\"https://ars2.equest.com/?response_id=f5c6c513de8b9e850a6427a961fa9593\" target=\"_blank\" rel=\"noopener\"><img alt=\"Apply\" src=\"http://www2.equest.com/images/applyhere.gif\" /></a><img src=\"https://ars2.equest.com/?response_id=f5c6c513de8b9e850a6427a961fa9593&amp;view\" alt=\"\" width=\"1\" height=\"1\" /></p>",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 186
+        },
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 96
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 4,
+        "slug": "REGNSW",
+        "title": "Regional NSW",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$31.14 - $35.98 per hour + 99c per km and travel time"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/MIEiR9Brl2Y",
+      "organisation": {
+        "id": 6389,
+        "name": "Uniting (NSW.ACT)",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1766119118_I8OGM_.png",
+          "large": "https://static.ethicaljobs.com.au/media/large/1766119118_I8OGM_.png",
+          "standard": "https://static.ethicaljobs.com.au/media/1766119118_I8OGM_.png",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1766119118_I8OGM_.png",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1766119118_I8OGM_.png",
+          "social": "https://static.ethicaljobs.com.au/media/social/1766119118_I8OGM_.png"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553777,
+      "title": "Community Services Consultant",
+      "slug": "TBS2021/community-services-consultant-29",
+      "organisationName": "The Benevolent Society ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1490055428_XBfaW_.jpeg",
+      "summary": "As ourÂ Community Services Consultant for the Disability Gateway you will be the first point of contact for clients seeking support.",
+      "expiresAt": null,
+      "isExpirationHidden": true,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Glebe"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://form.myrecruitmentplus.com/applicationform?jobAdId=9710337",
+      "location_name": "Sydney",
+      "locality": "Glebe",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/TBS2021/community-services-consultant-29",
+      "approvedAt": "2026-03-11T01:51:49.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        },
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 206
+        },
+        {
+          "archived": false,
+          "id": 1,
+          "slug": "administration",
+          "title": "Administration",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Administration.jpeg",
+          "jobCount": 190
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$76k - $81.9k (based on skills & experience) + Super + Salary Packaging"
+      },
+      "sectors": [
+        {
+          "id": 5,
+          "slug": "socialenterprise",
+          "title": "Social Enterprise",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 6085,
+        "name": "The Benevolent Society ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1490055428_XBfaW_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1490055428_XBfaW_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1490055428_XBfaW_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1490055428_XBfaW_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1490055428_XBfaW_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1490055428_XBfaW_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553760,
+      "title": "Events and Fundraising Manager",
+      "slug": "ImpactAdvising/events-and-fundraising-manager-st-lukes-care-foundation",
+      "organisationName": "Impact Advising ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1732512482_eKvIm_.jpg",
+      "summary": "Drive philanthropy through major donor cultivation and delivering fundraising events for a local healthcare provider supporting ageing Australians.",
+      "expiresAt": "2026-04-10T07:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Potts Point"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://apply.jobadder.com/au6/2044/839811/xwib2aetduseploqxtwfxv4boa",
+      "location_name": "Sydney",
+      "locality": "Potts Point",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/ImpactAdvising/events-and-fundraising-manager-st-lukes-care-foundation",
+      "approvedAt": "2026-03-11T01:21:15.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 22,
+          "slug": "fundraising",
+          "title": "Fundraising",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Fundraising.jpg",
+          "jobCount": 119
+        },
+        {
+          "archived": false,
+          "id": 55,
+          "slug": "events",
+          "title": "Events Management",
+          "imageUrl": "https://static.ethicaljobs.com.au/assets/web-responsive/categories/Events_Management.jpg",
+          "jobCount": 57
+        },
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 186
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 18167,
+        "name": "Impact Advising ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1732512482_eKvIm_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1732512482_eKvIm_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1732512482_eKvIm_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1732512482_eKvIm_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1732512482_eKvIm_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1732512482_eKvIm_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553750,
+      "title": "Manager & Principal Lawyer",
+      "slug": "COTA/manager-principal-lawyer-seniors-rights-victoria",
+      "organisationName": "COTA Victoria",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1736992840_8mO1J_.jpg",
+      "summary": "Council on the Ageing (COTA Victoria) is the leading not-for-profit organisation representing the interests and rights of people aged over 50 in Victoria.",
+      "expiresAt": "2026-03-25T06:00:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "Melbourne"
+        }
+      ],
+      "applyMethod": "email",
+      "applyButton": null,
+      "location_name": "Melbourne",
+      "locality": "Melbourne",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/COTA/manager-principal-lawyer-seniors-rights-victoria",
+      "approvedAt": "2026-03-11T00:47:29.000Z",
+      "application": "<p>Please submit your application via the form below providing your CV and Cover Letter addressing the Key Selection Criteria.</p>",
+      "applicationValidationRules": [
+        {
+          "target": "coverLetter",
+          "rule": "REQUIRED"
+        }
+      ],
+      "attachments": [
+        {
+          "id": 203857,
+          "parentId": 553750,
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "fileName": "1773186659_1MXuK_.docx",
+          "size": 860537,
+          "originalFileName": "SRV Manager and Principal Lawyer - March 2026.docx",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1773186659_1MXuK_.docx",
+          "createdAt": "2026-03-10 23:51:00",
+          "updatedAt": "2026-03-10 23:51:00"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 186
+        },
+        {
+          "archived": false,
+          "id": 35,
+          "slug": "legalandhumanrights",
+          "title": "Legal and Human Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Legal_&_Human_Rights.jpg",
+          "jobCount": 171
+        },
+        {
+          "archived": false,
+          "id": 36,
+          "slug": "management",
+          "title": "Management",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Management.jpeg",
+          "jobCount": 282
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [
+        {
+          "id": 24,
+          "question": "Do you have full and unrestricted rights to work in Australia?",
+          "alias": "Unrestricted rights to work in Australia",
+          "blanks": {},
+          "category": "Work Eligibility",
+          "displayText": "Do you have full and unrestricted rights to work in Australia?"
+        },
+        {
+          "id": 30,
+          "question": "Do you have <x> year(s) of <y> experience?",
+          "alias": "Relevant professional experience",
+          "blanks": {
+            "x": "5",
+            "y": "Post-admission legal"
+          },
+          "category": "Experience",
+          "displayText": "Do you have 5 year(s) of Post-admission legal experience?"
+        },
+        {
+          "id": 27,
+          "question": "Do you possess a current satisfactory National Police Clearance Certificate?",
+          "alias": "National Police Clearance Certificate",
+          "blanks": {},
+          "category": "Checks",
+          "displayText": "Do you possess a current satisfactory National Police Clearance Certificate?"
+        }
+      ],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$130K base + super + salary packaging"
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 2940,
+        "name": "COTA Victoria",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1736992840_8mO1J_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1736992840_8mO1J_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1736992840_8mO1J_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1736992840_8mO1J_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1736992840_8mO1J_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1736992840_8mO1J_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553693,
+      "title": "Home Maintenance Officers x2",
+      "slug": "KingstonCityCouncil/home-maintenance-officers-x2",
+      "organisationName": "City of Kingston",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1539914301_vg41b_.jpeg",
+      "summary": "Join AccessCare as a Home Maintenance Officer and support older residents to live safely at home.",
+      "expiresAt": "2026-03-24T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Melbourne",
+          "locality": "Mentone"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/1161/gateway/default.aspx?c=apply&lJobID=493175&lJobSourceTypeID=803&sLanguage=en",
+      "location_name": "Melbourne",
+      "locality": "Mentone",
+      "state": "VIC",
+      "url": "https://www.ethicaljobs.com.au/members/KingstonCityCouncil/home-maintenance-officers-x2",
+      "approvedAt": "2026-03-10T06:00:09.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 203835,
+          "parentId": 553693,
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "fileName": "1773122380_ablyB_.docx",
+          "size": 173855,
+          "originalFileName": "PD - Various - Home Maintenance Officer - February 2026.docx",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1773122380_ablyB_.docx",
+          "createdAt": "2026-03-10 05:59:41",
+          "updatedAt": "2026-03-10 05:59:41"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 49,
+          "slug": "tradesandservices",
+          "title": "Trades and Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Trades+%26+Services.jpeg",
+          "jobCount": 30
+        },
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 1,
+        "slug": "VIC",
+        "title": "Melbourne",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$69,181 - 73,600 per annum (dependant upon experience) + superannuationÂ "
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=daJi-pI5Kpc&t=1s",
+      "organisation": {
+        "id": 8689,
+        "name": "City of Kingston",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1539914301_vg41b_.jpeg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1539914301_vg41b_.jpeg",
+          "standard": "https://static.ethicaljobs.com.au/media/1539914301_vg41b_.jpeg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1539914301_vg41b_.jpeg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1539914301_vg41b_.jpeg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1539914301_vg41b_.jpeg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553609,
+      "title": "Physiotherapist",
+      "slug": "BaptistCare/physiotherapist-northern-sydney-and-surrounds",
+      "organisationName": "BaptistCare ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+      "summary": "Due to growth, we are looking for an amazing Physiotherapist to join our team in Northern Sydney and surrounding areas. Full-time or Part-time.",
+      "expiresAt": "2026-04-10T13:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "North Shore & Northern Beaches Sydney"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/999/gateway/default.aspx?c=apply&lJobID=498387&lJobSourceTypeID=806&sLanguage=en",
+      "location_name": "Sydney",
+      "locality": "North Shore & Northern Beaches Sydney",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/physiotherapist-northern-sydney-and-surrounds",
+      "approvedAt": "2026-03-10T01:50:40.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 199
+        },
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 186
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        },
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/WLtBI1PALDg",
+      "organisation": {
+        "id": 1136,
+        "name": "BaptistCare ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1700980305_5R7Ph_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1700980305_5R7Ph_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1700980305_5R7Ph_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1700980305_5R7Ph_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1700980305_5R7Ph_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553599,
+      "title": "Contact Centre",
+      "slug": "acnarecruitment/contact-centre-client-services-and-support-coordinator-1",
+      "organisationName": "Access Care Network Australia",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1634626155_KDuy5_.jpg",
+      "summary": "Ready for a busy, impactful role? Join our client services and support team! Connect with older Australians to create great client experiences. Apply Now!",
+      "expiresAt": "2026-03-24T12:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Southern Suburbs & Sutherland Shire Sydney"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://acnavalues.typeform.com/CSSCoord",
+      "location_name": "Sydney",
+      "locality": "Southern Suburbs & Sutherland Shire Sydney",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/acnarecruitment/contact-centre-client-services-and-support-coordinator-1",
+      "approvedAt": "2026-03-10T01:49:28.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 203772,
+          "parentId": 553599,
+          "mimeType": "application/pdf",
+          "fileName": "1773101767_gVG6x_.pdf",
+          "size": 62826,
+          "originalFileName": "PD_CSS Coordinator.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1773101767_gVG6x_.pdf",
+          "createdAt": "2026-03-10 00:16:07",
+          "updatedAt": "2026-03-10 00:16:07"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        },
+        {
+          "archived": false,
+          "id": 1,
+          "slug": "administration",
+          "title": "Administration",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Administration.jpeg",
+          "jobCount": 190
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": {
+        "displayText": "$$37.41 per hour plus superannuation, with generous salary packaging benefits of up to $15,899 per year plus superannuation."
+      },
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 11966,
+        "name": "Access Care Network Australia",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1634626155_KDuy5_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1634626155_KDuy5_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1634626155_KDuy5_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1634626155_KDuy5_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1634626155_KDuy5_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1634626155_KDuy5_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553614,
+      "title": "Occupational Therapist",
+      "slug": "BaptistCare/occupational-therapist-1",
+      "organisationName": "BaptistCare ",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+      "summary": "If you are motivated by strong values and looking for a position that contributes meaningfully to the community, read on.",
+      "expiresAt": "2026-04-10T13:59:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Sydney",
+          "locality": "Fairfield"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://secure.dc2.pageuppeople.com/apply/999/gateway/default.aspx?c=apply&lJobID=498388&lJobSourceTypeID=806&sLanguage=en",
+      "location_name": "Sydney",
+      "locality": "Fairfield",
+      "state": "NSW",
+      "url": "https://www.ethicaljobs.com.au/members/BaptistCare/occupational-therapist-1",
+      "approvedAt": "2026-03-10T01:23:53.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [],
+      "categories": [
+        {
+          "archived": false,
+          "id": 27,
+          "slug": "healthcare",
+          "title": "Health Care and Allied Health",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Health+Care+%26+Allied+Health.jpeg",
+          "jobCount": 201
+        },
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        },
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 206
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 3,
+        "slug": "NSW",
+        "title": "Sydney",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 5,
+          "slug": "PARTTIME",
+          "title": "Part Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "https://youtu.be/WLtBI1PALDg",
+      "organisation": {
+        "id": 1136,
+        "name": "BaptistCare ",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1700980305_5R7Ph_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1700980305_5R7Ph_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1700980305_5R7Ph_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1700980305_5R7Ph_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1700980305_5R7Ph_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1700980305_5R7Ph_.jpg"
+        }
+      },
+      "applicationDate": null
+    },
+    {
+      "id": 553581,
+      "title": "Team Leader",
+      "slug": "aavjobs/team-leader-client-services-14",
+      "organisationName": "Dementia Australia",
+      "logoUrl": "https://static.ethicaljobs.com.au/media/1600126538_zksVx_.jpg",
+      "summary": "Lead our dynamic Client Services team at Dementia Australia in Darwin. Make a real impact, while enjoying additional leave, salary packaging and a valuesâdriven passionate team.",
+      "expiresAt": "2026-04-09T08:30:00.000Z",
+      "isExpirationHidden": false,
+      "isFeatured": false,
+      "locations": [
+        {
+          "name": "Darwin",
+          "locality": "Winnellie"
+        }
+      ],
+      "applyMethod": "button",
+      "applyButton": "https://myrecruit.actionhrm.com/recruit/position/MoADA2lC3SsvMtKt-P_eQw==",
+      "location_name": "Darwin",
+      "locality": "Winnellie",
+      "state": "NT",
+      "url": "https://www.ethicaljobs.com.au/members/aavjobs/team-leader-client-services-14",
+      "approvedAt": "2026-03-09T23:18:30.000Z",
+      "application": "",
+      "applicationValidationRules": [],
+      "attachments": [
+        {
+          "id": 203762,
+          "parentId": 553581,
+          "mimeType": "application/pdf",
+          "fileName": "1773094028_EroOX_.pdf",
+          "size": 294463,
+          "originalFileName": "PD - Team Leader Client Services 2025.pdf",
+          "path": "media",
+          "url": "https://static.ethicaljobs.com.au/media/1773094028_EroOX_.pdf",
+          "createdAt": "2026-03-09 22:07:09",
+          "updatedAt": "2026-03-09 22:07:09"
+        }
+      ],
+      "categories": [
+        {
+          "archived": false,
+          "id": 36,
+          "slug": "management",
+          "title": "Management",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Management.jpeg",
+          "jobCount": 281
+        },
+        {
+          "archived": false,
+          "id": 3,
+          "slug": "agedcare",
+          "title": "Aged Care and Seniors Rights",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Aged+Care.jpeg",
+          "jobCount": 188
+        },
+        {
+          "archived": false,
+          "id": 13,
+          "slug": "disabilityservices",
+          "title": "Disability Services",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Disability+Services.jpeg",
+          "jobCount": 206
+        },
+        {
+          "archived": false,
+          "id": 47,
+          "slug": "socialwork",
+          "title": "Social Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Social_Work.jpg",
+          "jobCount": 433
+        },
+        {
+          "archived": false,
+          "id": 7,
+          "slug": "careandsupportservices",
+          "title": "Care and Support Work",
+          "imageUrl": "https://ethical-jobs.s3-ap-southeast-2.amazonaws.com/assets/web-responsive/categories/Care+%26+Support+Work.jpeg",
+          "jobCount": 96
+        }
+      ],
+      "deletedAt": null,
+      "description": "$19",
+      "isExpired": false,
+      "prioritisedForSearch": "$undefined",
+      "location": {
+        "id": 13,
+        "slug": "NT",
+        "title": "Darwin",
+        "archived": false
+      },
+      "questions": [],
+      "status": "APPROVED",
+      "salary": null,
+      "sectors": [
+        {
+          "id": 4,
+          "slug": "Not For Profit (NFP)",
+          "title": "Not For Profit (NFP)",
+          "archived": false
+        }
+      ],
+      "workTypes": [
+        {
+          "id": 3,
+          "slug": "FULLTIME",
+          "title": "Full Time",
+          "archived": false
+        }
+      ],
+      "videoUrl": "",
+      "organisation": {
+        "id": 3607,
+        "name": "Dementia Australia",
+        "logos": {
+          "xLarge": "https://static.ethicaljobs.com.au/media/large-x2/1600126538_zksVx_.jpg",
+          "large": "https://static.ethicaljobs.com.au/media/large/1600126538_zksVx_.jpg",
+          "standard": "https://static.ethicaljobs.com.au/media/1600126538_zksVx_.jpg",
+          "small": "https://static.ethicaljobs.com.au/media/small-x2/1600126538_zksVx_.jpg",
+          "xSmall": "https://static.ethicaljobs.com.au/media/small/1600126538_zksVx_.jpg",
+          "social": "https://static.ethicaljobs.com.au/media/social/1600126538_zksVx_.jpg"
+        }
+      },
+      "applicationDate": null
+    }
+  ]
+}

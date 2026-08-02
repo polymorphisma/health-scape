@@ -1,0 +1,82 @@
+{
+  "category": "Aged Care",
+  "data": [
+    {
+      "id": "fa165a4aadbad8ca87917957a3ef4f69",
+      "title": "Disability Support Worker",
+      "facility_name": "Hireup",
+      "category": "Aged Care",
+      "state": "SA",
+      "city": "Windsor Gardens",
+      "date_posted": "2026-03-01",
+      "url": "https://au.jora.com/job/Disability-Support-Worker-fa165a4aadbad8ca87917957a3ef4f69",
+      "raw_location": "Windsor Gardens SA"
+    },
+    {
+      "id": "d3510d745312acf65de35eafbea07e62",
+      "title": "Personal Care Assistant",
+      "facility_name": "Respect Group Limited",
+      "category": "Aged Care",
+      "state": "TAS",
+      "city": "Hobart",
+      "date_posted": "2026-03-13",
+      "url": "https://au.jora.com/job/Personal-Care-Assistant-d3510d745312acf65de35eafbea07e62",
+      "raw_location": "Hobart TAS"
+    },
+    {
+      "id": "4cc1abd59a4988116c9583e5df749d94",
+      "title": "Disability Support Worker",
+      "facility_name": "Carers NT",
+      "category": "Aged Care",
+      "state": "NT",
+      "city": "Nhulunbuy",
+      "date_posted": "2026-03-04",
+      "url": "https://au.jora.com/job/Disability-Support-Worker-4cc1abd59a4988116c9583e5df749d94",
+      "raw_location": "Nhulunbuy NT"
+    },
+    {
+      "id": "75e8c781e6cfa1ec1be71a0df0d5f4c0",
+      "title": "Support Worker - Mounties Care [ Rockdale, NSW]",
+      "facility_name": "Mounties",
+      "category": "Aged Care",
+      "state": "NSW",
+      "city": "Rockdale",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Support-Worker-75e8c781e6cfa1ec1be71a0df0d5f4c0",
+      "raw_location": "Rockdale NSW"
+    },
+    {
+      "id": "e7acd6e8b0e65be203e6732ef1be80e6",
+      "title": "Friendly Bus Drivers for Aged Care resident outings",
+      "facility_name": "Bethanie Group",
+      "category": "Aged Care",
+      "state": "WA",
+      "city": "Cooloongup",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Bus-Driver-e7acd6e8b0e65be203e6732ef1be80e6",
+      "raw_location": "Cooloongup WA"
+    },
+    {
+      "id": "b0c44057e61fbe4961e2ed68e78ff354",
+      "title": "Aged Care Assistant in Nursing",
+      "facility_name": "Randstad",
+      "category": "Aged Care",
+      "state": "NSW",
+      "city": "Albury",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Aged-Care-Assistant-in-Nursing-b0c44057e61fbe4961e2ed68e78ff354",
+      "raw_location": "Albury NSW"
+    },
+    {
+      "id": "8ab39efad50fe563bf4d18ad7b96a73e",
+      "title": "Ndis Support Worker",
+      "facility_name": "Better in Home Care",
+      "category": "Aged Care",
+      "state": "NSW",
+      "city": "Glenhaven",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/NDIS-Support-Worker-8ab39efad50fe563bf4d18ad7b96a73e",
+      "raw_location": "Glenhaven NSW"
+    }
+  ]
+}

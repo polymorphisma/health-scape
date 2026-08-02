@@ -1,0 +1,93 @@
+{
+  "category": "Nursing",
+  "data": [
+    {
+      "id": "5056ce4a47f59a17485c264a61697b6c",
+      "title": "Casual nurse to assist with corporate flu vaccination program",
+      "facility_name": "IMMEX",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Waterloo",
+      "date_posted": "2026-03-16",
+      "url": "https://au.jora.com/job/Nurse-5056ce4a47f59a17485c264a61697b6c",
+      "raw_location": "Waterloo NSW"
+    },
+    {
+      "id": "33b692c879d5a772bd162ccbdfa729a0",
+      "title": "School Nurse",
+      "facility_name": "Ascham School",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Edgecliff",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/School-Nurse-33b692c879d5a772bd162ccbdfa729a0",
+      "raw_location": "Edgecliff NSW"
+    },
+    {
+      "id": "505c0e6cbdbf500e93b62e5ce25950e8",
+      "title": "Clinic/Occupational Health Nurse Full Time",
+      "facility_name": "Evolution Mining",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Cloncurry",
+      "date_posted": "2026-03-16",
+      "url": "https://au.jora.com/job/Occupational-Health-Nurse-505c0e6cbdbf500e93b62e5ce25950e8",
+      "raw_location": "Cloncurry QLD"
+    },
+    {
+      "id": "f288fe7ba510abf3e558c39a626d621a",
+      "title": "The Victorian School Nursing Program - Primary Nurse 0.8 FTE - Seymour - NEVR",
+      "facility_name": "Department of Education Victoria",
+      "category": "Nursing",
+      "state": "VIC",
+      "city": "Seymour",
+      "date_posted": "2026-03-13",
+      "url": "https://au.jora.com/job/Nurse-f288fe7ba510abf3e558c39a626d621a",
+      "raw_location": "Seymour VIC"
+    },
+    {
+      "id": "89700d846587e61a8d902ed0155a0d9a",
+      "title": "School Nurse – Registered Nurse (Short Term Leave Cover)",
+      "facility_name": "Matthew Flinders Anglican College",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Buderim",
+      "date_posted": "2026-03-16",
+      "url": "https://au.jora.com/job/Registered-Nurse-89700d846587e61a8d902ed0155a0d9a",
+      "raw_location": "Buderim QLD"
+    },
+    {
+      "id": "12f0f4b537a72e3d02749802f3f55809",
+      "title": "Registered Nurse-Blacktown Emergency",
+      "facility_name": "Western Sydney Local Health District",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Blacktown",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Registered-Nurse-12f0f4b537a72e3d02749802f3f55809",
+      "raw_location": "Blacktown NSW"
+    },
+    {
+      "id": "3a1518f5fce4534d70fa361822f4167c",
+      "title": "The Victorian School Nursing Program - Primary School Nurse 0.8 FTE (Goulburn - Seymour) - North Eastern Victoria Region (20002412)",
+      "facility_name": "Department of Education Victoria",
+      "category": "Nursing",
+      "state": "VIC",
+      "city": "Seymour",
+      "date_posted": "2026-03-13",
+      "url": "https://au.jora.com/job/Primary-School-Nurse-3a1518f5fce4534d70fa361822f4167c",
+      "raw_location": "Seymour VIC"
+    },
+    {
+      "id": "154e53f85728c9a87155638e495e8fe6",
+      "title": "Nurse Educator",
+      "facility_name": "Child and Adolescent Health Service WA",
+      "category": "Nursing",
+      "state": "Unknown",
+      "city": "Western Australia",
+      "date_posted": "2026-03-16",
+      "url": "https://au.jora.com/job/Nurse-Educator-154e53f85728c9a87155638e495e8fe6",
+      "raw_location": "Western Australia"
+    }
+  ]
+}

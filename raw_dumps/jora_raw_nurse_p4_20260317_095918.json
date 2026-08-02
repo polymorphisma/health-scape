@@ -1,0 +1,82 @@
+{
+  "category": "Nursing",
+  "data": [
+    {
+      "id": "f465a991a4ce72c93b55f8f6300c57fc",
+      "title": "Registered Nurse",
+      "facility_name": "Darling Downs and West Moreton Primary Health Network",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Brookwater",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Registered-Nurse-f465a991a4ce72c93b55f8f6300c57fc",
+      "raw_location": "Brookwater QLD"
+    },
+    {
+      "id": "93e2022f180d60c092afeab672a46d78",
+      "title": "Registered Nurses",
+      "facility_name": "St Vincent's Care Services",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Kangaroo Point",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Registered-Nurse-93e2022f180d60c092afeab672a46d78",
+      "raw_location": "Kangaroo Point QLD"
+    },
+    {
+      "id": "2f45a96bdc24e540b619a7d8bb5d7183",
+      "title": "Registered Nurse – General Practice",
+      "facility_name": "Coolaroo Clinic",
+      "category": "Nursing",
+      "state": "VIC",
+      "city": "Coolaroo",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Registered-Nurse-General-2f45a96bdc24e540b619a7d8bb5d7183",
+      "raw_location": "Coolaroo VIC"
+    },
+    {
+      "id": "dce406bba6ac6cb5dafc649a388d85fd",
+      "title": "Registered Nurse",
+      "facility_name": "Queensland Health",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Alexandra",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Registered-Nurse-dce406bba6ac6cb5dafc649a388d85fd",
+      "raw_location": "Alexandra QLD"
+    },
+    {
+      "id": "1763aba18794679d12f30493d46dd070",
+      "title": "Teacher of Nursing and Allied Health",
+      "facility_name": "TAFE NSW",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Taree",
+      "date_posted": "2026-03-16",
+      "url": "https://au.jora.com/job/Teacher-of-Nursing-1763aba18794679d12f30493d46dd070",
+      "raw_location": "Taree NSW"
+    },
+    {
+      "id": "ccd097d128289c3685c5dea1a83e6638",
+      "title": "Practice Nurse",
+      "facility_name": "Randstad",
+      "category": "Nursing",
+      "state": "TAS",
+      "city": "Hobart",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Practice-Nurse-ccd097d128289c3685c5dea1a83e6638",
+      "raw_location": "Hobart TAS"
+    },
+    {
+      "id": "ccea10d3fdd024d49762e0944a924d19",
+      "title": "Casual Relief School Nurse",
+      "facility_name": "Lighthouse Christian College",
+      "category": "Nursing",
+      "state": "VIC",
+      "city": "Keysborough",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/School-Nurse-ccea10d3fdd024d49762e0944a924d19",
+      "raw_location": "Keysborough VIC"
+    }
+  ]
+}

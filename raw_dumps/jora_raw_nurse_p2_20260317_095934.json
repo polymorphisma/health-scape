@@ -1,0 +1,126 @@
+{
+  "category": "Nursing",
+  "data": [
+    {
+      "id": "e0a9e62af1a469eab6e01d637d7695d8",
+      "title": "Occupational Health Nurse",
+      "facility_name": "Rio Tinto",
+      "category": "Nursing",
+      "state": "TAS",
+      "city": "Bell Bay",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Occupational-Health-Nurse-e0a9e62af1a469eab6e01d637d7695d8",
+      "raw_location": "Bell Bay TAS"
+    },
+    {
+      "id": "2bce313ccbecb2d3948118856e290af3",
+      "title": "Registered Nurse - 10-20k Incentives offered",
+      "facility_name": "Western NSW Local Health District",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Narromine",
+      "date_posted": "2026-03-13",
+      "url": "https://au.jora.com/job/Registered-Nurse-2bce313ccbecb2d3948118856e290af3",
+      "raw_location": "Narromine NSW"
+    },
+    {
+      "id": "6c40e7880dad2e36850dfd768a507418",
+      "title": "Clinical Nurse",
+      "facility_name": "WA Government",
+      "category": "Nursing",
+      "state": "WA",
+      "city": "Perth",
+      "date_posted": "2026-03-16",
+      "url": "https://au.jora.com/job/Clinical-Nurse-6c40e7880dad2e36850dfd768a507418",
+      "raw_location": "Perth WA"
+    },
+    {
+      "id": "36f22c150c07e6e3795a498991ff42de",
+      "title": "Registered Nurse - Emergency Department Macksville Hospital",
+      "facility_name": "Mid North Coast Local Health District",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Macksville",
+      "date_posted": "2026-02-16",
+      "url": "https://au.jora.com/job/Registered-Nurse-Emergency-36f22c150c07e6e3795a498991ff42de",
+      "raw_location": "Macksville NSW"
+    },
+    {
+      "id": "1413a7e19adb486790521a13bc64ec3d",
+      "title": "Cosmetic Registered Nurse",
+      "facility_name": "Eterna Aesthetics",
+      "category": "Nursing",
+      "state": "WA",
+      "city": "Leederville",
+      "date_posted": "2026-02-16",
+      "url": "https://au.jora.com/job/Cosmetic-Registered-Nurse-1413a7e19adb486790521a13bc64ec3d",
+      "raw_location": "Leederville WA"
+    },
+    {
+      "id": "31cc51d56121d90af571519ddc42c8c9",
+      "title": "College Nurse - Registered Nurse",
+      "facility_name": "Trinity Lutheran College",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Ashmore",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Registered-Nurse-31cc51d56121d90af571519ddc42c8c9",
+      "raw_location": "Ashmore QLD"
+    },
+    {
+      "id": "1aaa300659a7fcbb268fa6270b6f7239",
+      "title": "School Nurse",
+      "facility_name": "Department of Education Victoria",
+      "category": "Nursing",
+      "state": "VIC",
+      "city": "Wyndham Vale",
+      "date_posted": "2026-03-16",
+      "url": "https://au.jora.com/job/School-Nurse-1aaa300659a7fcbb268fa6270b6f7239",
+      "raw_location": "Wyndham Vale VIC"
+    },
+    {
+      "id": "b5d0b5f72590b31156e6e771f3dc0e53",
+      "title": "Community Registered Nurse Team Leader - Full Time",
+      "facility_name": "Your Care SIL Pty Ltd",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Stafford",
+      "date_posted": "2026-03-16",
+      "url": "https://au.jora.com/job/Registered-Nurse-Team-Leader-b5d0b5f72590b31156e6e771f3dc0e53",
+      "raw_location": "Stafford QLD"
+    },
+    {
+      "id": "70b56597c09ddfe918a5a862173d8824",
+      "title": "Registered Nurse",
+      "facility_name": "Family Doctor Pty Ltd",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Bli Bli",
+      "date_posted": "2026-03-16",
+      "url": "https://au.jora.com/job/Registered-Nurse-70b56597c09ddfe918a5a862173d8824",
+      "raw_location": "Bli Bli QLD"
+    },
+    {
+      "id": "4313124656c8f997787ba699e2cc1022",
+      "title": "Perioperative Nurse - Day Hospital",
+      "facility_name": "City Fertility Centre",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Sunnybank",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Perioperative-Nurse-4313124656c8f997787ba699e2cc1022",
+      "raw_location": "Sunnybank QLD"
+    },
+    {
+      "id": "4c1811a8c07080824216a3affd4aa1ca",
+      "title": "Registered Nurse for Hunter Doctors Cessnock",
+      "facility_name": "Hunter Doctors",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Cessnock",
+      "date_posted": "2026-03-17",
+      "url": "https://au.jora.com/job/Registered-Nurse-4c1811a8c07080824216a3affd4aa1ca",
+      "raw_location": "Cessnock NSW"
+    }
+  ]
+}

@@ -1,0 +1,1834 @@
+{
+  "data": [
+    {
+      "advertiser": {
+        "id": "29296537",
+        "description": "G4S"
+      },
+      "bulletPoints": [
+        "Work/life balance with no night shifts in the role",
+        "A highly secure work environment working in a supportive team of five on shift",
+        "Comprehensive training with a correctional trainer + job shadowing our nurse"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/5069729a-4702-4911-9e91-ce6f649257d9.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6347",
+            "description": "Nursing - Psych, Forensic & Correctional Health"
+          }
+        }
+      ],
+      "companyName": "G4S",
+      "companyProfileStructuredDataId": 1742,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "promoted",
+      "employer": {
+        "id": "1742",
+        "name": "G4S",
+        "companyId": "432800",
+        "companyUrl": "https://www.seek.com.au/companies/g4s-432800"
+      },
+      "id": "90829953",
+      "isFeatured": true,
+      "listingDate": "2026-03-10T02:08:43Z",
+      "listingDateDisplay": "14h ago",
+      "locations": [
+        {
+          "label": "Mount Gambier, Mt Gambier & Limestone Coast SA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Mount Gambier SA 5290"
+            },
+            {
+              "contextualName": "Mt Gambier & Limestone Coast SA"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "$45 per hour base + penalties",
+      "solMetadata": {
+        "searchRequestToken": "a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "token": "0~a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "jobId": "90829953",
+        "section": "MAIN",
+        "sectionRank": 41,
+        "jobAdType": "SPONSORED",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "We're looking for a full-time RN's to join our nurse-led clinic at Mount Gambier Prison, working in a team of ten health care professionals",
+      "title": "Registered Nurse - Mount Gambier Prison",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNTZmZDQ0MS05NmY3LTRkYzAtYmRjYy0zZjllMjQ0MTRmZmJfMSIKfQ==",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "62997251",
+        "description": "Serco Health Hub"
+      },
+      "bulletPoints": [
+        "Work remotely from home with flexible hours tailored to your schedule",
+        "Full week of paid online training and national clinical support",
+        "Be part of Australia’s digital health future"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/63e85a1d-13c1-42ec-ad7a-547faad10ce5.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6338",
+            "description": "Nursing - A&E, Critical Care & ICU"
+          }
+        }
+      ],
+      "companyName": "Serco",
+      "companyProfileStructuredDataId": 14,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "promoted",
+      "employer": {
+        "id": "14",
+        "name": "Serco",
+        "companyId": "432405",
+        "companyUrl": "https://www.seek.com.au/companies/serco-432405"
+      },
+      "id": "90574179",
+      "isFeatured": true,
+      "listingDate": "2026-02-25T22:59:05Z",
+      "listingDateDisplay": "12d ago",
+      "locations": [
+        {
+          "label": "Perth WA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Perth WA"
+            },
+            {
+              "contextualName": "Western Australia WA"
+            }
+          ]
+        }
+      ],
+      "roleId": "Telehealth-Nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "token": "0~a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "jobId": "90574179",
+        "section": "MAIN",
+        "sectionRank": 42,
+        "jobAdType": "SPONSORED",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Be part of Australia’s digital health future. Telehealth RN roles: WFH, paid training. Flexibility + real impact",
+      "title": "Telehealth Nurse (Healthdirect)",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNTZmZDQ0MS05NmY3LTRkYzAtYmRjYy0zZjllMjQ0MTRmZmJfMiIKfQ==",
+      "workTypes": [
+        "Contract/Temp"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "3",
+            "label": {
+              "text": "Remote"
+            }
+          }
+        ],
+        "displayText": "Remote"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "29296537",
+        "description": "G4S"
+      },
+      "bulletPoints": [
+        "Work/life balance with no night shifts in the role",
+        "A highly secure work environment working in a supportive team of five on shift",
+        "Comprehensive training with a correctional trainer + job shadowing our nurse"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/5069729a-4702-4911-9e91-ce6f649257d9.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6347",
+            "description": "Nursing - Psych, Forensic & Correctional Health"
+          }
+        }
+      ],
+      "companyName": "G4S",
+      "companyProfileStructuredDataId": 1742,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "1742",
+        "name": "G4S",
+        "companyId": "432800",
+        "companyUrl": "https://www.seek.com.au/companies/g4s-432800"
+      },
+      "id": "90833951",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T03:39:54Z",
+      "listingDateDisplay": "12h ago",
+      "locations": [
+        {
+          "label": "Adelaide SA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Adelaide SA"
+            },
+            {
+              "contextualName": "South Australia SA"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "$45 per hour base + penalties",
+      "solMetadata": {
+        "searchRequestToken": "a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "token": "0~a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "jobId": "90833951",
+        "section": "MAIN",
+        "sectionRank": 43,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "We're looking for a full-time RN's to join our nurse-led clinic at Mount Gambier Prison, working in a team of ten health care professionals",
+      "title": "Registered Nurse - Mount Gambier Prison",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNTZmZDQ0MS05NmY3LTRkYzAtYmRjYy0zZjllMjQ0MTRmZmJfMyIKfQ==",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "32285249",
+        "description": "Metro North Hospital & Health Service"
+      },
+      "bulletPoints": [
+        "Support cutting&#8209;edge imaging and interventional procedures",
+        "Work in a collaborative, highly skilled multidisciplinary team",
+        "Grow your nursing career in a dynamic, innovative department"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/a44a818c-5df9-53b0-c3ea-0487a54ea610.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6335",
+            "description": "Medical Imaging"
+          }
+        },
+        {
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subclassification": {
+            "id": "1411",
+            "description": "Government - State"
+          }
+        }
+      ],
+      "companyName": "Metro North Hospital & Health Service",
+      "companyProfileStructuredDataId": 6430,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "6430",
+        "name": "Metro North Hospital & Health Service",
+        "companyId": "609516",
+        "companyUrl": "https://www.seek.com.au/companies/metro-north-hospital-n-health-service-609516"
+      },
+      "id": "90601658",
+      "isFeatured": false,
+      "listingDate": "2026-02-26T22:46:23Z",
+      "listingDateDisplay": "11d ago",
+      "locations": [
+        {
+          "label": "Redcliffe, Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Redcliffe QLD 4020"
+            },
+            {
+              "contextualName": "All Brisbane QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse-medical-imaging",
+      "salaryLabel": "$81,430 - $109,330 per annum",
+      "solMetadata": {
+        "searchRequestToken": "a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "token": "0~a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "jobId": "90601658",
+        "section": "MAIN",
+        "sectionRank": 44,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "We are seeking an enthusiastic and dedicated Registered Nurse to join our dynamic Medical Imaging Department.",
+      "title": "Registered Nurse Medical Imaging",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNTZmZDQ0MS05NmY3LTRkYzAtYmRjYy0zZjllMjQ0MTRmZmJfNCIKfQ==",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "37022767",
+        "description": "Skintech Medical SA"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "Skintech Medical SA",
+      "companyProfileStructuredDataId": 3268542,
+      "displayType": "standard",
+      "employer": {
+        "id": "3268542",
+        "name": "Skintech Medical SA"
+      },
+      "id": "90825327",
+      "isFeatured": false,
+      "listingDate": "2026-03-09T23:53:20Z",
+      "listingDateDisplay": "16h ago",
+      "locations": [
+        {
+          "label": "Victor Harbor, Fleurieu Peninsula & Kangaroo Island SA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Victor Harbor SA 5211"
+            },
+            {
+              "contextualName": "Fleurieu Peninsula & Kangaroo Island SA"
+            }
+          ]
+        }
+      ],
+      "roleId": "practice-nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "token": "0~a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "jobId": "90825327",
+        "section": "MAIN",
+        "sectionRank": 45,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Join Our Skin-Focused Team at Skintech Medical",
+      "title": "Casual Cosmetic/Practice Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNTZmZDQ0MS05NmY3LTRkYzAtYmRjYy0zZjllMjQ0MTRmZmJfNSIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "32288212",
+        "description": "Wide Bay Hospital and Health Service"
+      },
+      "bulletPoints": [
+        "*We are looking for experienced Registered Nurses to join our team!",
+        "*Great opportunity to join one of the highest performing health services!",
+        "*Attractive salary and benefits!"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/a49c104e-0294-4db9-7f4d-fb41831e545b.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6355",
+            "description": "Other"
+          }
+        },
+        {
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subclassification": {
+            "id": "1411",
+            "description": "Government - State"
+          }
+        }
+      ],
+      "companyName": "Wide Bay Hospital & Health Service",
+      "companyProfileStructuredDataId": 21403,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "21403",
+        "name": "Wide Bay Hospital & Health Service",
+        "companyId": "820387",
+        "companyUrl": "https://www.seek.com.au/companies/wide-bay-hospital-n-health-service-820387"
+      },
+      "id": "90589702",
+      "isFeatured": false,
+      "listingDate": "2026-02-26T06:46:34Z",
+      "listingDateDisplay": "12d ago",
+      "locations": [
+        {
+          "label": "Bundaberg, Bundaberg & Wide Bay Burnett QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Bundaberg QLD 4670"
+            },
+            {
+              "contextualName": "Bundaberg & Wide Bay Burnett QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "Remuneration value up to $124,741 p.a.!",
+      "solMetadata": {
+        "searchRequestToken": "a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "token": "0~a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "jobId": "90589702",
+        "section": "MAIN",
+        "sectionRank": 46,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Care, connection, compassion for all!",
+      "title": "Registered Nurse (Bundaberg)",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNTZmZDQ0MS05NmY3LTRkYzAtYmRjYy0zZjllMjQ0MTRmZmJfNiIKfQ==",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "32288258",
+        "description": "Mackay Hospital and Health Service"
+      },
+      "bulletPoints": [
+        "Competitive wages, salary packaging, leave entitlements & 12.75% superannuation",
+        "Be part of a team built on collaboration, trust, respect, and teamwork",
+        "Experience unique opportunities not found in metropolitan hospitals"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/9c465701-4dac-4f00-a089-c3252218da36.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        },
+        {
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subclassification": {
+            "id": "1411",
+            "description": "Government - State"
+          }
+        }
+      ],
+      "companyName": "Mackay Hospital and Health Service",
+      "companyProfileStructuredDataId": 6417,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "6417",
+        "name": "Mackay Hospital and Health Service",
+        "companyId": "609504",
+        "companyUrl": "https://www.seek.com.au/companies/mackay-hospital-and-health-service-609504"
+      },
+      "id": "90587665",
+      "isFeatured": false,
+      "listingDate": "2026-02-26T05:52:00Z",
+      "listingDateDisplay": "12d ago",
+      "locations": [
+        {
+          "label": "Bowen, Northern QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Bowen QLD 4805"
+            },
+            {
+              "contextualName": "Northern QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "Telehealth-Nurse",
+      "salaryLabel": "$42.98 to $55.13 Per Hour",
+      "solMetadata": {
+        "searchRequestToken": "a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "token": "0~a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "jobId": "90587665",
+        "section": "MAIN",
+        "sectionRank": 47,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Mackay HHS provides essential public healthcare, offering rewarding careers, professional development and a supportive regional community.",
+      "title": "Registered Nurse (Telehealth)",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNTZmZDQ0MS05NmY3LTRkYzAtYmRjYy0zZjllMjQ0MTRmZmJfNyIKfQ==",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "61884100",
+        "description": "Smeath Holdings Group"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "Smeath Holdings Group",
+      "companyProfileStructuredDataId": 3268811,
+      "displayType": "standard",
+      "employer": {
+        "id": "3268811",
+        "name": "Smeath Holdings Group"
+      },
+      "id": "90715739",
+      "isFeatured": false,
+      "listingDate": "2026-03-04T05:30:17Z",
+      "listingDateDisplay": "6d ago",
+      "locations": [
+        {
+          "label": "East Brisbane, Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "East Brisbane QLD 4169"
+            },
+            {
+              "contextualName": "All Brisbane QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "Telehealth-Nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "token": "0~a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "jobId": "90715739",
+        "section": "MAIN",
+        "sectionRank": 48,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Are you an ambitious AHPRA-registered Nurse eager to advance your career? We’re hiring for two dynamic roles within our progressive wellness group!",
+      "title": "Registered Nurse – Telehealth",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNTZmZDQ0MS05NmY3LTRkYzAtYmRjYy0zZjllMjQ0MTRmZmJfOCIKfQ==",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "20675109",
+        "description": "Mediserve Nursing Agency"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6348",
+            "description": "Nursing - Theatre & Recovery"
+          }
+        }
+      ],
+      "companyName": "Mediserve Nursing Agency",
+      "companyProfileStructuredDataId": 1768,
+      "displayType": "standard",
+      "employer": {
+        "id": "1768",
+        "name": "Mediserve Nursing Agency"
+      },
+      "id": "90838229",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T05:27:34Z",
+      "listingDateDisplay": "10h ago",
+      "locations": [
+        {
+          "label": "Perth WA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Perth WA"
+            },
+            {
+              "contextualName": "Western Australia WA"
+            }
+          ]
+        }
+      ],
+      "roleId": "theatre-nurse",
+      "salaryLabel": "$64 – $67 per hour",
+      "solMetadata": {
+        "searchRequestToken": "a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "token": "0~a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "jobId": "90838229",
+        "section": "MAIN",
+        "sectionRank": 49,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Theatre Experienced Nurse-  Work from Home Project-  APPLY NOW!",
+      "title": "Theatre Nurse- Work from home project",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNTZmZDQ0MS05NmY3LTRkYzAtYmRjYy0zZjllMjQ0MTRmZmJfOSIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "3",
+            "label": {
+              "text": "Remote"
+            }
+          }
+        ],
+        "displayText": "Remote"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "60241302",
+        "description": "Newcastle Private Hospital"
+      },
+      "bulletPoints": [
+        "Full time, part time or casual roles available - Work to suit you",
+        "Roles available in Recovery, Day Surgery & Surgical Admissions",
+        "Great opportunity to develop your skills and grow within our supportive team"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/312bea38-880a-4131-9629-90c2c51bec51.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6343",
+            "description": "Nursing - High Acuity"
+          }
+        }
+      ],
+      "companyName": "Newcastle Private Hospital",
+      "companyProfileStructuredDataId": 8909,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "8909",
+        "name": "Newcastle Private Hospital",
+        "companyId": "797935",
+        "companyUrl": "https://www.seek.com.au/companies/newcastle-private-hospital-797935"
+      },
+      "id": "90836225",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T04:29:13Z",
+      "listingDateDisplay": "11h ago",
+      "locations": [
+        {
+          "label": "Newcastle, Newcastle, Maitland & Hunter NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Newcastle NSW 2300"
+            },
+            {
+              "contextualName": "Newcastle, Maitland & Hunter NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "recovery-registered-nurse",
+      "salaryLabel": "$39 - $54 p.h.",
+      "solMetadata": {
+        "searchRequestToken": "a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "token": "0~a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "jobId": "90836225",
+        "section": "MAIN",
+        "sectionRank": 50,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Newcastle Private Hospital is seeking Registered Nurses to join our Recovery, Day Surgery & Surgical Admissions team on a permanent basis.",
+      "title": "Registered Nurse - Recovery Surgical Admissions",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNTZmZDQ0MS05NmY3LTRkYzAtYmRjYy0zZjllMjQ0MTRmZmJfMTAiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "29479379",
+        "description": "Arcadia College"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6340",
+            "description": "Nursing - Community, Maternal & Child Health"
+          }
+        }
+      ],
+      "companyName": "Arcadia College",
+      "companyProfileStructuredDataId": 8324,
+      "displayType": "standard",
+      "employer": {
+        "id": "8324",
+        "name": "Arcadia College",
+        "companyId": "797352",
+        "companyUrl": "https://www.seek.com.au/companies/arcadia-college-797352"
+      },
+      "id": "90559773",
+      "isFeatured": false,
+      "listingDate": "2026-02-25T05:51:59Z",
+      "listingDateDisplay": "13d ago",
+      "locations": [
+        {
+          "label": "Robina, Gold Coast QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Robina QLD 4226"
+            },
+            {
+              "contextualName": "All Gold Coast QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "school-nurse",
+      "salaryLabel": "$49.50 per hour",
+      "solMetadata": {
+        "searchRequestToken": "a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "token": "0~a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "jobId": "90559773",
+        "section": "MAIN",
+        "sectionRank": 51,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "An exciting opportunity for an experienced health professional to join an outstanding school delivering exceptional outcomes to secondary students.",
+      "title": "School Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNTZmZDQ0MS05NmY3LTRkYzAtYmRjYy0zZjllMjQ0MTRmZmJfMTEiCn0=",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "29296537",
+        "description": "G4S"
+      },
+      "bulletPoints": [
+        "Work/life balance with no night shifts in the role",
+        "A highly secure work environment working in a supportive team of five on shift",
+        "Comprehensive training with a correctional trainer + job shadowing our nurse"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/5069729a-4702-4911-9e91-ce6f649257d9.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6347",
+            "description": "Nursing - Psych, Forensic & Correctional Health"
+          }
+        }
+      ],
+      "companyName": "G4S",
+      "companyProfileStructuredDataId": 1742,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "1742",
+        "name": "G4S",
+        "companyId": "432800",
+        "companyUrl": "https://www.seek.com.au/companies/g4s-432800"
+      },
+      "id": "90834147",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T03:44:03Z",
+      "listingDateDisplay": "12h ago",
+      "locations": [
+        {
+          "label": "Melbourne VIC",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Melbourne VIC"
+            },
+            {
+              "contextualName": "Victoria VIC"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "$45 per hour base + penalties",
+      "solMetadata": {
+        "searchRequestToken": "a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "token": "0~a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "jobId": "90834147",
+        "section": "MAIN",
+        "sectionRank": 52,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "We're looking for a full-time RN's to join our nurse-led clinic at Mount Gambier Prison, working in a team of ten health care professionals",
+      "title": "Registered Nurse - Mount Gambier Prison",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNTZmZDQ0MS05NmY3LTRkYzAtYmRjYy0zZjllMjQ0MTRmZmJfMTIiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "30981170",
+        "description": "Vitality Works"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/8cc067f9-3c5f-4370-b64f-6ec74f3072e3.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "Vitality Works",
+      "companyProfileStructuredDataId": 22006,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "22006",
+        "name": "Vitality Works",
+        "companyId": "834380",
+        "companyUrl": "https://www.seek.com.au/companies/vitality-works-834380"
+      },
+      "id": "90601457",
+      "isFeatured": false,
+      "listingDate": "2026-02-26T22:30:21Z",
+      "listingDateDisplay": "11d ago",
+      "locations": [
+        {
+          "label": "Tweed Heads, Lismore & Far North Coast NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Tweed Heads NSW 2485"
+            },
+            {
+              "contextualName": "Lismore & Far North Coast NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "immunisation-nurse",
+      "salaryLabel": "$60 per hour + super",
+      "solMetadata": {
+        "searchRequestToken": "a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "token": "0~a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "jobId": "90601457",
+        "section": "MAIN",
+        "sectionRank": 53,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Casual role where you will be assigned a number of clients to immunise across Gold Coast and Tweed Heads between mid-March - end of May 2026.",
+      "title": "Nurse Immuniser - Gold Coast",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNTZmZDQ0MS05NmY3LTRkYzAtYmRjYy0zZjllMjQ0MTRmZmJfMTMiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "3",
+            "label": {
+              "text": "Remote"
+            }
+          }
+        ],
+        "displayText": "Remote"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "32288085",
+        "description": "Central Queensland Hospital and Health Service"
+      },
+      "bulletPoints": [
+        "Multiple Positions available | Permanent or Temporary | Full or Part Time",
+        "Public service benefits - 12.75% super, 17.5% leave loading, salary packaging",
+        "Enjoy a great work/life balance and flexible rostering"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/6a02d174-8225-40e1-af11-faac860c3e77.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        },
+        {
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subclassification": {
+            "id": "1411",
+            "description": "Government - State"
+          }
+        }
+      ],
+      "companyName": "Central Queensland Hospital and Health Service",
+      "companyProfileStructuredDataId": 6367,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "6367",
+        "name": "Central Queensland Hospital and Health Service",
+        "companyId": "609455",
+        "companyUrl": "https://www.seek.com.au/companies/central-queensland-hospital-and-health-service-609455"
+      },
+      "id": "90554461",
+      "isFeatured": false,
+      "listingDate": "2026-02-25T03:20:30Z",
+      "listingDateDisplay": "13d ago",
+      "locations": [
+        {
+          "label": "Rockhampton, Rockhampton & Capricorn Coast QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Rockhampton QLD 4700"
+            },
+            {
+              "contextualName": "Rockhampton & Capricorn Coast QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "42.98 to 55.13 p.h. plus super and benefits",
+      "solMetadata": {
+        "searchRequestToken": "a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "token": "0~a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "jobId": "90554461",
+        "section": "MAIN",
+        "sectionRank": 54,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "If you are clinically sharp, adaptable, and thrive in a &#8220;new ward, new challenge&#8221; environment, this role could be right up your alley!",
+      "title": "Registered Nurses",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNTZmZDQ0MS05NmY3LTRkYzAtYmRjYy0zZjllMjQ0MTRmZmJfMTQiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "32285107",
+        "description": "Metro South Health"
+      },
+      "bulletPoints": [
+        "Work across MAPU and Acute Medical in a dynamic 28 bed unit",
+        "Collaborative multidisciplinary team environment",
+        "Strong focus on professional growth and development"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/59977210-4a94-5eb2-30f6-19bec29c46b7.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        },
+        {
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subclassification": {
+            "id": "1411",
+            "description": "Government - State"
+          }
+        }
+      ],
+      "companyName": "Metro South Health Service",
+      "companyProfileStructuredDataId": 21516,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "21516",
+        "name": "Metro South Health Service",
+        "companyId": "828953",
+        "companyUrl": "https://www.seek.com.au/companies/metro-south-health-service-828953"
+      },
+      "id": "90603793",
+      "isFeatured": false,
+      "listingDate": "2026-02-27T00:45:45Z",
+      "listingDateDisplay": "11d ago",
+      "locations": [
+        {
+          "label": "Cleveland, Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Cleveland QLD 4163"
+            },
+            {
+              "contextualName": "All Brisbane QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "$42.98 to $55.13 per hour + up to 12.5% super",
+      "solMetadata": {
+        "searchRequestToken": "a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "token": "0~a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "jobId": "90603793",
+        "section": "MAIN",
+        "sectionRank": 55,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "You are a compassionate and motivated Registered Nurse who thrives in a fast-paced acute medical environment.",
+      "title": "Registered Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNTZmZDQ0MS05NmY3LTRkYzAtYmRjYy0zZjllMjQ0MTRmZmJfMTUiCn0=",
+      "workTypes": [
+        "Contract/Temp"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "60241304",
+        "description": "Northern Beaches Hospital"
+      },
+      "bulletPoints": [
+        "Cardiac experience required",
+        "12 hour shifts on a rotating roster",
+        "State of the art teaching hospital"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/f782d7fc-d6a4-44a1-b658-9860807f6bb3.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "Northern Beaches Hospital",
+      "companyProfileStructuredDataId": 366934,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "366934",
+        "name": "Northern Beaches Hospital",
+        "companyId": "1272059",
+        "companyUrl": "https://www.seek.com.au/companies/northern-beaches-hospital-1272059"
+      },
+      "id": "90834612",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T03:55:01Z",
+      "listingDateDisplay": "12h ago",
+      "locations": [
+        {
+          "label": "Frenchs Forest, Sydney NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Frenchs Forest NSW 2086"
+            },
+            {
+              "contextualName": "All Sydney NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "acute-registered-nurse",
+      "salaryLabel": "$41.21 - $54.89 p.h. + Rewards and Benefits",
+      "solMetadata": {
+        "searchRequestToken": "a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "token": "0~a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "jobId": "90834612",
+        "section": "MAIN",
+        "sectionRank": 56,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Bring your excellent patient care to our amazing team on Ward 4B.",
+      "title": "Registered Nurse - Acute Medical/Coronary Care Unit",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNTZmZDQ0MS05NmY3LTRkYzAtYmRjYy0zZjllMjQ0MTRmZmJfMTYiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "33907834",
+        "description": "Launceston Medical Centre"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/65d65e63-34a0-4a2c-957a-40b9e8346fcf.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6338",
+            "description": "Nursing - A&E, Critical Care & ICU"
+          }
+        }
+      ],
+      "companyName": "Launceston Medical Centre",
+      "companyProfileStructuredDataId": 569980,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "569980",
+        "name": "Launceston Medical Centre"
+      },
+      "id": "90767037",
+      "isFeatured": false,
+      "listingDate": "2026-03-06T02:53:44Z",
+      "listingDateDisplay": "4d ago",
+      "locations": [
+        {
+          "label": "Launceston, Launceston & North East TAS",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Launceston TAS 7250"
+            },
+            {
+              "contextualName": "Launceston & North East TAS"
+            }
+          ]
+        }
+      ],
+      "roleId": "urgent-care-nurse",
+      "salaryLabel": "$50 – $70 per hour",
+      "solMetadata": {
+        "searchRequestToken": "a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "token": "0~a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "jobId": "90767037",
+        "section": "MAIN",
+        "sectionRank": 57,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Provide triage, assessment and urgent clinical care for patients presenting to the Launceston Medicare Urgent Care Clinic.",
+      "title": "Urgent Care Nurse or Paramedic",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNTZmZDQ0MS05NmY3LTRkYzAtYmRjYy0zZjllMjQ0MTRmZmJfMTciCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "61791544",
+        "description": "Easykind"
+      },
+      "bulletPoints": [
+        "Flexible Working Hours - Choose your own hours!",
+        "Competitive Pay - Reflecting the value of your expertise!",
+        "Remote Work - Work from the comfort of your own home!"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/8b38ba88-c93b-47b8-8008-f7e8a43fbba8.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "easykind",
+      "companyProfileStructuredDataId": 712142,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "712142",
+        "name": "easykind",
+        "companyId": "175428434989863",
+        "companyUrl": "https://www.seek.com.au/companies/easykind-175428434989863"
+      },
+      "id": "90424806",
+      "isFeatured": false,
+      "listingDate": "2026-02-18T23:58:49Z",
+      "listingDateDisplay": "19d ago",
+      "locations": [
+        {
+          "label": "Richmond, Melbourne VIC",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Richmond VIC 3121"
+            },
+            {
+              "contextualName": "All Melbourne VIC"
+            }
+          ]
+        }
+      ],
+      "roleId": "nurse-practitioner",
+      "salaryLabel": "$120 per hour",
+      "solMetadata": {
+        "searchRequestToken": "a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "token": "0~a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "jobId": "90424806",
+        "section": "MAIN",
+        "sectionRank": 58,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Join easykind’s innovative Telehealth team! Deliver compassionate, patient-focused care with flexible hours, remote work, & competitive pay!",
+      "title": "TELEHEALTH Nurse Practitioners Apply Now! Easykind Alternative Healthcare Clinic",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNTZmZDQ0MS05NmY3LTRkYzAtYmRjYy0zZjllMjQ0MTRmZmJfMTgiCn0=",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "3",
+            "label": {
+              "text": "Remote"
+            }
+          }
+        ],
+        "displayText": "Remote"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "13917636",
+        "description": "Canberra Health Services"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/871bced4-f77a-402e-a8a1-1d91353b6a54.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6355",
+            "description": "Other"
+          }
+        },
+        {
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subclassification": {
+            "id": "1411",
+            "description": "Government - State"
+          }
+        }
+      ],
+      "companyName": "Canberra Health Services",
+      "companyProfileStructuredDataId": 397150,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "397150",
+        "name": "Canberra Health Services",
+        "companyId": "158803353617866",
+        "companyUrl": "https://www.seek.com.au/companies/canberra-health-services-158803353617866"
+      },
+      "id": "90764421",
+      "isFeatured": false,
+      "listingDate": "2026-03-06T01:48:51Z",
+      "listingDateDisplay": "4d ago",
+      "locations": [
+        {
+          "label": "Canberra ACT",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Canberra ACT"
+            },
+            {
+              "contextualName": "Australian Capital Territory ACT"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse-division-one",
+      "salaryLabel": "$82993.0 - $108780.0 p.a.",
+      "solMetadata": {
+        "searchRequestToken": "a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "token": "0~a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "jobId": "90764421",
+        "section": "MAIN",
+        "sectionRank": 59,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Are you ready for the next challenge? Then this role is for you!",
+      "title": "RN1 - Emergency Department Fundamentals Program",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNTZmZDQ0MS05NmY3LTRkYzAtYmRjYy0zZjllMjQ0MTRmZmJfMTkiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "47359188",
+        "description": "Bedford College"
+      },
+      "bulletPoints": [
+        "Fantastic Team Culture",
+        "Work for an organisation where you can make a genuine difference",
+        "Flexibility - work life balance"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/81167a3c-93a7-4994-b647-6ca62bb7ea72.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "6123",
+            "description": "Education & Training"
+          },
+          "subclassification": {
+            "id": "6136",
+            "description": "Teaching - Vocational"
+          }
+        }
+      ],
+      "companyName": "Bedford college",
+      "companyProfileStructuredDataId": 10874,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "10874",
+        "name": "Bedford college",
+        "companyId": "799896",
+        "companyUrl": "https://www.seek.com.au/companies/bedford-college-799896"
+      },
+      "id": "90824759",
+      "isFeatured": false,
+      "listingDate": "2026-03-09T23:27:44Z",
+      "listingDateDisplay": "16h ago",
+      "locations": [
+        {
+          "label": "Fassifern, Newcastle, Maitland & Hunter NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Fassifern NSW 2283"
+            },
+            {
+              "contextualName": "Newcastle, Maitland & Hunter NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "Nursing-Trainer-and-Assessor",
+      "salaryLabel": "$65 – $70 per hour",
+      "solMetadata": {
+        "searchRequestToken": "a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "token": "0~a60b2748-4d29-4926-9226-fce036aa6a0e",
+        "jobId": "90824759",
+        "section": "MAIN",
+        "sectionRank": 60,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Are you an experienced Trainer/ Assessor?  Are you passionate about teaching? If so, Bedford wants to hear from you!",
+      "title": "Registered Nurse Trainer & Assessor (TAE) – Cert III Health Services Assistance",
+      "tracking": "ewogICJ0b2tlbiI6ICJhNTZmZDQ0MS05NmY3LTRkYzAtYmRjYy0zZjllMjQ0MTRmZmJfMjAiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "totalCount": 8191,
+  "info": {
+    "timeTaken": 124,
+    "source": "JobSearch-sm",
+    "experiment": "mordor_841",
+    "newSince": 1773159902
+  },
+  "userQueryId": "API7940469794707226218",
+  "location": {
+    "description": "All Australia",
+    "locationDescription": "",
+    "type": "Country",
+    "whereId": "3000",
+    "localisedDescriptions": {
+      "en": {
+        "contextualName": "All Australia"
+      },
+      "id": {
+        "contextualName": "Australia"
+      },
+      "th": {
+        "contextualName": "ออสเตรเลีย"
+      },
+      "zh-Hant": {
+        "contextualName": "澳洲"
+      }
+    },
+    "isGranular": false,
+    "defaultDistanceKms": 50
+  },
+  "sortModes": [
+    {
+      "isActive": true,
+      "name": "Relevance",
+      "value": "KeywordRelevance"
+    },
+    {
+      "isActive": false,
+      "name": "Date",
+      "value": "ListedDate"
+    }
+  ],
+  "solMetadata": {
+    "requestToken": "a60b2748-4d29-4926-9226-fce036aa6a0e",
+    "token": "0~a60b2748-4d29-4926-9226-fce036aa6a0e",
+    "keywords": "nurse",
+    "sortMode": "RELEVANCE",
+    "locations": [
+      "All Australia",
+      "seek-3000"
+    ],
+    "locationDistance": 50,
+    "pageSize": 20,
+    "pageNumber": 3,
+    "totalJobCount": 8191,
+    "tags": {
+      "mordor:searchMarket": "UNIFIED_AU",
+      "mordor:result_count_rst": "7991",
+      "mordor:result_count_vec": "8",
+      "mordor:rt": "114",
+      "mordor:count_vec": "8",
+      "mordor__flights": "mordor_841",
+      "mordor:count_rst": "7991",
+      "mordor:count_ir": "192",
+      "mordor:result_count_ir": "192"
+    }
+  },
+  "facets": {},
+  "searchParams": {
+    "sitekey": "AU-Main",
+    "sourcesystem": "houston",
+    "where": "All Australia",
+    "page": "3",
+    "seekselectallpages": "true",
+    "keywords": "nurse",
+    "include": "seodata",
+    "locale": "en-AU"
+  }
+}

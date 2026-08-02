@@ -1,0 +1,115 @@
+{
+  "category": "Disability Support",
+  "data": [
+    {
+      "id": "1a86baf34ca3b7036b50ac8d634b87d8",
+      "title": "Disability Support Worker",
+      "facility_name": "Infinite Inclusion care",
+      "category": "Disability Support",
+      "state": "SA",
+      "city": "Adelaide",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Disability-Support-Worker-1a86baf34ca3b7036b50ac8d634b87d8",
+      "raw_location": "Adelaide SA"
+    },
+    {
+      "id": "d23018ea51aa0d194b4a944150a7a381",
+      "title": "Disability Support Worker",
+      "facility_name": "Devonfield Enterprises Inc.",
+      "category": "Disability Support",
+      "state": "TAS",
+      "city": "Devonport",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Disability-Support-Worker-d23018ea51aa0d194b4a944150a7a381",
+      "raw_location": "Devonport TAS"
+    },
+    {
+      "id": "7f419f7b3f64bf6acc06ec738cad477c",
+      "title": "Community Support Worker",
+      "facility_name": "Tender Loving Care",
+      "category": "Disability Support",
+      "state": "QLD",
+      "city": "Upper Mount Gravatt",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Community-Support-Worker-7f419f7b3f64bf6acc06ec738cad477c",
+      "raw_location": "Upper Mount Gravatt QLD"
+    },
+    {
+      "id": "e541a47174db0a8d5208d4e70033e92c",
+      "title": "Disability Support Worker – Community Access (NDIS)",
+      "facility_name": "St Teresa Disability Services",
+      "category": "Disability Support",
+      "state": "QLD",
+      "city": "Brisbane",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Disability-Support-Worker-e541a47174db0a8d5208d4e70033e92c",
+      "raw_location": "Brisbane QLD"
+    },
+    {
+      "id": "3ccda438e4ece45cb795492f9bc37eb6",
+      "title": "5x Female Support Workers (Casual) South East",
+      "facility_name": "Caring Hearts Home Care",
+      "category": "Disability Support",
+      "state": "VIC",
+      "city": "Clayton South",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Support-Worker-3ccda438e4ece45cb795492f9bc37eb6",
+      "raw_location": "Clayton South VIC"
+    },
+    {
+      "id": "ccc271afe00f9c3ca940e738882f6c97",
+      "title": "Direct Support Worker - Fig Tree Pocket",
+      "facility_name": "CPL Corporation",
+      "category": "Disability Support",
+      "state": "QLD",
+      "city": "Fig Tree Pocket",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Direct-Support-Worker-ccc271afe00f9c3ca940e738882f6c97",
+      "raw_location": "Fig Tree Pocket QLD"
+    },
+    {
+      "id": "3cdefd4fcaf30e5a8d1ac0a3906c5c8e",
+      "title": "Community Support Worker",
+      "facility_name": "Just Better Care Hume Southern Riverina",
+      "category": "Disability Support",
+      "state": "VIC",
+      "city": "Wangaratta",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Community-Support-Worker-3cdefd4fcaf30e5a8d1ac0a3906c5c8e",
+      "raw_location": "Wangaratta VIC"
+    },
+    {
+      "id": "5ece587a6510eb6b307f4efc58d2cdfb",
+      "title": "Casual Disability Support Worker",
+      "facility_name": "Social Footprints Disability Services Pty Ltd",
+      "category": "Disability Support",
+      "state": "VIC",
+      "city": "Melbourne",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Disability-Support-Worker-5ece587a6510eb6b307f4efc58d2cdfb",
+      "raw_location": "Melbourne VIC"
+    },
+    {
+      "id": "1c590a4a939426f07d1b6c0706aa094b",
+      "title": "Support Worker",
+      "facility_name": "seek.com.au",
+      "category": "Disability Support",
+      "state": "WA",
+      "city": "Willagee",
+      "date_posted": "2026-03-09",
+      "url": "https://au.jora.com/job/Support-Worker-1c590a4a939426f07d1b6c0706aa094b",
+      "raw_location": "Willagee WA"
+    },
+    {
+      "id": "e213d21ecadd0ec904ad6260b46863a3",
+      "title": "Support Worker",
+      "facility_name": "Ability Options",
+      "category": "Disability Support",
+      "state": "NSW",
+      "city": "Gosford",
+      "date_posted": "2026-03-10",
+      "url": "https://au.jora.com/job/Support-Worker-e213d21ecadd0ec904ad6260b46863a3",
+      "raw_location": "Gosford NSW"
+    }
+  ]
+}

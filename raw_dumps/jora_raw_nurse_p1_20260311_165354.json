@@ -1,0 +1,104 @@
+{
+  "category": "Nursing",
+  "data": [
+    {
+      "id": "e0a9e62af1a469eab6e01d637d7695d8",
+      "title": "Occupational Health Nurse",
+      "facility_name": "Rio Tinto",
+      "category": "Nursing",
+      "state": "TAS",
+      "city": "Bell Bay",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Occupational-Health-Nurse-e0a9e62af1a469eab6e01d637d7695d8",
+      "raw_location": "Bell Bay TAS"
+    },
+    {
+      "id": "45baf993bc8e31abeb297c0fda79a40d",
+      "title": "RN - Mackay Base - Day Surgery Unit (Scrub/Scout)",
+      "facility_name": "JPS Recruitment",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Mackay",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/RN-Mackay-Base-45baf993bc8e31abeb297c0fda79a40d",
+      "raw_location": "Mackay QLD"
+    },
+    {
+      "id": "0f840069fb303bc56b66bddb0c589bde",
+      "title": "Telehealth Nurse (RN or EN) – Remote",
+      "facility_name": "On Demand HR Recruitment",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Sydney",
+      "date_posted": "2026-03-05",
+      "url": "https://au.jora.com/job/Telehealth-Nurse-0f840069fb303bc56b66bddb0c589bde",
+      "raw_location": "Sydney NSW"
+    },
+    {
+      "id": "69b9fa0a8d045e8c2ffb2c0f5b49c39e",
+      "title": "Registered Nurse - Clinic Lead",
+      "facility_name": "Healing Leaves Clinic",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Southport",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Registered-Nurse-Clinic-69b9fa0a8d045e8c2ffb2c0f5b49c39e",
+      "raw_location": "Southport QLD"
+    },
+    {
+      "id": "2c836ee1c3426a143d62fc583f70522d",
+      "title": "Practice Nurse",
+      "facility_name": "Hunter Doctors",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Cessnock",
+      "date_posted": "2026-03-10",
+      "url": "https://au.jora.com/job/Practice-Nurse-2c836ee1c3426a143d62fc583f70522d",
+      "raw_location": "Cessnock NSW"
+    },
+    {
+      "id": "5324512d219837572fd908c0bc8276ab",
+      "title": "Registered Nurse / Enrolled Nurse | Southport QLD | Casual",
+      "facility_name": "ForHealth Group",
+      "category": "Nursing",
+      "state": "QLD",
+      "city": "Southport",
+      "date_posted": "2026-03-08",
+      "url": "https://au.jora.com/job/Registered-Nurse-5324512d219837572fd908c0bc8276ab",
+      "raw_location": "Southport QLD"
+    },
+    {
+      "id": "b017cf4dd03ce846c03e40ccf9187ff9",
+      "title": "Triage Practitioner",
+      "facility_name": "Ambulance Victoria",
+      "category": "Nursing",
+      "state": "VIC",
+      "city": "Burwood East",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Triage-Practitioner-b017cf4dd03ce846c03e40ccf9187ff9",
+      "raw_location": "Burwood East VIC"
+    },
+    {
+      "id": "7199218f809a48ba66e579093a3056e1",
+      "title": "The Registered Nurse (RN) Refresher Program",
+      "facility_name": "St Vincent's Health Australia",
+      "category": "Nursing",
+      "state": "VIC",
+      "city": "Melbourne",
+      "date_posted": "2026-03-10",
+      "url": "https://au.jora.com/job/The-Registered-Nurse-7199218f809a48ba66e579093a3056e1",
+      "raw_location": "Melbourne VIC"
+    },
+    {
+      "id": "36f22c150c07e6e3795a498991ff42de",
+      "title": "Registered Nurse - Emergency Department Macksville Hospital",
+      "facility_name": "Mid North Coast Local Health District",
+      "category": "Nursing",
+      "state": "NSW",
+      "city": "Macksville",
+      "date_posted": "2026-02-15",
+      "url": "https://au.jora.com/job/Registered-Nurse-Emergency-36f22c150c07e6e3795a498991ff42de",
+      "raw_location": "Macksville NSW"
+    }
+  ]
+}

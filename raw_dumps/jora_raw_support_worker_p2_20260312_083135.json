@@ -1,0 +1,148 @@
+{
+  "category": "Disability Support",
+  "data": [
+    {
+      "id": "21e23a47d3edaddd824895188b146dc7",
+      "title": "Support Worker",
+      "facility_name": "Harwood Care group",
+      "category": "Disability Support",
+      "state": "VIC",
+      "city": "Gisborne",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Support-Worker-21e23a47d3edaddd824895188b146dc7",
+      "raw_location": "Gisborne VIC"
+    },
+    {
+      "id": "14b0900a246c172afaadb24a4bb4f5ad",
+      "title": "Personal Care Worker - FIFO - Docker River",
+      "facility_name": "ARRCS Australian Regional and Remote Community Services",
+      "category": "Disability Support",
+      "state": "NT",
+      "city": "Alice Springs",
+      "date_posted": "2026-02-24",
+      "url": "https://au.jora.com/job/Personal-Care-Worker-14b0900a246c172afaadb24a4bb4f5ad",
+      "raw_location": "Alice Springs NT"
+    },
+    {
+      "id": "803204591406480d27f7f19a385411fd",
+      "title": "Orange Support Worker - Children Services",
+      "facility_name": "The Westhaven Association",
+      "category": "Disability Support",
+      "state": "NSW",
+      "city": "Orange",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Support-Worker-803204591406480d27f7f19a385411fd",
+      "raw_location": "Orange NSW"
+    },
+    {
+      "id": "b96d45bc6660995e386928e0b8e6e84d",
+      "title": "Support Worker",
+      "facility_name": "Sevenangels Care and Support Services",
+      "category": "Disability Support",
+      "state": "VIC",
+      "city": "Box Hill",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Support-Worker-b96d45bc6660995e386928e0b8e6e84d",
+      "raw_location": "Box Hill VIC"
+    },
+    {
+      "id": "cde0ec2516adbb1424bd3e9baf45c2ff",
+      "title": "Disability Support Worker",
+      "facility_name": "Sunflower Hub",
+      "category": "Disability Support",
+      "state": "QLD",
+      "city": "Loganlea",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Disability-Support-Worker-cde0ec2516adbb1424bd3e9baf45c2ff",
+      "raw_location": "Loganlea QLD"
+    },
+    {
+      "id": "89911746ad4550c411df32cb6ad7235d",
+      "title": "Support Worker",
+      "facility_name": "Harwood Care Group",
+      "category": "Disability Support",
+      "state": "VIC",
+      "city": "Werribee",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Support-Worker-89911746ad4550c411df32cb6ad7235d",
+      "raw_location": "Werribee VIC"
+    },
+    {
+      "id": "9efc8fdc44135b28ab973d35bc6b1c47",
+      "title": "ASD & Mental Health Support Worker - New Gisborne",
+      "facility_name": "Recovery Alliance Care",
+      "category": "Disability Support",
+      "state": "VIC",
+      "city": "New Gisborne",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Mental-Health-Support-Worker-9efc8fdc44135b28ab973d35bc6b1c47",
+      "raw_location": "New Gisborne VIC"
+    },
+    {
+      "id": "f0a62c90b502b67de0efb62e40a3d2d3",
+      "title": "Direct Support Worker - Ipswich",
+      "facility_name": "CPL Corporation",
+      "category": "Disability Support",
+      "state": "QLD",
+      "city": "Ipswich",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Direct-Support-Worker-f0a62c90b502b67de0efb62e40a3d2d3",
+      "raw_location": "Ipswich QLD"
+    },
+    {
+      "id": "729539ebf10c5c60c7079455ba5e396d",
+      "title": "Support Worker",
+      "facility_name": "Unlimited Care Australia",
+      "category": "Disability Support",
+      "state": "NSW",
+      "city": "Blacktown",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Support-Worker-729539ebf10c5c60c7079455ba5e396d",
+      "raw_location": "Blacktown NSW"
+    },
+    {
+      "id": "bf2134482795d4249b8240a1e883d9f0",
+      "title": "Support Worker",
+      "facility_name": "Department for Child Protection SA",
+      "category": "Disability Support",
+      "state": "SA",
+      "city": "Port Augusta",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Support-Worker-bf2134482795d4249b8240a1e883d9f0",
+      "raw_location": "Port Augusta SA"
+    },
+    {
+      "id": "1c2e43d395916c8a79ea677204d95285",
+      "title": "Residential Support Worker",
+      "facility_name": "Anglicare Central Queensland",
+      "category": "Disability Support",
+      "state": "QLD",
+      "city": "Emerald",
+      "date_posted": "2026-03-11",
+      "url": "https://au.jora.com/job/Residential-Support-Worker-1c2e43d395916c8a79ea677204d95285",
+      "raw_location": "Emerald QLD"
+    },
+    {
+      "id": "9cf6ee80137015ece5a47b9a0f368f8e",
+      "title": "Disability Support Worker - Eurobodalla",
+      "facility_name": "The Disability Trust",
+      "category": "Disability Support",
+      "state": "NSW",
+      "city": "Batemans Bay",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Disability-Support-Worker-9cf6ee80137015ece5a47b9a0f368f8e",
+      "raw_location": "Batemans Bay NSW"
+    },
+    {
+      "id": "a90fa5a3b362f39bc184726d8f821b69",
+      "title": "Orange Support Worker",
+      "facility_name": "The Westhaven Association",
+      "category": "Disability Support",
+      "state": "NSW",
+      "city": "Orange",
+      "date_posted": "2026-03-12",
+      "url": "https://au.jora.com/job/Support-Worker-a90fa5a3b362f39bc184726d8f821b69",
+      "raw_location": "Orange NSW"
+    }
+  ]
+}

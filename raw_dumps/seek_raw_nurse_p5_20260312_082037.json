@@ -1,0 +1,1902 @@
+{
+  "data": [
+    {
+      "advertiser": {
+        "id": "45072310",
+        "description": "Doctors of South Melbourne"
+      },
+      "bulletPoints": [
+        "Part-time position with a fun, close kit, and friendly team",
+        "Feel valued, feel supported, and be heard",
+        "Female owned and led private billing GP clinic"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/2dbcbe73-3ee8-4cd4-b62c-d888229fbf01.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "Doctors of South Melbourne",
+      "companyProfileStructuredDataId": 563873,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "promoted",
+      "employer": {
+        "id": "563873",
+        "name": "Doctors of South Melbourne"
+      },
+      "id": "90895177",
+      "isFeatured": true,
+      "listingDate": "2026-03-12T05:38:02Z",
+      "listingDateDisplay": "2h ago",
+      "locations": [
+        {
+          "label": "South Melbourne, Melbourne VIC",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "South Melbourne VIC 3205"
+            },
+            {
+              "contextualName": "All Melbourne VIC"
+            }
+          ]
+        }
+      ],
+      "roleId": "practice-registered-nurse",
+      "salaryLabel": "$45 – $48 per hour",
+      "solMetadata": {
+        "searchRequestToken": "f0389226-fe97-431f-b0da-4038398fe6de",
+        "token": "0~f0389226-fe97-431f-b0da-4038398fe6de",
+        "jobId": "90895177",
+        "section": "MAIN",
+        "sectionRank": 81,
+        "jobAdType": "SPONSORED",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "This is a rewarding role in a vibrant South Melbourne GP clinic as an essential member of our clinical team",
+      "title": "Practice Nurse (RN) - GP Clinic",
+      "tracking": "ewogICJ0b2tlbiI6ICJmNDkxMGVkMC0wY2U0LTRiZWItODc5ZC05NTQ5MDU0MTc5ZjJfMSIKfQ==",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "60241302",
+        "description": "Newcastle Private Hospital"
+      },
+      "bulletPoints": [
+        "Full time, part time or casual roles available - Work to suit you",
+        "Roles available in Recovery, Day Surgery & Surgical Admissions",
+        "Great opportunity to develop your skills and grow within our supportive team"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/312bea38-880a-4131-9629-90c2c51bec51.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6343",
+            "description": "Nursing - High Acuity"
+          }
+        }
+      ],
+      "companyName": "Newcastle Private Hospital",
+      "companyProfileStructuredDataId": 8909,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "promoted",
+      "employer": {
+        "id": "8909",
+        "name": "Newcastle Private Hospital",
+        "companyId": "797935",
+        "companyUrl": "https://www.seek.com.au/companies/newcastle-private-hospital-797935"
+      },
+      "id": "90836225",
+      "isFeatured": true,
+      "listingDate": "2026-03-10T04:29:13Z",
+      "listingDateDisplay": "2d ago",
+      "locations": [
+        {
+          "label": "Newcastle, Newcastle, Maitland & Hunter NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Newcastle NSW 2300"
+            },
+            {
+              "contextualName": "Newcastle, Maitland & Hunter NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "recovery-registered-nurse",
+      "salaryLabel": "$39 - $54 p.h.",
+      "solMetadata": {
+        "searchRequestToken": "f0389226-fe97-431f-b0da-4038398fe6de",
+        "token": "0~f0389226-fe97-431f-b0da-4038398fe6de",
+        "jobId": "90836225",
+        "section": "MAIN",
+        "sectionRank": 82,
+        "jobAdType": "SPONSORED",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Newcastle Private Hospital is seeking Registered Nurses to join our Recovery, Day Surgery & Surgical Admissions team on a permanent basis.",
+      "title": "Registered Nurse - Recovery Surgical Admissions",
+      "tracking": "ewogICJ0b2tlbiI6ICJmNDkxMGVkMC0wY2U0LTRiZWItODc5ZC05NTQ5MDU0MTc5ZjJfMiIKfQ==",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "25605545",
+        "description": "CareFlight"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/aea998a1-fd67-4a5e-b5b3-89775f1e5f1d.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6338",
+            "description": "Nursing - A&E, Critical Care & ICU"
+          }
+        }
+      ],
+      "companyName": "CareFlight",
+      "companyProfileStructuredDataId": 20080,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "20080",
+        "name": "CareFlight",
+        "companyId": "816630",
+        "companyUrl": "https://www.seek.com.au/companies/careflight-816630"
+      },
+      "id": "90884246",
+      "isFeatured": false,
+      "listingDate": "2026-03-12T00:59:46Z",
+      "listingDateDisplay": "7h ago",
+      "locations": [
+        {
+          "label": "Darwin NT",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Darwin NT"
+            },
+            {
+              "contextualName": "Northern Territory NT"
+            }
+          ]
+        }
+      ],
+      "roleId": "flight-nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "f0389226-fe97-431f-b0da-4038398fe6de",
+        "token": "0~f0389226-fe97-431f-b0da-4038398fe6de",
+        "jobId": "90884246",
+        "section": "MAIN",
+        "sectionRank": 83,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Exciting opportunity for a critical nurse to join an Aeromedical leader and enjoy working for a purpose and attractive salary.",
+      "title": "Flight Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICJmNDkxMGVkMC0wY2U0LTRiZWItODc5ZC05NTQ5MDU0MTc5ZjJfMyIKfQ==",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "32285249",
+        "description": "Metro North Hospital & Health Service"
+      },
+      "bulletPoints": [
+        "Fixed term temporary full time up to 9 May 2027",
+        "Be part of the significant Capital Works being delivered across Metro North",
+        "Work life balance via flexible hybrid working models"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/a44a818c-5df9-53b0-c3ea-0487a54ea610.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6341",
+            "description": "Nursing - Educators & Facilitators"
+          }
+        },
+        {
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subclassification": {
+            "id": "1411",
+            "description": "Government - State"
+          }
+        }
+      ],
+      "companyName": "Metro North Hospital & Health Service",
+      "companyProfileStructuredDataId": 6430,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "6430",
+        "name": "Metro North Hospital & Health Service",
+        "companyId": "609516",
+        "companyUrl": "https://www.seek.com.au/companies/metro-north-hospital-n-health-service-609516"
+      },
+      "id": "90893460",
+      "isFeatured": false,
+      "listingDate": "2026-03-12T04:42:46Z",
+      "listingDateDisplay": "3h ago",
+      "locations": [
+        {
+          "label": "Bowen Hills, Brisbane QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Bowen Hills QLD 4006"
+            },
+            {
+              "contextualName": "All Brisbane QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "clinical-nurse-consultant",
+      "salaryLabel": "$136,538 - $148,242 per annum plus 12.75% super",
+      "solMetadata": {
+        "searchRequestToken": "f0389226-fe97-431f-b0da-4038398fe6de",
+        "token": "0~f0389226-fe97-431f-b0da-4038398fe6de",
+        "jobId": "90893460",
+        "section": "MAIN",
+        "sectionRank": 84,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Join our team to assist with the ieMR implementation at the Royal Brisbane and Women's Hospital and The Prince Charles Hospital.",
+      "title": "Clinical Nurse Consultant - Clinical Change, ieMR Program",
+      "tracking": "ewogICJ0b2tlbiI6ICJmNDkxMGVkMC0wY2U0LTRiZWItODc5ZC05NTQ5MDU0MTc5ZjJfNCIKfQ==",
+      "workTypes": [
+        "Contract/Temp"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "2",
+            "label": {
+              "text": "Hybrid"
+            }
+          }
+        ],
+        "displayText": "Hybrid"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "32285210",
+        "description": "Department of Health - Queensland"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6340",
+            "description": "Nursing - Community, Maternal & Child Health"
+          }
+        },
+        {
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subclassification": {
+            "id": "1411",
+            "description": "Government - State"
+          }
+        }
+      ],
+      "companyName": "Queensland Health",
+      "companyProfileStructuredDataId": 4669,
+      "displayType": "standard",
+      "employer": {
+        "id": "4669",
+        "name": "Queensland Health",
+        "companyId": "432313",
+        "companyUrl": "https://www.seek.com.au/companies/queensland-health-432313"
+      },
+      "id": "90879994",
+      "isFeatured": false,
+      "listingDate": "2026-03-11T20:02:48Z",
+      "listingDateDisplay": "12h ago",
+      "locations": [
+        {
+          "label": "Toowoomba, Toowoomba & Darling Downs QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Toowoomba QLD 4350"
+            },
+            {
+              "contextualName": "Toowoomba & Darling Downs QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "clinical-nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "f0389226-fe97-431f-b0da-4038398fe6de",
+        "token": "0~f0389226-fe97-431f-b0da-4038398fe6de",
+        "jobId": "90879994",
+        "section": "MAIN",
+        "sectionRank": 85,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Step into a rewarding Clinical Nurse role at Toowoomba Hospital, where your leadership and advanced clinical expertise will help shape exceptional...",
+      "title": "Clinical Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICJmNDkxMGVkMC0wY2U0LTRiZWItODc5ZC05NTQ5MDU0MTc5ZjJfNSIKfQ==",
+      "workTypes": [
+        "Part time",
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "32288085",
+        "description": "Central Queensland Hospital and Health Service"
+      },
+      "bulletPoints": [
+        "A supportive team of experienced professionals!",
+        "Multiple positions available!",
+        "Professional Development Leave and Allowance!"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/c6e7cc9b-f0c5-4ef1-9644-29d2880f2fd6.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6355",
+            "description": "Other"
+          }
+        },
+        {
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subclassification": {
+            "id": "1411",
+            "description": "Government - State"
+          }
+        }
+      ],
+      "companyName": "Central Queensland Hospital and Health Service",
+      "companyProfileStructuredDataId": 6367,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "6367",
+        "name": "Central Queensland Hospital and Health Service",
+        "companyId": "609455",
+        "companyUrl": "https://www.seek.com.au/companies/central-queensland-hospital-and-health-service-609455"
+      },
+      "id": "90799314",
+      "isFeatured": false,
+      "listingDate": "2026-03-09T00:04:32Z",
+      "listingDateDisplay": "3d ago",
+      "locations": [
+        {
+          "label": "Rockhampton, Rockhampton & Capricorn Coast QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Rockhampton QLD 4700"
+            },
+            {
+              "contextualName": "Rockhampton & Capricorn Coast QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "42.98 to 55.13 p.h. plus super and benefits",
+      "solMetadata": {
+        "searchRequestToken": "f0389226-fe97-431f-b0da-4038398fe6de",
+        "token": "0~f0389226-fe97-431f-b0da-4038398fe6de",
+        "jobId": "90799314",
+        "section": "MAIN",
+        "sectionRank": 86,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Be the calm in someone else&#8217;s storm and put your heart and mind into mental health care.",
+      "title": "Registered Nurse (Adult Inpatient Unit)",
+      "tracking": "ewogICJ0b2tlbiI6ICJmNDkxMGVkMC0wY2U0LTRiZWItODc5ZC05NTQ5MDU0MTc5ZjJfNiIKfQ==",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "30981170",
+        "description": "Vitality Works"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/8cc067f9-3c5f-4370-b64f-6ec74f3072e3.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "Vitality Works",
+      "companyProfileStructuredDataId": 22006,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "22006",
+        "name": "Vitality Works",
+        "companyId": "834380",
+        "companyUrl": "https://www.seek.com.au/companies/vitality-works-834380"
+      },
+      "id": "90601457",
+      "isFeatured": false,
+      "listingDate": "2026-02-26T22:30:21Z",
+      "listingDateDisplay": "13d ago",
+      "locations": [
+        {
+          "label": "Tweed Heads, Lismore & Far North Coast NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Tweed Heads NSW 2485"
+            },
+            {
+              "contextualName": "Lismore & Far North Coast NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "immunisation-nurse",
+      "salaryLabel": "$60 per hour + super",
+      "solMetadata": {
+        "searchRequestToken": "f0389226-fe97-431f-b0da-4038398fe6de",
+        "token": "0~f0389226-fe97-431f-b0da-4038398fe6de",
+        "jobId": "90601457",
+        "section": "MAIN",
+        "sectionRank": 87,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Casual role where you will be assigned a number of clients to immunise across Gold Coast and Tweed Heads between mid-March - end of May 2026.",
+      "title": "Nurse Immuniser - Gold Coast",
+      "tracking": "ewogICJ0b2tlbiI6ICJmNDkxMGVkMC0wY2U0LTRiZWItODc5ZC05NTQ5MDU0MTc5ZjJfNyIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "3",
+            "label": {
+              "text": "Remote"
+            }
+          }
+        ],
+        "displayText": "Remote"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "24612706",
+        "description": "Royal Flying Doctor Service SES"
+      },
+      "bulletPoints": [
+        "4 on 4 off roster",
+        "Relocation support available",
+        "Based in Dubbo, NSW"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/3e39144d-4937-81cf-15b4-f274bce1d542.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6338",
+            "description": "Nursing - A&E, Critical Care & ICU"
+          }
+        }
+      ],
+      "companyName": "Royal Flying Doctor Service",
+      "companyProfileStructuredDataId": 2274,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "2274",
+        "name": "Royal Flying Doctor Service",
+        "companyId": "435125",
+        "companyUrl": "https://www.seek.com.au/companies/royal-flying-doctor-service-435125"
+      },
+      "id": "90852964",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T22:12:32Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Dubbo, Dubbo & Central NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Dubbo NSW 2830"
+            },
+            {
+              "contextualName": "Dubbo & Central NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "flight-nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "f0389226-fe97-431f-b0da-4038398fe6de",
+        "token": "0~f0389226-fe97-431f-b0da-4038398fe6de",
+        "jobId": "90852964",
+        "section": "MAIN",
+        "sectionRank": 88,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Opportunities available for Permanent Full-Time and Part-Time Flight Nurse based in Dubbo NSW",
+      "title": "Flight Nurse Dubbo",
+      "tracking": "ewogICJ0b2tlbiI6ICJmNDkxMGVkMC0wY2U0LTRiZWItODc5ZC05NTQ5MDU0MTc5ZjJfOCIKfQ==",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "54969408",
+        "description": "ForHealth Group"
+      },
+      "bulletPoints": [
+        "Achieve better work life balance – no more night shifts",
+        "Discounted dental treatments and gym benefits to you and your family",
+        "Collaborative team environment that empowers nurses and elevates patient care"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/e72c4e8e-6a5b-427d-ae01-eb2e916e8686.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6340",
+            "description": "Nursing - Community, Maternal & Child Health"
+          }
+        }
+      ],
+      "companyName": "ForHealth Group",
+      "companyProfileStructuredDataId": 530309,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "530309",
+        "name": "ForHealth Group",
+        "companyId": "163659543838637",
+        "companyUrl": "https://www.seek.com.au/companies/forhealth-group-163659543838637"
+      },
+      "id": "90887564",
+      "isFeatured": false,
+      "listingDate": "2026-03-12T02:31:46Z",
+      "listingDateDisplay": "5h ago",
+      "locations": [
+        {
+          "label": "Tweed Heads, Lismore & Far North Coast NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Tweed Heads NSW 2485"
+            },
+            {
+              "contextualName": "Lismore & Far North Coast NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "Competitive pay rate!",
+      "solMetadata": {
+        "searchRequestToken": "f0389226-fe97-431f-b0da-4038398fe6de",
+        "token": "0~f0389226-fe97-431f-b0da-4038398fe6de",
+        "jobId": "90887564",
+        "section": "MAIN",
+        "sectionRank": 89,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "This role will see you support GPs and their patients to identify and manage their chronic conditions and ultimately keep them out of hospital.",
+      "title": "Registered Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICJmNDkxMGVkMC0wY2U0LTRiZWItODc5ZC05NTQ5MDU0MTc5ZjJfOSIKfQ==",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "18509524",
+        "description": "Co.As.It. Community Services Ltd"
+      },
+      "bulletPoints": [
+        "Expanding Organisation",
+        "NPF Salary Packing",
+        "Well recognised and growing community organisation"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/08c285df-4051-4918-95c6-722ef262b8de.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6340",
+            "description": "Nursing - Community, Maternal & Child Health"
+          }
+        }
+      ],
+      "companyName": "Co.As.It. Community Services",
+      "companyProfileStructuredDataId": 22546,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "22546",
+        "name": "Co.As.It. Community Services",
+        "companyId": "860997",
+        "companyUrl": "https://www.seek.com.au/companies/coasit-community-services-860997"
+      },
+      "id": "90886937",
+      "isFeatured": false,
+      "listingDate": "2026-03-12T02:16:58Z",
+      "listingDateDisplay": "6h ago",
+      "locations": [
+        {
+          "label": "Bundall, Gold Coast QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Bundall QLD 4217"
+            },
+            {
+              "contextualName": "All Gold Coast QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "community-nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "f0389226-fe97-431f-b0da-4038398fe6de",
+        "token": "0~f0389226-fe97-431f-b0da-4038398fe6de",
+        "jobId": "90886937",
+        "section": "MAIN",
+        "sectionRank": 90,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Co.As.It. is expanding its Clinical Team and seeking a dedicated and client care focused registered nurse working from our Gold Coast Office.",
+      "title": "Community Nurse RN",
+      "tracking": "ewogICJ0b2tlbiI6ICJmNDkxMGVkMC0wY2U0LTRiZWItODc5ZC05NTQ5MDU0MTc5ZjJfMTAiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "30981170",
+        "description": "Vitality Works"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/40c54cfa-06bb-f944-2653-b125ee3116c7.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "Vitality Works",
+      "companyProfileStructuredDataId": 22006,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "22006",
+        "name": "Vitality Works",
+        "companyId": "834380",
+        "companyUrl": "https://www.seek.com.au/companies/vitality-works-834380"
+      },
+      "id": "90678978",
+      "isFeatured": false,
+      "listingDate": "2026-03-03T02:17:34Z",
+      "listingDateDisplay": "9d ago",
+      "locations": [
+        {
+          "label": "Adelaide SA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Adelaide SA"
+            },
+            {
+              "contextualName": "South Australia SA"
+            }
+          ]
+        }
+      ],
+      "roleId": "immunisation-nurse",
+      "salaryLabel": "$60 per hour + super",
+      "solMetadata": {
+        "searchRequestToken": "f0389226-fe97-431f-b0da-4038398fe6de",
+        "token": "0~f0389226-fe97-431f-b0da-4038398fe6de",
+        "jobId": "90678978",
+        "section": "MAIN",
+        "sectionRank": 91,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "This is a casual role where you will be assigned a number of clients to immunise across Adelaide between mid-April - end of May 2026.",
+      "title": "Nurse Immuniser - Adelaide",
+      "tracking": "ewogICJ0b2tlbiI6ICJmNDkxMGVkMC0wY2U0LTRiZWItODc5ZC05NTQ5MDU0MTc5ZjJfMTEiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "3",
+            "label": {
+              "text": "Remote"
+            }
+          }
+        ],
+        "displayText": "Remote"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "25033088",
+        "description": "Alliance Rural & Remote Health"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/03aae064-fd1c-4a6b-90b0-9c4d8d7cf65e.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "Alliance Rural & Remote Health",
+      "companyProfileStructuredDataId": 695516,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "695516",
+        "name": "Alliance Rural & Remote Health"
+      },
+      "id": "90852407",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T21:30:08Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Broome, Broome & Kimberley WA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Broome WA 6725"
+            },
+            {
+              "contextualName": "Broome & Kimberley WA"
+            }
+          ]
+        }
+      ],
+      "roleId": "Travel-Nurse",
+      "salaryLabel": "Competitive",
+      "solMetadata": {
+        "searchRequestToken": "f0389226-fe97-431f-b0da-4038398fe6de",
+        "token": "0~f0389226-fe97-431f-b0da-4038398fe6de",
+        "jobId": "90852407",
+        "section": "MAIN",
+        "sectionRank": 92,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "•Minimum 4 years’ nursing experience\r\n•Minimum 2 years’ experience in ED and/or MPHS\r\n•Current triage competency\r\n•Current ALS",
+      "title": "Travel Nurses – Rural & Remote WA | ED & MPHS",
+      "tracking": "ewogICJ0b2tlbiI6ICJmNDkxMGVkMC0wY2U0LTRiZWItODc5ZC05NTQ5MDU0MTc5ZjJfMTIiCn0=",
+      "workTypes": [
+        "Contract/Temp"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "55436913",
+        "description": "CRANAplus"
+      },
+      "bulletPoints": [
+        "Values based, grass roots Not For Profit Organisation, 40 years in the making!",
+        "Work for a highly regarded employer and respected community-led organisation",
+        "Competitive packages inclusive of paid professional development and allowances"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/72ad1bea-20cd-4783-b418-ae713f2a2f5e.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6341",
+            "description": "Nursing - Educators & Facilitators"
+          }
+        }
+      ],
+      "companyName": "CRANAplus",
+      "companyProfileStructuredDataId": 458149,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "458149",
+        "name": "CRANAplus",
+        "companyId": "161619918267453",
+        "companyUrl": "https://www.seek.com.au/companies/cranaplus-161619918267453"
+      },
+      "id": "90884851",
+      "isFeatured": false,
+      "listingDate": "2026-03-12T01:21:14Z",
+      "listingDateDisplay": "6h ago",
+      "locations": [
+        {
+          "label": "Adelaide SA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "All Adelaide SA"
+            },
+            {
+              "contextualName": "South Australia SA"
+            }
+          ]
+        }
+      ],
+      "roleId": "clinical-nurse-educator",
+      "salaryLabel": "$115,000 – $120,000 per year",
+      "solMetadata": {
+        "searchRequestToken": "f0389226-fe97-431f-b0da-4038398fe6de",
+        "token": "0~f0389226-fe97-431f-b0da-4038398fe6de",
+        "jobId": "90884851",
+        "section": "MAIN",
+        "sectionRank": 93,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Clinical Nurse Educator, or Midwifery Educator - this is a working from home opportunity, with travel intrastate & interstate to deliver our courses.",
+      "title": "Remote Clinical (Nurse) Educator, with work from home opportunity",
+      "tracking": "ewogICJ0b2tlbiI6ICJmNDkxMGVkMC0wY2U0LTRiZWItODc5ZC05NTQ5MDU0MTc5ZjJfMTMiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "2",
+            "label": {
+              "text": "Hybrid"
+            }
+          }
+        ],
+        "displayText": "Hybrid"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "32288085",
+        "description": "Central Queensland Hospital and Health Service"
+      },
+      "bulletPoints": [
+        "Permanent Full or Part Time available &#8211; negotiate your hours!",
+        "Do meaningful work with a skilled and passionate team.",
+        "A chance to level up your skill set and help people in the community."
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/6a02d174-8225-40e1-af11-faac860c3e77.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6339",
+            "description": "Nursing - Aged Care"
+          }
+        },
+        {
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subclassification": {
+            "id": "1411",
+            "description": "Government - State"
+          }
+        }
+      ],
+      "companyName": "Central Queensland Hospital and Health Service",
+      "companyProfileStructuredDataId": 6367,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "6367",
+        "name": "Central Queensland Hospital and Health Service",
+        "companyId": "609455",
+        "companyUrl": "https://www.seek.com.au/companies/central-queensland-hospital-and-health-service-609455"
+      },
+      "id": "90837210",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T04:56:58Z",
+      "listingDateDisplay": "2d ago",
+      "locations": [
+        {
+          "label": "Rockhampton, Rockhampton & Capricorn Coast QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Rockhampton QLD 4700"
+            },
+            {
+              "contextualName": "Rockhampton & Capricorn Coast QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "42.98 to 55.13 p.h. plus super and benefits",
+      "solMetadata": {
+        "searchRequestToken": "f0389226-fe97-431f-b0da-4038398fe6de",
+        "token": "0~f0389226-fe97-431f-b0da-4038398fe6de",
+        "jobId": "90837210",
+        "section": "MAIN",
+        "sectionRank": 94,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Help improve quality of life and independence as a Registered Nurse for the Older Persons Mental Health Unit",
+      "title": "Registered Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICJmNDkxMGVkMC0wY2U0LTRiZWItODc5ZC05NTQ5MDU0MTc5ZjJfMTQiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "32288085",
+        "description": "Central Queensland Hospital and Health Service"
+      },
+      "bulletPoints": [
+        "Housing Provided: Enjoy 12 months of provided housing closer to the coast.",
+        "Clinical Upgrade: Work in a modern, modular MPHS with state-of-the-art tech.",
+        "Connect with CQ: Join a Connected Team only two hours from Rockhampton."
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/92c14c42-40f5-4594-b960-4fc59e9facdf.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6338",
+            "description": "Nursing - A&E, Critical Care & ICU"
+          }
+        },
+        {
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subclassification": {
+            "id": "1411",
+            "description": "Government - State"
+          }
+        }
+      ],
+      "companyName": "Central Queensland Hospital and Health Service",
+      "companyProfileStructuredDataId": 6367,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "6367",
+        "name": "Central Queensland Hospital and Health Service",
+        "companyId": "609455",
+        "companyUrl": "https://www.seek.com.au/companies/central-queensland-hospital-and-health-service-609455"
+      },
+      "id": "90859637",
+      "isFeatured": false,
+      "listingDate": "2026-03-11T02:16:08Z",
+      "listingDateDisplay": "1d ago",
+      "locations": [
+        {
+          "label": "Mount Isa, Western QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Mount Isa QLD 4825"
+            },
+            {
+              "contextualName": "Western QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "$42.98 - $55.13 p.h. + super & benefits",
+      "solMetadata": {
+        "searchRequestToken": "f0389226-fe97-431f-b0da-4038398fe6de",
+        "token": "0~f0389226-fe97-431f-b0da-4038398fe6de",
+        "jobId": "90859637",
+        "section": "MAIN",
+        "sectionRank": 95,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Continue your rural journey in Blackwater | Modern facility closer to the coast | Enjoy 12 months of provided housing and relocation support.",
+      "title": "Registered Nurse (Blackwater)",
+      "tracking": "ewogICJ0b2tlbiI6ICJmNDkxMGVkMC0wY2U0LTRiZWItODc5ZC05NTQ5MDU0MTc5ZjJfMTUiCn0=",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "20213117",
+        "description": "City Fertility"
+      },
+      "bulletPoints": [
+        "Support patients through every step of their fertility journey",
+        "Join a progressive team backed by global IVF expertise",
+        "Enjoy growth, support and collaboration across our national network"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/34a2dab4-7bdd-cb58-f8bf-7092abffb378.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "City Fertility Centre",
+      "companyProfileStructuredDataId": 18735,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "18735",
+        "name": "City Fertility Centre",
+        "companyId": "813918",
+        "companyUrl": "https://www.seek.com.au/companies/city-fertility-centre-813918"
+      },
+      "id": "90828202",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T01:27:36Z",
+      "listingDateDisplay": "2d ago",
+      "locations": [
+        {
+          "label": "Bundall, Gold Coast QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Bundall QLD 4217"
+            },
+            {
+              "contextualName": "All Gold Coast QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "perioperative-nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "f0389226-fe97-431f-b0da-4038398fe6de",
+        "token": "0~f0389226-fe97-431f-b0da-4038398fe6de",
+        "jobId": "90828202",
+        "section": "MAIN",
+        "sectionRank": 96,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Passionate about patient care? Help guide individuals and couples through their fertility journey with City Fertility.",
+      "title": "IVF Nurse Coordinator/Perioperative Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICJmNDkxMGVkMC0wY2U0LTRiZWItODc5ZC05NTQ5MDU0MTc5ZjJfMTYiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "39944201",
+        "description": "People Who Care"
+      },
+      "bulletPoints": [
+        "Salary packaging options to boost take home pay - up to $18550 per annum",
+        "Small friendly and supportive clinical team",
+        "Growing organisation"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/4d3d039d-0555-4972-a9d5-e4deb164718a.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6339",
+            "description": "Nursing - Aged Care"
+          }
+        }
+      ],
+      "companyName": "People Who Care",
+      "companyProfileStructuredDataId": 286032,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "286032",
+        "name": "People Who Care",
+        "companyId": "947778",
+        "companyUrl": "https://www.seek.com.au/companies/people-who-care-947778"
+      },
+      "id": "90895273",
+      "isFeatured": false,
+      "listingDate": "2026-03-12T05:38:37Z",
+      "listingDateDisplay": "2h ago",
+      "locations": [
+        {
+          "label": "Mandurah, Mandurah & Peel WA",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Mandurah WA 6210"
+            },
+            {
+              "contextualName": "Mandurah & Peel WA"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "f0389226-fe97-431f-b0da-4038398fe6de",
+        "token": "0~f0389226-fe97-431f-b0da-4038398fe6de",
+        "jobId": "90895273",
+        "section": "MAIN",
+        "sectionRank": 97,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "Join a caring team making a real difference—flexible part-time role supporting clients to live independently at home.",
+      "title": "Registered Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICJmNDkxMGVkMC0wY2U0LTRiZWItODc5ZC05NTQ5MDU0MTc5ZjJfMTciCn0=",
+      "workTypes": [
+        "Part time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "3",
+            "label": {
+              "text": "Remote"
+            }
+          }
+        ],
+        "displayText": "Remote"
+      }
+    },
+    {
+      "advertiser": {
+        "id": "55778126",
+        "description": "Frontier Dermatology"
+      },
+      "bulletPoints": [],
+      "branding": {},
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "Frontier Dermatology",
+      "companyProfileStructuredDataId": 565854,
+      "displayType": "standard",
+      "employer": {
+        "id": "565854",
+        "name": "Frontier Dermatology"
+      },
+      "id": "90882099",
+      "isFeatured": false,
+      "listingDate": "2026-03-11T23:18:51Z",
+      "listingDateDisplay": "9h ago",
+      "locations": [
+        {
+          "label": "Charlestown, Newcastle, Maitland & Hunter NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Charlestown NSW 2290"
+            },
+            {
+              "contextualName": "Newcastle, Maitland & Hunter NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "practice-registered-nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "f0389226-fe97-431f-b0da-4038398fe6de",
+        "token": "0~f0389226-fe97-431f-b0da-4038398fe6de",
+        "jobId": "90882099",
+        "section": "MAIN",
+        "sectionRank": 98,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "tags": [
+        {
+          "type": "EARLY_APPLICANT",
+          "label": "Be an early applicant"
+        }
+      ],
+      "teaser": "We are seeking an experienced nurse to join our supportive and trusted group of local dermatologists on Tuesdays and Fridays.",
+      "title": "Dermatology Practice Nurse (RN/EN/EEN) – Casual Employment",
+      "tracking": "ewogICJ0b2tlbiI6ICJmNDkxMGVkMC0wY2U0LTRiZWItODc5ZC05NTQ5MDU0MTc5ZjJfMTgiCn0=",
+      "workTypes": [
+        "Casual/Vacation"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "60241291",
+        "description": "Hunter Valley Private Hospital"
+      },
+      "bulletPoints": [],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/15eed89e-a482-46b7-9d47-e9763be7bc32.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        }
+      ],
+      "companyName": "Hunter Valley Private Hospital",
+      "companyProfileStructuredDataId": 9317,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "9317",
+        "name": "Hunter Valley Private Hospital",
+        "companyId": "798343",
+        "companyUrl": "https://www.seek.com.au/companies/hunter-valley-private-hospital-798343"
+      },
+      "id": "90836376",
+      "isFeatured": false,
+      "listingDate": "2026-03-10T04:32:41Z",
+      "listingDateDisplay": "2d ago",
+      "locations": [
+        {
+          "label": "Newcastle, Newcastle, Maitland & Hunter NSW",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Newcastle NSW 2300"
+            },
+            {
+              "contextualName": "Newcastle, Maitland & Hunter NSW"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "",
+      "solMetadata": {
+        "searchRequestToken": "f0389226-fe97-431f-b0da-4038398fe6de",
+        "token": "0~f0389226-fe97-431f-b0da-4038398fe6de",
+        "jobId": "90836376",
+        "section": "MAIN",
+        "sectionRank": 99,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "Hunter Valley Private Hospital are seeking a Registered Nurse to join our established  Nursing team!",
+      "title": "Registered Nurse",
+      "tracking": "ewogICJ0b2tlbiI6ICJmNDkxMGVkMC0wY2U0LTRiZWItODc5ZC05NTQ5MDU0MTc5ZjJfMTkiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "advertiser": {
+        "id": "32288085",
+        "description": "Central Queensland Hospital and Health Service"
+      },
+      "bulletPoints": [
+        "Multiple Positions available | Permanent or Temporary | Full or Part Time",
+        "Public service benefits - 12.75% super, 17.5% leave loading, salary packaging",
+        "Enjoy a great work/life balance and flexible rostering"
+      ],
+      "branding": {
+        "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/6a02d174-8225-40e1-af11-faac860c3e77.1/jdpLogo"
+      },
+      "classifications": [
+        {
+          "classification": {
+            "id": "1211",
+            "description": "Healthcare & Medical"
+          },
+          "subclassification": {
+            "id": "6342",
+            "description": "Nursing - General Medical & Surgical"
+          }
+        },
+        {
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subclassification": {
+            "id": "1411",
+            "description": "Government - State"
+          }
+        }
+      ],
+      "companyName": "Central Queensland Hospital and Health Service",
+      "companyProfileStructuredDataId": 6367,
+      "displayStyle": {
+        "search": "sourcrProfile"
+      },
+      "displayType": "standard",
+      "employer": {
+        "id": "6367",
+        "name": "Central Queensland Hospital and Health Service",
+        "companyId": "609455",
+        "companyUrl": "https://www.seek.com.au/companies/central-queensland-hospital-and-health-service-609455"
+      },
+      "id": "90554461",
+      "isFeatured": false,
+      "listingDate": "2026-02-25T03:20:30Z",
+      "listingDateDisplay": "15d ago",
+      "locations": [
+        {
+          "label": "Rockhampton, Rockhampton & Capricorn Coast QLD",
+          "countryCode": "AU",
+          "seoHierarchy": [
+            {
+              "contextualName": "Rockhampton QLD 4700"
+            },
+            {
+              "contextualName": "Rockhampton & Capricorn Coast QLD"
+            }
+          ]
+        }
+      ],
+      "roleId": "registered-nurse",
+      "salaryLabel": "42.98 to 55.13 p.h. plus super and benefits",
+      "solMetadata": {
+        "searchRequestToken": "f0389226-fe97-431f-b0da-4038398fe6de",
+        "token": "0~f0389226-fe97-431f-b0da-4038398fe6de",
+        "jobId": "90554461",
+        "section": "MAIN",
+        "sectionRank": 100,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_841",
+          "mordor__s": "0"
+        }
+      },
+      "teaser": "If you are clinically sharp, adaptable, and thrive in a &#8220;new ward, new challenge&#8221; environment, this role could be right up your alley!",
+      "title": "Registered Nurses",
+      "tracking": "ewogICJ0b2tlbiI6ICJmNDkxMGVkMC0wY2U0LTRiZWItODc5ZC05NTQ5MDU0MTc5ZjJfMjAiCn0=",
+      "workTypes": [
+        "Full time"
+      ],
+      "workArrangements": {
+        "data": [
+          {
+            "id": "1",
+            "label": {
+              "text": "On-site"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "totalCount": 8432,
+  "info": {
+    "timeTaken": 148,
+    "source": "JobSearch-sm",
+    "experiment": "mordor_841",
+    "newSince": 1773303637
+  },
+  "userQueryId": "API7940469794707226218",
+  "location": {
+    "description": "All Australia",
+    "locationDescription": "",
+    "type": "Country",
+    "whereId": "3000",
+    "localisedDescriptions": {
+      "en": {
+        "contextualName": "All Australia"
+      },
+      "id": {
+        "contextualName": "Australia"
+      },
+      "th": {
+        "contextualName": "ออสเตรเลีย"
+      },
+      "zh-Hant": {
+        "contextualName": "澳洲"
+      }
+    },
+    "isGranular": false,
+    "defaultDistanceKms": 50
+  },
+  "sortModes": [
+    {
+      "isActive": true,
+      "name": "Relevance",
+      "value": "KeywordRelevance"
+    },
+    {
+      "isActive": false,
+      "name": "Date",
+      "value": "ListedDate"
+    }
+  ],
+  "solMetadata": {
+    "requestToken": "f0389226-fe97-431f-b0da-4038398fe6de",
+    "token": "0~f0389226-fe97-431f-b0da-4038398fe6de",
+    "keywords": "nurse",
+    "sortMode": "RELEVANCE",
+    "locations": [
+      "All Australia",
+      "seek-3000"
+    ],
+    "locationDistance": 50,
+    "pageSize": 20,
+    "pageNumber": 5,
+    "totalJobCount": 8432,
+    "tags": {
+      "mordor:searchMarket": "UNIFIED_AU",
+      "mordor:result_count_rst": "8218",
+      "mordor:result_count_vec": "10",
+      "mordor:rt": "140",
+      "mordor:count_vec": "10",
+      "mordor__flights": "mordor_841",
+      "mordor:count_rst": "8218",
+      "mordor:count_ir": "204",
+      "mordor:result_count_ir": "204"
+    }
+  },
+  "facets": {},
+  "searchParams": {
+    "sitekey": "AU-Main",
+    "sourcesystem": "houston",
+    "where": "All Australia",
+    "page": "5",
+    "seekselectallpages": "true",
+    "keywords": "nurse",
+    "include": "seodata",
+    "locale": "en-AU"
+  }
+}
