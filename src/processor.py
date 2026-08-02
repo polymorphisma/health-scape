@@ -112,6 +112,50 @@ def is_healthcare_title(title: str) -> bool:
     return any(kw in t for kw in HEALTHCARE_TITLE_KEYWORDS)
 
 
+# Indeed and Adzuna classify by search keyword and employer rather than by job
+# title, so a care-sector employer hiring a developer lands in the feed as a
+# care role: Red Hat SREs, SAP consultants, retail sales assistants, a Scentre
+# Group data scientist. Roughly 1.2% of those two platforms' output.
+#
+# This is a denylist rather than an allowlist by design. Healthcare employment
+# has a long ancillary tail (cleaners, cooks, laundry and food service staff at
+# aged care facilities) that recruiters do want. Running the allowlist above
+# across Indeed and Adzuna drops 38% of the run, most of it legitimate.
+NON_HEALTHCARE_TITLE_KEYWORDS = [
+    'software', 'developer', 'devops', 'site reliability', 'full stack',
+    'backend', 'frontend', 'cyber security', 'network security',
+    'data scientist', 'data engineer', 'solutions architect',
+    'principal engineer', 'engineering manager', 'structural engineer',
+    'civil engineer', 'mechanical engineer', 'electrical engineer',
+    'design assurance', 'erp ', 'salesforce', 'cloud engineer',
+    'technical account', 'it support', 'business development',
+    'partner development', 'account manager', 'sales consultant',
+    'sales assistant', 'sales representative', 'marketing', 'brand manager',
+    'prototyping engineer',
+]
+
+# Clinical roles the allowlist above does not name. A denylist hit is kept if
+# the title matches here or HEALTHCARE_TITLE_KEYWORDS, which is what saves
+# "Locum Podiatrist" from the 'sales' match elsewhere in its title.
+EXTRA_CLINICAL_KEYWORDS = [
+    'podiatr', 'paramedic', 'phlebotom', 'audiolog', 'chiroprac',
+    'osteopath', 'sonograp', 'therapist', 'support work',
+]
+
+
+def is_non_healthcare_title(title: str) -> bool:
+    """True if the title is clearly not a healthcare role.
+
+    Denylist match wins only when nothing clinical appears in the title.
+    """
+    t = str(title).lower()
+    if not any(kw in t for kw in NON_HEALTHCARE_TITLE_KEYWORDS):
+        return False
+    if is_healthcare_title(t):
+        return False
+    return not any(kw in t for kw in EXTRA_CLINICAL_KEYWORDS)
+
+
 class DataProcessor:
     def __init__(self, base_dir=".", days_window=7):
         self.base_dir = base_dir
@@ -481,6 +525,14 @@ class DataProcessor:
         # Normalise state casing — old WFA raw dumps may have 'UNKNOWN' (all-caps)
         df['State'] = df['State'].apply(
             lambda s: 'Unknown' if str(s).upper() == 'UNKNOWN' else str(s)
+        )
+
+        # 1b. Drop non-healthcare roles that keyword/employer classification let
+        # through. Runs before dedup so the counts below describe real jobs.
+        before = len(df)
+        df = df[~df['Job Title'].apply(is_non_healthcare_title)]
+        self.logger.info(
+            f"Non-healthcare title filter removed {before - len(df)}. {len(df)} remaining."
         )
 
         # 2. Primary deduplication — URL (strip tracking params only, keep ID params like jk=)
